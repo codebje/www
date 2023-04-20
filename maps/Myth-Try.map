@@ -1,0 +1,91 @@
+--- notes
+
+Jarl offers a quest in room 0
+
+--- map
+
+
+                            # - # ----- #
+                                |      /
+      # + # + #             # - # - # #
+          |                     |
+      # + # + #             # - # - #
+          |                     |
+      # + # + #             0 - # - #
+         /                      |
+        # + #       #           #
+            |       |           |
+    # - # - #   # - #   #       #           #
+    |               |   |       |           |
+    #               #   # - # - #           #
+    |               |   |                   |
+    # - #           # - #  Haon-Dor     #   #
+        |           | Haon- |   |       +   |
+        # - #       # Dor - # - # - # - # - #
+            |       |       |   |   |   |   |
+            # ----- #       # - # - # - # - #
+                    |       |   |   |   |   |
+                    #   # - # - # - # - # - #
+                    |   |   |   |   |   |   |
+                    # - #   # - # - # - # - #
+                            |
+                     Midgaard Highway
+
+--- loot
+
+You get a Black Opal ring from the corpse of Garckin.
+You get a huge candle with engraved runes from the corpse of Garckin.
+
+You get a jewel encrusted sword from the corpse of Quiglee.
+You get a pendant from the corpse of Quiglee.
+
+--- shops
+
+Truman:
+     ##   Available   Item                                               Cost
+    -------------------------------------------------------------------------
+      1)  Unlimited   A yellow doublet                                   1100
+      2)  Unlimited   Pointy slippers                                    1100
+      3)  Unlimited   A turban                                           1100
+
+Grover:
+     ##   Available   Item                                               Cost
+    -------------------------------------------------------------------------
+      1)  Unlimited   A tar covered stick                                  55
+      2)  Unlimited   A goat skin of water                                  5
+
+The Baker:
+     ##   Available   Item                                               Cost
+    -------------------------------------------------------------------------
+      1)  Unlimited   A meat sandwich                                      15
+      2)  Unlimited   A hard roll                                           8
+      3)  Unlimited   A gingerbread man                                     4
+
+Abdool:
+     ##   Available   Item                                               Cost
+    -------------------------------------------------------------------------
+      1)  Unlimited   A spicy oil                                       16500
+      2)  Unlimited   A green oil                                       16500
+      3)  Unlimited   A sparkling oil                                   16500
+
+      a spicy oil POTION (15: fly; !NO SPELL!; !NO SPELL!)
+      a green oil POTION (15: detect invisibility; !NO SPELL!; !NO SPELL!)
+      a sparkling oil POTION (15: regenerate; !NO SPELL!; !NO SPELL!)
+
+--- items
+
+Object 'a Black Opal ring', Item type: WAND
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 2, Value: 10000, Rent: 1000
+Spell lvl: 30 Max charges: 3 Charges left: 2 spell: fireball
+
+Object 'a pendant', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW !RENT MAGIC !EVIL !NEUTRAL !MINOTAUR IDENTIFIED
+Weight: 1, Value: 4500, Rent: 25
+Values not used for this item.
+Can affect you as :
+   Affects: ARMOR By -5
+   Affects: SPELL_SAVES By -5
+

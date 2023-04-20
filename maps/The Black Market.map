@@ -1,0 +1,164 @@
+--- notes
+
+Pop in via Midgaard or Haon-Dor.
+
+Vampire questmaster is here
+
+--- map
+
+                                #
+                               /|
+                              ☠ # - #           #   #   #
+                                |               |   |   |
+                                |   # - # - # - # - # - # - 0
+                                |   |       |   |   |   |
+                                # - # - #   #   #   |   #
+                                |           |       |
+                                |   #       |   # - # - #
+                                |   |       |       |
+                                # - # - # - # ----- #
+                                |       |           |
+                                #       #      #    # - #
+                                        ∘      *        |
+                                        #  # * # * #    |
+                                        *      |        |
+                                        1      #        |
+                                        |,-----'        |
+        The River                       #               #
+            |                           |               |
+            # - # - #           #   # - #               |
+            |   |               |   |         Raven     |
+        # - #   # - # ----- # - # - # - #     Wilderness|
+       /        |           |   |   |           |       |
+      #         # + #   # - # - # - # ----- # ∘ # - # - # - # - Haon-Dor (Dark)
+                |           |   |   |
+            # - # - # ----- # - # - # - #
+                |           |   |   |
+                |           |   #   |
+                |           #       #
+            #   # - # ∘ 2   |   #   |   #
+     The    |   |   |       |   |   |   +
+    Ebony - # - # - # ----- # - # - # - #
+    Queen       |           |           |
+                # - The     # - #       #
+                   Silver      /|
+                    Lady      # #
+                               /
+                              #
+
+--- loot
+
+A simple monk (variously):
+    a Kenpo Gi WORN dex 1 ac -6 dam 1 !mu!cl!th!wa!ra!as!sk!dk!sd!nm
+    a pair of leather strap sandals WORN dex 1 move 20 ac -4 dam 2 !mu!cl!th!wa!ra!as!sk!dk!nm
+    a pair of ippon sleeves WORN ac -3 dam 1 !mu!cl!th!wa!ra!as!sk!dk!sd!nm
+    Kamae pants WORN str 1 con 1 ac -5 !mu!cl!th!wa!ra!as!sk!dk!sd!nm
+    a Ki headband WORN mp 15 dam 2 !mu!cl!th!wa!ra!as!sk!dk!sd!nm
+    a black belt WORN str 2 hp 15 ac -4 !mu!cl!th!wa!ra!as!sk!dk!sd!nm
+
+A warrior monk:
+    a pair of kensei gauntlets WORN ac -4 dam 2 !mu!cl!th!wa!ra!as!sk!dk!sd!nm
+    a suit of kubotan armor WORN dex 1 hp 15 ac -12 !mu!cl!th!wa!ra!as!sk!dk!sd!nm
+
+Daria:
+    an amber bracelet ARMOR AC -8 wis 1
+    an old parchment SCROLL (15: armor; !NO SPELL!; !NO SPELL!)
+
+Aura (in 0):
+    the Second Dagger WEAPON pierce 4d7 dam 2 int -1 !th
+    a withering staff WAND (30: life drain 4/4) age 50
+    a bead necklace ARMOR AC -5 wis 2 age 3
+    an ordinary key (to unpickable door 2n of 1)
+
+The Trailrobber:
+    a stiletto WEAPON pierce 7d3 hp 10 hit 1 mag!g!wa
+    the Gatekey
+
+A traveller:
+    a walking stick STAFF (12: refresh 1/1) move 30 mag
+    an elven cloak ARMOR AC -6 mag
+
+Aloa (in 1):
+    an ordinary key KEY
+    a black and yellow emblem KEY
+
+Hammel:
+    a black and yellow emblem KEY
+
+Faligra:
+    a black and yellow emblem KEY
+
+Mahavy:
+    a black and yellow emblem KEY
+
+Jhovah:
+    a black and yellow emblem KEY
+
+The Wharfmaster:
+    a yellow cloak ARMOR AC -14 
+    a platinum sword WEAPON slash dam 1 hit -1 mag
+    a black and yellow emblem KEY
+
+Hye:
+    a long bow FIRE WEAPON (range 1 stun 3) !g!n!ma!cl!th!as!sl!sk!dk!sd!nm
+    a quiver of arrows MISSILE 20d1 x10 level 15
+
+Zephyr:
+    a leather armband ARMOR AC -2
+    a leather belt ARMOR AC -3
+    a leather collar ARMOR AC -2
+
+Stringer:
+    a blessed longsword WEAPON slash 3d4 hit 1
+    iron arm plates ARMOR AC -4
+    iron leg plates ARMOR AC -5
+
+Greybeard:
+    Dwarven chain mail ARMOR AC -6 hit 2 ac -1 !sl
+    a chain coif ARMOR AC -11 !sl
+    war boots ARMOR AC -10 move -17 dam 1 !sl
+    a broadaxe WEAPON bite 2d11 dam 2 !rent
+
+Inuit:
+    a large hammer WEAPON pound 4d4
+
+A Market Guard:
+    iron arm plates ARMOR AC -4 !sl
+    iron leg plates ARMOR AC -5 !sl
+    iron gauntlets ARMOR AC -4 !sl
+    a bastard sword WEAPON slash 2d7
+
+Mouse:
+    a black leather jacket ARMOR AC -5 !sl
+
+A Gypsy guard:
+    a curved longsword WEAPON slash 2d6
+
+The Gypsy leader:
+    a scimitar WEAPON slash 5d3 hit 1 dam 1 !e
+    a Gypsy scarf ARMOR AC -9 hp 16 wis 2
+
+The juggler:
+    a knife WEAPON pierce 2d4 hit 1
+
+The rugged sailor:
+    a sextant OTHER
+
+A pickpocket:
+    the First Dagger WEAPON crush F0 1d1 hit -10 dam 2 mag!cl
+
+L'orin (in 2):
+    a bottle of Jyx POTION (40: curse; curse; cure light)
+    a long black cloak ARMOR AC -9 dex 2 con 2 mag!g!n
+    the Third Dagger WEAPON pierce 4d6 dex -2 age 9 mag!wa
+
+A junkie:
+    a bottle of Jyx POTION (40: curse; curse; cure light)
+
+The Captain:
+    a saber WEAPON slash F0 2d7 hit 1
+
+Wren:
+    a Cloak of the Orchid ARMOR AC -7 mp 18 int 2 mag!th
+    the Spirit Hammer WEAPON crush 9d2 hit 1 dam 1 mag!e!th
+

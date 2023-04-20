@@ -1,0 +1,64 @@
+--- notes
+
+Entrance from The Rift. Requires key from Djarla.
+
+--- map
+
+                              ?
+                              # ?
+                              |
+                # - # - #     #
+                |   |   |     |
+                # - # - # #   # -
+               /          *   |
+              # - # ----- # - #
+              |   |          /|
+      ☠ - # - #
+              |
+              # -
+              |     ?
+              | # - # - # ∘ 3 -
+              |/        ∘   |
+            ∘ #             |   # +
+              |             |   +
+                        #   # + # + 2
+                        +   |   ∘
+                        # - #   #
+                        |   |
+                    #   1   0 -
+                    +       |
+                # ∘ # ----- #
+
+--- loot
+
+An ettin guard (in 0):
+    a black metal morning star WEAPON thrash F0 1d35 mag
+    a ring of keys OTHER
+
+The Matron (in 1):
+    <worn on legs>       bloodsoaked leggings ARMOR AC -11 dex 2 !g!sl
+    <wielded>            a carving knife WEAPON stab F0 10d3 mag!mu!cl!sl!nm
+
+Obmi (in 2):
+    <worn on body>       a rustic chain mail vest
+    <worn on hands>      Crushing Blows
+    <wielded>            a dwarven war hammer
+    <held>               a blackened steel axe
+                         obmi's chest key (to room w/s of 2)
+
+A stone giant (in 3):
+    a bronze skeleton key (to wooden in 3)
+
+Flexo gets Claws of the Chimera from the corpse of the Chimera.
+
+Object 'Claws of the Chimera', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM INVISIBLE MAGIC !THIEF !WARRIOR !RANGER !ASSASSIN !SHOU_LIN !SOLAMN_KN !DEATH_KN !SHAD_DANC IDENTIFIED
+Weight: 2, Value: 471721, Rent: 380
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By 2
+   Affects: SPELL_DAMAGE By 20
+   Affects: MAXMANA By 25
+
+

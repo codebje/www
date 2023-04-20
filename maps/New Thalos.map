@@ -1,0 +1,289 @@
+--- notes
+
+Duplicate mob names:
+    A guard stands here, ensuring the peace.            the sultans guard
+    A guard stands here, guarding the gate.             the sultans guard
+    A grubby beggar sits here in the filth.             a beggar
+    A beggar rests here.                                a beggar                A small skinny man rests here staring at your clothes.
+    A beggar rests here.                                a beggar                A small skinny man rests here hoping to find a warm heart.
+
+--- map
+
+                #   #   #   #
+             x  ∘   ∘   ∘   ∘
+            D + # - # - # - # + #
+                ∘   ∘   ∘   ∘
+                #   #   #   #
+
+
+                 x
+                U
+                |
+                #
+                |    x
+        C > Y - # - V
+                    |
+                    #
+                    |
+                    #                                         X
+                    |x                                       ⩘
+                    W - # - # - # - # - # - # > # - F - # - #
+                                   /
+                        Lair of the Aspis
+
+                                                  The Mile-High Bridge
+                                                            |
+                                          #                 #                         #
+                                         /                  +                        /
+                                        # - # - # - # - # - # - # - # - # - # - # - #
+                                        |   |   |           |           |           |
+                                        #   #   #           |           |       # - #
+                                                |           |           |           |
+                                                #           |           |       # - #
+                                            #  x            |           |
+                                           x| U             |           |
+                                # > #   # D |   0           |       # - # - #
+                                |   |   |   |   |           |           |
+                                1 - # - # - # - #   #       #     # k - # - #
+                                |           |       |       |    /      |
+                                #   # - # - # - # - # - # - # - #   j - # - #
+                                |           |       |       |   |       |   |
+                                # - # - # - # - #   #       |   #       # - 2
+                                |   |   |   |   +           |           |
+                                #   #   #   # - #           |           |
+                                                            |           |
+                                        #   #               |           |
+                                        |   |               |           |
+                                        # - 3 - #           |           |
+                                        |   |               |           |
+                                        #   A A             |           |         i
+                                        |  /|/              |           |        /
+                                        # B B   # - #   g   #   a       |       # - #
+                                       x    |   |  x    |   |   |       |       +   |
+                                      C +   |   # V # - # - # - # - b   #   h   #   #
+                           The              |   |       |   |   |       |   |   |   |
+                        Mile-High - # - # - # - # - # - # - # - # - # - # - # - # - # + # - # - # - # - The Great
+                          Bridge        |   |   |       |   |   |       |   |           |             Eastern Desert
+                                        #   #   #   f - # - # - # - c   #   # --+-- #   X
+                                        |       |       |   |   |       |           |
+                                        l - #   # - #   e   #   d   n - # - # - o   #
+                                                   x        |  ∘            |      /
+                                            # - # W m - !   #   #   # - #   #   p E #   E
+                                            |   |   |       |   |   |       |   |   |   + (one way south)
+                                            # - # - # - # - # - # - # - # - # - # - #   F
+                                                    |       |
+        #                                           #       #
+        |                                           |      /|
+        #                                           |     ' #
+        |                                           |     | +
+        #                                           |     , #
+        |                                           |    /
+        # - # - # - # - # - # - # - # - # - # - # - # - # - ⌘ --------- #
+        |                                                   |          x
+        #                                               The land    Clan zone
+        |                                               of trolls
+        #
+        |
+        #
+        |
+        # - Drekken Noir
+
+--- loot
+
+A statue of Allah (in 0):
+    Allah's Blessing LIGHT mp 25 dam 2 mag!e!mu!th!wa!ra!as!sl!sk!dk!sd!nm
+
+The Sultan (in 1);
+    the Sultan's Turban ARMOR AC -8 dam 3 !g!e!sl
+
+The statue of Habib (in 2):
+    a horn dagger WEAPON pierce F0 7d4 mp 10 dam 1 mag!cl
+The statue of Hakeem (in 2):
+    a desert cloak ARMOR AC -8 dam 1 mag!mu!sd!nm
+The statue of Jebbal (in 2):
+    an ivory dagger WEAPON pierce F0 5d4 hit 2 mag!cl
+The statue of Liza (in 2);
+    Holy robe of Allah ARMOR AC -5 mp 20 dam 1 mag!e!mu!th!wa!ra!as!sl!dk!sd!nm!dem!und
+
+The statue of Khalid (n of 2):
+    a massive tulwar WEAPON slash F0 8d4 hit 1 dam 2 mag!e!mu!cl!th!as!sl!dk!sd!nm
+The statue of Arsilon (n of 2):
+    Necklace of power ARMOR AC -8 mp 20 int 2 mag!cl!th!wa!ra!as!sl!sk!dk
+The statue of Abdallah (n of 2):
+    Abdallah's silver shield ARMOR AC -10 hit 1 dam 1 mag!e!mu!th!as!sl!sd!nm!wer
+The statue of Ezra (n of 2):
+    Holy symbol of Allah ARMOR AC -8 mp 20 wis 2 mag!e!n!mu!th!wa!ra!as!sl!dk!sd!nm!dem!und
+
+Aziz (in 3):
+    the mace of Aziz WEAPON crush F0 10d3 mp 15 dam 1 !e!n!mu!th!as!sl!sd!nm
+
+The High Priest of Allah (nw of 3):
+    a ring of Allah ARMOR AC -3 mp 20 dam 2 mag!e!mu!th!wa!ra!as!sl!sk!dk!sd!nm
+
+The house guard captain (wandering underground):
+    the palace key of New Thalos KEY
+    a silver tulwar WEAPON slash F0 3d11 dam 2 mag!mu!cl!th!as!sl!sd!nm!wer
+
+A palace guard:
+    an ivory-hilted scimitar WEAPON slash F0 12d2 !mu!cl!sl!sd!nm
+
+The palace guard captain:
+    an ivory hilted falchion WEAPON slash F0 14d2 dam 2 mag!mu!cl!th!as!sl!sd!nm
+
+Texarr:
+    the Blood Sword WEAPON slash F0 8d4 dam 2 str 1 hp 8 !mu!cl!th!as!sl!sd!nm
+
+Fatima:
+    a bracelet of conjuring ARMOR AC -3 mp 15 mag!cl!th!wa!ra!as!sl!sk!dk
+
+Mustafah (wandering, hidden, trackable):
+    a cloak of thieving CONTAINER ac -5 move 10 mag!mu!cl!wa!ra!as!sl!sk!dk!sd!nm
+
+A Minstrel:
+    a zither STAFF (20: sleep 2/2)
+
+A construction worker:
+    a sledge hammer WEAPON pound F0 1d10
+
+A knight of Allah:
+    a scimitar WEAPON slash F0 11d2 !mu!cl!sl!sd!nm
+
+Kadeem:
+    a heavy broadsword WEAPON slash F0 10d3 hit 1 dam 1 mag!mu!cl!th!as!sl!sd!nm
+
+--- shops
+
+Vera the veggie lady (in a):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   Some dates                                            1
+  2)  Unlimited   A fig                                                 2
+  3)  Unlimited   A tomato                                              3
+  4)  Unlimited   A carrot                                              3
+
+The butcher (in b):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A whole chicken                                      36
+  2)  Unlimited   A side of beef                                      120
+  3)  Unlimited   A leg of lamb                                        12
+
+The armorer (in c):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A suit of splintmail                                840
+  2)  Unlimited   A suit of ringmail                                  240
+  3)  Unlimited   A suit of field plate                             12000
+  4)  Unlimited   A suit of brigandine                                720
+  5)  Unlimited   A suit of banded mail                               900
+
+The weaponsmith (in d):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A quiver of nickel arrows                           480
+  2)  Unlimited   A mithril bow                                      1250
+  3)  Unlimited   A slashing dagger                                  3600
+  4)  Unlimited   A bec de corbin                                    6600
+  5)  Unlimited   A bardiche                                         6600
+  6)  Unlimited   A khopesh                                          6000
+  7)  Unlimited   A morningstar                                      4800
+
+The baker (in e):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   Some nuts                                             2
+  2)  Unlimited   Some iron rations                                    24
+  3)  Unlimited   Some dry rations                                     18
+  4)  Unlimited   A piece of bread                                     12
+  5)  Unlimited   A hunk of cheese                                      6
+
+The shopkeeper (in f):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A belt pouch                                         12
+  2)  Unlimited   A basket                                              6
+  3)  Unlimited   A backpack                                           30
+  4)  Unlimited   An oil lamp                                          18
+  5)  Unlimited   A sack                                               12
+
+The mage (in g):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A white wand                                      22800
+  2)  Unlimited   A wand of oak                                     12000
+  3)  Unlimited   A wand of glinting yellow                         36000
+  4)  Unlimited   A grey-silver wand                                24000
+  5)  Unlimited   A New Thalian scroll of recall                     4200
+
+The Alchemist (in h):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A dark blue potion                                13500
+  2)  Unlimited   An off white potion                               15000
+  3)  Unlimited   A foamy, clear potion                             52500
+  4)  Unlimited   A deep-green potion                               22500
+  5)  Unlimited   A glowing blue vial                               15000
+
+The mage shopkeeper (in i):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A mage's belt                                     15000
+  2)  Unlimited   Mage's slippers                                   15000
+  3)  Unlimited   A mage's staff                                    15000
+  4)  Unlimited   A mage's hood                                     15000
+  5)  Unlimited   A mage's robe                                     15000
+
+The master tanner (in j):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A pair of padded leather boots                      300
+  2)  Unlimited   A pair of leather gloves                            225
+  3)  Unlimited   A pair of leather shin guards                       300
+  4)  Unlimited   A leather helmet                                    300
+  5)  Unlimited   A pair of hardened leather bracers                  300
+
+The master weaver (in k):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A fine vest                                         240
+  2)  Unlimited   A fine cloak                                        240
+  3)  Unlimited   A fine turban                                       240
+  4)  Unlimited   A fine desert robe                                  360
+  5)  Unlimited   A belt                                              120
+
+The warrior shopkeeper (in l):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A pair of armored boots                           15000
+  2)  Unlimited   Armored gauntlets                                 15000
+  3)  Unlimited   A round metal shield                              15000
+  4)  Unlimited   A pointed metal helm                              15000
+
+The shipwright (in m):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A small barge                                       600
+  2)  Unlimited   A rowboat                                           480
+  3)  Unlimited   A canoe                                             240
+  4)  Unlimited   A raft                                              120
+
+Stitch, the leader dude (in n):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A pair of studded leather gloves                    240
+  2)  Unlimited   A pair of studded leather pants                     360
+  3)  Unlimited   A pair of studded leather sleeves                   300
+  4)  Unlimited   Studded leather armor                               360
+
+Patch the bartender (in o):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A shot of whisky                                     12
+  2)  Unlimited   A barrel of beer of beer                            105
+  3)  Unlimited   A flaming scorpion of firebreather                   15
+
+Cassandra (in p):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A mussel                                              2
+  2)  Unlimited   A salted herring                                      3

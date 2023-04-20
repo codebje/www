@@ -1,0 +1,591 @@
+Zone: Knights of Krynn
+Description: low level adventuring and gear
+
+--- notes
+
+### Notable mobs
+
+  - 1 - Halbleib (a small glass ring, a crimson belt with pouches)
+  - 2 - Graeme (a black dagger, a shirt of soft black leather)
+  - 3 - Saekow (Shield of Strength, Black Bladed "Thorn")
+  - 4 - Skyla (a necklace of prayer beads, a Red Onyx Bracelet)
+  - 5 - Bonin (Amulet of the god Telva, a Sapphire Bracelet, a flaming mace)
+  - 6 - Vrignaud (a Redwood Staff)
+  - 7 - Aeghwaet (a titanium blade, a Pair of Mithril Arm Plates, Mithril Gauntlets)
+  - 8 - iron statue x2 (gate key)
+  - 9 - Karda (a Unholy Symbol of Alerr)
+  - a - Elomin (a shirt of dark crimson leather)
+  - b - Stephan (Titanium Boots)
+  - c - Nogri (a small pearl earring)
+  - d - an evil mage (a stone ring, Black Robe)
+  - e - a secretary (a low cut sweater)
+  - f - a mayor (a food-stained tie)
+  - g - a priest(ess) of paladine (a white hooded cloak, Iron Key)
+  - h - a barbed devil (a devil's tail, a devil's ribcage)
+  - i - a corpse (a Red Onyx Bracelet, a Red Onyx Ring, a Blue Key to j)
+  - j - a Small Chest (the Arm Plates of the Gods, a Purple Key to k)
+  - k - a Small Chest (an Amethyst Belt, a Rasberry Colored Key to l)
+  - l - a skeletal corpse (a shimmering robe, a WHite Key to m)
+  - m - a dying man (a black rose tattoo, a Bronze Key to n)
+  - n - a Small Chest (...?, a Silver Key)
+
+### General notes
+
+  - mobs are aggressive north of gate, see invis and stealth, and hit moderately hard
+  - Iron Key unlocks door to Galoe
+  - An ettercap has the Red Key to i
+  - Silver Key (a spectre) for Double in graveyard; Gold Key (an evil Ghast) for door beyond that
+  - Ancient Key (evil zombie?) to 3
+  - Bloody Key (?) to se of 5
+  - Titanium Key (a spectre) to 4
+  - Blackened Key (a spectre) to ?
+  - Stone Key (a spectre) to last door before double
+
+--- map
+
+
+                                                                                                  ∘
+                                                                                                  #
+                                                                                                  +
+                                                                            B                     #
+                                                                           /|                     +
+                                                                        # + # + #             # + 1 + #
+                                                                            |                     +
+                                                                        # + # + #   #       #     #
+                                                                            |       +       +    /
+                                                                            # ----- # - # - # - #
+                                                                                    +   +
+                                                                                    #   #
+
+                                                                            X (one way in)
+                                                                            ∘
+                                                                            #
+                                                                            |
+                                                                        # - # - #
+                                                                        |       |
+                                                                        # - # - #
+                                                                            |
+                                                                            #
+                                                                            ∘
+                                                                            #
+                                                                            ∘
+                                                                            #
+                                                                            |
+                                                                            #
+                                                                            |
+                                                                            #
+                                                                            |
+                                                                            #
+                                                                            |
+                                                                            # - # ∘ #
+                                                                                |
+                                                            #               #   #
+                                                            |               |   |
+                                                            # ∘ # - # - # - 5   #
+                                                                    |       |   |
+                                                                    #       # - # #
+                                                                    |           ∘/
+                                                                    #           #
+                                                                    |
+                                                            # ∘ 3 - # - # - 4 ∘ # - #
+                                                            |       |
+                                                            #       #
+                                                                    ∘
+                                                                    #
+                                                                    |
+                                                                # - #
+                                                                |
+                                                                #
+                                                                |
+                                                            # - #
+                                                            |
+                                                            #
+                                                            |
+                                                            #
+                                                            |
+                                                            #
+                                                            |
+                                                            # - #
+                                                                |
+                                                                #
+                                                                |
+                                                                # - # - #
+                                                                |       |
+                                                            ☠ - #       #
+                                                                |       |
+                                                                #       # - 2
+                                                                |
+                                                                #             B
+                                                                |            /
+                                                                #           #
+                                                                ∘           |
+                                        h                       #   #   # + # + #   # - # - #
+                                        |                       |   |       |       |   |   |
+                                    # - #                   # - # ∘ # ----- # --+-- # - # - 0
+                                    |   |                       |   |       |       |   |   |
+                                    # - #                       #   #   # + # + #   # - # - #
+                                    |                           |           |
+                                    #                       # - # - # - @   #
+                                    |                       |               |
+                                    # - #                   #               #
+                                        |                   |               |
+                                        # - # - # - # - # - #               #
+                                            |
+                                            #
+                                            +
+                                    g - g - # - #
+                                            |
+                                        # - # - #
+                                            |
+                                  f #   d   #   #
+                                 /  |   |   |   |
+                                e - # - # - # - # *
+                                    |   |   |   |
+                                    #   #   #   #
+                                            +
+                                            #
+                                            |
+                                        # - #       #
+                                        |           |
+                                        # - # - # - # - #
+                                        |           |
+                                        # - #       #
+                                            |
+                                            #   A - # - # - # - Thieves' Den
+                                            |  /    |
+                                            # - # - #
+
+
+                            c + # + b
+                                |
+                            a + # + 9
+                                |
+        # - # - # - # - # - # - # - # - # - # - # - # - #
+        |       |       |       |       |       |       |
+        #   i ∘ #       #       #       #       #       #
+        |       |       |       |       |       |       |
+        # - # - # - # - # - # - # - # - # - # - # - # - #
+        |       |       |       |       |       |       |
+        #       #       #       #       #   o   #       #
+        |       |       |       |       |   ∘   |       |
+        # - # - # - # - # - # - # - # - # - # - # - # - #
+        |       |       |       |       |       |       |
+        #       # ∘ j   #       #       #       #       #
+        |       |       |       |       |       |       |
+        # - # - # - # - # - # - # - # - # - # - # - # - #
+        |       |       |       |       |       |       |
+        #       #       #       #       # * n   #       #
+        |       |       |       |       |       |       |
+        # - # - # - # - # - # - # - # - # - # - # - # - #
+        |       |       |       |       |       |       |
+        #   k   #       #   l   #       #       #       #
+        |   ∘   |       |   ∘   |       |       |       |
+        # - # - # - # - # - # - # - # - # - # - # - # - #
+        |       |       |       |       |   ∘   |       |
+        #       #       #       #       #   m   #       #
+        |       |       |       |       |       |       |
+        # - # - # - # - # - # - # - # - # - # - # - # - #
+                                *
+                            # - 8 - #
+                                |
+                                |
+                                |   #   5
+                                |   +   +
+                            # + # + # - # + 7
+                                |   +   +
+                                |   #   6
+                                |
+                                |
+                            # + # + #
+                #               |
+                +               |
+            # + # + #   #   #   |   #       #           A -
+                |       +   +   |   +       +          /
+            # + # ----- # - # + # + # ----- # + #     #
+                +       +   +   |   +       |        /
+                #           #   |   #   # + # + #   # - #
+                                #           +          /
+                        4       |   1       #         #
+                        +       |   +                /
+                        # - # - # - # - #   # ----- #
+                            +   |       +  /
+                            3   |       2 #
+                                |        /
+                                |       #
+                                |      /
+                                |     #
+                                |    /
+                                |   #
+                                |  /
+                                | #
+                                |/
+                                #
+
+--- loot
+
+Galoe (in 0):
+    Skull Headed Key KEY (to Secret 2n of 1)
+
+Wret (in 1): Minor highlord's armor ARMOR AC -6 dam 1 str 1 mag!g!sl
+    a helm shaped like a dragon's head ARMOR AC -4 dam 1 hp 5 mag!g!sl
+    a black halberd WEAPON slash F0 4d4 dam 2 mag
+    Gate Key KEY (to gate outside Galoe's manor)
+
+A White Dragon (in 2):
+    Jewelled Key KEY (to gate at end of mountain trail)
+
+A spectre (in 3):
+    Blackened key KEY (to door all w from 5)
+
+A spectre (in 4):
+    Titanium key KEY (to door in 4)
+
+A spectre (in 5):
+    Silver Key KEY (to door northern end of cemetery)
+
+A spectre (s of 5):
+    Stone Key KEY (to door se3n from 5)
+
+Plawev (wandering cemetery):
+    Bloody Key KEY
+
+--- items
+
+Object 'a Pair of Mithril Arm Plates', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !MAGE !CLERIC !THIEF !ASSASSIN !SHOU_LIN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 10, Value: 400, Rent: 115
+AC apply: 5
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: DEX By 1
+
+Object 'Mithril Gauntlets', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !MAGE !CLERIC !THIEF !ASSASSIN !SHOU_LIN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 9, Value: 300, Rent: 85
+AC apply: 5
+Can affect you as :
+   Affects: STR By 1
+   Affects: DEX By 1
+
+Object 'a small pearl earring', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !WARRIOR IDENTIFIED
+Weight: 1, Value: 300, Rent: 90
+Values not used for this item.
+Can affect you as :
+   Affects: MAXMANA By 5
+   Affects: HITROLL By 1
+   Affects: INT By 1
+
+Object 'Titanium Boots', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !MAGE !CLERIC !THIEF !SELL !ASSASSIN !SHOU_LIN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 5, Value: 500, Rent: 210
+AC apply: 4
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DEX By 2
+   Affects: DAMROLL By 1
+
+Object 'a shirt of dark crimson leather', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !WARRIOR !SHOU_LIN !SOLAMN_KN !DEATH_KN IDENTIFIED
+Weight: 4, Value: 500, Rent: 235
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: MAXHIT By 15
+   Affects: ARMOR By -5
+
+Object 'a Unholy Symbol of Alerr', Item type: ARMOR (neck)
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC IDENTIFIED
+Weight: 3, Value: 600, Rent: 165
+AC apply: 5
+Can affect you as :
+   Affects: SKILL_SUCCESS By 5
+   Affects: MAXMANA By 20
+
+Object 'a Pair of Mithril Arm Plates', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !MAGE !CLERIC !THIEF !ASSASSIN !SHOU_LIN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 10, Value: 400, Rent: 115
+AC apply: 5
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: DEX By 1
+
+Object 'Mithril Gauntlets', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !MAGE !CLERIC !THIEF !ASSASSIN !SHOU_LIN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 9, Value: 300, Rent: 85
+AC apply: 5
+Can affect you as :
+   Affects: STR By 1
+   Affects: DEX By 1
+
+Object 'a Titanium Blade', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 10, Value: 1000, Rent: 190
+Forge level: 0 No. dice: 3 Dice size: 4 Type: slash
+Can affect you as :
+   Affects: DAMROLL By 2
+
+Object 'a glowing lantern', Item type: LIGHT
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 1, Value: 200, Rent: 300
+Duration: 300 hours
+
+Object 'a Mithril Blade', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC IDENTIFIED
+Weight: 10, Value: 500, Rent: 150
+Forge level: 0 No. dice: 4 Dice size: 4 Type: slash
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: INT By 1
+
+Object 'a small glass ring', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !THIEF !WARRIOR IDENTIFIED
+Weight: 2, Value: 350, Rent: 105
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: MAXMANA By 5
+   Affects: ARMOR By -5
+
+Object 'a black dagger', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !MAGE !CLERIC !WARRIOR !RANGER !SHOU_LIN !SOLAMN_KN !DEATH_KN !NECRO IDENTIFIED
+Weight: 5, Value: 500, Rent: 90
+Forge level: 0 No. dice: 4 Dice size: 4 Type: pierce
+Can affect you as :
+   Affects: DEX By 1
+
+Object 'a shirt of soft black leather', Item type: ARMOR (on body)
+Item will give you following abilities:  NOBITS
+Item is: !MAGE !CLERIC !WARRIOR !SHOU_LIN !SOLAMN_KN !DEATH_KN !NECRO IDENTIFIED
+Weight: 3, Value: 400, Rent: 155
+AC apply: 5
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: DEX By 1
+   Affects: HITROLL By 1
+
+Object 'Black Bladed "Thorn"', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC IDENTIFIED
+Weight: 10, Value: 4000, Rent: 220
+Forge level: 0 No. dice: 4 Dice size: 4 Type: pierce
+Can affect you as :
+   Affects: DAMROLL By 2
+
+Object 'Shield of Strength', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW IDENTIFIED
+Weight: 10, Value: 1000, Rent: 350
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By 2
+   Affects: STR By 2
+   Affects: ARMOR By -10
+
+Object 'a Red Onyx Bracelet', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC IDENTIFIED
+Weight: 2, Value: 500, Rent: 180
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By 2
+   Affects: ARMOR By -4
+
+Object 'a necklace of prayer beads', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !WARRIOR !RANGER !ASSASSIN !SOLAMN_KN !DEATH_KN !SHAD_DANC IDENTIFIED
+Weight: 2, Value: 600, Rent: 95
+AC apply: 5
+Can affect you as :
+   Affects: MAXMANA By 10
+   Affects: CHA By 1
+
+Object 'Amulet of the god Telva', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: HUM MAGIC !EVIL !WARRIOR !ASSASSIN !DEATH_KN IDENTIFIED
+Weight: 5, Value: 1000, Rent: 105
+AC apply: 5
+Can affect you as :
+   Affects: MAXMANA By 5
+   Affects: WIS By 1
+   Affects: INT By 1
+
+Object 'a Sapphire Bracelet', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !WARRIOR IDENTIFIED
+Weight: 6, Value: 1000, Rent: 85
+AC apply: 5
+Can affect you as :
+   Affects: INT By 1
+   Affects: CON By 1
+
+Object 'a flaming mace', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !GOOD !MAGE !SELL !NECRO IDENTIFIED
+Weight: 7, Value: 1000, Rent: 220
+Forge level: 0 No. dice: 4 Dice size: 4 Type: crush
+Can affect you as :
+   Affects: MAXMANA By 15
+   Affects: INT By 1
+   Affects: HITROLL By 1
+
+Object 'a Redwood Staff', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !THIEF !WARRIOR !ASSASSIN !SOLAMN_KN !DEATH_KN IDENTIFIED
+Weight: 10, Value: 1000, Rent: 130
+Forge level: 0 No. dice: 4 Dice size: 4 Type: bludgeon
+Can affect you as :
+   Affects: DEX By 1
+   Affects: MAXMANA By 10
+
+Object 'a low cut sweater', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC IDENTIFIED
+Weight: 5, Value: 100, Rent: 190
+Values not used for this item.
+Can affect you as :
+   Affects: CHA By 3
+
+Object 'Black Robe', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC CURSED !GOOD !NEUTRAL !THIEF !WARRIOR !RANGER !ASSASSIN !SHOU_LIN !SOLAMN_KN !DEATH_KN IDENTIFIED
+Weight: 10, Value: 400, Rent: 110
+AC apply: 6
+Can affect you as :
+   Affects: MAXMANA By 10
+   Affects: INT By 1
+
+Object 'a food stained tie', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: CURSED IDENTIFIED
+Weight: 3, Value: 10, Rent: 5820
+Values not used for this item.
+Can affect you as :
+   Affects: MAXHIT By -100
+
+Object 'a stone ring', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC CURSED !GOOD !NEUTRAL !THIEF !WARRIOR !RANGER !ASSASSIN !SHOU_LIN !SOLAMN_KN IDENTIFIED
+Weight: 3, Value: 200, Rent: 65
+AC apply: 5
+Can affect you as :
+   Affects: MAXMANA By 10
+
+Object 'a devil's ribcage', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !GOOD !NEUTRAL !MAGE !CLERIC !SHOU_LIN !NECRO IDENTIFIED
+Weight: 12, Value: 100, Rent: 105
+AC apply: 5
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: MAXHIT By 5
+
+Object 'a devil's tail', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !GOOD !MAGE !CLERIC !NECRO IDENTIFIED
+Weight: 15, Value: 300, Rent: 390
+Forge level: 0 No. dice: 4 Dice size: 3 Type: whip
+Can affect you as :
+   Affects: HITROLL By 4
+
+Object 'a white hooded cloak', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !EVIL !NEUTRAL !THIEF !WARRIOR !RANGER !ASSASSIN !DEATH_KN IDENTIFIED
+Weight: 7, Value: 100, Rent: 43
+AC apply: 3
+Can affect you as :
+   Affects: MAXMANA By 7
+
+Object 'a crimson belt with pouches', Item type: CONTAINER
+Item will give you following abilities:  NOBITS
+Item is: GLOW INVISIBLE MAGIC !THIEF !WARRIOR !SHOU_LIN !SOLAMN_KN IDENTIFIED
+Weight: 5, Value: 200, Rent: 390
+Capacity: 200lbs Flags: CLOSEABLE  Key: No Key Is corpse? No
+Can affect you as :
+   Affects: MAXMANA By 15
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 1
+
+Chests:
+    a small pearl earring WORN mp 5 hit 1 int 1 mag!wa
+    a black orb LIGHT dam 2 str 2 hit 2 mag
+    a black rose tattoo WORN dam 1 hit 1 mp 20 mag
+    an Amethyst Belt WORN con 2 dam 2 ac -3 mag
+    a Red Onyx Bracelet WORN dam 2 ac -4 mag
+    a Red Onyx Ring WORN hit 1 hp 15 int 1 mag
+    a pair of shadowy slippers ARMOR AC -6 dam 2 int 2 mp 15 mag!wa!sl!sk!dk
+    the Arm Plates of the Gods ARMOR AC -5 dam 2 hp 15 age 5 mag!sl
+
+A brass dragon:
+    a cloak made from a brass dragon's hide ARMOR AC -10 dam 2 mag
+
+A gold dragon:
+    Breast plate made from gold dragon hide ARMOR AC -15 dam 2 mag!sl
+
+A silver dragon:
+    the soul of a silver dragon ARMOR AC -0 dam 2 str 1 hit 1 mag
+
+A copper dragon:
+    a helm made from a copper dragon's hide ARMOR AC -10 dam 2 mag!sl
+
+Black Robe ARMOR AC -6 mp 10 int 1 mag!g!n!th!wa!ra!as!sl!sk!dk
+a stone ring ARMOR AC -5 mp 10 mag!g!n!th!wa!ra!as!sl!sk
+
+Wret:
+    a black halberd WEAPON slash F0 4d4 dam 2 mag
+    a helm shaped like a dragon's head ARMOR AC -4 dam 1 hp 5 mag!g!sl
+    Minor highlord's armor ARMOR AC -6 dam 1 str 1 mag!g!sl
+    Gate Key KEY
+
+A kender:
+    a hoopak WEAPON whip F0 3d5 dam 1 mag
+
+A gnome:
+    a protractor ARMOR AC -4 mag!sl
+
+Sartuil:
+    Boots of Darkness ARMOR AC -12 dam 2 str 1 mag!g!n!sl
+
+An elf:
+    an elven longbow WEAPON pound F0 5d5 dam 1 !mu!cl!nm
+
+A dwarf:
+    a Mithril Axe WEAPON bludgeon F0 4d5 dam 1 !mu!cl!nm
+
+A warrior:
+    a pitchfork WEAPON slash F0 5d5 dam 1 !mu!cl!nm
+
+A knight of solamnia:
+    a mithril longsword WEAPON slash F0 5d5 dam 2 !mu!cl!nm
+
+Huma:
+    Wyrmsbane WEAPON blast F0 5d5 str 1 hit 2 mag!mu!cl!th!as!sl!sd!nm
+    Shield of Huma ARMOR AC -10 dam 2 !e!n!sl
+    a Pair of Solamnic Arm Plates ARMOR AC -10 dam 1 !e!n!mu!cl!th!as!sl!dk!sd!nm
+    Solamnic Gauntlets ARMOR AC -10 str 2 dam 1 !e!n!mu!cl!th!as!sl!dk!sd!nm
+    Boots of Blue Steel ARMOR AC -10 dam 1 !e!n!sl
+    a Pair of Solamnic Leg Plates ARMOR AC -10 dam 1 str 1 !e!n!mu!cl!th!as!sl!dk!sd!nm
+    a Great Solamnic Helm ARMOR AC -10 dam 1 str 2 !e!n!mu!cl!th!as!sl!dk!sd!nm
+
+You get a Solamnic Breast Plate from the corpse of Huma.
+
+a large Demon:
+    Demons Finger KEY
+
+Maybe from here:
+    a dark minotaur shield ARMOR AC -7 con 2 dam 2 mag!mu!cl!th!as!sl!sd!nm
+    Scale mail ARMOR AC -10 dam 1 str 1 mag!mu!sl!nm
+    a shimmering robe CONTAINER dam 2 str 2 ac -5 mag

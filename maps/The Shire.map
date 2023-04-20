@@ -1,0 +1,41 @@
+--- map
+
+                                    # - # - #
+                                    |   |
+                                    #   # - # - The Tunnel Maze
+                            Northern|   |
+                           Mountains#   #
+                             ⩘      |   |
+                            #       #   #
+                 /         /|       |   |
+                #      Clan #       #   #                   # - #
+                |      Zone |       |   |                   |   |
+            # - #           #       #   #                   #   #
+                |           |       |   |                   |   |
+            # - # - #       #       #   #                   #   #
+     /          |    /      |       |   |                   |   |
+    # - # - # - # - # - # - # - C - #   #              Fairhaven|
+                                        |                       |
+                          Crossroads    |  The Tunnel Maze      |
+                         ⩘              |   |           |       |
+                    C < # - # - # - A - # - B > # - # - # - # - # > A
+                                                ∨
+                                                B
+
+--- loot
+
+--- shops
+
+The shopkeeper:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A Blue potion of regen                            14400
+  2)  Unlimited   A bubbling potion of fly                          14400
+  3)  Unlimited   A swirling cyan potion of detect invis            14400
+  4)  Unlimited   A lantern                                            60
+  5)  Unlimited   A bag                                                60
+
+The grocer:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A pipeweed bread                                     14

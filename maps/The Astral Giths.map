@@ -1,0 +1,159 @@
+--- notes
+
+Entrance from The Under Dark.
+
+Key paths, from the Astral Guardian's room:
+    To gith keep:               nwsun2u
+    To astral extensions:       nw2nuned
+
+--- map
+
+                                               ?S?                               ?U
+                                               /                                 /
+                                  #   F L   E / O J M F                       F #
+                               ?/ |   ∧/    ∧/  |/  |/                        ∧/
+                               b  # - R --- M - I - G ----------------------- N
+                               ?     /|    /|  /|  /|                        /|
+                                    / K   / G B | K |                       / L
+                                  |/     /      |   |                      /
+                          f - T - V -   # - #   |   |                    ?P
+                                 /          |   |   |                    /
+                                /           Y   |   |                   /
+                               /                |   |                  /
+                            D / H C N K K D L A |   | I C E J B R G B /
+                            ∧/  |/  |/  |/  |/  |   |/  |/  |/  |/  |/
+                        H - O - J - L - E - F - C - B - A - D - K - H - O
+                           /|  /|  /|  /   /   /|  /|  /+  /   /|  /|
+                     ?W   / I I D R F A   G   J A D H F 0 E   L E / J a
+                      |  /                                       /   /
+                      # /                                       # - #
+                      |/
+                      #
+
+        C E             G I             I               J B             K D             L A
+        |/              |/              |               |/              |/              |/
+    B - A - D       C - B - A       F - C - B       A - D - K       L - E - F       E - F - C
+       /+              /|              /|              /               /               /
+      F 0             D H             J A             E               A               G
+
+        M F             B P             O J             H C             R G             N K
+        |/              |/              |/              |/              |/              |/
+    I - G - N       K - H - O       M - I - G       O - J - L       D - K - H       J - L - E
+       /|              /|              /|              /|              /|              /|
+      K B             Q J   U         B C             I D             L E             R F
+                           /
+        E S             F p             D V             X N               H   a     o   F L
+        ∧/              ∧/              ∧/              |/               /   /     /|   ∧/
+    R - M - I       G - N           H - O - J       Z - P - Y           Q - x     b n - R - M
+       /|              /|              /|              /                               /|
+      / G             P L         W   / I             H                               V K
+     /                            |  /
+    j - k                         m /
+        |                         |/
+        Y                         l
+
+        c W             e Y             b Z             U R             a d             D f
+        |/              |/              |/              |/              |/              ∧/
+    d - S - b       f - T - V       Y - U - d       T - V - a       b - W - X       W - X - e
+       /               /|              /|              /               /|              /|
+      M               a c             p V             O               S m O           Y P
+                                     /                                  |/
+       M                            N                       o           l
+     /                                                     /|
+    j - k X             d h             Y T             Z / n - R       T b             i g
+        |/              |/              |/              |/              |/              |/
+    P - Y - U       g - Z - P       V - a - c       S - b - W       a - c - i       U - d - S
+       /|              /|              /|              /|              /|              /|
+      T a             U b             x W             c U             h S             W Z
+
+                      Gith Keep
+                          +
+        P               h q             S e             V c             g
+        ∧               |/              ∧/              ∧/              |
+    X - e - h       i - f - T           g - Z       e - h           c - i - f
+       /|              /               /|              /|              /|
+      g T             X               d i             Z f        Astral d
+                                                               Extensions
+
+                                  #
+                                  |
+                                  #
+                                  +
+                                  #
+                                  |
+                                  #       #
+                                  +       +
+                      #       # - # - # - #
+                      +       |       +   |
+                      # - # + # + #   #   # + #
+                      +       |           |   |
+                      #       |       #   #   # + #
+                              |       +   |   |
+                              # + # + # - # + #
+                                  +
+                                 ...
+                                  |/
+                                - A -
+                                 /+
+                                  0
+                                  |
+                                  #
+                                 /
+                                #
+                               /
+                              #
+                             /
+                            #
+                           /
+                          #
+                         /
+                        #
+                        |
+                  The Under Dark
+
+--- loot
+
+A githyank knight:
+    a pair of splint mail sleeves ARMOR AC -7 str 1 !g!mu!cl!as!sl!sk!sd!nm
+    a splint mail vest ARMOR AC -7 str 1 !g!mu!th!as!sl!sk!sd!nm
+    a splint mail skirt ARMOR AC -7 str 1 !g!mu!cl!as!sl!sk!sd!nm
+    a thin two-handed sword WEAPON slash F0 4d7 hit 1 !g!mu!cl!sk!nm
+
+A githyanki guardian:
+    a splint mail vest ARMOR AC -7 str 1 !g!mu!th!as!sl!sk!sd!nm
+    an extremely sharp and thin sword WEAPON slash F0 4d6 hit 1 !g!mu!cl!sk!nm
+
+An insusbstantial ghost:
+    a vial of murky fluid POTION (15: blindness; curse; sleep)
+
+A pitch-black nightmare:
+    a small demon's amulet WAND (25: life drain 5/5) int 1 wis 1
+
+An invisible stalker:
+    some astral powder TREASURE
+
+A githyanki hunter:
+    a silvery dagger WEAPON pierce F0 4d6 hit 2 dam 1 !cl
+
+A githyanki warrior (variously):
+    a thin two-handed sword WEAPON slash F0 4d7 hit 1 !g!mu!cl!sk!nm
+    a splint mail vest ARMOR AC -7 str 1 !g!mu!th!as!sl!sk!sd!nm
+
+The poor soulless being:
+    an iron longsword WEAPON slash F0 1d8
+
+An evil gish:
+    a silvery knife WEAPON stab F0 4d6 hit 1 dam 1 !cl
+    a silvery-colored potion POTION (20: detect invisibility; detect magic; detect poison)
+
+The enslaved red dragon:
+    a brightly flaming stone LIGHT ac -2 savebreath -5
+
+a shadow demon (astral extensions):
+    a shadow knife WEAPON pierce F0 7d4 con -3 mag!g!cl!sk
+
+A warlock of the gith:
+    a scroll with githyanki writings on it SCROLL (35: lightning bolt; lightning bolt; lightning bolt)
+
+The Astral Guardian (in 0):
+    <wielded>            a massive slate-grey sledgehammer WEAPON crush F0 5d8 move -20 hit -2 dam 2 !mu!th!sl!sd!nm

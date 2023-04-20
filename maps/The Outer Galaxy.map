@@ -1,0 +1,100 @@
+--- notes
+
+A: Andromeda
+C: Cancer
+E: Leo
+G: Gemini
+H: the mighty Herculese
+L: Libra
+O: Orion
+P: Pisces
+R: Aries
+S: Scorpio
+U: Saggitarius
+V: Virgo
+X: near a star - all exits DTs
+
+0: Old Thalos (beholder room)
+2: the red supergiant (blocks travel in all directions)
+
+--- map
+
+                                                                            # --*-- # - #
+                                                                            |           |
+                                                                            #       H - #  head of draco in H
+                                                                            |       *
+                                                                            #   # - #
+                                                                            |   |   |
+                                                                            #   K - Q      Queen Casseiopia, King Cephus
+                                                                            |   |
+                                                                            #   |
+                                                                           *    |
+                                                                          #     |
+                                                                         *      |
+                            #                                           1   # - #
+                           ⩗|                                               |
+                          # |                                               U              Ursa Major
+                         ⩗  |                                               |
+                     Arrakis|                                               P              Polaris, the polar star
+                            |                                              *
+                # - # - H   |                                             #                Guardian room
+                |   |   |   |
+                |   |  x|   #   ☠
+                |   | * |   |   |
+                |   | 1 |   # - # - #   #                       U - S - L - V
+                |   |/  |       |   |   |                               |
+                # - A - #       # - # - # - # - #               E - C - 1 - C - Q
+                |  /|   |       |   |       |  /|                       |
+                | 0 |   |       # - #       | X |               G - T - R - P
+                |   |   |       |   |       |   |
+                O - # - #       # - 2 -     # - #
+            |       |               |       |
+          - 2 ----- # --------------------- #
+
+          Fafhrd clans, 'then w3se2n3wnw3n2d'
+
+--- loot
+You get a comet's tail (WEAPON whip F0 4d7) from the corpse of a speedy comet.
+chains of Andromeda TRASH move -100
+
+The Head of Draco:
+    the Skull of Draco ARMOR AC -9 hp 25 savebreath -4 dam 1 mag!e!mu!sl!dk!nm
+
+Aries:
+    a spring shoot KEY
+
+Capricorn:
+    a winter branch KEY
+
+Virgo:
+    the Titanic Bracelet of Virgo WORN cha 2 ac -6 dam 3 mag!e!wa!ra!sk!dk
+
+Taurus:
+    the Titanic Hoof of Taurus ARMOR AC -8 move 50 dam 2 mag!e!mu!cl!th!as!sl!dk!sd!nm
+
+Libra:
+    the Titanic Scale of Libra ARMOR AC -12 wis 3 hit 2 dam 2 savepara -2 saverod -2 savespell -2 mag!g!e!th!as!sl!sk!dk
+
+Gemini:
+    the Titanic Mask of Gemini ARMOR AC -0 int 2 dam 2 hp -5 mag!e!th!wa!ra!as!sl!sk!dk
+
+Pisces the mermaid is using:
+    <worn on legs>       the Titanic Tail of Pisces ARMOR AC -6 hit -1 dex -2 dam 3 mag!e!cl!wa!ra!sl!sk!dk
+
+Orion the hunter is using:
+    <worn about waist>   the Titanic Belt of Orion ARMOR AC -9 con 2 str 2 dam 3 mag!mu!cl!th!wa!as!sl!sk!dk!sd!nm
+
+Hercules:
+    the Titanic Arm plates of Hercules ARMOR AC -8 str 3 dam 2 mag!e!mu!th!as!sl!dk!sd!nm
+
+King Cepheus:
+    the Sceptre of Might LIGHT hit 4 dam 3 mag!e!dk
+
+Queen Cassiopeia is using:
+    <worn on finger>     the Ring of Dignity ARMOR AC -10 mp 25 hit 1 dam 3 savepetri -1 mag!e!mu!th!wa!ra!as!sl!dk!sd!nm
+
+Polaris, the polar star is using:
+    <worn on finger>     the ring of the universe ARMOR AC -8 mp 30 hit 3 dam 3 mag!e!cl!th!wa!ra!as!sl!sk!dk
+    <wielded>            the Great Dipper of the Skies WEAPON crush F0 4d6 hit 2 dam 2 mag!e
+
+Megnual gets a summer blossom from the corpse of Polaris, the polar star.

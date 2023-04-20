@@ -1,0 +1,19 @@
+--- loot
+
+--- idents
+
+Object 'a tall black staff', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: MAGIC !GOOD !THIEF !WARRIOR !RANGER !ASSASSIN !SHOU_LIN !SOLAMN_KN !DEATH_KN IDENTIFIED
+Weight: 5, Value: 1000, Rent: 250
+Forge level: 0 No. dice: 4 Dice size: 6 Type: pound
+Can affect you as :
+   Affects: MAXMANA By 15
+
+Object 'a kobold's shortsword', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: !RANGER !ASSASSIN !SHOU_LIN !SOLAMN_KN !DEATH_KN !SHAD_DANC IDENTIFIED
+Weight: 5, Value: 1000, Rent: 110
+Forge level: 0 No. dice: 6 Dice size: 2 Type: slash
+Can affect you as :
+   Affects: DAMROLL By 1

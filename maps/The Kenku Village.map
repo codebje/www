@@ -1,0 +1,54 @@
+--- notes
+
+From Samsera: 10edn
+
+--- map
+
+                        # --------- # ----- # --------- #
+                        |                               |
+                        |           #   #               |
+                        |           +   |               |
+                        |           # - # - #           |
+                        |           |                   |
+        # - # - # - #   #   # - #   |   #       #       |
+        |   +   +   |   |   |   |   |   |       +       |
+        #   #   #   # + # - # - # + # - # - 1 ∘ # + #   #
+        |           |   |   |   |   |   |       +       |
+        #   #   #   #   #   # - #   #   #       #       #
+        |   +   +   |   |           |                   |
+        # - # - # - #   |           # - #               #
+        ∘               |                               |
+        #               # --------- # ----- # --------- #
+        |
+        #
+        |
+    # - # - # - #
+    |   |   |   |
+    1 - # - # - 0
+        |   |   |
+        # - # - #
+            |
+     Dwarven Caverns
+
+--- loot
+
+A knotted old tree stump (in 0, locked, !pick):
+    12,485 coins
+
+Lucky the Leprechaun (in 1):
+    a four leaf clover OTHER wis 2 int 2 mag!e
+    a tiny green key KEY (to stump in 0)
+
+The Kenku King (in 2):
+    the Kenku staff WEAPON crush F0 5d6 hit 2 dam 2 mag
+    a very ornate key KEY (to throne in 2, footlocker en of 2)
+
+The Kenku Queen (2e of 2):
+    a golden Kenku egg TREASURE (x3)
+
+The Kenku guard:
+    a kenku longsword WEAPON slash F0 4d4
+    a gate key KEY (only on guard south of main gate, for gate)
+
+The kenku archer:
+    a kenku bow WEAPON pierce F0 3d6 dex 1 hit 1

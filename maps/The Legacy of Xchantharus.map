@@ -1,0 +1,407 @@
+--- notes
+
+From ToJ: d8s3e2sd27wn2wdn2wnw3nu5s5e - via Mystic Sea (UW), Fields of Chaos; guardian may block, demons may attack.
+
+Choranai near Dragg, Chastity near Golem, Koofy in O
+
+J, L nomagic
+
+F, P, Q nomagic noexit nosound norecall
+
+Starting with Golem, 2wens2ndwd to O
+
+First section: the Hellspires.
+    Follow the path north, up, west, north, east through wild men and winter wolves. The room labelled "Peace" is not a
+    peace room, and wild men will wander into it. Dragg is not aggro, but does go on and on. Collect the icy key from
+    the white dragon past Dragg before moving on. The Golem has no key and is not aggro.
+Second section: the halls.
+    From Golem, go 2wens2ndwd to the halls. Place a pp after entering the sink hole. Progession requires killing Order,
+    who is not aggro, and the icy elemental past him, who is aggro. The ice queen is not required. Kill the knight of
+    the ancients, and head two up. A trigger should deposit you one south of a room with a wooden sign - place a pp
+    here.
+Third section: Tanisbwana.
+    Two villages are at war, tech'opi to the west and bwani to the east. You can ignore both: proceed north onto the
+    river, south at the first fork, and west at the second to visit U'tella and relieve her of a Quill. She is not
+    aggresive, so feel free to spell her up first. Take the Quill east and into the lost valley. On the west side
+    the Quill will unlock down in the ancient temple, leading to the Immaterial Knight and the Guardian of Honor. They
+    aren't aggro but will assist each other, so dust one and kill them separately. The Guardian of Honor will yield
+    the sigil of Orde. Head back to the river and follow it to the north. Climb up to the ancient version of the Golem.
+    You can kill the Golem if you like, but you don't need to. The sigil will unlock the field, providing access to
+    the vortex. Enter the vortex to reach the ruined city - the vortex isn't always reliable, so expect some misports.
+Fourth section: the ruined city.
+    This section is loot candy. Collect your prizes from the various pinatas scattered around. Cessephenes is hidden
+    at the top of the eastern tower, and hits hard, but the rest are a reward for making it so far. Once the town has
+    been cleaned up proceed west from the market square, and enter the Gardens of Peril. The loot pinata party continues
+    here with the garden horror, Serafina, and Credadgix; one room is a noexit trap, obviously named. Once you've
+    taken what you like, move through the one-way exit onto the norther ruined causeway from the Gardens. A roper has
+    the key to the heart at the northern end; another has likely snatched up several Krater of Pyros keys to lead down
+    into the maze. Collect any further loot you'd like from Vetvarilus first, then travel wd2eunewswusnu through the
+    maze and east onto Spykros in the final section.
+Fifth section: the temple of Txachamitxchual.
+    This section is straightforward. Clear out the trash, killing the Queen of the Spiders on the second floor. Most of
+    the section can be portalled to, save a few rooms south of Txachamitxchual, so set a pp somewhere convenient. When
+    the trash is cleared, kill the mad priest. Be sure you check the rooms east and west of Txachamitxchual for more
+    trash, else it'll wander in at the worst possible time.
+
+--- map
+
+        A A             A A             D F             E E             E F
+        ∧⩘              ∧⩘              ∧⩘              ∧⩘              ∧⩘
+    B < A > A       B < B > C       F < C > A       E < D > E       D < E > H           F       P
+       ⩗∨              ⩗∨              ⩗∨              ⩗∨              ⩗∨
+      P A             P B             F A             F G             P D
+
+        J B             E A             A K             L A             A A             A A
+        ∧⩘              ∧⩘              ∧⩘              ∧⩘              ∧⩘              ∧⩘
+    P < G > D       I < H > E       H < I > A       A < J > A       A < K > A       A < L > A
+       ⩗∨              ⩗∨              ⩗∨              ⩗∨              ⩗∨              ⩗∨
+      P B             A E             E E             A A             J A             M A
+
+        A A             A A
+        ∧⩘              ∧⩘
+    N < M > L       A < N > A
+       ⩗∨              ⩗∨
+      A J             O A
+
+                                  # - 5 - #
+                                      |
+                                      #   # - # - #
+                                      |       |
+                                      #       #
+                                      |      /|
+                                      # ----- #
+                                           /
+                                          / 6
+                                         /  |
+                            #       # - # - #
+                            +       |  /|
+                    8   # ∘ 7 + #   # / #
+                   /        |        /
+                  # ------- # - # - #
+
+         B G            I               N M
+         ^/             ^o              ^/
+     E < H - G      X < K )         M < N > 8
+         V             oV              /v
+         I              L             O M
+
+         B D            E K             X N
+         ^/             ^/              ^/
+     H - G > B      B < J > F         c M > A
+         V              V              /u
+         X              D             X
+
+         C A            X C             M A                             X = "A Painful End", noexit
+         ^/             ^/              ^/
+       c F > G      J < I > C       A < L > A
+         u              v              /
+                        C             A                         Through maze, d2eunewswusnu, e on Spykros
+
+         F X
+         ^/
+     B < E > A      # Vetvarilus
+        /v          +
+       X A      #<+ # + #
+                    |
+         A E        #
+         ^/         |
+     B < D > X      #
+         v          +
+         X      # + # + #                                       # - # - #
+             n    ∘ ∘                                              /|
+         X < A)- O  #                                             # # Cessephenes
+            /v      |                                            /
+         A / X  # + # + #                                     # #
+         |/         |                          dracolisk      |/
+     X < B - C      #                   # - # - #         # - # - # f'ell, k'ain, s'trogg roam here
+         u          |                      /                 /v
+         X C        #           #       # /                 # #
+         ^/         |           |       +/ Kzitmol          |
+     X < C > D      #           #   # + # + #               #
+         u          |           |   |   |   |               |
+                    A > Y < # - #   #   +   #               #
+                            |       +   |   +               +
+            Y < #   A < #   #       # - # - #           # # #
+                |       |   |           |               +x  |
+                #   Y < # - #           #   # a hydra   # + # + #
+                |       |               |   | paladin       *
+                # - # - #       # - # - # - # - #   #       # 1st skeleton guard
+                    +               |   |   |       |       |
+                    # ----- # - # - # - # - # - # - # - # - #
+                                    |   |   |           |
+                                    # - # - # - # annis # seer
+                                    |   |
+                      a Medusa Mage #   #
+                                        |
+                                        # rubble-strewn causeway is here
+
+                                                                  # vortex portals to rubble-strewn causeway
+                                                                  ∘
+                                                                  c (Golem P'chaua, mk II)
+                                                                  |
+                                                                  #
+                                                                 /
+                                                                #
+                                                               /
+                                                              #
+                                                             /|
+                                                            / #
+                                                           /  |
+                                                          /   #
+                                                         @ - #|
+                                                              |
+                                                              |
+                          #                       # ----- # - #           #
+                          |                       |           |           |
+                      # - #                       |           #           # - #
+                      |   |                       |           |           |   |
+                      |   # - #                   |   d - # - # - # # # - #   |
+                      |       |                   |               |/| |       |
+                  # - # - # - #                   |               # # # - # - # - #
+                  |       |                       |                /      |       |
+                  #       # --------- # --------- # --------- # --------- #       #
+                  +                               ∧              /                ∘
+                  #                               #             #                 #
+                  |                           (trigger)         |                 |
+              # - # - #                           #             |             # - # - #
+                  |                              ⩘              |                 |
+          # - # - # - # - #                     #               |         # - # - # - # - #
+              |   |   |                        ⩘                |             |   |   |
+          # - # - # - # - #                   # ∘ # ∘ #         |         9 - # - # - # - #
+              |  /|   |                           ∘             |             |   |   |
+              # - # - #                   Q   #   4             |             # - # - #
+               /  +                       ∧   ∧   |             |                 *
+              #   #                 3     # - # - # #           |         #       # #
+                  |                 +    ⩘    |     |           |        /        |/
+                  #                 # - # --- #     # - # - #   |       #         a
+                                        |           |       |   |       |
+                                        #       # - #   # - # - # - # - #
+                                        |      ∘                |   |
+                                        O     e                 # - #
+
+                                  f A < 2 > A
+                                  !     |
+                                  # ----- #
+                                  |     |/
+                                  | #   #
+                                  |/|
+                            #     # |
+                            |       |
+                        # - # - # - # - #     # - 1
+                        |               |    /
+                        # - # - #       0 - #
+                           /
+                          # - # - ☠
+                         /
+                        #
+                        |
+                        #
+                        |
+  The Fields of Chaos - #
+
+--- loot
+
+A wild man (roams between entrance, 0, and 2, multiple, highly variable damage from stagger to enshroud):
+    a stone club WEAPON pound F0 5d5 str 1 con 2 !mu!cl!th!wa!as!sl!sk!dk!sd!nm
+
+A winter wolf (roams same area as wild man, multiple, lower damage/hp, tracks):
+    nothing
+
+A cave bear (top of first mountain, in cave, asleep; very low hitroll, flees, tracks):
+    nothing
+
+Dragg (in 0, not aggro, charge/mut through, flees):
+    <worn on head>       Dragg's helm ARMOR AC -4 age -20 dam 3 !mu!cl!th!ra!as!sl!sk!dk!sd!min!nm
+    <worn about body>    mithril plate ARMOR AC -10 savepara -4 hit 2 dam 2 !e!n!mu!cl!th!ra!as!sl!sk!dk!sd!nm
+    <wielded>            Stonehammer WEAPON crush F0 6d6 mag!e!n!mu!cl!th!ra!as!sl!sk!dk!sd!min!nm
+
+A white dragon (in 1, 4x bonecrush, breathes, wall of fire, tracks, does not thump):
+    <worn around neck>   the icy key KEY
+
+An ogre (in f, "push boulder" to open):
+    <worn on body>       animal hides ARMOR AC -7 hp 20 hit 2 !mu!cl!th!ra!as!sl!sk!dk!sd!nm
+    <wielded>            club of stone WEAPON maul F0 7d4 dam 3 con 2 hp 25 mag!mu!cl!th!ra!as!sl!sk!dk!sd!nm
+
+The Golem P'chaua (in 2, not aggro, 51, ranges from stagger to charge 4x, flees):
+    <worn as shield>     the stone shield ARMOR AC -9 age -10 hp 25 dam 3 !mu!cl!th!wa!as!sl!sk!dk!sd!nm
+
+The Great Ravager (in 3, 51, 4x enshr/charge):
+    <wielded>            Time's Scythe WEAPON slash F0 13d3 age 15 dam 3 savespell -4 level 25 mag!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+    <held>               Time's Fell Hourglass OTHER age -15 savepetri -4 dam 3
+
+Order (in 4, not aggro, 50, priest, 3x enshroud, tracks):
+    <worn around neck>   an ice key KEY (to door in 4)
+
+Ice elemental (n of 4, not aggro, 51, 4x enshr/charge, tracks):
+    <worn around neck>   an ice key KEY (to door nw of 4)
+
+Knight of the Ancients (nw of 4, aggro, 50, 3x charge/mutilate):
+    <worn as cloak>      black demonhide cape ARMOR AC -10 hit 3 dam 3 savespell -4 level 25 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+    <worn on body>       blackened metal plate ARMOR AC -15 hp 20 hit 3 level 25 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+    <worn on head>       blackened metal helm ARMOR AC -7 savespell -4 dam 3 level 30 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+    <worn on legs>       blackened metal greaves ARMOR AC -9 dex 2 mp 25 dam 2 level 30 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+    <worn on feet>       blackened metal boots ARMOR AC -10 dex 4 dam 3 level 30 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+    <worn on hands>      blackened metal gauntlets ARMOR AC -7 str 2 hit 3 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+    <worn on arms>       blackened metal vambraces ARMOR AC -6 dex 2 dam 3 level 30 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+    <worn as shield>     blackened metal shield ARMOR AC -15 hp 35 dam 3 level 35 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+    <worn about waist>   blackened metal girth ARMOR AC -10 str 3 dam 3 savespell -4 level 30 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+    <wielded>            black lance WEAPON impale F0 4d10 dam 3 savespell -4 mag!g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+    an icy key KEY (to door ne of 4)
+
+the ice queen (ne of 4):
+    <worn on body>       white frost mail ARMOR AC -5 mp 30 hit 2 !cl!th!wa!ra!as!sl!sk!dk!sd
+    <worn on head>       white frost hood ARMOR AC -9 str 3 mp 50 dam 3 !th!wa!ra!as!sl!sk!dk!sd!min
+    <worn on legs>       a pair of shimmering silk leggings ARMOR AC -7 hit 3 mp 30 mag!th!wa!ra!as!sl!sk!dk!sd
+    <worn on hands>      a pair of sparkeling gloves ARMOR AC -5 dex 2 dam 2 mp 30 !th!wa!ra!as!sl!sk!dk!sd
+    <worn on arms>       strands of woven ice ARMOR AC -4 mp 25 dam 2 !th!wa!ra!as!sl!sk!dk!sd
+    <worn about body>    white filaments ARMOR AC -9 age -10 mp 40 hit 2 !th!wa!ra!as!sl!sk!dk!sd
+    <wielded>            a sliver of burning ice WEAPON burn F0 12d3 dam 3 mp 35 savepara -4 mag!th!wa!ra!as!sl!sk!dk!sd
+
+Txachamitxchual (in 5):
+    ??
+    the Claw of Chaos WEAPON claw F0 12d4 dam 3 mp 35 mag!g!n!cl!th!wa!ra!as!sl!sk!dk
+    the Blazing Eyes of Txachamitxchual ARMOR AC -5 DET-INVIS SENSE-LIFE (face)
+    Warp Cloak !ident; spelldam 21 dam 2 ac -2 (cloak)
+        warp cloak 31501 2dam 23spelldam uselevel 30 perma blink 
+        GLOW HUM !DONATE INVISIBLE MAGIC CURSED !CLERIC !THIEF !WARRIOR !SELL !RANGER !ASSASSIN !SHOU_LIN !SOLAMN_KN !DEATH_KN !SHAD_DANC ARTIFACT NO_LOCATE !NECRO
+    Tooth of the Dracolich !ident ac -2 dam 2 mp 15 (neck)
+        Megnual clans, ' tooth 31502 -12mana cost 2dam 15mana worn on neck '
+        Megnual clans, ' Extra flags   : GLOW HUM !DONATE MAGIC !CLERIC !THIEF !WARRIOR !SELL !RANGER !ASSASSIN !SHOU_LIN !SOLAMN_KN !DEATH_KN ARTIFACT  '
+
+The Queen of the Spiders (in 6):
+    <worn on arms>       Sleeves of the Spider (invisible) WORN ac -6 age -10 dam 3 !mu!cl!wa!ra!sk!dk!nm (w:2 v:2000 r:610)
+
+The lurker above (n of 7):
+    a small key KEY
+
+A hieracosphinx (e of 7):
+    Wand of Detection WAND (40: group shadow vision 3/3) (w:2 v:300 r:30)
+
+Xoatal (w of 7):
+    <worn on finger>     Circlet of the Priest King ARMOR AC -2 mp 30 dam 2 !mu!th!wa!ra!as!sl!sk!dk!sd!nm (w:3 v:1000 r:470)
+
+Spykros (in 8):
+    Nothing
+
+Credadgix (wandering Gardens of Peril, 3x oblit ranger):
+    a human bone MISSILE 65d1 x20 level 35
+    the soul seeker FIRE WEAPON (range 3 stun 3) dam 4 hit 4 ac -8 !g!n
+
+The garden horror (wandering Gardens of Peril, 3x enshroud stabby):
+    <wielded>            the Acid Thorn WEAPON pierce 8d5 dam 2 hit 3 savespell -1 mag!mu!cl!wa!ra!sl!sk!dk!loc!nm (w:5 v:5000 r:1895)
+
+Serafina (wandering Gardens of Peril)
+    <worn on face>       the Mask of Sorrow WORN hit 2 mp 20
+    <worn about body>    a shroud of Tears WORN str 3 mp 35 hit 2 !th!wa!as!dk
+
+Cessephenes (top of tower, destroys)
+    <worn on face>       a crystal monocle ARMOR AC -5 spelldam 20 mp 25 int 2 dam 2 !wa!ra!sl!sk!dk!sd!nm (w:1 v:2000 r:495)
+    <worn on feet>       black riding boots ARMOR AC -10 int 1 dam 3 spelldam 20 !mu!cl!wa!ra!as!sl!sk!nm
+    <worn about body>    a velvet coat ARMOR AC -11 dam 4 !mu!cl!wa!ra!sl!sk!dk!nm
+    <worn around wrist>  Circlet of the Vampyr ARMOR AC -5 dam 3 savepetri -4 dex 3 !mu!cl!wa!ra!sl!sk!dk!nm
+
+An annis (3 different ones):
+    Imp's tooth ARMOR AC -0 spelldam 20 mp 20 !mu!th!wa!ra!as!sl!sk!dk!sd
+    a murky brew POTION (40: death touch; sleep) (w:2 v:500 r:50)
+    a foul concoction POTION (6: poison; black breath; righteous vision) (w:1 v:0 r:0)
+    a tattered robe ARMOR AC -11 dam 2 mp 40 !mu!th!wa!ra!as!sl!sk!dk!sd!nm
+
+Kzitmol (north of town, probably not aggro, 50sl 4x enshroud):
+    <held>              a bag CONTAINER
+A bag:
+    Ring of Warding WORN ac -5 dam 2 hit 3 !mu!cl!th!wa!ra!as!sk!dk!sd!nm (w:2 v:1000 r:385)
+    a bound scroll SCROLL (50: teleport) (w:2 v:5000 r:500)
+    Gloves of Dexterity WORN dex 4 dam 3 ac -5 !mu!cl!wa!ra!as!sk!dk!nm (w:2 v:1000 r:715)
+
+The Dracolisk (above Kzitmol, 3x enshroud):
+    <held>               Javelin of Seeking WEAPON impale 12d3 ac -5 hit 3 dam 3 mag!mu!cl!th!wa!as!sl!sk!dk!sd!loc!nm (w:5 v:5000 r:2030)
+
+Vetvarilus is using:
+    <worn as cloak>      Gift of Shadows ARMOR AC -10 hit 3 dam 3 !mu!cl!th!wa!ra!as!sl!sk!dk!nm
+    <wielded>            a Shard of Darkness WEAPON pierce F0 8d7 dam 3 hit 3 mag!mu!cl!th!wa!ra!as!sl!sk!dk!nm
+
+Txechopi (in 9):
+    Junk
+
+Log'obi (in a):
+    a Bwani tribal spear WEAPON stab F0 5d6 int 2 hit 2 !mu!cl!th!ra!as!sl!sk!dk!sd!nm
+    the Girdle of Wisdom ARMOR AC -7 wis 3 int 3 dam 3 !mu!cl!th!as!sl!sk!dk!sd!nm
+    Leggings of Bone ARMOR AC -10 hp 30 dam 2 !mu!cl!th!as!sl!sk!dk!sd!nm
+    an elaborate headdress ARMOR AC -6 int 3 wis 2 !mu!cl!th!as!sl!sk!dk!sd!nm
+    bone armor ARMOR AC -10 dam 2 savespell -4 !mu!cl!th!as!sl!sk!dk!sd!nm
+    Aura of Perception ARMOR AC -7 int 2 hp 25 hit 2 !mu!cl!th!as!sl!sk!dk!sd!nm
+    a scrap of paper TRASH (reads: U'tella)
+
+The phoenix (u from a):
+    a Feather of Fire LIGHT dam 4
+
+The Aboleth (in b):
+    Crissagorman's blade WEAPON slash F0 5d8 int 1 con 2 dam 3 !mu!cl!th!ra!as!sl!sd!nm
+
+The Golem P'chaua (in c):
+    <wielded>            the deadly maul WEAPON maul F0 4d9 dam 3 hit 3 !mu!cl!th!ra!as!sl!sk!dk!sd!nm
+
+U'tella (in d, not aggro):
+    <held>               a Quill KEY (to tome above e)
+
+The black spirit (spawns in different areas, 51, hidden, feigns, 3x destroy):
+    an obi WORN ac -7 dam 3 hp 20 !mu!cl!th!wa!ra!as!sk!dk!sd!nm (waist)
+    a pair of Tabi WORN ac -6 dam 3 str 2 hit 2 !mu!cl!th!wa!ra!as!sk!dk!sd!nm (feet)
+    a Amida Tong Tattoo WORN ac -5 hit 2 dam 4 level 50 !mu!cl!th!wa!ra!as!sk!dk!sd!nm (ankles)
+    a pair of Ancient Hakana WORN ac -5 hit 2 dam 4 !mu!cl!th!wa!ra!as!sk!dk!sd!nm (legs)
+    a Shinobi Mask OTHER ac -15 dam 1 hp 25 savebreath -1 savespell -1 savepetri -1 !mu!cl!th!wa!ra!as!sk!dk!sd!nm SENSE-LIFE (face)
+
+a Bwani hunter (roams east of wooden sign):
+    a Bwani tribal spear WEAPON stab F0 5d6 int 2 hit 2 !mu!cl!th!ra!as!sl!sk!dk!sd!nm
+
+a Bwani sentry (outside gates, east of wooden sign):
+    a Bwani tribal spear WEAPON stab F0 5d6 int 2 hit 2 !mu!cl!th!ra!as!sl!sk!dk!sd!nm
+    bone armor ARMOR AC -10 dam 2 savespell -4 !mu!cl!th!as!sl!sk!dk!sd!nm
+    a tigerskin shield ARMOR AC -7 dex 3 dam 2 !mu!cl!th!as!sl!sk!dk!sd!nm
+    a wooden gate key KEY (to gates)
+
+a Bwani villager (between gates east of sign):
+    a clay urn CONTAINER (empty)
+
+a pterodactyl (cmd aggro with dust, randomly on one):
+    a crystal tear WORN mp 10 hp 10 spelldam 20 (ears)
+
+the Guardian of Honor (in e):
+    a Knights Tunic ARMOR AC -6 dam 3 mp 25 !n!mu!cl!th!wa!ra!as!sl!dk!sd!min!nm (about)
+    the Greaves of Honor ARMOR AC -11 dam 3 int 3 savespell -4 !e!n!mu!cl!th!wa!ra!as!sl!dk!sd!min!nm (legs)
+    a purple tabard ARMOR AC -11 dam 3 hit 2 !e!n!mu!cl!th!wa!ra!as!sl!dk!sd!min!nm (cloak)
+    the sigil of Orde KEY (to force n from c)
+the Immaterial Knight (in e):
+    a sphere of absolute darkness !ident, not worn, wielded, or held
+
+01:30:02 # Dhask gets a leather pouch from the corpse of Du'rangar.
+
+the mad alchemist:
+    Undead Spirits POTION (50: teleport; teleport; teleport)
+    Dragon Ichor POTION (50: group sanctuary; group recall; group shadow vision)
+    Demon Blood POTION (50: haste; paralyze; teleport)
+
+a roper (on causeway):
+    Bones of St. Crissagorman KEY (to heart north end of causeway)
+a roper (behind heart):
+    Krater of Pyros KEY (to down)
+
+a giant spider:
+    a jagged knife WEAPON tear 9d3 hit 3 dam 3 (w:1 v:500 r:1005)
+
+lurker above:
+    a small key (to door sw from lurker)
+
+a wounded Bwani warrior:
+    an elaborate headdress ARMOR AC -6 int 3 wis 2 !mu!cl!th!as!sl!sk!dk!sd!nm
+    bone armor ARMOR AC -10 dam 2 savespell -4 !mu!cl!th!as!sl!sk!dk!sd!nm
+    Ja'gal Juice POTION (40: remove poison; cure plague; refresh)
+
+a Tech'opi tribal warrior:
+    a Tech'opi tribal spear WEAPON stab F0 3d11 dam 1 dex 2 !mu!cl!th!wa!as!sl!sk!dk!sd!nm
+    a necklace of bones ARMOR AC -8 int 3 dam 1 !mu!cl!th!wa!as!sl!sk!dk!sd!nm
+
+a Tech'opi blood sentry:
+    a Tech'opi tribal spear WEAPON stab F0 3d11 dam 1 dex 2 !mu!cl!th!wa!as!sl!sk!dk!sd!nm
+    a tigerskin cloak ARMOR AC -12 str 2 hit 3 !mu!cl!th!wa!as!sl!sk!dk!sd!nm
+

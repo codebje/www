@@ -1,0 +1,29 @@
+--- notes
+
+From Samsera: 17n6w4n2un
+
+No native mobs. Small patch of asymmetrical exits around connections to NMR - from D, Mountain Monastery is right
+nearby, making a shorter path than direct to Mountain Monastery through NMR.
+
+--- map
+
+        Cloudy Mountain
+              |
+              # - # - # - # - # - # - # - # - #    Asgard
+                          |   |   |   |   |   |       |
+                          # - # - 1 - # - # - A - # - #
+                              |   |   |   |   |   |   |
+                              | 0 | D |   |   |   |   |
+                              |⩘  |/  |/  |   |   |   |
+                      B   A < # > B - # - # - # - # - #
+                      ∧       ∧           |
+                      C > D   | #         #
+                         /|   |/|     |/
+                        B #   0 | C < B -
+                          |     |
+                  Northern Mountain Range
+
+--- loot
+
+On the ground in 1:
+    an iridescent dragon scale ARMOR AC -0 weight -50 move 5 mag

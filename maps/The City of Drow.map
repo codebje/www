@@ -1,0 +1,59 @@
+--- notes
+
+Portal to yochlol. Aggressive.
+
+A: Altar
+
+--- map
+
+                        A   # - 0   A   #
+                        ^       |   ^   |
+            E < 2 > W   E <---- A > W - #                   # - H
+                |       v      /^   v                          /|
+                | H     2     ☠ 1   2                           # - #
+                |/                                             /
+                #                                             #       3
+                                                              |       |                   |
+                                                            - 4 - # - # - # - # - # - # - 4 -
+                                                              |                   |       |
+                                                              | #                 #
+                                                              |/|
+                                                        # - # # |   #   # - 6
+                                                            |   |   |   |
+                                                    5       # - # - # - #
+                                                    |       |       |   |
+                                                    # - # - #   #   # - # - #
+                                                            |   |       |
+                                                            # - # - # - #
+                                                            |       |
+                                                        8 - #       #
+                                                                    |
+                                                                    7
+
+--- loot
+
+On the ground with yochlol (in 0):
+    a spider shaped dagger WEAPON pierce F0 6d4 hit 1 dam 2 mag!g
+
+A Drow commoner:
+    a commoner's longsword WEAPON slash F0 3d8 hit 1 dam 1 !cl
+
+The drow master:
+    a silvery blue wand WAND (lightning bolt) mag
+    a snake headed whip WEAPON slash F0 4d7 hit 1 dam 1 mag!th!wa!ra!as!sl!sk!dk
+
+The weaponsmaster (in 3):
+    a black longsword WEAPON slash F0 4d8 hit 1 dam 1 mag!cl
+    a pair of gauntlets WORN str 3 ac -5 hit 2
+
+The Matron Mother (in 5):
+    a small ruby ring WORN hp 35 ac -7 mag!mu!cl!th!as!sd!nm
+
+The Matron Mother (in 6):
+    a small bright green hat ARMOR AC -10 age -15 ac -2 !sl
+
+The Matron Mother (in 7):
+    a small helmet ARMOR AC -1 int 3 mag!sl!min
+
+The Matron Mother (in 8):
+    a pair of bracers ARMOR AC -10 mp 15 mag!sl

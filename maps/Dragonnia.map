@@ -1,0 +1,117 @@
+--- notes
+
+Portal to baby_dragon. Also an extra bit via portal to guard_deserter, but nothing there of note.
+
+--- map
+
+M: a Mystic Dragon
+B: the blue dragon master
+G: the green dragon master
+O: the golden dragon
+A: the teacher assassin dragon
+I: The Bishop Dragon
+C: The Arch Bishop Dragon
+Q: Arynx, Queen of Dragonnia
+
+
+                                                    Q
+                                                    *
+                                                    #
+                                                    ∘
+                                                    M       #
+                                                    |       |
+                        # - #               # - B   #   # - #
+                        |   |               |       |   |
+                     #  # 0 |           #   # - # - # - # - # - #
+                    /   |/  |          /        |   |   |       |
+          I * 0    #    #   |   #     #     A - #   |   # - O   G
+             /*   /     |   |   |    /          |   |   |   |
+              C  1      #   # - # - # --------- # - # - #   #
+                        |   |   |               |   |   |
+                        |   | 1 #
+                        |   |/
+                        # * #
+
+--- loot
+
+The Arch Bishop dragon:
+    a dragon scale belt ARMOR AC -5 ac -7 savebreath -2
+    a cleric rod WEAPON crush F0 2d5 hit 1 dam 1 mag!cl
+
+A concubine:
+    a white key
+    a black key
+
+A Mystic Dragon:
+    a white cloak ARMOR AC -0 ac -10 int 2 !cl
+    a mystic axe of the dragonkind WEAPON slash F0 7d4 hit 1 dam 1 mag
+    a green and red key
+
+The blue dragon master:
+    a body cloak of dragon scale ARMOR AC -9 ac -8 savespell -6 !cl
+    a chrome bracelet ARMOR AC -3 ac -5 savepara -2 mp 10 mag
+    a master claw WEAPON slash F0 8d2 hit 1 mag!cl
+
+The teacher assassin dragon:
+    a dragon fang WEAPON pierce F0 6d3 hit 1 con 2 mag!cl
+    a magma stone TREASURE ac -5 dex 1
+    a pair of winged boots ARMOR AC -7 move 30 dex 3 mag!cl!sl
+
+The green dragon master:
+    a body cloak of dragon scale ARMOR AC -9 ac -8 savespell -6 !cl
+    a quartz bracelet ARMOR AC -0 hit 1 mp 10 mag
+    a master claw WEAPON slash F0 8d2 hit 1 mag!cl
+
+The golden dragon:
+    a blue potion POTION (heal !NO SPELL! !NO SPELL!) mag
+    a gold-white key
+    a golden belt TREASURE ac -8 con 1 !e
+    a golden breast plate ARMOR AC -9 dex 1 mag!e!sl
+
+A golden chest:
+    a polished golden bracelet ARMOR AC -2 hp 10 dam 1 con -2 mag
+    a glittering golden bracelet ARMOR AC -0 hp 25 savebreath -4 mag!mu!cl!th!as!sd!nm
+    a golden ring TRASH int -5 !mu!nm
+    a pair of golden gloves ARMOR AC -5 dex 2 str 3 mag!sl
+You get a shiny diamond from a golden chest.
+You get a shining sapphire from a golden chest.
+You get a fine emerald from a golden chest.
+You get a golden treasure from a golden chest.
+There were 25000 coins.
+
+The sacristan dragon:
+    a red cloak ARMOR AC -0 ac -10 wis 2 mag!cl
+    a strange warhammer WEAPON crush F0 5d5 hit 1 dam 1
+    a green key
+
+The monk dragon:
+    a brown monk robe ARMOR AC -0 ac -3 savespell -3
+    a steel club WEAPON crush F0 3d3 mag
+    a red key
+
+The Bishop dragon:
+    a cleric's pole WEAPON crush F0 6d2 dex -1 dam 1 mag
+    a banded mail shirt ARMOR AC -6 ac 1 wis 2 !cl!sl
+    a metallic key
+
+The Arch Bishop dragon:
+    a cleric rod WEAPON crush F0 2d5 hit 1 dam 1 mag!cl
+    a dragon scale belt ARMOR AC -5 ac -7 savebreath -2
+    a key to the sanctum KEY
+
+Teviros Sacred Sanctum:
+    a teviros ciborium LIGHT hit 2 dam 1 move -8 mag
+    a teviros chalice OTHER hit 1 dam 2 move -8 mag
+
+Not sure:
+    a white cloak ARMOR AC -0 ac -10 int 2 !cl
+    a mystic axe of the dragonkind WEAPON slash F0 7d4 hit 1 dam 1 mag
+
+Arynx, Queen of Dragonnia:
+    an onyx ring ARMOR AC -3 mp 20 dam 3 hit 3 level 35 mag!g!e
+
+Demodragon:
+    a plate of scale ARMOR AC -8 savebreath -2 savespell -3 !cl!sl
+    a body cloak of dragon scale ARMOR AC -9 ac -8 savespell -6 !cl
+    a dragon scale robe ARMOR AC -0 savespell -3 savebreath -3 !cl
+    a demodragon's claw (??, junked by mistake)

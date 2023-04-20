@@ -1,0 +1,84 @@
+--- notes
+
+Eastern end of Ishtar River out of New Thalos
+
+Through cave maze: 2n2w2swsns3eneu
+
+From south of B: n;n;w;w;s;s;w;s;n;s;e;e;e;n;e;u
+
+--- map
+
+            D           B           C
+            |           |           |           |
+        C - B - C   B - C - B   E - D - B     - E -
+            |           |           |           |
+          entry         B           B
+
+                                #
+                                |
+                                #
+                                |
+                                #
+                                |
+        New Thalos          # - # - #
+            |                   |
+            #               # - # - #                              # * #
+            |                   | |/                              /   ?
+            #       #   #   #   # A -   #   #   #   #     maze - #
+            |       |   |   |   |       |   |   |   |       |
+            # - # + # - # - # - # - # - # - # - # - # - # - #
+                    |   |   |   |       |   |   |   |
+                    #   #   #   #       #   #   #   #
+                                |
+                            # - # - #
+                                |
+                            # - # - #
+                                |
+                            # - # - #
+                                |
+                            # - # - #   #   #   #   #   #
+                                |       |   |   |   |   |
+                                # - # - # - # - # - # - #
+                                |       |   |   |   |   |
+                                #       #   #   #   #   #
+                                ∘
+                                #
+                                |
+                                Z
+
+                #
+               ∘|
+              1 +
+                |
+            0 - # - #
+                |/  |
+                A - #
+
+--- loot
+
+A troll shopkeeper:
+    a large bone OTHER con 2 wis 2
+    some rotten meat FOOD (plague)
+
+A thief (in 0):
+    a dagger WEAPON pierce F0 8d3 dam 2 hit 2 mag!e!n!mu!cl!wa!ra!as!sl!sk!dk!sd!nm
+    a cellar key KEY
+
+On the ground in 1:
+    a strange bottle POTION (40: sanctuary; sense life; group heal)
+
+A shadowy figure:
+    a sharp bone WEAPON pierce F0 6d4 !g!n!mu!cl!th!wa!ra!as!sl!sk!dk!nm
+
+the king of trolls is using:
+    <worn around neck>   a tiny key KEY (to door s end of village)
+    <held>               a stone key (to hatch below king)
+    a Silver Key
+    a bar of flawless steel TREASURE INSERT_PART
+
+a dwarven craftsman is using:
+    <worn about waist>   a Belt of Stone ARMOR AC -7 dam 1 hp 20 mag!e!mu!cl!as!sl!sd!nm<Paste>
+    <held>               the hammer of stone TREASURE dex 1 hp 30 dam 1 mag!n!mu!cl!th!as!sl!sd!nm
+
+a wooden chest:
+    Leggings of Silver WORN ac -10 hp 15 dam 2 int 1 mag!e!mu!cl!th!ra!as!dk!nm!wer

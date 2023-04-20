@@ -1,0 +1,57 @@
+---
+
+--- map
+
+                                            #
+                                            |
+                                    # < # - #
+                                        |
+                                    # - #
+                                    |
+                                    + Second Sewer
+                                    |+
+                                    #
+
+                        # * A
+                            +
+                            # - #
+                            |   |
+                            # - #
+                            |   |
+                            # - #   #   # - #
+                            +       |   |
+                            # - # - # - #
+                                    |
+                                    #
+                                    |
+                                    #       # - B           #
+                                    |       |               |
+                                # - # - #   # - # - # - # - #
+                                |                           |
+                                |             Second Sewer  |
+                                |            /              |
+                                # --------- # - # --------- #
+
+--- mobs
+
+The horrifying Mudmonster       In the small section through the secret from Second Sewer, or in Second Sewer
+The ugly wererat                Roaming the hallways
+The senior mindflayer           In the rooms south of A
+The junior mindflayer           In the rooms south of A
+The master mindflayer           In A
+The gigantic rat                In B
+
+--- loot
+
+You get a short sword from the corpse of the ugly wererat.
+You get a small stick from the corpse of the ugly wererat.
+
+You get the large mace from the corpse of the senior mindflayer.
+You get the small mace from the corpse of the junior mindflayer.
+
+In A:
+    You get a black key from the corpse of the master mindflayer.
+    You get a purple cloak from the corpse of the master mindflayer.
+    You get a bronze ring from the corpse of the master mindflayer.
+
+In B: the gigantic rat

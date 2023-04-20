@@ -1,0 +1,67 @@
+--- notes
+
+The tiny gold rod in the urn in (5) will not respawn.
+
+--- map
+
+                        # - # - 3        The Ancient Road
+              Trial     |   |   |               +
+           of the Adept # - # - #   4 - # - # - # - # - # - # - #
+                |       |                   |   |   |       *   |
+                #       # - # - # - # + # + # - # - # - #   #   0
+               /                            |   |   |   |   |
+              #                             #   #   #   2   1 - #
+             /                                                  |
+            #   #   #   # - # - # - # - #       #               |
+            |   |   |   |       |   |   |       |               |
+            |   # - #   #       # - # - # - # - # - #           #
+            |   |   |   |           |   |   |   |   |           |
+            # - # - # ∘ # - 6   7 ∘ # - # - 5 - # - # ----- #   |
+                |   |   |           |   |   |   |   |       |   |
+                # - #   #       # - # - # - # - # - #   # - # - #
+                |   |   |       |   |   |       |
+                #   #   # - # - # - # - #       #
+
+--- loot
+
+The Queen spider (in 0):
+    a bejewelled orb LIGHT hit 1 dam 2 mag!g!sk
+
+The Lieutenant (in 1):
+    a black steel broadsword WEAPON slash F0 7d4 hit 4 dam 1 mag!g!mu!cl!sl!sk
+    black steel platemail ARMOR AC -11 str 2 dam 1 !g!mu!th!as!sl!sk!sd
+    black platemail leggings ARMOR AC -11 dam 1 !g!mu!th!as!sl!sk!sd
+    black platemail sleeves ARMOR AC -11 dam 1 !g!mu!th!as!sl!sk!sd
+    a black steel shield ARMOR AC -10 dam 2 !g!mu!th!as!sl!sk!sd
+
+Ludwig the Priest (in 2):
+    a black steel mace WEAPON pound F0 7d4 hit 3 dam 3 mag!g!mu!th!ra!as!sl!sk!sd
+    unholy black robes ARMOR AC -7 mp 20 dam 1 mag!g!th!wa!ra!as!sl!sk!dk!sd
+
+Mustafa (in 3):
+    a diamond-shaped knife WEAPON pierce F0 18d1 hit 4 dam 2 mag!g!cl!sl!sk
+    black leather gloves OTHER ac -7 hit 2 dam 1 mag!g!sk
+    black chainmail ARMOR AC -9 hit 2 dam 1 mag!g!mu!sl!sk
+    a dark swirling cloak OTHER ac -7 hit 1 dam 2 mag!g!sk
+    a small key KEY (to stone door 3e from entrance)
+
+The Sergeant of the Guard (in 4):
+    a pair of black hob-nail boots ARMOR AC -8 move -10 dam 1 !g!mu!th!as!sl!sk!sd
+    black steel platemail ARMOR AC -11 str 2 dam 1 !g!mu!th!as!sl!sk!sd
+    a black steel great axe WEAPON slash F0 2d18 hit 2 dam 2 mag!g!mu!cl!th!as!sl!sk!sd
+
+A black marble urn (in 5):
+    a tiny gold rod KEY
+
+The shadow horror (in 6):
+    a black metal key KEY (to black door w of 6)
+
+The shadow demon (in 7):
+    <worn around wrist>  a shadow bracelet OTHER hit 2 dam 2 mag!g!sk
+    black chainmail ARMOR AC -9 hit 2 dam 1 mag!g!mu!sl!sk
+
+The Tower Guard (variously):
+    black steel scalemail ARMOR AC -8 str 1 !g!mu!th!as!sl!sk!sd
+    a black steel longsword WEAPON slash F0 5d4 hit 2 dam 2 !g!mu!cl!sl!sk
+    a black steel axe WEAPON slash F0 2d11 hit 1 dam 3 !g!mu!cl!th!sl!sk!sd
+    

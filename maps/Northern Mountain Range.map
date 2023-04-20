@@ -1,0 +1,128 @@
+Zone: Northern Mountain Range
+Description: Connector for many zones
+Notes:
+  - The part of the lake connecting Drakyri Isle is in the Mountain Monastery
+  - Land of the Reborn Amara guard north of lake
+  - 'Z' leads up to the 'Official Holiday Zone' which appears to be nothing
+  - Blackheart Keep's entrance is asymmetrical, going back south leads to The Irredenta
+  - Both the Giant and Water Elemental quest masters are near Blackheart Keep
+  - 'Y' has an asymmetrical link, returning south to one spot east of where it should
+  - North of 'Y' in Shaden is a stream containing a wet key, the path then joins to the Temple of Time
+  - Down out of J and the room below it are both one way
+  - The Ogre questmaster is in the Valley of the Mad Mage (Shadow Ogres)
+  - The ascended orc questmaster is in the Valley of the Mad Mage (Orcs)
+
+
+                                                                             #
+                                                                        The /|
+                                                                     Blasted |
+                                                                      Heath  |
+                                        Orcs                       # - #     #
+                                         |                         |   |    /
+                           The Valley of # the Mad Mage            |   #   #   #
+                                         |                         |      /   /
+                           Goblins - # - # - Shadow Ogres          # --- #   #
+                      /              |   |                               |   |
+                     D     Kobolds - # - #                               # - # - # - The Elven Valley
+                     |               |   |                               |
+                     #               # - # - Trolls                      #
+                     |               |                                   |
+                     #               # + Mountain Rangers, Brennen       #
+                     |               |                                   |
+ I - # - # - # - # - # - # - # - # - #                                   L            Land of the Reborn
+                                                                                               |
+                                    The                                  #                     #
+                                 Mountain                               /|                     |
+                                 Monastery                             # |                     #
+                                     |                                /  |                     |
+                                     #     # - # - # - #             #   |                 # - # - #
+                            Blasted /         /|      /             /    |                 |   |   |
+           2                 Heath #         H |     #         Clan Zone |                 # - # - # - # - # - # - Drakyri Isle
+           |                     |/|           |                       # | B               |   |   |
+           #         #           # |           |     Temple           /  |/                # - # - #
+           |        /            | |           |    of Time  # - # - B   C                    /                   To Olympus
+           # - # - #             # |           |       |     |   |  /|   |                   #                       /
+              /                 ⩗| |       Blac|kheart # #   |   | C |   |                   |      #           # - # - # - #
+         J - # - #             # K |           #Keep   |/|   # - # - # - #                   #     /               /       /
+         |   |   |            ⩗    |           | ^     # |  /   /   /                        |  # # Shaden  #     #       #
+         # - H - #           J # - #           | # Z     | E   D   # - A                 # - #  |/|   |     |    /
+                              /                | |/ Eleme|ntal     |                     |      # #   Y     # - #
+                         # - # - K             # #       | Canyon  |                     | A   /      |    /
+                         |                     | |       |/        |                     |/   # ----- # - #     #
+                         #                     | # - # - # ----- # |                     #    |       |   |     |
+                         |                     |/       /      |/  |                     |    |       |   |     #
+                         #                     #       #       F   |                     #    |       |   |     |
+                         |                            /       /    |                     |    | #     |   | # - #
+                     # - # - #                       G       #     |                     #    |/      |   |/
+                     |       |                       |       |     |                     |    # ----- # - #
+                     #       #                               # --- #                 # - #    |       |   |
+                    /|       |                               |     |       The       |        |       |   |
+                   # # - # - # - # - # - # - #               #     # - # - Mile-High #        # ----- # - #
+                  /   Valley                /                |     |   |   Bridge    |                |
+                 #   of Dawn L   # - #     / I   # - # - #   | The Grassland         #                #
+                         |   |   |   |    /  |   |    /  |   |                       |                |/
+                         # - # - # - # - # - # - # - G - # - # - #   # ------------- #                E
+                         |   |   |   |   |   |   |   |   |   |       |                                |/
+                         # - # - ======= The Grassland =======   # - #                                F
+                         |   |                                   |   |                               /
+                     The Grassland               The Grassland - # - The Grassland
+                                                         |   |   |
+                                         The Grassland - # - # - # - The Grassland
+                                                         |   |   |
+                                         The Grassland - 1 - The Grassland
+                                                         |
+                                                  The Grassland
+
+ 1. a Hippopotamus
+ 2. The peryton
+
+Valley of the Mad Mage:
+
+You get a camouflaged trench coat from the corpse of Captain Brennen.
+You get Woodland Arm Guards from the corpse of Captain Brennen.
+You get a camouflaged beret from the corpse of Captain Brennen.
+You get a ranger flask from the corpse of Captain Brennen.
+
+Object 'a ranger flask', Item type: LIQ CONTAINER
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 3, Value: 50, Rent: 200
+Max. Units: 20 Units left: 15 Liquid: water(clear)
+
+Object 'a camouflaged beret', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !DONATE !MAGE !CLERIC !THIEF !WARRIOR !ASSASSIN !SHOU_LIN !SOLAMN_KN !DEATH_KN !SHAD_DANC !MINOTAUR !NECRO IDENTIFIED
+Weight: 1, Value: 2000, Rent: 270
+AC apply: 8
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 2
+
+Object 'Woodland Arm Guards', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: HUM !DONATE MAGIC !EVIL !NEUTRAL !MAGE !CLERIC !THIEF !WARRIOR !ASSASSIN !SHOU_LIN !SOLAMN_KN !DEATH_KN !SHAD_DANC
+    !NECRO IDENTIFIED
+Weight: 2, Value: 10000, Rent: 230
+AC apply: 8
+Can affect you as :
+   Affects: DAMROLL By 2
+
+Object 'a camouflaged trench coat', Item type: CONTAINER
+Item will give you following abilities:  NOBITS
+Item is: HUM !DONATE MAGIC !EVIL !NEUTRAL !MAGE !CLERIC !THIEF !WARRIOR !ASSASSIN !SHOU_LIN !SOLAMN_KN !DEATH_KN !SHAD_DANC
+    !NECRO IDENTIFIED
+Weight: 5, Value: 20000, Rent: 1040
+Capacity: 810lbs Flags: NOBITS  Key: No Key Is corpse? No
+Can affect you as :
+   Affects: ARMOR By -8
+   Affects: DAMROLL By 2
+
+Object 'peryton's claws', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 20, Value: 6000, Rent: 275
+AC apply: 5
+Can affect you as :
+   Affects: DAMROLL By 2
+   Affects: DEX By 2
+

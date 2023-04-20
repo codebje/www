@@ -1,0 +1,898 @@
+--- notes
+
+To Astral Giths: 7w3sw5s2w open wall w close wall 2wn
+
+B: a huge beholder (aggro, 50mu)
+C: Clan Zone
+D: Drevlin
+E: Eurandus
+: Object 'a stone tooth', Item type: KEY, on the ground, for statue in 1
+
+0: say 'under dark' to Artegas to teleport here
+1: locked statue is here
+2: Antryg, Caris
+3: Priest of Xerxes and friends
+
+Assassin's Guild southeast part of town, including an assassin trainer.
+Inn southwest part of town, inconsequential mobs, several named.
+
+--- map
+
+
+                # - # - # - # - # - # - # - # - # - # - # - # - # - # - # - # - # - # - # - #
+                |                           |           |                                   |
+                #   # - # - # - # - #       #   # - #   #   # + #   #   #   # - # - # + #   #
+                |       +   |       |       |   |   |   |       |   +   +   |       |       |
+                #   # - #   #   # + # + #   #   2 - #   # + # - # - # - #   # + #   # - #   #
+                |   |   |   +       |       |       +   |       |   +   |   |       +   |   |
+                #   K - #   #   # + # + #   # - # - # - #   # + #   #   # - # + #   #   #   #
+                |           |               |           |       +                       +   |
+                D - # - # - # - # - # - # - #   # - #   #       #   # - # - # - #   # + #   #  Under Dark Extensions
+                +   +   +   +   |               |   |   |           |   |   |   |           |            /
+                #   #   #   #   #   # + # + #   # - #   # - # - # - # - # - # - # - # - # - #           #           #
+                                |       |       +   +   |           |                       |       ?  /            |
+                                #   # + # - #   #   #   #   # - #   #   #   # - #   #       #       # #             #
+                                |       |   +   +   |   |   |   |   |   +   |   |   +       |       +/              +
+                                #   # + #   # - #   #   #   # - #   #   # - # - # + # - #   #       #       E + # - #
+                                |       |           |   |   +       |   |   +   +   +   +   |      /            |   |
+                #   #   #   #   #   # - # - # - # - #   # C # + #   #   #   #   #   #   #   #     #             # - #
+                +   +   +   +   |   +                   |/  +       |   +                   |    /              |
+                # - # - # - # - # - # - # - # - # - # - 0 - # - # - # - # - # - # - # - # - # + #           # + H +
+                +   +   +   |   |                   |   |                   +               |
+                #   #   #   # - #   # - # - # - #   # - #   # - # - # - # - # + #           #
+                            |   |   |           +   |   |   +   +   +       |               |
+                #   #   #   # - #   # - # - # - # + # - #   #   #   #   # + # + #   # - # - #               # - #
+                +   +   +   |   |               +   |   |                   |       |       +               |   |
+                # - 1 - # - # - # - # - # - # - # - # - # - # - # - #   # + # + #   #   # + #               #   #
+                        |   |   |   |   |   |   |   +               |       |       |       +               |   |
+                # - # + #   a   b   c   d   e   #   #   # + # - #   # + # - # - # + #   # - #               #   #
+                |       |                       |   |       |   |   |   +   +   +   |                       |   |
+                # + #   #                       #   # - # - # - #   #   #   B   #   # - # - # - # - # - # - #   #
+  Astral        |       |                       |                   |               |                           |
+  Giths         # + #   # - # - # - # - # - # - # - 3 - # - # - # - # - # - # - # - #                       H + # - #
+    |           |       |                       |           *                   |   |                               |
+    #           # + #   #                       #       # + # + #               # - # ----- # - # - #               #
+    |                   |                       |           |                   |                   |               |
+    # - # - # + # - # - # - # - # - # - #       #   #       |       #   #   #   #   #   #   #   #   #               |
+                |                       |       |   +       |       +   +   +   |   +   +   +   +   |               |
+                #   #   #   #           #       # * # - # - # - # - # - # + #   #   # - # - # - #   #               #
+                |   +   +   +           |       |   +       |   +       |       |       |           |               |
+                #   # - # - # + # - #   #       #   #   # + #   # - # * # + #   #       |   # - # + # - # - # - # - #
+                |   +   +   +   |   |   |       |           |   |   |   |       |       |   |
+                #   #   #   #   # - # + #       #   # + # + #   # - #   # + #   #       #   #   #   #   #
+                |                       |       |                               |       |   |   +   +   +
+                # - # - # - # - # - # - #       # - # - # - # - # - # - # - # - #       # - # + # - # - # + # - #
+                                                                                |       +       +   +   +   |   |
+                                                                                # - # - # - #   #   #   #   # - #
+                                                                                            |
+                                                                                            #
+                                                                                            +
+                                                                                            v
+                                                                                       The Tunnels
+
+--- shops
+
+Jiestis in a:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A dirty root                                      48000
+  2)  Unlimited   Red moss                                          36000
+  3)  Unlimited   A large mushroom                                    240
+  4)  Unlimited   A brown mushroom                                  12000
+
+Satori in b:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A Scroll of the Under Dark                        12999
+
+Raesarnt in c:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A duergar bracer                                   5199
+  2)  Unlimited   Duergar leggings                                   5199
+  3)  Unlimited   A duergar shield                                   9099
+  4)  Unlimited   A duergar helm                                     6499
+  5)  Unlimited   Duergar breastplate                                7799
+
+Zae'tres in d:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A drow bow                                        50000
+  2)  Unlimited   A drow mace                                        3000
+  3)  Unlimited   A drow dagger                                      2400
+  4)  Unlimited   A drow sword                                       3600
+
+Yie'Stei in e:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   Potion of detection                               38999
+  2)  Unlimited   Hand of shocking grasp                             7032
+  3)  Unlimited   Scroll of reveal                                   5199
+
+The Barkeep near 2:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A shot of whisky                                     36
+  2)  Unlimited   A mug of beer                                        12
+  3)  Unlimited   A mug of ale                                          9
+  4)  Unlimited   A flask of firebreather                              72
+
+The inn keeper (east side of town):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A mug of beer                                        12
+  2)  Unlimited   A mug of ale                                          9
+  3)  Unlimited   A bottle of wine                                     96
+  4)  Unlimited   A mug of local speciality                            14
+
+--- items
+
+the keeper's shield ARMOR AC -7 savepara -2 saverod -2 savebreath -2 mag!sl
+
+Object 'elemental bracelet', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 10, Value: 100, Rent: 150
+Values not used for this item.
+Can affect you as :
+   Affects: STR By 1
+   Affects: DEX By 1
+   Affects: CON By 2
+
+Object 'a black belt', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !DONATE !MAGE !CLERIC !THIEF !WARRIOR !SELL !RANGER !ASSASSIN !SOLAMN_KN !DEATH_KN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 1, Value: 5000, Rent: 260
+Values not used for this item.
+Can affect you as :
+   Affects: STR By 2
+   Affects: MAXHIT By 15
+   Affects: ARMOR By -4
+
+Object 'Glinting gnome mace', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: !GOOD !THIEF !WARRIOR !RANGER !ASSASSIN !SHOU_LIN !SOLAMN_KN !SHAD_DANC IDENTIFIED
+Weight: 4, Value: 1340, Rent: 230
+Forge level: 0 No. dice: 4 Dice size: 4 Type: pound
+Can affect you as :
+   Affects: MAXHIT By 10
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 1
+
+Object 'a blade of poison', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM MAGIC !GOOD !MAGE !CLERIC !WARRIOR !RANGER !SHOU_LIN !SOLAMN_KN !DEATH_KN !NECRO IDENTIFIED
+Weight: 3, Value: 2310, Rent: 585
+Forge level: 0 No. dice: 5 Dice size: 6 Type: pierce
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 2
+
+Object 'deep blue robe', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 10, Value: 400, Rent: 170
+Values not used for this item.
+Can affect you as :
+   Affects: INT By 1
+   Affects: MAXMANA By 20
+
+Object 'leggings', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM MAGIC IDENTIFIED
+Weight: 10, Value: 200, Rent: 65
+Values not used for this item.
+Can affect you as :
+   Affects: ARMOR By -5
+   Affects: HITROLL By 1
+
+Object 'truesilver bracelet', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM MAGIC IDENTIFIED
+Weight: 10, Value: 400, Rent: 220
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: MAXHIT By 10
+   Affects: MAXMANA By 15
+
+Object 'chromium dagger', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 10, Value: 800, Rent: 485
+Forge level: 0 No. dice: 5 Dice size: 6 Type: pierce
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 1
+
+Object 'scalemail', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 10, Value: 60, Rent: 230
+AC apply: 8
+Can affect you as :
+   Affects: INT By 2
+   Affects: MAXHIT By 10
+
+Object 'scale coif', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 10, Value: 60, Rent: 190
+AC apply: 8
+Can affect you as :
+   Affects: INT By 2
+   Affects: STR By 1
+
+Object 'scale leggings', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 5, Value: 100, Rent: 160
+AC apply: 8
+Can affect you as :
+   Affects: DEX By 2
+
+Object 'scale sleeves', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 10, Value: 100, Rent: 100
+AC apply: 8
+Can affect you as :
+   Affects: STR By 1
+
+Object 'tower shield', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 10, Value: 60, Rent: 85
+AC apply: 9
+
+Object 'battle axe', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 10, Value: 60, Rent: 485
+Forge level: 0 No. dice: 5 Dice size: 6 Type: slash
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 1
+
+Object 'Thieve's gloves', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !GOOD !MAGE !CLERIC !WARRIOR !RANGER !SHOU_LIN !SOLAMN_KN !DEATH_KN !NECRO IDENTIFIED
+Weight: 2, Value: 1200, Rent: 200
+AC apply: 4
+Can affect you as :
+   Affects: DEX By 2
+   Affects: STR By 2
+
+Object 'Gold Teeth', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: BLESS !SHOU_LIN IDENTIFIED
+Weight: 1, Value: 1000, Rent: 545
+AC apply: 3
+Can affect you as :
+   Affects: STR By 2
+   Affects: CHA By 3
+   Affects: AGE By -10
+
+Object 'a black translucent shirt', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: BLESS IDENTIFIED
+Weight: 2, Value: 400, Rent: 160
+Values not used for this item.
+Can affect you as :
+   Affects: CON By 2
+   Affects: MAXHIT By 10
+
+Object 'Belt of pleasure', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: BLESS IDENTIFIED
+Weight: 1, Value: 300, Rent: 30
+Values not used for this item.
+Can affect you as :
+   Affects: DEX By 1
+
+Object 'Ring of nobility', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: BLESS IDENTIFIED
+Weight: 1, Value: 400, Rent: 240
+Values not used for this item.
+Can affect you as :
+   Affects: INT By -2
+   Affects: MAXHIT By 15
+
+Object 'a gold chain', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 2, Value: 1410, Rent: 145
+AC apply: 5
+Can affect you as :
+   Affects: STR By 1
+   Affects: DEX By 1
+   Affects: INT By 1
+   Affects: WIS By 1
+
+Object 'a huge eye of justice', Item type: WAND
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM !DONATE MAGIC IDENTIFIED
+Weight: 1, Value: 8000, Rent: 800
+Spell lvl: 45 Max charges: 3 Charges left: 3 spell: chain lightning
+
+Object 'Slime of the enforcing eye', Item type: POTION
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 1, Value: 0, Rent: 0
+Spell lvl: 23 spell1: detect invisibility spell2: heal spell3: sense life
+
+Object 'Skull tattoo', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !GOOD !MAGE !CLERIC !WARRIOR !RANGER !SHOU_LIN !SOLAMN_KN !NECRO IDENTIFIED
+Weight: 1, Value: 5410, Rent: 100
+Values not used for this item.
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 1
+
+Object 'Sleeves of knowledge', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !GOOD !WARRIOR !SOLAMN_KN !DEATH_KN IDENTIFIED
+Weight: 3, Value: 9762, Rent: 410
+Values not used for this item.
+Can affect you as :
+   Affects: INT By 3
+   Affects: MAXMANA By 25
+
+Object 'a unholy symbol of Xerxes', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: HUM CURSED BLESS !GOOD IDENTIFIED
+Weight: 3, Value: 4380, Rent: 335
+Values not used for this item.
+Can affect you as :
+   Affects: WIS By 2
+   Affects: MAXMANA By 25
+   Affects: ARMOR By -5
+
+Object 'Breast plate of strength', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM MAGIC !GOOD !MAGE !CLERIC !SHOU_LIN !SOLAMN_KN !NECRO IDENTIFIED
+Weight: 4, Value: 12000, Rent: 315
+AC apply: 5
+Can affect you as :
+   Affects: STR By 3
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 1
+
+Object 'Sword of darkness', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: !GOOD !NEUTRAL !MAGE !CLERIC !SHOU_LIN !SOLAMN_KN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 4, Value: 3450, Rent: 525
+Forge level: 0 No. dice: 5 Dice size: 6 Type: drain
+Can affect you as :
+   Affects: STR By 1
+   Affects: HITROLL By 2
+
+Object 'a piece of polished blood stone', Item type: TREASURE
+Item will give you following abilities:  NOBITS
+Item is: !RENT IDENTIFIED
+Weight: 1, Value: 25000, Rent: 480
+Values not used for this item.
+Can affect you as :
+   Affects: MAXHIT By 25
+
+Object 'an assassin's mask', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !MAGE !CLERIC !WARRIOR !RANGER !SHOU_LIN !SOLAMN_KN !NECRO IDENTIFIED
+Weight: 3, Value: 2000, Rent: 120
+AC apply: 0
+Can affect you as :
+   Affects: STR By 1
+   Affects: CON By 1
+   Affects: DAMROLL By 1
+
+Object 'a choke wire', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: !MAGE !CLERIC !THIEF !WARRIOR !RANGER !SHOU_LIN !SOLAMN_KN !DEATH_KN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 1, Value: 5000, Rent: 385
+Forge level: 0 No. dice: 6 Dice size: 4 Type: strangle
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 2
+
+Object 'Flaming dagger tattoo', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !GOOD !MAGE !CLERIC !WARRIOR !RANGER !SHOU_LIN !SOLAMN_KN !DEATH_KN !NECRO IDENTIFIED
+Weight: 1, Value: 2400, Rent: 160
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By 2
+
+Object 'Wyvern tattoo', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !GOOD !MAGE !CLERIC !WARRIOR !RANGER !SOLAMN_KN !NECRO IDENTIFIED
+Weight: 1, Value: 2700, Rent: 100
+Values not used for this item.
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 1
+
+Object 'Dragon tattoo', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM MAGIC !GOOD !MAGE !CLERIC !WARRIOR !RANGER !SOLAMN_KN !DEATH_KN !NECRO IDENTIFIED
+Weight: 1, Value: 23000, Rent: 160
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By 2
+
+Object 'a glowing sphere', Item type: WAND
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM !RENT !DONATE MAGIC !SELL IDENTIFIED
+Weight: 3, Value: 1000, Rent: 190
+Spell lvl: 40 Max charges: 1 Charges left: 1 spell: change alignment
+Can affect you as :
+   Affects: MAXMANA By 15
+
+Object 'Black drow chainmail', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: HUM CURSED !SHOU_LIN !SOLAMN_KN IDENTIFIED
+Weight: 5, Value: 2000, Rent: 235
+AC apply: 7
+Can affect you as :
+   Affects: DEX By 1
+   Affects: MAXHIT By 15
+
+Object 'an ebony morning star', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: HUM IDENTIFIED
+Weight: 6, Value: 4500, Rent: 275
+Forge level: 0 No. dice: 5 Dice size: 5 Type: crush
+Can affect you as :
+   Affects: CON By 1
+   Affects: DAMROLL By 1
+
+Object 'a midnight blue bracer', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: HUM IDENTIFIED
+Weight: 3, Value: 400, Rent: 30
+Values not used for this item.
+Can affect you as :
+   Affects: DEX By 1
+
+Object 'an ebony dagger', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: HUM MAGIC IDENTIFIED
+Weight: 4, Value: 23000, Rent: 495
+Forge level: 0 No. dice: 7 Dice size: 4 Type: pierce
+Can affect you as :
+   Affects: HITROLL By 2
+
+Object 'a mage cloak', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM !CLERIC !THIEF !WARRIOR !RANGER !ASSASSIN !SHOU_LIN !SOLAMN_KN !DEATH_KN !SHAD_DANC IDENTIFIED
+Weight: 2, Value: 3000, Rent: 235
+AC apply: 3
+Can affect you as :
+   Affects: MAXMANA By 25
+
+Object 'a jagged long sword', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: HUM IDENTIFIED
+Weight: 5, Value: 3000, Rent: 395
+Forge level: 0 No. dice: 8 Dice size: 3 Type: slash
+Can affect you as :
+   Affects: HITROLL By 2
+
+Object 'Svirfneblin leggings', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: MAGIC !SHOU_LIN IDENTIFIED
+Weight: 3, Value: 1231, Rent: 85
+AC apply: 7
+Can affect you as :
+   Affects: STR By 1
+
+Object 'Necklace of nobility', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 3, Value: 2000, Rent: 90
+Values not used for this item.
+Can affect you as :
+   Affects: STR By 1
+   Affects: INT By 1
+   Affects: WIS By 1
+
+Object 'a broadsword named 'Vision'', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM MAGIC !GOOD !CLERIC !SHOU_LIN !SOLAMN_KN IDENTIFIED
+Weight: 4, Value: 3000, Rent: 735
+Forge level: 0 No. dice: 6 Dice size: 5 Type: sting
+Can affect you as :
+   Affects: DEX By 1
+   Affects: MAXHIT By 5
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 2
+
+Object 'Small purple worm scale', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: BLESS IDENTIFIED
+Weight: 1, Value: 30000, Rent: 190
+Values not used for this item.
+Can affect you as :
+   Affects: MAXHIT By 15
+   Affects: HITROLL By 1
+
+Object 'Huge purple worm scale', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM !DONATE !GOOD !MAGE !CLERIC !SOLAMN_KN !NECRO IDENTIFIED
+Weight: 4, Value: 5000, Rent: 200
+Values not used for this item.
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 2
+
+Object 'a pair of keiko gloves', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !DONATE !MAGE !CLERIC !THIEF !WARRIOR !SELL !RANGER !ASSASSIN !SOLAMN_KN !DEATH_KN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 1, Value: 10000, Rent: 180
+Values not used for this item.
+Can affect you as :
+   Affects: ARMOR By -2
+   Affects: HITROLL By 2
+   Affects: DAMROLL By 1
+
+Object 'a suit of kubotan armor', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !DONATE !MAGE !CLERIC !THIEF !WARRIOR !SELL !RANGER !ASSASSIN !SOLAMN_KN !DEATH_KN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 8, Value: 10000, Rent: 360
+Values not used for this item.
+Can affect you as :
+   Affects: DEX By 1
+   Affects: MAXHIT By 15
+   Affects: ARMOR By -12
+
+Object 'Thieve's eyepatch', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !GOOD !MAGE !CLERIC !WARRIOR !RANGER !SHOU_LIN !SOLAMN_KN !DEATH_KN !NECRO IDENTIFIED
+Weight: 2, Value: 2010, Rent: 110
+AC apply: 6
+Can affect you as :
+   Affects: DEX By 1
+   Affects: HITROLL By 1
+
+Object 'a broken bottle', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: !DONATE IDENTIFIED
+Weight: 2, Value: 100, Rent: 130
+Forge level: 0 No. dice: 4 Dice size: 3 Type: slash
+Can affect you as :
+   Affects: DEX By -1
+   Affects: DAMROLL By 1
+
+Object 'a spider pendant', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !MINOTAUR !GNOME !ORC !ELF !DRACONIAN !HALFLING !OGRE !TROLL !DWARF !HUMAN IDENTIFIED !REMORT
+Weight: 1, Value: 50000, Rent: 240
+Values not used for this item.
+Can affect you as :
+   Affects: MAXMANA By 10
+   Affects: DAMROLL By 2
+   Affects: HITROLL By 1
+
+Object 'supple black boots', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: INVISIBLE MAGIC IDENTIFIED
+Weight: 1, Value: 3000, Rent: 300
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By 2
+   Affects: HITROLL By 1
+   Affects: ARMOR By -10
+
+Object 'a diamond helm', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN !MINOTAUR IDENTIFIED
+Weight: 2, Value: 1000, Rent: 740
+AC apply: 10
+Can affect you as :
+   Affects: MAXHIT By 25
+   Affects: DAMROLL By 2
+
+Object 'a small black stone', Item type: OTHER
+Item will give you following abilities:  NOBITS
+Item is: !RENT INVISIBLE MAGIC !NEUTRAL IDENTIFIED
+Weight: 1, Value: 1000, Rent: 440
+Values not used for this item.
+Can affect you as :
+   Affects: STR By 3
+   Affects: MAXMOVE By 50
+
+Object 'Demon Horn', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM MAGIC !GOOD !SHOU_LIN !SOLAMN_KN IDENTIFIED
+Weight: 4, Value: 6666, Rent: 460
+Forge level: 0 No. dice: 4 Dice size: 6 Type: impale
+Can affect you as :
+   Affects: ARMOR By -10
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 2
+
+Object 'Ancient Sword', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM MAGIC !GOOD !MAGE !CLERIC !THIEF !RANGER !ASSASSIN !SHOU_LIN !SOLAMN_KN !DEATH_KN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 10, Value: 60, Rent: 1055
+Forge level: 0 No. dice: 6 Dice size: 6 Type: maul
+Can affect you as :
+   Affects: HITROLL By 2
+   Affects: DAMROLL By 1
+
+Object 'scalemail', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 10, Value: 60, Rent: 230
+AC apply: 8
+Can affect you as :
+   Affects: INT By 2
+   Affects: MAXHIT By 10
+
+Object 'scale leggings', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 5, Value: 100, Rent: 160
+AC apply: 8
+Can affect you as :
+   Affects: DEX By 2
+
+Object 'Black Shield of Protection', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM MAGIC !GOOD !MAGE !CLERIC !SHOU_LIN !SOLAMN_KN !NECRO IDENTIFIED
+Weight: 4, Value: 2300, Rent: 155
+AC apply: 7
+Can affect you as :
+   Affects: ARMOR By -10
+
+Object 'Dull eyes', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM CURSED !SHOU_LIN !SOLAMN_KN IDENTIFIED
+Weight: 1, Value: 100, Rent: 240
+AC apply: 2
+Can affect you as :
+   Affects: WIS By -3
+   Affects: MAXMANA By 10
+
+Object 'Gauntlets of the eye', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM !DONATE MAGIC !GOOD !SHOU_LIN !SOLAMN_KN IDENTIFIED
+Weight: 3, Value: 3000, Rent: 215
+AC apply: 5
+Can affect you as :
+   Affects: STR By 2
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 1
+
+Object 'Helm of the eye', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM MAGIC !GOOD !CLERIC !THIEF !WARRIOR !RANGER !ASSASSIN !SHOU_LIN !SOLAMN_KN !SHAD_DANC !MINOTAUR IDENTIFIED
+Weight: 4, Value: 4000, Rent: 335
+AC apply: 9
+Can affect you as :
+   Affects: CON By 2
+   Affects: MAXMANA By 15
+   Affects: MAXHIT By 10
+
+Object 'the brains of an alien god', Item type: POTION
+Item will give you following abilities:  NOBITS
+Item is: GLOW IDENTIFIED
+Weight: 1, Value: 100000, Rent: 10180
+Spell lvl: 50 spell1: sanctuary spell2: awaken spell3: chain lightning
+Can affect you as :
+   Affects: WIS By 2
+   Affects: INT By 2
+
+Object 'a very sharp pin', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: INVISIBLE IDENTIFIED
+Weight: 1, Value: 300, Rent: 500
+Forge level: 0 No. dice: 3 Dice size: 5 Type: pierce
+Can affect you as :
+   Affects: STR By -3
+   Affects: MAXHIT By -15
+   Affects: HITROLL By 2
+
+Object 'a small deadly dart', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: INVISIBLE IDENTIFIED
+Weight: 1, Value: 400, Rent: 250
+Forge level: 0 No. dice: 6 Dice size: 2 Type: pierce
+Can affect you as :
+   Affects: STR By -2
+   Affects: HITROLL By 2
+
+Object 'Very muddy branch', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM MAGIC CURSED IDENTIFIED
+Weight: 15, Value: 100, Rent: 810
+Forge level: 0 No. dice: 2 Dice size: 4 Type: crush
+Can affect you as :
+   Affects: DEX By -2
+   Affects: HITROLL By -5
+   Affects: DAMROLL By 2
+
+Object 'Bracer of strength', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM MAGIC !GOOD !SOLAMN_KN IDENTIFIED
+Weight: 3, Value: 3000, Rent: 190
+Values not used for this item.
+Can affect you as :
+   Affects: STR By 3
+
+Object 'a pair of dusty boots', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !RENT !MAGE !SHOU_LIN !NECRO IDENTIFIED
+Weight: 2, Value: 1, Rent: 940
+AC apply: -12
+Can affect you as :
+   Affects: DEX By -3
+   Affects: MAXMOVE By -50
+   Affects: DAMROLL By -3
+
+Object 'a gnome hat', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: HUM !SHOU_LIN IDENTIFIED
+Weight: 2, Value: 101, Rent: 220
+AC apply: 4
+Can affect you as :
+   Affects: DEX By 2
+   Affects: HITROLL By 2
+
+Object 'Lucky dice', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC IDENTIFIED
+Weight: 2, Value: 1000, Rent: 250
+Values not used for this item.
+Can affect you as :
+   Affects: SAVING_ROD By -1
+   Affects: SAVING_PETRI By -1
+   Affects: SAVING_BREATH By -2
+   Affects: SAVING_SPELL By -1
+
+Object 'a jewelled dagger', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: HUM IDENTIFIED
+Weight: 3, Value: 3000, Rent: 1060
+Forge level: 0 No. dice: 6 Dice size: 6 Type: pierce
+Can affect you as :
+   Affects: DEX By 2
+   Affects: ARMOR By -5
+   Affects: DAMROLL By 1
+
+Object 'a dark cloak', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !GOOD !SOLAMN_KN IDENTIFIED
+Weight: 3, Value: 2500, Rent: 200
+Values not used for this item.
+Can affect you as :
+   Affects: DEX By 2
+   Affects: HITROLL By 2
+
+--- loot
+
+You get battle axe from the corpse of Caris.
+You get elemental bracelet from the corpse of Caris.
+You get tower shield from the corpse of Caris.
+You get scale sleeves from the corpse of Caris.
+You get scale leggings from the corpse of Caris.
+You get scale coif from the corpse of Caris.
+You get scalemail from the corpse of Caris.
+
+You get chromium dagger from the corpse of Antryg.
+You get truesilver bracelet from the corpse of Antryg.
+You get leggings from the corpse of Antryg.
+You get deep blue robe from the corpse of Antryg.
+
+You get a black belt from the corpse of the simple monk.
+You get a Ki headband from the corpse of the simple monk.
+
+You get Thieve's gloves from the corpse of the filcher.
+
+You get Gold Teeth from the corpse of the pimp.
+
+You get a black translucent shirt from the corpse of a maid of passion.
+You get Ring of nobility from the corpse of a preferred customer.
+You get Belt of pleasure from the corpse of a granter of pleasure.
+
+You get a gold chain from the corpse of the rogue.
+
+You get a huge eye of justice from the corpse of the huge beholder.
+
+You get Slime of the enforcing eye from the corpse of the great enforcing eye.
+
+You get Skull tattoo from the corpse of the killer.
+
+You get Sleeves of knowledge from the corpse of the necromancer.
+
+You get a unholy symbol of Xerxes from the corpse of a high priest of Xerxes.
+
+You get a piece of polished blood stone from the corpse of the behir.
+
+You get Sword of darkness from the corpse of the drow trader.
+
+You get Breast plate of strength from the corpse of the fighter.
+
+You get an assassin's mask from the corpse of the expert assassin.
+
+You get a choke wire from the corpse of the assassin.
+
+You get Flaming dagger tattoo from the corpse of the senior assassin.
+
+You get Wyvern tattoo from the corpse of the prime assassin.
+
+You get Dragon tattoo from the corpse of the guildmaster.
+
+You get a glowing sphere from the corpse of Snaromba.
+
+You get a midnight blue bracer from the corpse of Anmictes.
+
+You get an ebony morning star from the corpse of Emba.
+
+You get Black drow chainmail from the corpse of Shillikif.
+
+You get an ebony dagger from the corpse of Endolar.
+
+You get a jagged long sword from the corpse of Thespan.
+
+You get a mage cloak from the corpse of Prax.
+
+You get Svirfneblin leggings from the corpse of the svirfneblin.
+
+You get Necklace of nobility from the corpse of the svirfneblin dignitary.
+
+You get a broadsword named 'Vision' from the corpse of the caretaker.
+
+You get Small purple worm scale from the corpse of the purple worm.
+
+You get Huge purple worm scale from the corpse of the huge purple worm.
+
+You get a pair of keiko gloves from the corpse of the warrior monk.
+You get a suit of kubotan armor from the corpse of the warrior monk.
+
+You get Thieve's eyepatch from the corpse of Orak.
+
+You get a broken bottle from the corpse of the half-orc.
+
+You get a spider pendant from the corpse of the drow.
+
+You get supple black boots from the corpse of Drevlin.
+
+You get a diamond helm from the corpse of the platinum golem.
+
+You get a small black stone from the corpse of the imp.
+
+You get Demon Horn from the corpse of the babau.
+
+You get Ancient Sword from the corpse of Itreres.
+You get Black Shield of Protection from the corpse of Itreres.
+You get scale leggings from the corpse of Itreres.
+You get scalemail from the corpse of Itreres.
+
+You get Dull eyes from the corpse of the mage.
+
+You get Gauntlets of the eye from the corpse of the beholder's underling.
+
+You get Helm of the eye from the corpse of the beholder legionnaire.
+
+You get the brains of an alien god from the Statue of an Alien God.
+
+You get a very sharp pin from the corpse of the jinxkin.
+
+You get a small deadly dart from the corpse of the jermlaine.
+
+You get Very muddy branch from the corpse of the slime creature.
+
+You get Bracer of strength from the corpse of Jarre.
+
+You get a gnome hat from the corpse of Geg.
+
+You get Lucky dice from the corpse of the sharper.
+
+You get Golden earring from the corpse of the master thief.
+
+You get a jewelled dagger from the corpse of the head thief.
+
+You get a dark cloak from the corpse of the magsman.
+

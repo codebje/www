@@ -1,0 +1,119 @@
+--- notes
+
+INCOMPLETE: Adsir is 51 AS, high damage/hp.
+
+From Samsera: 16w6swse14s7e2s4e3n17ed
+
+All underwater except for first room (!magic), hidden rooms (0 !portal peace, 1 !portal)
+
+Path to first hidden room: d3enenenenenenene <open hidden> n <close hidden>
+Path to second hidden room: d3eneneneneneneneseseseseseseseseses <open hidden> e <close hidden>
+
+Under the Seabed are tunnels until first south.
+
+--- map
+
+                                            #       0
+                                            |       +
+                                        # - # ----- # - #   #
+                                            |       |       |
+                                        #   |   # - # ----- # - #
+                                        |   |       |       |
+                                    # - # - # - #   #       |   #
+                                        |   |               |   |
+                                    #   |   #       A < # < A - # - #
+                                    |   |                   |   |
+                                # - # - # - #               #   |   #
+                                    |   |                       |   |
+                                #   |   #                   # - # - # - #
+                                |   |                           |   |
+                            # - # - # - #                       #   |   #
+                                |   |                               |   |
+                            #   |   #                       B < # < B - # - #
+                            |   |                                   |   |
+                        # - # - # - #                               #   |   #
+                            |   |                                       |   |
+                        #   |   #                                   # - # - # - #
+                        |   |                                           |   |
+                    # - # - # - #                                       #   |   #
+                        |   |                                               |   |
+     Reggid Ocean   #   |   #                                           # - # - # - #
+           /        |   |                                                   |   |
+          #     # - # - # - #                                               #   |   #
+         /          |   |                                                       |   |
+        # - # - # - #   #                                                   # - # - # - #
+                                                                                |   |
+                                                                                #   |   #
+                                                                                    |   |
+                                                                                # - # - # - #   C
+                                                                                    |   |       ∧
+                                                                                    #   |       #
+                                                                                        |       ∧
+                                                                                    # - # ----- C - #
+                                                                                        |       |
+                                                                                        #       |
+                                                                                                |
+                                                                                            #   |
+                                                                                            |   |
+                                                                                        # - # - # + 0
+                                                                                            |   |
+                                                                                        #   |   #
+                                                                                        |   |
+                                                                                    # - # - # - #
+                                                                                        |   |
+                                                     #                              #   |   #
+                                                     |                              |   |
+                                                 # - # - #                   D  # - # - # - #
+                                                    x|                       ∧      |   |
+                                                   ⩗ |                       #      |   #
+                                                  #  |                       ∧      |
+                                                 ⩗   |   #               # - D ---- # - #
+                                                #    |   |                   |      |
+                                               ⩗ # - # - # - #           #   |      #
+                                              #      |   |               |   |
+                                              |      #   |       #   # - # - # - #
+                                              |          |       |       |   |
+                                              |      # - # ----- # - #   |   #
+                                              |          |       |       |
+                                              |          #   # - # ----- # - #
+                                              |                  +       |
+                                              |                  1       #
+                                              |
+                                              |
+                                              |
+                                              ∨
+                                              G       G
+                                              ∨       ∧
+                                              E   L < K > G
+                                              ∨       ∧
+                                          G < F > G < J > G
+                                              ∨       ∧
+                                          G < H ----> I > G
+                                              ∨       ∨
+                                              G       G
+
+        G               G               G               G               2               ?
+        ∧               ∧               ∧               ∧               ∧               ∧
+    M < L > G       G < M > G       G < N > G       G < O > P       G < P > G   Q * # < 2 > ?
+        ∨               ∨               ∨               ∨               ∨               ∨
+        G               N               O               G               G               G
+
+        3se2n2w2se
+
+                                            Q
+                                            V
+                            # < # < # < # < #
+                            V
+                            #
+                            V
+                            #
+                            V
+                            3
+
+--- loot
+
+Adsir, the royal assassin (in 2):
+    ??
+
+Queen Califa (in 3):
+    ??

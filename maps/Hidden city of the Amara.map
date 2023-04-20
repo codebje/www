@@ -1,0 +1,48 @@
+--- notes
+
+Octypus in 1 will give mages/amara a pearl, send others to sleep.
+
+No-exit room down from D, E, G
+Peace room in C, J
+Gnurl's shop in a is not underwater, !magic
+
+First layer exits shift, Gnurl is a "compass" - go one cardinal past whatever direction his shop is, eg if he's north
+go east.
+Tiax tells you, 'its de2s2ene from there'
+
+--- map
+
+       Tuatha
+           \
+            @ 1
+             \|
+              @                             G
+               \                            ^
+                @                           a                   C
+                 \                          ^                   ^
+                  A - D ----- F     G < I < G > J > G       L < K > J
+                  |\  |\      V\            V\   \              V\
+                  B - E > F   G         K   I                   I C
+                  |\   \                ^
+                  C > J > K         G < I > A               E < L - M
+                   \  V\                |\                      v\   \
+                      G                 @                       K
+
+
+                  B,F
+                    \
+             A,C @ - @
+                \|
+                 @ -
+
+--- loot
+
+--- shops
+
+Gnurl (in a):
+
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A quiver of osmium arrows                         16500
+  2)  Unlimited   A cup of sweetwater                                3300
+  3)  Unlimited   Glowing jar                                         440

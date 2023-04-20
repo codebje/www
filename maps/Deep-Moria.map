@@ -1,0 +1,190 @@
+--- notes
+
+"cook_dwarf" pp into the zone
+
+Zone reset is approximately every hour. If the zone will not be run quickly be sure to place
+portal points after each unlocked door to allow returning to the different areas.
+
+Primal earth elemental questmaster is here.
+Dwarven questmaster is here.
+
+Balin is a questmaster.
+    Balin tells you, 'The Orog Chieftain in Moria has an important map that I need.'
+    Balin tells you, 'Please kill the Chieftain and bring me his map.'
+    Balin tells you, 'Bring me the proof and be rewarded!'
+
+--- map
+
+                        # - # - #
+                            |
+                            #           #
+                            |           |
+                            # - # - # - #
+                            |           |
+    # + #                   #           #
+        |                   |
+        # - # - #           #
+        |       |           |
+    # + #       #           #                       #
+                |           |/                      |
+                # - # - # - A - # - # - # - # - # - # - # - #
+                            |                              /
+                            #                             C
+                            |
+                            #
+                            |
+                            #
+                            |
+                            #
+                            |
+                        # - # - # #
+                                +/|
+                          #     # |
+                          |       |
+                      # - # - # - # - # - #
+                          |               |
+                          #               #
+                                          |
+                                      # - # - #
+                                          |
+                                          #
+
+                    #
+                    |
+                    #
+                    |
+                    #
+                    |
+                    #
+                    |
+                    #                       # - # - 7   # - #
+                    |                       ∘           |   |
+                    #                       #   # - # - #   5
+                    |                       |           |
+            # - #   #                       # - # - #   #
+            |       |                               |   |        /
+        ☠ - a - ☠   #                       # - # - # - # - # - C
+            |       |                       |   |   |       |
+            # - # - # ∘ # - # ∘ # - # ∘ 9 - # - #   #       |
+                    |                       |       |       |
+                    #                       #       # - # > B
+                    |                       |           |   |
+                    #                   # - #           #   # > B
+                    |                   |               |
+                    #           #   # - #               ∘
+                    |           |   |                   ∨
+                    #       # - 8 ∘ #                   # - # - #
+                                |                               |
+                                #                               6
+
+                            #
+                           /|
+                          # |
+                         /  |
+            4           #   #
+            |          /    |
+            # - #     #     #
+                |    /      |
+                #   A       #               # - # - 3
+                |           |               |
+        # - # - # - # - # - # - # - # - # - #
+                |           |
+                #           #
+                            ∘
+                            2
+                            |
+                            #
+                            |
+                            #           #
+                            |           |
+            # - #       # - # - # - # - # - #
+            |   |       |   |   |       |
+            # - # ∘ 1 - # - # - #       #
+                        |   |   |
+                        # - # - # - #
+                        |   |   |
+                        # - # - #
+                                |
+                                #
+                                ∘
+                                0 - #
+                                |
+                                # Moria
+                                |/
+                                #
+
+--- loot
+
+The Dwarven Cook:
+    a ladle WEAPON pound F0 3d5 str 1 hp 10
+
+The dwarven guard (in 0):
+    <worn on body>       dwarven chain mail ARMOR AC -5 str 1 !e!mu!sl!nm
+    <wielded>            a hand-axe WEAPON slash F0 2d4 hit 1 dam 1 !e!mu!nm
+    <held>               an iron key KEY
+
+The dwarven guard (in 1):
+    <worn on body>       dwarven chain mail ARMOR AC -5 str 1 !e!mu!sl!nm
+    <wielded>            a hand-axe WEAPON slash F0 2d4 hit 1 dam 1 !e!mu!nm
+    <held>               a mithril key (invisible) KEY
+
+The dwarven guard (in 2):
+    <worn on body>       dwarven chain mail ARMOR AC -5 str 1 !e!mu!sl!nm
+    <wielded>            a hand-axe WEAPON slash F0 2d4 hit 1 dam 1 !e!mu!nm
+    <held>               a large key KEY
+
+Balin (2wn of 1):
+    <worn on head>       Durin's Helm ARMOR AC -10 hp 25 ac -5 dam 1 !e!mu!sl!dk!sd!min!nm
+    <wielded>            Durin's Axe WEAPON slash F0 7d4 dam 3 ac -10 !e!mu!cl!th!sl!sd!nm
+
+The Orog Chieftain (in 3)
+    <worn on body>       a suit of hide armor ARMOR AC -13 move -25 dex -2 !g!sl
+    <worn on legs>       a pair of hide leggings ARMOR AC -6 dam 1 wis -3 !g!sl
+    <held>               a tactical map NOTE int 2 age 5
+
+The orog shaman (in 4):
+    <wielded>            a clawed staff WEAPON pound F0 12d2 mp 25 dam 3 mag!cl!th!wa!ra!as!sl!sk!dk!sd
+
+The earth elemental (in 5):
+    <worn as cloak>      a Stone Key KEY (to door leading to 6)
+    <worn on arms>       earthen arm plates ARMOR AC -12 dam 1 age 15 !mu!sl!nm
+    a pink potion POTION (30: haste; !NO SPELL!; !NO SPELL!)
+
+The trapper (in 6):
+    <worn as cloak>      a silver key KEY !wer (to door leading to 7)
+
+On the ground (in 6, 7, w, s, n of 8):
+    an emerald potion POTION (30: refresh; !NO SPELL!; !NO SPELL!)
+
+The purple worm (in 7):
+    <worn as cloak>      a steel key KEY (to door to 8)
+
+The Stone Giant (n of 8):
+    <worn as cloak>      an electrum key KEY (to first door w of 9)
+    <worn on body>       a stone breast plate ARMOR AC -15 move -30 weight 50 mag!sl
+
+The Stone Giant (s of 8):
+    <worn as cloak>      a golden key KEY (to second door w of 9)
+    <worn on body>       a stone breast plate ARMOR AC -15 move -30 weight 50 mag!sl
+
+The Stone Giant (w of 8):
+    <worn as cloak>      a platinum key KEY (to third door w of 9)
+    <worn on body>       a stone breast plate ARMOR AC -15 move -30 weight 50 mag!sl
+
+The Balrog (in a):
+    <worn as cloak>      the Mane of the Balrog
+    <worn on body>       a swirling shroud of darkness (invisible)
+    <worn on legs>       flaming leg plates
+    <worn on feet>       flaming hooves
+    <worn about waist>   flaming belt of power
+    <wielded>            the Flaming Sword
+    <held>               a flaming whip
+
+Razlyn gets a flaming whip from the corpse of the Balrog.
+Razlyn gets the Flaming Sword from the corpse of the Balrog.
+Razlyn gets flaming belt of power from the corpse of the Balrog.
+Razlyn gets flaming hooves from the corpse of the Balrog.
+Razlyn gets flaming leg plates from the corpse of the Balrog.
+Razlyn gets a swirling shroud of darkness from the corpse of the Balrog.
+Razlyn gets the Mane of the Balrog from the corpse of the Balrog.
+Razlyn gets Treasure Mound of the Balrog from the corpse of the Balrog.

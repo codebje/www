@@ -1,0 +1,173 @@
+--- notes
+
+--- map
+
+                                        1
+                                        |
+                                        #
+                                        |
+                            #   # - # - # - # - #
+                            ∘          /|
+                        # ∘ # ∘ #   # / #
+                            |x      |/  |
+                            A       #   #
+                                    |
+                            #       0       #
+                            |      x|       |
+                        # - #     A |       # - #
+                            |       |       |
+                        # - # - # - # - # - # - #
+                            |       |       |
+                            #       #       #
+                                    |
+                                    #   a   c   e   #   #       #
+                                    |   |   |   |   |   |       |
+                                    # - # - # - # - # - # + # - #
+                                    |   |   |   |   |           |
+                                    #   b   d   f   #           #
+                                    |
+                                    #
+                                    |
+                                    #
+                                   /
+                                  #
+                                 /
+                                #
+                               /
+                   Northern Mountain Range
+
+--- loot
+
+Zeus (in 0):
+    <worn around neck>   a key
+    <worn as shield>     the Aegis
+    <held>               Zeus' Thunderbolt
+
+A guard (d of 0):
+    a cell key KEY
+
+Prometheus:
+    the ring of wisdom ARMOR AC -5 wis 3 mag
+    Promethius' torch LIGHT wis 3 con 3 mag
+
+Hera:   
+    <held>               the rod of smiting WEAPON pound F0 4d8 dam 1 hit 2 mag!mu!th!as!sl!sd!nm
+
+Poseidon
+    <worn on hands>      coral gauntlets ARMOR AC -5 mp 25 spelldam 17 mag!cl!th!wa!ra!as!sl!sk!dk
+    <held>               Poseidon's Trident WEAPON impale F0 5d6 hp 15 mag!cl!th!ra!as!sl!sk!dk
+
+Hestia:
+    the glowing brazier LIGHT mp 25 ac -10 mag!mu!th!wa!ra!as!sl!sk!dk!sd!nm
+
+Theseus:
+    <held>               the golden broadsword WEAPON slash F0 6d5 hit 1 dam 1 mag!e!n!mu!cl!th!as!sl!dk!sd!nm
+
+Odysseus:
+    <worn on head>       a leather headband ARMOR AC -7 str 3 con 2 mag!mu!cl!th!as!sl!sd!nm
+
+Perseus:
+    the vorpal longsword WEAPON slash F0 6d5 hit 2 dam 1 mag!e!n!mu!cl!th!as!sl!dk!sd!nm
+
+Hephastus:
+    Hephaestus' hammer WEAPON crush F0 6d5 str 2 mag!mu!sl!nm
+
+Dionysus:
+    purple robe ARMOR AC -7 mp 50 mag!mu!cl!th!wa!ra!as!sl!sk!dk!nm
+
+Circe:
+    a shimmering black robe CONTAINER ac -5 mp 40 mag!g!cl!th!wa!ra!as!sl!sk!dk!sd
+
+Ares:
+    the Spear of Ares WEAPON impale F0 7d5 hp 15 dam 2 str -1 mag!g!mu!cl!th!as!sl!sk!sd!nm
+    the shield of Ares ARMOR AC -6 dam 2 ac -3 mag!g!n!mu!cl!th!ra!as!sl!sk!sd!nm
+
+Jason:
+    bracers of protection ARMOR AC -6 dam 1 hit 1 mag!sl
+
+Achilles:
+    a chainmail vest ARMOR AC -10 con 1 dam 1 str 1 mag!mu!cl!th!as!sl!sd!nm
+
+Bellerophon:
+    golden shin guards ARMOR AC -9 hit 1 dam 1 mag!e!n!mu!cl!th!as!sl!dk!sd!nm
+
+Athena:
+    the shield of Athena ARMOR AC -11 dam 2 str 1 savespell 6 mag!e!n!mu!cl!th!as!sl!dk!sd!nm
+    spear of Athena WEAPON impale F0 7d5 dam 2 mag!e!n!mu!cl!th!as!sl!sd!nm
+
+Apollo:
+    a golden lyre STAFF (40: charm person 3/3) mag
+    Apollo's longbow FIRE WEAPON (range 2 stun 1) hit 1 dam 1 mag!e!mu!cl!th!as!sl!sk!dk!sd!nm
+
+Nike:
+    <held>               the Rod of Power ARMOR AC -5 hp 20 dam 2 mag!mu!cl!th!as!sl!sd!nm
+
+Aphrodite:
+    <worn around wrist>  a golden bracelet ARMOR AC -10 mp 20 mag!cl!th!wa!ra!as!sl!sk!dk
+
+Hermes:
+    the white caduceus STAFF (30: charm person 2/2) mag
+    a pair of winged sandals ARMOR AC -10 move 50 dex 2 mag!sl
+    the Winged Helmet of Hermes ARMOR AC -10 dex 3 move 20 mag!sl!min
+
+Artemis:
+    <worn on legs>       woodland leggings ARMOR AC -8 move 5 dam 2 mag!e!mu!cl!th!wa!as!sl!sk!dk!sd!nm
+
+Demeter:
+    <held>               the scythe of Demeter WEAPON slash F0 12d3 mag!e!mu!cl!th!as!sl!dk!sd!nm
+
+Tyche:
+    <worn about body>    a sphere of protection ARMOR AC -10 savebreath -5 savespell -5 mag
+
+--- shops
+
+The Bartender (in a):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A tankard of ale                                      2
+  2)  Unlimited   A sparkling bottle of water                           5
+  3)  Unlimited   A fine glass of wine                                  5
+
+The Alchemist (in b):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A potion of safety                                 9750
+  2)  Unlimited   A translucent potion                              30000
+  3)      1       A potion of sight                                 30000
+  4)  Unlimited   A vial of Olympian nectar                         22500
+  5)  Unlimited   Ambrosia                                          60000
+
+The Craftsman (in c):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A porcelain pegasus                                7500
+  2)  Unlimited   An oak walking stick                                750
+  3)  Unlimited   An embroidered cloth umbrella                      1500
+  4)  Unlimited   A miniature palace made of glass                  30000
+  5)  Unlimited   A rose crafted from emeralds and rubies          150000
+
+The Baker (in d):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A bunch of grapes                                     6
+  2)  Unlimited   A piece of apple pie                                 24
+  3)  Unlimited   A piece of honey-bread                               18
+
+The Weapon Smith (in e):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A fine steel broadsword                             750
+  2)  Unlimited   A fine steel dagger                                 450
+  3)  Unlimited   A steel tipped arrow                                 15
+  4)  Unlimited   An ironwood staff                                   150
+  5)  Unlimited   A fine steel spear                                  525
+
+The Armorer (in f):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A set of steel bracers                             1500
+  2)  Unlimited   A steel breastplate                                2250
+  3)  Unlimited   A steel helmet                                     1500
+  4)  Unlimited   A steel shield                                     2250
+  5)  Unlimited   A pair of steel shin guards                        1500
+

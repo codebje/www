@@ -1,0 +1,103 @@
+--- notes
+
+From Samsera: d16w6swse14s10wdw3n2e
+
+Portal to Turlough, silvered lute Rhyvis quest
+
+Death trap near wind guardian wasn't checked - room description is highly suggestive.
+
+--- map
+
+                                              A --------- #
+                                              |           |
+                            # - #             |       #   |
+                            |  x|             |      x    |
+                            | F |             #     # - ☠ |
+                            |   |            ⩗|    /      |           ⋂   ⋂
+                        #   # - #           6 # - #       # - # - #   # - # ⊃
+                        |   |               *                     |       |
+                        E + #       # - # - 5 - 7 ∘ 8             # - # > # ⊃
+                            |               |                         |   |
+                        # - #               #       2 > 3             # > #
+                        |   |               |                        /    |
+                        # - # * # + 9       #       2 <∘1           #     +
+                        |   |   |           ∘           *           |     |
+                        # - #   # - # - # + 3 + # + # - #           # --- #
+                        |   |   |           +                       |     |
+                        # - #   #           #                       # --- #
+                                |           *                       |     |
+                                # - 0 + #   4                       # --- #
+                                            |                       |     |
+                                            # - # - # - # --------- # --- #
+                                            |
+                                          ⊂ # ⊃
+                                            |
+                                          ⊂ # ⊃
+                                ⋂   ⋂   ⋂   |
+                                B - # - # - # ⊃
+                               ⩗⋃   ⋃   ⋃   ⋃
+                      D < # - C > B
+                     ⩗|
+                D < # > C
+                      |
+     The Mystic Sea > #
+                      |
+                   The Tombs
+                   of Tarin
+
+--- items
+
+The Beastmaster (in 0):
+    a silver shortsword WEAPON slash F0 3d6 savespell -2 !g!e!wer
+
+Aloysius the Prophetess (in 1):
+    a gray wool cord ARMOR AC -6 dex 2 mag!g!e
+    a flowing saffron gown ARMOR AC -10
+    a silver headband ARMOR AC -5 mp 15 con -1 mag!e!th!sl!wer
+    an amethyst ring ARMOR AC -5 hit 2 con 1 !g!e
+    the blackened key KEY (for door in her room)
+
+80,000 coins (in 2)
+
+The Druidic Ostiar (in 4):
+    a silver shortsword WEAPON slash F0 3d6 savespell -2 !g!e!wer
+    a pair of dragonskin boots ARMOR AC -9 !g!wa!sl!rent
+    a night helm ARMOR AC -7 int 2 mag!g!sl!min
+    a moonstone STAFF (word of recall) dam 2 savespell 6 !g
+    the greenish key KEY (for door north of 3)
+
+A Fire Minion (in 5):
+    a flaming spear WEAPON impale F0 3d7 dam 1 mag!g
+
+A burly hobgoblin (in 6):
+    the alabaster key KEY
+
+The High Immolator (in 7):
+    a blue serpentine rod WEAPON crush F0 8d3 age 5 dam 1 !g!th!wa
+    a black silk cape ARMOR AC -0 str 2
+    a wicked bronze dagger WEAPON pierce F0 5d4 dex 1 hit 2 mag!g!wa
+    the bronze key KEY (for magnificent door in his room)
+
+Ivo (in 8):
+    the blue crystal of Sight KEY mag
+    a cold steel chest (too heavy to remove from corpse)
+
+A cold steel chest:
+    a black velvet cape ARMOR AC -8 con 3 !g!th!wa
+    5000 coins
+
+Bobd-Derg (wandering south-east of 4):
+    the amethyst key KEY (for chest with Ivo)
+
+Zephirus (in A):
+    the Cloak of Invisibility CONTAINER ac -15 !e
+
+The sphinx (TODO move to Tombs of Tarin)
+    a white medallion ARMOR AC -2 age 8 mag!e
+
+On the ground in E:
+    a lavender potion POTION (heal strength !NO SPELL!) mag
+    the Universal Implement OTHER move 10 age -10 !e
+
+The ghost of Macsen (in F, !magic room):
+    the Sword of Macsen WEAPON slash F0 4d7 dam 2 savespell -3 mag!g!e

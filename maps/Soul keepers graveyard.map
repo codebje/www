@@ -1,0 +1,55 @@
+--- notes
+
+Portal to undertaker, or walk via Lord Vrolock's.
+
+ghoul, skeleton, crow,
+
+--- map
+
+                                            ?
+                                            ∘
+                                            #
+                                            +
+        # - # - # - # --------- # - # - # - # - # (not quite right, close enough)
+        |   |   |               |
+        #   #   #               #
+        |                       |
+        #                       #                         # ------------------------- #
+        |                       |                        /+                           |
+        #   #   #               #                       # #                           |
+        |   |   |               |                       |                             |
+        # - # - # ----- # ----- # ----- # ----- # + # + #   # ----------------- #     |
+        |       *               |                          /+                   |     |
+      ∘ #       #               |                     # + # #     # ----- #     |     |
+        |       |               |                         |      /+       |     |     |
+        |   # - # - #           #                         | # + # #     # |     |     |
+        |       |               |                         |     |       ∘ |     |     |
+        |   # - # - #           #                         |     |       2 |     |     |
+        |                       |                         |     |       + |     |     |
+        # - #   #       1       #                         |     |       # |     |     |
+        |       |       ∘       |                         |     |      /  |     |     |
+        # ----- # - # - # - # - # - # - # - # - # - #     |     | # + #   |     |     |
+                    |       |   +   |       |   |         |     |     |   |     |     |
+                    #       #   #   #       #   #         |     |     # - # + # |     |
+                           /    |                         |     |               |     |
+                          0     #                         |     # ------------- # + # |
+                                |                         |                           |
+                                #                         # ------------------------- # + #
+                                +
+                          Lord Vrolock's
+
+--- loot
+
+A graverobber (in 0):
+    <held>               a dirty key (to coffin)
+A pine coffin (in 0):
+    a bone earring WORN hit 2 dex -1 con 2 !g
+
+An evil ghost (wandering):
+    a crypt key KEY (to 1)
+
+A lich (in 1):
+    <worn on face>       a dusty mask
+
+The angel of the undead (in 2):
+    ??

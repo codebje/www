@@ -1,0 +1,107 @@
+--- notes
+
+Entrance from Irredenta
+
+--- map
+
+                    Irredenta
+                        ∨                                        /
+                        # A                     # - # --------- A --------- # - 1
+                        |/                          |          /|           |
+            # - # ----- 9 ----- # - #               # - #   #   |   #   # - #
+                |       |       |                   |       |   |   |       |
+                0 - #   #     # |                   # - 7   # - # - # - # - # + 6
+                |   |   |    x  |                   |           |           |
+                |   # B # - # - #                   |       # - # - #       |
+                |   |/          |                   |           |/          |
+            # - # - # --------- # - #           # - # --------- B --------- # - 2
+                   ∘                                           /
+                  E
+
+    # - #             C         # - #                   # ----- # ----- #
+   x    |            /          |                       |       |       |
+  5     # --------- # --------- #                       |       C       |
+        |          /|           |                       |      /        |
+        |         A |           |                       |       #       |
+        |           |           |                       |       ∘       |
+        #   # - # - # - #       #                       #   # - # - #   #
+        |   |   |   |           |                       |       |       |
+        |   3 - #   | D         |                       |       | #     |
+        |           |/          |                       |       |x      |
+        # --------- # --------- #                       |       D       |
+        |          /            |                       |      /|       |
+        4         B             # - ☠                   # ----- # ----- #
+
+          9
+         ⩘
+        8
+        ∘
+        #
+        ∘
+        #
+        ∘∘
+        E
+
+--- loot
+
+The corpse of a dead guardsman (in 0):
+    a runed sword WEAPON slash F0 6d5 dam 2 mag
+
+The corpse of a priest (east of 0):
+    Nicked Silver Sword WEAPON pierce F0 6d5 hit 1 mag!e!wer
+
+The corpse of a slaughtered mage (west of A):
+    Ring of Waterwalking BOAT mag
+
+A stage 1 (various):
+    sextant TREASURE
+    Mandrel's Staff WEAPON pound F0 8d4 mp 20 hit 2 mag!th!wa!ra!as!sl!sk!dk!sd
+
+A stage 2 (various):
+    sextant TREASURE
+    Mandrel's Staff WEAPON pound F0 8d4 mp 20 hit 2 mag!th!wa!ra!as!sl!sk!dk!sd
+
+A Fire Elemental (in 1):
+    Flame Sword WEAPON slash F0 6d5 str -2 dam 2 mag
+    Flame Tongue LIGHT hit 2 savebreath -4 savespell -4 mag
+
+Flower (in 2):
+    Thorn WEAPON pierce F0 6d4
+
+On the ground in 3:
+    a glowing #4 key KEY mag (to starwall s of 8)
+
+A corpse (in 3):
+    Book of Magics TREASURE mp 40 mag!th!wa!ra!as!sl!sk!dk!sd
+
+Demon (in 4):
+    Pitchfork WEAPON stab F0 8d4 age 5 dam 2 mag!g
+
+A corpse (in 4):
+    Rune of warding TREASURE ac -12 savespell -5 savebreath -5 mag
+
+Mage (in 5):
+    Ring of Wizardry ARMOR AC -5 mp 25 mag!th!wa!ra!as!sl!sk!dk!sd
+
+A corpse (nw of D):
+    a glowing #1 key KEY mag (to gate to E)
+
+A corpse (ne of D):
+    Speed Boots ARMOR AC -7 dex 3 move 60 hit 2 mag!sl
+
+On the ground above D:
+    a glowing #2 key KEY mag (to n of D, n in E)
+
+Beetle (in 6):
+    a Beetle Ring CONTAINER mag
+
+A corpse (in 7):
+    Robe of Displacement ARMOR AC -4 ac -8 hit 2 mag
+
+On the ground (2n of D):
+    a glowing #3 key KEY mag (2n of E)
+
+Stage 3 (in 8) is using:
+    <worn on body>       robes of the arch-magi ARMOR AC -14 mp 20 spelldam 25 mag!cl!th!wa!ra!as!sl!sk!dk!sd
+    <worn on head>       a sorcerers cap ARMOR AC -7 int 2 mp 25 dam 1 mag!cl!th!wa!ra!as!sl!sk!dk!sd
+    <worn as shield>     a globe of force ARMOR AC -10 mp 25 ac -10 dam 2 mag!cl!th!wa!ra!as!sl!sk!dk!sd

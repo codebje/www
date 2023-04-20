@@ -1,0 +1,34 @@
+--- notes
+
+Map isn't quite right, seems perhaps more compact vertically on left than towards right. Many aggro mobs, all of
+which see invis and hide.
+
+--- map
+
+  Meth-Merutl + # - #               # - # - # - # - # - # - # - # - # - # - # - # - # - # - ☠
+                    |               |   |   |           |   |   |   |   |   |   |   |   |
+                    # - # - # - # > # - # - # - # - #   # - # - # - # - # - # - # - # - # - ☠
+                        ∧           |   |   |   |   |   |   |   |   |   |   |       |
+                        |           # - # - # - # - #   # -       - # -             # - #
+                        |           |   |   |           |   |   |   |               |   |
+                        # - # - # < # - # - # - # - # - # - # - # - # -             # - 0
+                                    |   |   |   |   |   |   |   |   |   |   |   |
+                                    # - # - # - # - # - # - # - # - # - # - # - # -
+                                    |   |   |   |   |   |   |   |   |   |   |   |
+                                    # - # - # - # - # - # - # - # - # - # - # - # -
+                                    |   |   |   |   |   |   |   |   |   |   |   |
+                                    # - # - # - # - # - # - # - #   # - # - # -
+                                    |   |   |   |   |   |   |   |   |   |   |
+                                    # - # - # - # - # - # - # - #   # - # - # -
+                                    |   |   |   |   |   |   |   |   |   |   |
+                                    # - # - # - # - # - # - # - #   # - # - #
+                                    |   |   |   |   |   |   |   |   |   |   |
+                                    # - # - # - # - # - # - # - # - # - # - # -
+
+--- loot
+
+The alpha male lion:
+    the Mane of the Alpha Male CONTAINER dam 2 hp 20 ac -4 !mu!cl!gnm!nm!fae
+
+An incarnation of an izarti lord (in 0):
+    <worn on face>       the Visage of an Izarti Lord

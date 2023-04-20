@@ -1,0 +1,128 @@
+--- notes
+
+Ascended human questmaster roams, likely in upper city.
+
+Exits N, E, and W from B are to Isles of the Pirate Lords.
+
+--- map
+
+                    6
+                    |
+                    # - 3 - 5
+                            |
+                            # - #
+                        |       |
+                      - B -     #
+                       *|       |
+                      C |   # - # - 4
+             The        |   |   |   |
+    # - 4   Ocean - # - # - # - # - # - # - #
+        |          +    |   |   |/  |       |
+        #         C # - # - # - A   #       5 - #
+        |           |   |   |   |   |
+        # - # - # - # - # - # - #   #
+        |   |   |   |   |   |       |
+        # - # - # - # - # - # - # - #
+                |   |
+                # - #
+                    |
+                    #
+
+                                #
+                               /|
+                              A +
+                                |
+                            e - # - d
+                                |
+                        #   c - # - b
+                        |       |/      |
+                    # - # - # - # - # - #
+                        |   |   |   |   |
+                        #   #   0   | # 2
+                               *    |/
+                              #     a
+                              |
+                              1
+                              ∨    ∘
+                              # - # - #
+                              |   |*  |
+                              # - C - #
+                              |
+                              #
+
+--- loot
+
+The harbor patrolman:
+    a patrol globe LIGHT
+    a trident WEAPON impale F0 5d6 dex 1 con 1
+    scale mail ARMOR AC -5 !sl
+
+Princess Gara (roaming, likely upper city, 50mu):
+    an amulet of wisdom TREASURE wis 4 success 5 mp 20 !orc!dra!ogr!dem!wer!und!drw
+
+Mayor Friendly (in 0):
+    an old key KEY
+
+The pirate guard (in 1):
+    an emerald helmet ARMOR AC -5 int 2 wis 1 !sl
+    an emerald wristguard WORN dex 2 hp 10 str 1
+    an emerald longsword WEAPON slash F0 5d6 dex 2 int 1
+
+Whitecap, 8th Admiral of Freeport (in 2):
+    the Sextant LIGHT wis 2 dam 1 mag!as!sl!sk!dk
+
+A blue-tongued lizard (in 3):
+    a blue lizard tongue FOOD (Edible) spell: refresh
+
+A red-tongued lizard (in 4):
+    a red lizard tongue FOOD (poison) spell: blindness
+
+A green-tongued lizard (in 5):
+    a green lizard tongue FOOD (Edible) spell: cure light
+
+The fisherman (in 6):
+    a fishing pole POLE hit 1 dam 1 con 1
+
+Admiral Blacksail (in 7):
+    a pinch of devil's weed POTION (40: blindness; poison; paralyze)
+    an admiral's cape WORN str 2 age -10
+    an admiral's signet WORN dam 2 wis 1 mag
+
+--- shops
+
+Midge, the innkeeper of the Crew's Quarters (in a):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A glass of Freeport chablis of wine                 189
+  2)  Unlimited   A plate of gravy and dumplings                       37
+  3)  Unlimited   A glass of Freeport burgundy of wine                 94
+
+Raedner the dwarven smith (in b):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A dwarven thrower                                  1440
+  2)  Unlimited   A quiver of copper arrows                           750
+  3)  Unlimited   Emerald armor                                      1440
+
+Samantha, witch of the Mystic Eye (in c):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A milk-like potion                                18000
+  2)  Unlimited   A bubbling potion of seltzer                      12000
+  3)  Unlimited   A Samsera scroll of recall                         3600
+  4)  Unlimited   A Freeport Scroll of Recall                        4200
+  5)  Unlimited   A mystic eye                                       3000
+
+Lefty, owner of the Sunken Pirate (in d):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A cube of gelatin                                  5509
+  2)  Unlimited   A mug of sailor's grog of dark ale                   18
+  3)  Unlimited   A meat pie                                           18
+
+Anwar, proprietor of the Emporium (in e):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A tapestry                                        22799
+  2)  Unlimited   A silver plate                                    22799
+  3)  Unlimited   A holy wafer                                      17099

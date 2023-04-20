@@ -1,0 +1,57 @@
+--- notes
+
+From Samsera: 20w2n3e
+
+--- map
+
+        0   Haon- - # - # - #
+        +    Dor    |   |   |
+        # - # - #   # - #   #
+        |   |   |   |   |   |
+        # - # - #   # - #   #
+        |   |   |   |   |   |
+        # - # - # - # - #   |
+        |   |   |   |       |
+        # - # - # The Elven #     0
+        |       | Forest    +    / 
+        # + 1   #   # + # + # - #                       0
+                    |   +   +                          /|
+                    # + # + # + #                   # + #
+                    |       |                           |
+                    +       | 1                     # + #
+                    |       |/                          |
+                    # --+-- #                           1
+                                                       /
+
+--- loot
+
+A druid:
+    some grayish herbs POTION (detect invisibility !NO SPELL! !NO SPELL!)
+
+A druidess:
+    some purplish herbs POTION (regenerate !NO SPELL! !NO SPELL!)
+
+On the ground:
+    a spice jar CONTAINER
+In a spice jar:
+    some black powder WAND (sleep) !g!mu!cl!wa!ra!sl!sk!dk
+
+The Hierophant:
+    some bluish herbs POTION (heal !NO SPELL! !NO SPELL!)
+    some blackish herbs POTION (sanctuary !NO SPELL! !NO SPELL!)
+    a brown robe ARMOR AC -6 con 1 !e!sl
+    a wooden staff WEAPON pound F3 3d3 dex 1 !e
+
+The elder druidess:
+    a wooden staff WEAPON pound F3 3d3 dex 1 !e
+    some pinkish herbs POTION (invisibility !NO SPELL! !NO SPELL!)
+    some reddish herbs POTION (refresh !NO SPELL! !NO SPELL!)
+
+Aillen (in 0):
+    a flute WAND (sleep) mag
+    a crimson staff WAND (demon fire) mag
+
+Fionn (in 1):
+    a cloak of infinite folds CONTAINER dam 2
+Fiacha:
+    a diamond atheme WEAPON pierce F0 6d5 age 5 dam 1 dex 1 !mu!cl!wa!ra!sl!sk!dk

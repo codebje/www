@@ -1,0 +1,53 @@
+--- notes
+
+Tiax tells the group, 'from crystal obsidian is nwne | all n 2esese2nes2es'
+
+--- map
+
+        # - #   # - # - # - #   # - # - #   # - # - #   # - #   # - #
+        |   |   |           |   |       |       |   |       |   |   |
+        #   # - #   # - #   #   #   #   # - #   #   # - # - #   #   #
+        |       |   |   |       |   |       |   |    /      |   |   |
+        #   # > # - #   # - # - #   # - #   # - #   # - # ∘ # - #   #
+        |   |           |   |   |       |                   |       |
+        #   # - # - #   # - #   # - #   # - # - #   # - # - #   # - #
+        |   |   |   |   |           |   |       |   |               |
+        #   # - 0 - #   # - #   #   # - #   #   #   #   # - # - #   #
+        |   |   |   |   |   |   |           |   |   |   |       |
+        #   # - # - #   #   #   # - # - # - #   #  !M   # ∘ 1   # Trial of the Adept
+        |       |           |   |               |   |           |   |
+        # - #   A   #   # - #   # - # - # - # - #   # - # - # - #   #
+            |       |               ∧                               |
+        # - # - # - # - # - # > A   # - # - # - # - # - # - # - # - #
+
+--- loot
+
+A large crystal (in 0, a large crystal CONTAINER !pick):
+    a glowing rod of light KEY savespell -5 mag (to portal to 1)
+
+The Cloud of Darkness (in 1):
+    a obsidian key KEY (to Trial of Despair)
+
+The Disciple:
+    a black steel warhammer WEAPON pound F0 5d4 hit 2 dam 2 !g!mu!th!as!sl!sk!sd!nm
+    black steel chainmail ARMOR AC -10 str 1 hp 15 !g!mu!sl!sk!nm
+
+The Life Stealer:
+    Life Essence POTION (35: heal; change alignment; !NO SPELL!)
+
+Baebas (roaming):
+    <worn about body>    mummy wrappings ARMOR AC -4 move -33
+    <wielded>            a black iron flail WEAPON pound F0 3d10 !mu!th!as!sd!nm
+    <held>               a strange crystal KEY (to large crystal in 0)
+
+Lord Abraxus the Depraved:
+    <worn on body>       a black iron breastplate ARMOR AC -10 dam 1 mag!g!n!mu!th!as!sl!sk!sd!nm
+    <worn on head>       a black iron helm ARMOR AC -10 dam 1 mag!g!n!mu!th!as!sl!sk!sd!min!nm
+    <worn as shield>     the shield of midnight ARMOR AC -11 hp 33 dam 3 mag!g!n!mu!th!as!sl!sk!sd!nm
+    <wielded>            a wight blade WEAPON slash F0 10d3 mag!g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+
+Drelnza is using:
+    <worn on finger>     a golden ring
+    <wielded>            the shadow blade (invisible)
+    <held>               a ruby chalice
+

@@ -1,0 +1,159 @@
+--- notes
+
+Portal dockmaster.
+
+--- map
+
+            # - # - # ----- # ----- # - # - #
+            |   |   |       |       |   |   |
+            |   #   #       #       #   #   |
+            |               |               |
+            |   #   #       |       #   #   |   #
+            |   |   |       |       |   |   |   +
+            # - # - # ----- # ----- # - # - # - # + #
+            |   |   |       |       |   |   |   |
+            |   #   #       #       #   #   |   |
+            |                               |   |
+            # - #       h   g   f       # - #   # * #
+            |           |   |   |           |
+            |       i - # - # - d - e       |           #
+            |           |   |   |           |           |
+            # - # ----- # - # - # ----- # - # - # ----- # - # ∘
+            |   |       |   |   |       ∘   |
+            |   o   n - # - # - # - j       |   #   #
+            |           |   |   |           |   |   |
+            #           m   |   k         # # - # - # - #
+            |               |            /  |   |   |
+            |   p       0   # - l   a   b   |   #   c
+            |   |       |   |       |   |   |
+            # - # ----- # - # ----- # - # - #
+                        |
+                        #
+                        |
+                        #
+                        |
+             Isles of the Pirate Lords
+
+--- loot
+
+The dockmaster (in 0):
+    the chain of office WORN dam 2 int 2
+
+--- shops
+
+Captain Harcastle (in a):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A roll of sailcloth                                 300
+  2)  Unlimited   A coil of rope                                      120
+
+The waiter (in b):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A mutton sandwich                                    15
+  2)  Unlimited   A plate of mutton stew                               12
+  3)  Unlimited   A mug of ale                                          5
+
+The Skipper (in c):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A kayak                                             440
+  2)  Unlimited   A dinghy                                            540
+
+Vinzule (in d):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A hot meat pie                                       45
+  2)  Unlimited   A sausage on a stick                                 35
+  3)  Unlimited   A sausage in a bun                                   40
+
+Alutoh (in e):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A silk vest                                         600
+  2)  Unlimited   Leather shinguards                                  400
+  3)  Unlimited   A woolen overcoat                                   300
+  4)  Unlimited   A leather duster                                    250
+
+Hysatu (in f):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A pair of leather boots                             400
+  2)  Unlimited   A pair of soft shoes                                150
+  3)  Unlimited   A tin of boot polish                                 20
+
+Ishexido (in g):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A Turrian scroll of recall                         3500
+  2)  Unlimited   An Freeport scroll of recall                       3500
+  3)  Unlimited   An Abenos scroll of recall                         3500
+
+Lileki (in h):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A sketch of Abenos                                  100
+  2)  Unlimited   A carved wooden elf                                1500
+  3)  Unlimited   A tin troll                                        2000
+  4)  Unlimited   A ship in a bottle                                 3000
+
+Zepheba (in i):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A wall clock                                     500000
+  2)  Unlimited   A tiny clock on a chain                          950000
+  3)  Unlimited   A small clock                                    450000
+
+Bithul (in j):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   Some beef jerky                                      15
+  2)  Unlimited   A roll of bandages                                   20
+  3)  Unlimited   A tin of tea                                         25
+  4)  Unlimited   A tin of sugar                                       15
+
+Tyzede (in k):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   Some lamb cutlets                                    35
+  2)  Unlimited   Some pork spare ribs                                 40
+  3)  Unlimited   A rib eye fillet                                     45
+  4)  Unlimited   Some pork sausages                                   30
+
+The waitress (in l):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A roast beef sandwich                                15
+  2)  Unlimited   A plate of beef stew                                 12
+  3)  Unlimited   A mug of ale                                          5
+
+A waitress (in m):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A cold pint of beer                                  40
+  2)  Unlimited   A steak sandwich                                     50
+  3)  Unlimited   A plate of chicken kiev                              55
+
+Sobacci (in n):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A blown glass rose                                75000
+  2)  Unlimited   A glass bowl                                        540
+  3)  Unlimited   A glass decanter                                    350
+  4)  Unlimited   A glass tumbler                                      60
+  4)  Unlimited   A glass of wine                                      90
+
+Agnos (in o):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A fizzing potion                                    900
+  2)  Unlimited   A sparkling potion                                60000
+  3)  Unlimited   A clear potion                                      900
+
+Flotsam Sam (in p):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A quiver of silver arrows                           825
+  2)  Unlimited   A backpack                                         1474
+  3)  Unlimited   A water canteen of water                            704
+  4)  Unlimited   A floppy hat                                        583

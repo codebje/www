@@ -1,0 +1,52 @@
+--- notes
+
+--- map
+
+                            #
+                            |
+                            #
+                            |
+            # - # - # - # - #
+            |   |   |   |   |
+            #   #   # # #   #
+            |       |/      |
+        # - #   0 - # - #   # - #     4
+        |       |   |   |       |    x
+        # - # - #   #   # + 1   4 +>#
+        |       |   |   |       |   |
+        # - #   #   |   #   # - #   #
+            |   |   |   |   |       v
+    #       # - # - # - # - #   5 < # > 3
+    |               |
+    # < 3 ∘ # - # - # - # - 5 ∘>3
+    v               |
+    3               2
+                    |
+                    #           #
+                    |           ∘
+                # - # - #       #
+                        |       |
+                        # - # - #
+                                |
+                                #
+                                |
+                                #
+                                |
+                         The Irredenta
+
+--- loot
+
+In a display case in 0:
+    an opal bracelet ARMOR AC -3 dam 2
+
+The black enfan (in 1):
+    <worn as shield>     an ebony shield ARMOR AC -10 str 1 dam 3 !cl!th!sl
+    <worn around wrist>  a pair of strange boots ARMOR AC -10 str 3 con 3 !mu!th!wa!sl!nm
+    <wielded>            an ebony claymore WEAPON slash F0 4d9 wis -3 mag
+
+The gargoyle (in 2):
+    an old key (unlocks door n2w of gargoyle)
+
+The guard dog:
+    an opal potion POTION (15: remove poison; !NO SPELL!; !NO SPELL!)
+    an opal ring ARMOR AC -1 dex 1 hit 1

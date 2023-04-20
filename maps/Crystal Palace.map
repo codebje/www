@@ -1,0 +1,114 @@
+--- notes
+
+From Samsera: 8s3e2sd21wun2wn8w
+
+Rooms marked 'M' are in Mahn-Tor.
+
+--- map
+
+                                    C -                 # - D
+                                    |                   |   |
+                                    # - #               #
+                                        +               +
+                                        # - #       # - #
+                                            |       |
+                                        # + #   #   # + #
+                                            |   +   |
+                                        # - # - # - # - #
+                                        +   +           +
+                                        #   # - # - #   # - #
+                                    |   |                   |
+                                    B - #                 - A
+
+                                    C - #   # + # + #     - D
+                                    |   |       |           |
+                                        #   # + # + #   # - #
+                                        +       |       +
+            #              Northern # + # - # - # - # - # + #
+            |              Midgaard     |               |
+            # - # - # - # - Main    # + #   # + # - #   # +
+            |               City        |       +       |
+            #                       # + # - # - # - # - # + #
+            |                           +       |       +
+            #                       # - #   # + # + #   #
+            |                       |           |       |   |
+            #                       B -     # + # + #   # - A
+            |/                                  +
+          - M -                                 #
+            |                                   |
+          - M -                                 #
+            |                                  /|
+            | P                               W P
+            |/                                 x
+            M
+            |
+
+
+
+        # ----- # ----- #
+        |               |
+        #               #
+        |        /      |
+        # - # - W - # - #
+
+--- loot
+
+A crystal ghost:
+    a shimmering crystal aura ARMOR AC -7 mp 5 wis 1 mag!e!th!wa!ra!as!sl!dk!orc!ogr!tro!gia
+
+A gate guard (variously):
+    crystalline arm plates ARMOR AC -7 hp 5 int 1 !sl
+    crystalline leggings ARMOR AC -7 mag!e!sl
+    a plate of interlocking crystals ARMOR AC -6 hp 5 mag!e!sl
+    a morningstar with spikes of crystal WEAPON crush F0 5d5 dam 1 mag!e!sl
+    a shortsword edged with crystal WEAPON tear F0 4d5 dam 1 hp 5 mag!e!sl
+
+Gaerdun, The Crystal Paladin:
+    Shield of Crystal ARMOR AC -10 mp 5 hp 5 !e!sl
+    a length of satin rope ARMOR AC -5 mp 10 hit 1 mag!e!th!wa!ra!as!dk!sd
+    SunBlade WEAPON burn F0 7d4 dam 2 mag!e!th!wa!ra!as!sl!dk!sd
+    the Blessed Book of Saints SCROLL (30: remove curse; protection from evil; !NO SPELL!) mag!e!th!wa!ra!as!sl!dk
+
+A wandering guard (variously, protection from evil):
+    a crystalline girth ARMOR AC -5 con 1 mp 5
+    a crystal bladed bardiche WEAPON pierce F0 4d5 dam 1 mag!e!sl
+    a crystal lined cape ARMOR AC -3 mp 5 age 1 mag!e
+    crystal-studded gloves ARMOR AC -7 str 1 !sl
+    a plate of interlocking crystals ARMOR AC -6 hp 5 mag!e!sl
+    a crystalline tipped spear WEAPON pierce F0 4d5 dam 1 mag!e!sl
+    a crystal arm band ARMOR AC -3 mp 5 mag!e!th!wa!ra!as!dk
+    a crystal amulet WAND (15: call lightning 3/3) mag!e
+    crystal-studded boots ARMOR AC -3 move 10 dex 1 !sl
+    a crystal-tipped poiniard WEAPON pierce F0 4d7 hp 10 dam 1 mag!wa!ra!sl!dk
+
+A cook:
+    a crystal cleaver WEAPON slash F0 4d4 dam 1 dex -3 mag!e!sl
+
+Shavir:
+    a crystalline dove WAND (20: dispel evil 3/3) mag!e
+    gauntlets studded with crimson rubies ARMOR AC -6 hp 10 str 1 mag!e!mu!cl!sl!nm
+    leather leggings with strips of pure ruby ARMOR AC -6 hp 10 dex 1 mag!e!mu!cl!sl!nm
+    a helm carved of ruby crystals ARMOR AC -7 dam 1 hit 1 mag!e!mu!cl!sl!min!nm
+    a breastplate studded with crimson rubies ARMOR AC -9 con 1 mag!e!sl
+    leather boots coated with a shell of ruby ARMOR AC -3 move 20 dex 1 !sl
+
+The High Priest:
+    the Holy Light of Protection LIGHT mp 20 str -1 mag!e!n!th!wa!ra!as!dk!dem!und
+    holy robes of crystal thread ARMOR AC -0 mp 15 wis 1 int 1 mag!e!gnm!hlf!dwa!dem!fae!und
+
+Kallist:
+    leather boots studded with glittering emeralds ARMOR AC -7 hp 10 hit 2 mag!e!mu!cl!sl!min!nm
+    a helm studded with brilliant emeralds ARMOR AC -9 dam 1 hp 10 mag!e!mu!cl!sl!nm
+    leather leggings studded with emeralds ARMOR AC -6 hp 10 dex 1 mag!e!mu!cl!sl!nm
+    an emerald breastplate ARMOR AC -9 dam 1 hp 5 mag!e!mu!cl!sl!nm
+
+Kastir:
+    a crystalline dove WAND (20: dispel evil 3/3) mag!e
+    a breastplate outlined with sapphires ARMOR AC -8 hit 2 dex -1 mag!e!sl
+    a helm carved of pure sapphire ARMOR AC -6 mp 10 con 1 mag!e!sl
+    leggings of leather studded with sapphires ARMOR AC -8 dex 2 mag!e!sl
+    a pair of leather boots with sapphire studs ARMOR AC -3 move 20 dam 1 !sl
+    leather gauntlets with sapphire knuckles ARMOR AC -2 str 2 con 2 mag!e!sl
+
+
+

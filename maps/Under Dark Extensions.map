@@ -1,0 +1,70 @@
+
+--- notes
+
+ghouls and ghasts in cages near Under Dark
+wererats at the bottom of the tunnels
+gelatinous cubes halfway up
+bugbear guards northwestern corner
+displacer beast very north
+hook horrors eastern of the northern passages
+some bonus jermlaine here
+
+P: portal to Drow homeland
+
+--- map
+
+                              #
+                             /+
+                            /The      #
+                           /Underworld|
+                          # - # - # - # - #
+                          |
+                    #     #   #
+                    |    /    |
+              #     # - # - # #
+              |        /      |
+              # - # - # - # - # * # - P
+              |               |
+          #   # - #           #
+          |   |   |           |
+      # - # - #   # - #       #
+      |   |   |       |
+  # - #   #   #       #                                     #
+      |               |                                     +
+      #               #                                     # + #
+      |              /|                          /          +
+      #           # N #           #             N - # - # - #
+      |           |   |           |
+      #           # - # - # - # - # - #
+      |               |   |           |
+      # - #           #   #           #
+      |   |               |
+      #   # - #           #
+              |           |
+              # - # ----- # - # - # - #
+              |           |
+          # - #           # - #
+          |                   |
+          #               # - # - #
+                              |
+                              #
+                             /
+                            # - #   #
+                           /    |   +
+                  #       #     # - # - #
+                  |       |             |
+                  # ----- #             #
+                  |                     |
+                  #     # - # - # - # - #
+                       /            +
+                  The Under         #
+                    Dark
+
+--- loot
+
+A Drow vampire mage:
+    a wand WAND (group armor) mag
+    a key KEY
+
+A succubus:
+    some expensive jewelry TREASURE

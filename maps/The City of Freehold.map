@@ -1,0 +1,140 @@
+--- notes
+
+--- map
+                        Duke Arilan's Castle
+                                |
+                        #       #           #
+                        |       |           |
+ The Freehold - # - # - # ----- # ----- # - # - k
+    Cathedral       |   |       |           |
+                g - #   #       #       #   # - j
+                    |           |       |   |
+                    |   #       | Clan  #   |
+                    |   |       |/ Zone |   |
+                f - # - # ----- # ----- # - # - # - The Irredenta
+                    |   |       |       |   |
+                    |   # - #   |       h   |     #
+                    |           |           |    /
+                e - #   d       # - i       # - a
+                    |   |       |           |
+                # - # - # ----- # ----- # - # - b
+               /    |   |       |           |
+   The Freehold     #   #       # - #       c
+     Thieves Guild              +
+                          The Irredenta
+
+--- loot
+
+An adventurer:
+    a fine suit of rendorian chain ARMOR AC -8 !mu!sl!nm
+    broad sword WEAPON slash F0 4d6 hit 1 dam 1 !mu!cl!nm
+
+A red church guard:
+    a church halberd WEAPON slash F0 5d4 hit 1 dam 3 !mu!cl!nm
+    a suit of red chain mail ARMOR AC -8 !mu!sl!nm
+
+A ducal guard:
+    a suit of guard chain mail ARMOR AC -8 mp 10 !mu!th!as!sl!sd!nm
+    a guard sword WEAPON slash F0 4d7 dam 1 !mu!cl!nm
+
+A gate guard:
+    a guard spear WEAPON impale F0 3d8 hit 1 !mu!cl!nm
+    a suit of freehold chain ARMOR AC -7 !mu!sl!nm
+
+Dagda:
+    Dagda's belt ARMOR AC -4 str 3 dam 1
+
+
+--- shops
+
+A bartender in a:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A flask of firebreather                              83
+  2)  Unlimited   A shot of whisky                                     41
+  3)  Unlimited   A mug of ale                                         11
+  4)  Unlimited   A mug of beer                                        13
+
+Mongo in b:
+     ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A quiver of cobalt arrows                           649
+  2)  Unlimited   A high tensile bow                                 1500
+  3)  Unlimited   A guard spear                                      5199
+  4)  Unlimited   A small, lightweight dagger                       10399
+  5)  Unlimited   A curved sword                                     9099
+  6)  Unlimited   A quarterstaff                                     5199
+  7)  Unlimited   A warhammer                                        6499
+
+Yevek in c:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   Leather arm guards                                  974
+  2)  Unlimited   Leather leg guards                                  974
+  3)  Unlimited   Leather gloves                                      649
+  4)  Unlimited   Leather armor                                      1949
+  5)  Unlimited   Leather boots                                       649
+
+Joe in d:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A bottle of wine                                     96
+  2)  Unlimited   A mug of local speciality                            14
+  3)  Unlimited   A shot of whisky                                     36
+  4)  Unlimited   A mug of ale                                          9
+  5)  Unlimited   A mug of beer                                        12
+
+Sendia in e:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A Freehold scroll of recall                        4549
+  2)  Unlimited   A red potion                                      51999
+  3)  Unlimited   A shimmering green potion                         51999
+  4)  Unlimited   A bubbling potion                                 10399
+  5)  Unlimited   A clear potion                                    51999
+
+A cooper in f:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   The large barrel of water                          1299
+  2)  Unlimited   The small barrel of water                           649
+
+Bertram in g:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A waterskin of water                                240
+  2)  Unlimited   A torch                                              60
+  3)  Unlimited   A bullseye lantern                                  300
+  4)  Unlimited   A heshen sack                                        60
+
+Slaine in h:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   Hard tak                                            120
+  2)  Unlimited   A meat pie                                           24
+  3)  Unlimited   A loaf of brown bread                                12
+
+Bob in i:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)      1       Hard tak                                            120
+  2)  Unlimited   A shot of whisky                                     36
+  3)  Unlimited   A mug of dark ale                                     7
+  4)  Unlimited   A mug of ale                                          9
+  5)  Unlimited   A mug of beer                                        12
+
+Quinn in j:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   Rare spices                                       25999
+  2)  Unlimited   A bolt of fine silk                               19499
+  3)  Unlimited   A rendorian carpet                                12999
+
+Atataxe in k:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A steel bracer                                     2599
+  2)  Unlimited   A steel breastplate                                6499
+  3)  Unlimited   A steel helm                                       4549
+  4)  Unlimited   A steel shield                                     4549
+  5)  Unlimited   A fine suit of rendorian chain                     9099

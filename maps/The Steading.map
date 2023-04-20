@@ -1,0 +1,174 @@
+--- notes
+
+Can portal to 11.carousing. Mobs generally hit fairly hard. Stalker is brutal. Not a great zone for solo.
+
+Cistern in C misports frequently.
+
+--- map
+
+                    |
+                    # + # -         C
+                        |           |
+                        |   # * #   #
+                        |       +   |
+                        | A     # - #
+                        |/  |       |
+                        # - # - # - #
+                        |   |
+                        # -
+                        |
+                        #
+                        |
+                        #
+            ∘           |   +
+          ∘ # ∘         #   #
+            |           |   |
+        8 - # - # - # - # - # - # -
+                |   *   ∘   ?   |
+                #   #
+                |
+                9
+                |
+                #
+
+                              ∘ #       7   #
+                                |       +   +
+                                # - # + # - #
+                                |   |
+                                # - # - # - #
+                                        +
+        # - # + #               # + # - #
+        |   |   |               |       |
+        #   A   |               # + 0   # + #
+        |  /    |                       |   +
+        # ----- # --+-- # - 1 - # + # - # - #
+        +       |       |   |   |       +   |
+        #       #       # - # - #   3 + #   #
+        |       |           |           |   +
+    #   |   #   |   # - #   #   # + # + #   6
+    +   |   +   |   +   +   |   |       |
+    # - # - # + # - #   2 + #   # - # - #
+        +           |       |       |   +
+        #           + #     +   4 + #   #
+                    |/      |       +
+                    # ----- # ----- # + # - #
+                                           /
+                                          #
+                                         /
+                                        # - #
+                                            |
+                                            #
+                                            |
+                                            # - # - #
+                                                    |
+                                                    |
+                                                +   |
+                                                # - #
+                                                |
+                                                #
+                                                |
+                                                #
+                                                |
+                                                #
+                                                |
+                                                #
+                                                |
+                                                #
+                                                |
+                                                # - #
+                                                    |
+                                                    #
+                                                    |
+                                                    #
+                                                    |
+                                                    #
+                                                    |
+                                            Thousand Mile Road
+
+--- loot
+
+An orcish servant:
+    a dwarven skull LIGHT
+
+A bugbear:
+    <worn on body>               a leather jack ARMOR AC -7 hp 30 dex -1
+    <wielded>                    an adamantite morning star WEAPON tear F0 3d9 dam 3 int -4 mag
+
+A hill giant (sleeping):
+    <worn about waist>   a leather pouch CONTAINER (50lbs, empty)
+
+A hill giant sentry (entryway, slumped, sleeping):
+    <worn about body>            oily hides ARMOR AC -7 con 1 hp 10
+
+A hill giant sentry (guard tower, dozing off, sleeping):
+    a gem set belt ARMOR AC -5 savespell -3
+
+A hill giant cook:
+    a heavy iron pot WEAPON pound F0 9d3 dam 4 mag
+
+The chief's bear (doesn't track):
+    <worn as cloak>      a studded collar set with jewels ARMOR AC -7 dam 3 savepara -3 (neck)
+
+On the ground (in 0):
+    a javelin of lightning STAFF (35: call lightning 3/3)
+
+the chief's wife (in 1):
+    a jewelled necklace TREASURE
+Nosnra is using (in 1):
+    Nosnra's chain of office ARMOR AC -8 wis 1 mp 20 savespell -3 str 1
+    a ballista WEAPON bludgeon F0 9d2 dex 2 hp 20 hit 3
+
+the sub-chief (w of 1):
+    the sub-chief's chain of office ARMOR AC -7 hp 20 savepara -2 savepetri -2
+
+On the ground (in 2):
+    a dwarven war hammer WEAPON pound F0 13d3 mag!min!gnm!orc!elf!dra!hlf!ogr!tro!hum!fae!remort
+
+The hill giant matron (in 3):
+    a jewelled bracelet ARMOR AC -4 dex 2 dam 2 hit 2
+    the matron's potion POTION (30: heal; !NO SPELL!; !NO SPELL!)
+    the matron's potion POTION (30: poison; !NO SPELL!; !NO SPELL!)
+    the matron's potion POTION (30: cause critic; !NO SPELL!; !NO SPELL!)
+    the matron's potion POTION (30: charm person; !NO SPELL!; !NO SPELL!) mag
+
+A hill giantess (in 4, roams if doors opened):
+    <worn on head>       a beaten silver comb KEY cha 2 !wer (to huge chest)
+    <wielded>            a large gold hair pin WEAPON pierce F0 14d2 hit 2 dam 2 mag
+    <held>               a copper mirror WAND (30: blindness 1/1)
+A huge chest (in 4):
+    the shield of radiance ARMOR AC -11 ac -7 hp 15 dam 3 mag!e!th!as!sl!dk!sd
+
+A cloud giant (in 5, roams if doors opened):
+    <worn on body>       plate of the clouds WORN ac -10 hp 30 mp 30
+
+A cave bear (in 6):
+    <worn as cloak>      a studded collar set with jewels ARMOR AC -7 dam 3 savepara -3 (neck)
+
+A stalker (in 7, double backstab, fast aggro, high damage):
+    <wielded>           a rune dagger WEAPON pierce F0 3d10 dex 4 mag!g!n
+    a large gem
+
+The hill giant torturer (in 8):
+    <worn as cloak>      a gold chain set with a fire opal
+    <wielded>            the torturer's whip
+
+The hill giant armorer (in 9):
+    <worn on finger>     a ring of blue steel
+    <wielded>            a metal war hammer
+
+The hill giant smith (s of 9):
+    <wielded>            a metal war hammer
+
+Flexo gets a rune dagger from the corpse of a stalker.
+Flexo gets a large gem from the corpse of a stalker.
+
+Object 'the Rune of Decay', Item type: LIGHT
+Item will give you following abilities:  NOBITS
+Item is: !GOOD !NEUTRAL IDENTIFIED
+Weight: 5, Value: 1000, Rent: 1760
+Duration: Infinite
+Can affect you as :
+   Affects: STR By 4
+   Affects: CHA By -3
+   Affects: HITROLL By 3
+

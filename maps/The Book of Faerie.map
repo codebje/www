@@ -1,0 +1,60 @@
+--- loot
+
+You get a shift of primrose petals from the corpse of Primrose.
+You get a tiny purple petal from the corpse of a vervain faerie.
+
+--- notes
+
+F: The Frog Queen
+
+I: Introduction
+1: Chapter 1 - The Faierie Realm
+2: Chapter 2 - Hollow Hill
+    H: Travel west around the ring to nine different Hs, the ninth has the door to Primrose; all exit S the same
+    P: primrose
+3: Chapter 3 - Faerie Ways
+4: Chapter 4 - Faerie Dwellings
+
+One QP from the White Lady (Chapter 3)
+One QP from Iris, the Rainbow Queen (Chapter 4)
+
+Quest offered from Hob in Chapter 4 to fetch some grain. Not from this zone.
+
+--- map
+
+                                                # - # -  #
+                                                |        |
+                                            # - #        # - # - # - #
+                                            |           /            |
+                          # --- # --- #     |          4             #          # - # - #
+                       /  |      /    |     |    /                   |       /  |   |   |
+      I           # - 1   |     2     | # - #   3                    #      4 - # - # - #
+     /|           |       |     |     | |       |                   ⩘           |   |   |
+    1 #           # - #   |   P #     | # - # - # - # - #          F            # - # - #
+      | guarded      /    |   +/      |                 |
+      ?             2     # - H ----- #                 #
+                              |                        /
+                              #                       @
+                              |                      /
+                              #                     #
+                             /                     ⩗
+                            3                     F
+
+
+--- items
+
+Object 'a shift of primrose petals', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 1, Value: 500, Rent: 130
+Values not used for this item.
+Can affect you as :
+   Affects: MAXMANA By 10
+   Affects: WIS By 2
+   Affects: SKILL_SUCCESS By 5
+
+Object 'a tiny purple petal', Item type: FOOD
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 1, Value: 250, Rent: 36
+No. hours to fill stomach: 12(Edible) Level: 25 Spell: cleanse

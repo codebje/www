@@ -1,0 +1,78 @@
+--- notes
+
+From Samsera: d16w6swse14s7e2s4e3n7e
+
+Wem, Razor Back, Garnark, Grimlock, jenny greenteeth, Traplic, evil Pixie, orc-ettin, Max
+
+'E' rooms have an exit south to C.
+'F' rooms have an exit north to A
+'X' leads north to Caverns of Death
+'x' exit both sides lead one-way to A
+
+--- map
+
+        Thousand Mile Road
+                |
+                # - C   # - # - # - # - # - # - # - # - # - # - # - # - # - # - # - # - # - #
+                    |   |                       |                                           |
+                    #   #   # - # - # - # - #   #   # - # - # - # - # - #   # - # - # - # - #
+                    |   |   |               |   |   |                   |   |
+    Q - # - # - R   #   #   #   E - # - #   #   #   #   Q - # - # - R   #   #   # - # - # - #
+    ∨           ∨   |   |   |           |   |   |   |   ∧           ∧   |   |   |       |   |
+    A           A   #   #   #   D   #   #   #   #   #   # - #   # - #   #   #   # - #   #   #
+                    |   |   |   ∧   |   |   |   |   |   |   |   |   |   |   |       |   ∨   |
+                    A   #   # - # - #   #   #   #   # - #   #   #   #   #   G < # - #   F   #   G > H < I
+                    |   |           |   |   |   |           |   |   |   |           |   |   |
+                    #   # - # - # - #   #   #   # - # - # - #   #   #   # - # - # - #   #   #
+                    |                   |   |                   |   |                   |   |
+                A   # - #   # - # - # - #   # - # - # - # - # - #   # - #   I - # - # - #   #
+                ∧   ∨   |   |                                           |                   |
+                B   B   D   # - # - # - # - X   F   # - # - # - # - #   #   # - # - # - # - #
+                ⋃   ∧   |                   |   |   |               |   |   |               |
+                    |   # - #   # - # - #   #   #   #   # - # - #   #   #   #   # - # - #   #
+                    |       |   |       |   |   |   |       |   |   |   |   |   |       |   |
+                    # - #   #   #   #   #   #   #   #   0   #   #   #   #   #   # - #   #   #
+                    |   |   |   |   |   |   |   |   |   |   |   |   |   |   |       |   |   |
+                    #   #   # - # - #   #   #   #   # - #   #   #   #   #   # - F   #   #   #
+                    |   |           |   |   |   |           |   |   |   |           |   |   |
+                    #   # - # - # - #   # - #   # - # - # - #   #   #   # - # - # - #   #   #
+                    |   |                                       |   |                   |   |
+                    # < #   # - # - # - # - # - H - # - # - # - #   # - # - # - # - #   #   #
+                    |   |   |                   |                                   |   |   |
+                    #   #   # - # - # - # - #   #   # - # - # - # - # - #   # - # - #   #   #
+                    |   |   |               |   |   |               |   |   |           |   |
+                    #   #   #   # - # - #   #   #   #   E - # - #   #   #   #   # - # - #   #
+                    |   |   |   |       |   |   |   |           |   |   |   |   |       x   |
+                    #   #   #   # - #   #   #   #   #   # - #   #   #   #   #   # - #   #   #
+                    |   |   |   |   |   |   |   |   |   |   |   |   |   |   |       |   |   |
+                    #   #   # - #   #   #   # - #   # - #   #   #   #   #   # - # - #   #   #
+                    |   |           |   |                   |   |   |   |               |   |
+                    #   # - # - # - #   # - # - # - # - # - #   #   #   # - # - # - # - #   #
+                    |                                           |   |                       |
+                    # - # - # - # - # - # - # - # - # - # - # - #   # - # - # - # - # - # - #
+
+--- loot
+
+Traplic:
+    <worn on hands>      a pair of gold embroidered silk gloves WORN mp 22 dam 2 !cl!th!wa!ra!as!sl!sk!dk!sd
+
+Max:
+    <wielded>            a Kindjal WEAPON pierce F0 10d3 hit 3 dam 3 mag!mu!cl!th!wa!ra!sl!sk!dk!sd!nm
+
+Icebre:
+    <worn on hands>      the gauntlets of night ARMOR AC -7 dam 2 !mu!cl!th!wa!ra!as!sl!sk!dk!nm
+
+Ecaep:
+    <worn on arms>       the Twin Brands of Balance WORN hit 2 dam 2 ac -10 !mu!cl!th!wa!ra!as!sk!dk!sd!nm
+
+Abus:
+    <worn as shield>     a Shield of Red Stone ARMOR AC -10 hp 22 dam 2 !mu!cl!th!ra!as!sl!sk!dk!sd!nm
+
+Troy:
+    <worn on finger>     a small elven ring ARMOR AC -3 hp 22 !mu!cl!wa!ra!as!sl!sk!dk!sd!nm
+
+Biar (in 0):
+    <worn on arms>       a pair of Sylvanis bracers ARMOR AC -10 dam 2 hp 22 hit 2 !mu!cl!th!wa!as!sl!sk!dk!sd!nm
+
+Wenda (in 0):
+    <worn about waist>   a soft white sash of silk WORN dam 3 mp 30 ac -5 !mu!th!wa!ra!as!sl!sk!dk!sd!nm

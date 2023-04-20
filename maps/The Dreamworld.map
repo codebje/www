@@ -1,0 +1,261 @@
+--- notes
+
+Entry via The Forgotten Forest.
+
+Death Traps: Your Dream, The Fires of Hell
+
+From first maze room and back:
+    The Baker: 3e, 2w
+    a Vivesectionist, the screaming victim: s2w, e2n
+    a thrifty shopper, the Shopkeep: 3w, 2e
+    a wood nymph: w2n, sene
+    a jaguar, a lion: e2s, 2wsw
+    the Farmer, a farm wife, a farm boy, a sheep dog: nwes, nsn
+    a locust (x8), a Grinch: nwe2s, sn
+    a young maiden: ese, 3n
+    a handsome suitor: s2e, wsw
+    the High Priest: sesw, nsw
+    a bone devil, a blood devil, a flesh devil, the Winter Wolf, Amon, Duke of Hell: ses2w, nsw
+    a Noble: se2n, nsn
+    the Warrior Hero Jarwin: 2e2n, sw
+    the Great Dragon Wyvn: 2e3n, 2sw
+    the Cat Lord: s2es, ewsw
+    a weretiger, a werewolf, a werejackal, a wererat: nw3sw, enewn
+    a black widow: nw2ses, 2nwsw
+    a tarantula (x5): nwe3nes, n
+    Gluttony, Sloth, Avarice: nwe2nwe, 3esn
+    Wrath, Envy, Pride, Lust: nwe2nw2e, 2esn
+    Medusa: nw2s2ws, 2nwsw
+    Woodsman: e4s, nwsw
+    a leper (x5): nw2swe, 2newn
+    a shade: e5sn, enwsw
+    Jubilex, The Faceless Lord: nw3s2e, wnewn
+    The Dreamweaver: nw3ses, esn
+    a shrieking banshee: nw4se, 3newn
+    Justice, Sincerity, Chastity, Fidelity: senenen, swsn
+    Humility, Generosity, Trust:  senenenw, ne2sw
+    a shambling mound: nw2s2wen, 2esesn
+    the Grim Reaper: senenwne, nwsn
+    a shadow (x5): sene2nw
+
+--- map
+
+2: The Baker's Dream
+3: The Butcher's Dream
+4: Shopkeep's Dream
+5: Woodsman's Dream
+6: jaguar, lion
+7: Farmer's Dream
+8: Old Maid's Dream
+P: a handsome suitor
+a: Priest's Dream
+b: Pauper's Dream
+c: Adventurer's Dream
+d: Thief's Dream (Cat Lord, 3x oblit, feign, backstab)
+e: Insanity (UW) (loops back to itself, magic works)
+f: Nightmares (weremobs)
+g: Nightmares (black widow)
+h: Sinfulness (Gluttony, Sloth, Avarice)
+i: Sinfulness (Wrath, Envy)
+j: Serenity
+k: Nightmares (Medusa)
+l: Mightmares (lepers)
+m: Farmer's Dream (southern)
+n: Nightmares (shade)
+o: Deja Vu (tarantua)
+p: Nightmares (Jubilex)
+q: A Thinning in the Mist (The Dreamweaver)
+r: Nightmares (banshee)
+s: Priest's Dream (devils, Winter Wolf, Amon)
+t: Falling (a shadow x5)
+u: Virtue (Justice, Sincerity, Chastity, Fidelity)
+v: Virtue (Humility, Generosity, Trust)
+w: Death (The Grim Reaper)
+x: Nightmares (a shambling mound)
+y: Adventurer's Dream (The Great Dragon Wyvn)
+
+A: sams scroll, church mouse
+I: bloodthorn
+Z: -UW- north (Insanity loops back to itself in all directions, but magic is ok)
+α: 1 coin, 1 pile (Nightmare lepers east, Woodsman south)
+θ: Nightmares (Medusa) south, "A slither of roughness on stone seems to come from the south"
+ι: Woodsman (also Book of Prayers)
+σ: Fires of Hell north, plus one coin
+
+        B           A           B           A           L           K           D           Q
+        |           ∧           ∧           ∧           ∧           ∧           |           ∧
+    E - A - C   F < B > D   A - C > I   J < D - H   K < E - A   M < F > N   K < G > 8   D - H > P
+        |           |           ∨           |           ∨           ∨           ∨           ∨
+        D           A           G           G           A           O           6           R
+
+        S           E           F           5           L           U           J           6
+        ∧           ∧           ∧           ∧           ∧           ∧           ∧           ∧
+    Q < I > 2   3 < J > O   4 < K > D   M < L > F   6 < M > T   U < N > Q   T < O > H   I < P > M
+        ∨           ∨           ∨           ∨           ∨           ∨           |           ∨
+        C           T           J           T           K           7           V           d
+
+        b           β           c           M           Y           O           δ           W
+        ∧           ∧           ∧           ∧           |           |           |           ∧
+    F < Q > W   a < R > I   X - S > P   P < T > J   T < U > L   α < V > ε   U < W > X   Q < X - S
+        ∨           ∨           ∨           ∨           ∨           ∨           ∨           ∨
+        B           C           R           6           F           ξ           N           C
+
+        Z           e           O           H           ϊ           ν           V           γ
+        ∧           ∧           ∧           ∧           ∧           |           ∧           ∧
+    φ < Y > δ   φ < Z - μ   θ < α > l   R < β > P   f < ξ > κ   ψ - δ > π   ξ < ε > F   φ < φ > h
+        |           ∨           ∨           |           ∨           |           ∨           ∨
+        U           U           ι           ι           λ           W           g           L
+
+        φ           6           β           n           ξ           α           q           ψ
+        ∧           ∧           |           ∧           ∧           ∧           ∧           ∧
+    ν < γ > j   ι < θ > τ   ξ < ι > β   κ < ϊ > θ   λ < κ > p   τ < λ > r   Z - μ > γ   t < ν > φ
+        ∨           ∨           ∨           ∨           ∨           ∨           ∨           |
+        L           k           ϊ           σ           q           ξ           o           δ
+
+        u           ρ           q           ☠           x
+        ∧           ∧           ∧           ∧           ∧
+    ν < π > S   ☠ < ψ - δ   μ < ρ > w   ϊ < σ > θ   ϊ < τ > κ
+        ∨           ∨           ∨           ∨           ∨
+        δ           δ           Z           q           σ
+
+        I           J           K           L           S           Q           G           W
+        ∧           ∧           ∧           ∧           ∧           ∧           ∧           ∧
+    C < 2 > I   J < 3 > G   K < 4 > E   L < 5 > L   P < 6 > T   N < 7 > N   O < 8 > G   S < y > S
+        ∨           ∨           ∨           ∨           ∨           |           ∨           |
+        I           J           K           T           β           m           G           c
+
+        R           Q           y           6           e           ξ           ι           φ
+        ∧           ∧           |           ∧           ∧           ∧           ∧           ∧
+    s - a > β   Q < b > Q   S < c > S   P < d > P   e < e > e   ξ < f > V   ε < g > ε   γ < h > i
+        ∨           ∨           ∨           ∨           ∨           ∨           ∨           ∨
+        R           N           C           P           e           ξ           ε           φ
+
+        φ           γ           ι           α           7           ϊ           A           κ
+        ∧           ∧           ∧           ∧           |           ∧           ∧           ∧
+    Y < i > Z   φ < j > Z   θ < k > θ   λ < l > α   N < m > N   ϊ < n > ι   A < o > A   V < p > κ
+        ∨           ∨           ∨           ∨           ∨           ∨           ∨           ∨
+        φ           Y           θ           α           B           ϊ           A           κ
+
+        #           λ           R                       π           π           ρ           ϊ
+        ∘           ∧           ∧                       ∧           ∧           ∧           ∧
+    σ < q > μ   ξ < r > λ   G < s - a       t       v - u > π   ψ < v - u   δ < w > ρ   τ < x > τ
+        ∨           ∨           ∨          /            ∨           ∨           ∨           ∨
+        q           λ           R         ☠             ρ           π           ρ           τ
+
+                    #   # - # - #
+                    |   |   ∨   |
+            # - # - # - # > A < # + #
+                |       |   ∧   +
+                #       # - # + #
+                |
+                # - # ----- # > 1
+                |   |       |
+                0  The      1
+                 Forgotten
+                 Forest
+
+--- loot
+
+A Quickling:
+    a Quickring ARMOR AC -0 dex 3 hit 1 mag
+
+A hole (in 0):
+    a small red stone TREASURE
+    an old helmet ARMOR AC -4 hit 1 mag!sl!min
+
+The oven (in 1):
+    a birthday cake FOOD
+
+A wood nymph (in 5):
+    a laurel wreath ARMOR AC -2 dex 2 mp 12 mag!e!n!sl
+
+A giant oak tree (in 5):
+    a pair of ragged boots ARMOR AC --15 str -5 move -11 mag!cl!sl CURSED
+    an engraved figurine SCROLL (40: enchant weapon; !NO SPELL!; !NO SPELL!) mag!cl
+    a small gray stone TRASH
+    an ebony earring TREASURE dam 1
+
+A leper:
+    diseased flesh FOOD (poison)
+
+A shade:
+    a shadow sword WEAPON bite F0 5d6 dam 1 !g
+
+A High Priest (in a):
+    a Book of Prayers STAFF (32: heal 7/7) ac -20 wis 2 mag!e!n
+    a Holy Dagger WEAPON bludgeon F0 5d6 ac -11 mp 12 mag!e!n!dem!und
+
+Amon, Duke of Hell (in s):
+    the Spiked Mace of Amon WEAPON crush F0 3d12 hit 1 dam 2 int 1 mag!g!n!mu!th!wa!ra!as!sl!sk!sd!nm
+
+The Winter Wolf (in s):
+    pelt of the Winter Wolf ARMOR AC -9 str 2 dam 2 mag!sl
+
+A bone devil (in s):
+    a gnawed bone OTHER
+
+The Dreamweaver:
+    the Dreamstone LIGHT mp 30 dam 1 mag
+    the Dreamscloak ARMOR AC -13 mp 25 dam 1 mag
+    the Dreamstaff WAND (40: sleep 1/1) mp 28 ac -10 mag
+    a key of gray stone KEY (to stone in q, which exits the dream back to the middle of the village)
+
+The Vivisectionist (in 3):
+    a bloody scalpel WEAPON slash F0 5d5 dam 2 ac 20 !g!n
+    a surgical kit PORTAL (to Samsera)
+
+The screaming victim (in 3):
+    iron cuffs OTHER ac 47 !cl CURSED
+
+A maiden (in 8):
+    a small gold ring ARMOR AC -3 age -12
+
+Jubilex, The Faceless Lord:
+    the Eye of Jubilex LIGHT dam 2 savebreath -3 savespell -3 mag!g!n!sk
+    the Heart of Jubilex OTHER hp 33 dam 2 mag!g!n!cl!th!as!sk!sd
+
+The Woodsman:
+    a wood axe WEAPON maul F0 2d12 hit 2 int 1 !mu!cl!nm
+
+The Warrior Hero Jarwin (in c):
+    Avail, Sword of Quinessence WEAPON slash F0 2d18 dam 2 savebreath -5 int -2 mag!e!mu!cl!nm
+    a surcoat ARMOR AC -14
+    Hero Gauntlets ARMOR AC -5 hp 15 dam 2 mag!e!mu!sl!nm
+
+The Great Dragon Wyvn (in y):
+    the Girdle of Champions ARMOR AC -4 hit 2 dam 1 str 1 mag!e
+
+A skeleton (in y):
+    a charred lorica ARMOR AC -6 !sl
+    a pair of iron ailettes ARMOR AC -12 !sl
+    a burned gorget ARMOR AC -9
+    a scorched basinet ARMOR AC -10 !sl
+
+The Cat Lord (in d):
+    the Manx dagger WEAPON pierce F0 12d3 hit 3 dam 2 mag!g!mu!cl!wa!ra!sl!sk!dk!nm
+
+Chastity:
+    a chastity belt ARMOR AC -7 cha 3 move -20 mag!e!n
+
+Medusa (in k):
+    the Head of Medusa STAFF (24: poison 2/2) !cl CURSED
+
+A shambling mound (in x):
+    swampweed FOOD (poison)
+
+The Grim Reaper (in w):
+    <wielded>            the Scythe of the Grim Reaper
+
+Unknown sources:
+    a bone saw WEAPON slash F0 4d4 hit 1 dam 1 !g
+    a meat cleaver WEAPON slash F0 2d13 hit 2 ac 11 !g
+
+--- shops
+
+The Shopkeep in 4:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A birthday cake                                     140
+  2)  Unlimited   A wood axe                                        24000
+  3)  Unlimited   A thick gray potion                                1000
+

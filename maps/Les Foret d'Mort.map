@@ -1,0 +1,125 @@
+--- notes
+
+Rooms 'X' all loop in every other exit.
+
+--- map
+
+
+                              X --------- X
+                             /            |
+                            /         X - X
+                           /          |
+                          #     X - X X
+                          |    ⩗    |/
+                          a   X     X
+                         /   ⩗
+                        #   b
+                       /
+                      #
+                     /
+                    #
+                   /
+                  #
+                  |
+                  # - # - # - #
+                              |
+                              9
+                             /
+                            #
+                            |
+                        h ∘ 8 ∘ i
+                            |
+                            ⌘                       e
+                            |                       |
+                            ⌘                       +
+                            |                       |
+                            ⌘               B   # - # - #
+                            ∧               ∧       |
+                          4 #           # - # > B   + #
+                         /  |          /    |       |/
+                        # - #     d + #     #   # - # - #
+                        |  ⩗                |       +
+                        | #                 #       #       f
+                        |                   |       |       |
+          6     #   # - #   3   c - # - # - j ----- # - # - #
+         /      |   |   |   |       |      /        |       |
+        # - # - # - #   # - #       #   2 A         #       |
+        |           |       |       |   |           |       |
+        #       # - #       # - # - # - # - B ----- # ----- #
+        |           |                   |   |
+        7   # - # - # - #               1   # - # - 0
+            |                               |
+            | 5                             #
+            |/                              |
+            #                          Drekken Noir
+
+
+
+                    # - #
+                    |   |
+                    A   |
+                        |
+                    g   #
+                    +   |
+                    #   |
+                    |   |
+                    # - #
+
+--- loot
+
+an evil treant (roaming near entrance): nothing
+a skeleton warrior (roaming):
+    a battered mace WEAPON pound 2d3 !loc (w:10 v:50 r:8)
+    an iron buckler ARMOR AC -2 !sl!loc (w:5 v:0 r:10)
+    an iron torc ARMOR AC -3 str 1 age 20 !sl!loc (w:0 v:0 r:545)
+
+an elven wraith (in stockade): nothing
+a harpy (in stockade): nothing
+
+a shambling mound (in 0): nothing
+a giant spider (in 1):
+    a spider silk belt CONTAINER 400lbs dex 2 hp 15 hit 2 !mu!cl!wa!sk!dk!nm (w:2 v:1000 r:750)
+the ghost of Robert Ascerguin (in 2):
+    a shining falchion WEAPON slash 1d5 hit -3 !g!n!sl!sk!loc (w:8 v:500 r:206)
+    a tattered cloak WORN con 3 ac 5 savespell -4 mag!e!dk!loc (w:3 v:1000 r:415)
+a leshy (in 3):
+    bark leggings ARMOR AC -8 int 3 dam 3 str 2 !mu!cl!th!wa!as!sl!sk!dk!sd!loc!nm (w:5 v:1000 r:670)
+the slime beast (in 4): nothing
+Aczeal (in 5):
+    <worn on head>       an insane look
+a chaotic manifestation (in 6): <unknown>
+a haunt (in 7): nothing
+a living zombie (in 8): nothing
+Chopper zombie (in 8): nothing
+a gargoyle (in 9): nothing
+the behemoth (in a):
+    a behemoth hide ARMOR AC -12 con 3 hp 25 dam 2 !mu!cl!th!as!sl!sk!dk!sd!nm (w:15 v:1000 r:1010)
+Cresslix (in b):
+    Wraithblade WEAPON burn 15d2 str 1 con -1 mp 20 !g!n!th!wa!ra!as!sl!sk!sd!loc (w:7 v:1000 r:1285)
+    a Black Earthsilk Bracelet ARMOR AC -8 dam 4 hp 15 mp 10 mag!g!n!mu!cl!th!wa!as!sl!sk!dk!sd!nm (w:5 v:15000 r:820)
+    Claws of the Damned ARMOR AC -6 ac -5 hp 15 dam 2 !g!sl!loc (w:4 v:1000 r:375)
+    the Black Cowl of Cresslix ARMOR AC -7 int 2 mp 20 dam 1 spelldam 30 !g!n!cl!th!wa!ra!sl!sk!loc (w:2 v:1000 r:345)
+    Tears of the Saint WORN savebreath -2 saves -3 savepara -3 mag!loc (w:2 v:1000 r:250)
+    a quiver of darkened arrows
+a tanglethorn (in c): nothing
+a barrow wight (in d): nothing
+    Cold Steel Gauntlets ARMOR AC -8 str 3 dam 3 int -2 !g!mu!cl!th!sl!sk!loc!nm (w:5 v:1000 r:670)
+    Cold Steel Broadsword WEAPON slash 3d4 str 1 dex 2 !loc (w:7 v:100 r:150)
+the commander (in e):
+    keys?
+a forest ghoul (in f):
+    circlet of thorns WORN dex -3 hit -1 int -4 !loc (w:2 v:50 r:600)
+She'naria (in g):
+    <worn on head>       amber earring
+    <worn about body>    plain brown robes
+    <held>               a perfect maple leaf
+the Vampyr Pennig (in h):
+    some silk leggings WORN dex 3 dam 2 savespell -2 mag!mu!cl!wa!ra!sl!sk!dk!nm (w:2 v:1000 r:450)
+Marshal Klein (in i):
+    a small purse
+Maschel duAngnain
+a wood golem (in j):
+    sleeves of moss ARMOR AC -4 mp 30 str 2 int 2 !e!n!mu!th!wa!as!sl!sk!dk!sd!nm
+
+Odamaron gets an ironshod spear from the corpse of a zombie warrior.
+Odamaron gets a leather girdle from the corpse of a zombie warrior.

@@ -1,0 +1,66 @@
+--- notes
+
+Entrance via A; exit to black tower in 2 with Djala (pull bar).
+
+--- map
+
+                # - #
+                |   |
+                # - # ----- # - # - # - # - 0
+                |   |       |   V   |
+                #   |       #   #   |   A
+                    |               |  /
+            B<+ #<+ B               | #
+                    |               |/
+                    #           # - #   # - #
+                    |           |       |   |
+                # - #       # - # ----- #   #
+                V   |       |           |   |
+                #   #       # - # - #   #   #
+                    |           |           |
+                    # - #       1   # - # - #
+                        |           |       |
+                # ----- #           #       #
+                |       |           |
+                |   # - #   # - # - # - #
+                |       |   |       |   |
+                #   # - #   # + #   #   #
+                |       |       |   |
+            # - #       #   # - #   |
+                |                   |
+                # - # - # - # - # - #
+                            |
+                4   #       #
+                +   +       |
+                # - # - # + # + # - #
+                |  /|       |
+                # # #       #
+                |
+                #   #   #
+                |   |   |
+                # - # - # + #
+                |/  |/      |
+                # - #       +
+                |   |       |
+                # - #   # - #
+                |       |
+                2 - # + # - 3
+
+--- loot
+
+the yeti leader (in 0):
+    an ivory tusk WEAPON pierce F0 7d6 hit 3 dam 3 mag!mu!cl!nm
+
+the body of an adventurer (in 1):
+    elemental band WORN mp 25 hit 2 mag!wa (ring)
+
+Grugnur (in 2):
+    <worn on body>       a chain jack
+    <worn as shield>     the Jarl's shield
+
+Djala (in 3):
+    a skull shaped key
+    a gold flagon set with gems LIQ CONTAINER 10000 units whisky(clear) (w:5 v:76000 r:2000)
+
+A storm giant (in 4):
+    a pair of manacles ARMOR AC -15 move -100 con -4 dam 4 str -4 !sl

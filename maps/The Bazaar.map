@@ -1,0 +1,139 @@
+--- notes
+
+--- map
+
+                    # - # - # - # - # - # - #
+                    |                       |
+                # - #   j   k   l   #   m   # - # + #
+                    |   |   |   |   |   |   |
+                # - 0 - # - # - # - # - # - # - #
+                    |       |   |   |       |
+                d - #   i - # - # - # - h   #   e
+                    |       |   |   |       |   |
+                c - # - # - # - # - # - # - # - #
+                            |   |   |
+                        b - # - # - # - f
+                            |   |   |
+                            a   #   g
+                                |
+                    The Great Eastern Desert
+
+--- loot
+
+The princess fatima (in 0):
+    a pair of soft slippers WORN mp 15 dex 2
+    a gold nipple ring WORN mp 15 cha 2
+    a veil WORN mp 15 str 2
+
+--- shops
+
+Dave the peddler (roaming):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A small pouch                                        12
+  2)  Unlimited   A potion                                            600
+  3)  Unlimited   A rusty knife                                        12
+  4)  Unlimited   A tin cup                                            12
+
+A herbalist (in a):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A white herb                                      20400
+  2)  Unlimited   A red herb                                        18000
+  3)  Unlimited   A yellow herb                                     14400
+
+A tailor (in b):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A pair of curled boots                              600
+  2)  Unlimited   A pair of silk trousers                             600
+  3)  Unlimited   A camelhair jacket                                  240
+  4)  Unlimited   A bright red fez                                    240
+
+An arms merchant (in c):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A silver dagger                                     360
+  2)  Unlimited   A short spear                                       360
+  3)  Unlimited   A huge shamsheer                                    360
+  4)  Unlimited   A scimitar                                          360
+
+An armor merchant (in d):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A pair of mithril gauntlets                         240
+  2)  Unlimited   An iron helmet                                      240
+  3)  Unlimited   A pair of leather breeches                          240
+  4)  Unlimited   A chainmail tunic                                   240
+
+A shipwright (in e):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A scow                                              600
+  2)  Unlimited   A small galley                                      600
+  3)  Unlimited   A chinese junk                                     1200
+  4)  Unlimited   A skiff                                             600
+
+A goods dealer (in f):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A pouch belt                                         60
+  2)  Unlimited   A brass lantern                                      60
+  3)  Unlimited   A torch                                              60
+  4)  Unlimited   A coarse blanket                                    240
+
+A scribe (in g):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A scroll                                          50400
+  2)  Unlimited   A scroll                                          48000
+  3)  Unlimited   A scroll                                          45600
+  4)  Unlimited   A scroll                                          12000
+
+A fruiterer (in h):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A juicy melon                                        30
+  2)  Unlimited   A crunchy apple                                       1
+  3)  Unlimited   A juicy pear                                         18
+  4)  Unlimited   An overripe tomato                                    4
+
+A chef (in i):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   Fried capsicum                                       28
+  2)  Unlimited   A lamb doner kebab                                   14
+  3)  Unlimited   A beef shish kebab                                    7
+  4)  Unlimited   A felafel                                             4
+
+A spice merchant (in j):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A sachet of exotic spices                           120
+  2)  Unlimited   A sachet of exotic spices                          1200
+  3)  Unlimited   A sachet of exotic spices                           120
+  4)  Unlimited   A sachet of exotic spices                            60
+
+A florist (in k):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A daisy                                             120
+  2)  Unlimited   A carnation                                         120
+  3)  Unlimited   A rose                                              120
+  4)  Unlimited   A wildflower                                        120
+
+A thaumaturgist (in l):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A short black wand                                 2520
+  2)  Unlimited   An oak staff                                      30000
+  3)  Unlimited   A slender ivory wand                                600
+  4)  Unlimited   A bone staff                                       1440
+
+A jeweller (in m):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A string of tiny black pearls                      1200
+  2)  Unlimited   A strange stone ring                              12000
+  3)  Unlimited   A sun jewel                                       12000
+  4)  Unlimited   A dark crystal bracelet                             120

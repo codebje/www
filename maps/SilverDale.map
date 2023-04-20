@@ -1,0 +1,80 @@
+--- notes
+
+Entrance is in Moria. 10e10n2e2nw from Samsera.
+
+Vampire reborn guardian. Don't try to kill it. It hurts.
+
+Foggy rooms marked as @.
+
+S: looks like someone's personal zone, lockers either side.
+
+--- map
+
+                                                             Lupisville (Day)
+                                                                    |
+                                                        # - # - # - #   #           # - #
+                                                        |       |   ^   |          /    |
+                                        2   #           # - #   # - # - #         / 7 - 6
+                                        |   |           |       |       |        /
+                                    # - # - # - #       #   # > # - #   #       # - # - #
+                                    |           |       |   |       |                   |
+                    # - 1 - # - # * # - 5   # - # + # - # - # - #   #   # - # * # - # - # - #
+                    |   |           |           |       |           |   |       |       |
+                0 < @ < @           # - # - # - #       # - #   # - #   #       #   # - 8
+                |   |                   |   |           |       |   |   |
+                #   #                   4   3           # - #   #   #   #
+                v   |                                   |   |   |       |
+                # - @                                   #   #   # - # - 6
+                |  x 
+            # - # #
+     /      |    /
+# + S + #   @   S
+            |
+            @ - @
+                |
+                @
+                |
+                # - #
+                |   |
+              Land  #
+             of the |
+             Reborn # - Moria
+
+--- loot
+
+A large pile of debris (in 0):
+    a silver longsword WEAPON slash F0 1d6 hit 1 dam 1 !wer
+
+A bleached skull (in 1):
+    the key to SilverDale
+
+A young cousin of Lord Vrolock (in 2):
+    a shadowblade WEAPON slash F0 5d5 hit 1 dam 1 mag!g
+You get a shadowblade from the corpse of a young cousin of Lord Vrolock.
+
+A safe (in 3):
+    a large silver ingot TREASURE (5000) !wer (x2)
+    a severed head ARMOR AC -0 cha -2 dam 1 mp 15 !g!th!as
+
+On the ground in 4:
+    a pair of climbing boots ARMOR AC -3 dex 2 move 30 !mu!cl!sl!nm
+    a pile of pitons MISSILE (4d4 x1)
+    a coiled length of rope OTHER
+    a grapple CONTAINER (can't be opened)
+
+On the ground in 5:
+    a silver shortsword WEAPON slash F0 1d6 hit 1 dam 1 !wer
+
+A bleached skull (in 3 or 6):
+    a small humming key
+
+A vampire mistress (in 6):
+    shadowbracer ARMOR AC -2 hp 10 dam 2 mag!g
+    a shadowaxe WEAPON slash F0 5d5 hit 1 dam 1 mag!g
+    a shadowspear WEAPON impale F0 5d5 hit 1 dam 1 mag!g
+
+Nosferatu (in 7):
+    a black glowing orb ARMOR AC -6 int 2 mp 18 wis 2 !cl!sd
+
+A coffin draped in black cloth (in 8):
+    pale glowing orb ARMOR AC -6 wis 2 dam 2 mp 18 mag!e!mu!th!wa!ra!as!sl!sk!dk!nm

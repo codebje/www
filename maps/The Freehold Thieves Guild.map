@@ -1,0 +1,61 @@
+--- notes
+
+The ascended halfling questmaster is here in 3
+
+The entrance from The Irredenta cannot be unlocked or opened from inside.
+
+--- map
+
+                     Freehold
+                     /
+                    #
+                    |
+                    #
+                    |
+                    # - #
+                    |   |
+                # - # - #   #
+                |       |   |
+            # - #       # - # - 3
+            |   |           |
+            # - #           # - 2
+            |   |
+            # - #       0
+                +       +
+                # - # - # - # - # * The Irredenta
+                    +       +
+                    1       #
+
+
+--- loot
+
+Honorable Man (in 0):
+    a sword named "Night Stalker" WEAPON pierce F0 7d5 dex 1 hit 1 mag!mu!cl!wa!ra!sl!sk!dk!nm
+    a dark cloak ARMOR AC -6 hit 2
+    a suit of dark chain mail ARMOR AC -8 !mu!sl!sk!nm
+    a pair of thief gloves ARMOR AC -4 dex 2 hit 2 !mu!cl!wa!ra!sl!sk!dk!nm
+    a pair of thief boots ARMOR AC -4 dex 1 hit 2 !mu!cl!wa!ra!sl!sk!dk!nm
+
+Council Member (in 1):
+    a dark dagger WEAPON pierce F0 6d4 hit 2 !cl!sk
+    a pair of thief boots ARMOR AC -4 dex 1 hit 2 !mu!cl!wa!ra!sl!sk!dk!nm
+    a pair of thief gloves ARMOR AC -4 dex 2 hit 2 !mu!cl!wa!ra!sl!sk!dk!nm
+
+The Master Thief (in 2):
+    a document entitled "DiGriz's Treatise on Thievery" TREASURE dex 3 dam 2 mag!mu!cl!wa!ra!sl!sk!dk!nm
+    a dark dagger WEAPON pierce F0 6d4 hit 2 !cl!sk
+    a pair of thief boots ARMOR AC -4 dex 1 hit 2 !mu!cl!wa!ra!sl!sk!dk!nm
+    a pair of thief gloves ARMOR AC -4 dex 2 hit 2 !mu!cl!wa!ra!sl!sk!dk!nm
+
+Thief:
+    a wine cup LIQ CONTAINER
+    a bunch of grapes FOOD
+    a dark dagger WEAPON pierce F0 6d4 hit 2 !cl!sk
+
+Ruffian:
+    a dark sword WEAPON slash F0 4d7 !cl!sk
+    a suit of dark leather armor ARMOR AC -5 dex 1 !mu!sl!sk!nm
+
+The ugly guard, the tough guard, Guido:
+    a heavy axe WEAPON slash F0 4d8 !cl
+    a suit of dark scale mail ARMOR AC -7 !mu!sl!sk!nm

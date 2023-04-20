@@ -1,0 +1,63 @@
+--- notes
+
+Entrance from Sunnydale (via 1KMR)
+
+vampire ruffians > 16w6swse14s7e2s5e4n3e5s8e2nes;op do e;2ese;pull tor;e2d9ed5s4wn;op trap;d;open sec;d
+
+"pull torch" in 0 to open door east
+"pull torch" in 1 to take a little bit of damage and be moved 1n
+
+The Master 
+
+--- map
+
+                                # - #
+                                |   |
+                            # - # - #
+                           /    |   |
+                          /     # - # - ☠
+                         /
+                        /           #   # - #
+                       /            |   |   |
+                      /     # - # - #   #   # + # - #
+                     /      |   |   |   |   |       |
+    Sunnydale - # - # ----- # - # - # - #   #       # - 0 ! #           # - # - #
+                            |   |   |   |   |       |      /            |   |   |
+                            # - #   #   #   # + # - #     #     # - # - # - # - # - #
+                                    |   |   |            /      |   |   |   |   |   |
+                                    # - # - #           # - # - # - # - # - # - # - # - # - #
+                                                                |   |   |   |   |   |      /
+                                                                # - # - # - # - # - #     #
+                                                                        |   |   |         |
+                                                                        # - # - #         #
+                                                                            |             |
+                                                                            #             #       #   #
+                                                                                          |       |   |
+                                                                                          # * # - # ∘ 2 ∘ 3
+                                                                                          |       |
+                                                                          #               #       #
+                                                                         /|               |
+                                                                        x # - # - # - # - #
+                                                                       ⩗          |
+                                                                      #           1
+                                                                     x
+                                                                    ⌘ - ⌘ - ⌘
+                                                                    |   |   |
+                                                                    ⌘ - ⌘ - ⌘
+
+--- loot
+
+Luke (roaming around past 0):
+    an old rusty key !ident (not used)
+
+One of the trash mobs:
+    a scrappy metal key KEY (to 2, key_metal)
+
+The Master (in 2, instant aggro, vapourize without sanc):
+    an Aegis of Human Bones ARMOR AC -15 dam 2 hp 15 hit 2 mp 15 ac -15 !th!wa!ra!as!sl!sk!dk!sd!min!orc!ogr!gia
+    key to 3
+
+The Anointed One (n of 2, aggro, destroy without sanc):
+    <worn around wrist>  a bracelet of black fire ARMOR AC -10 dam 2 hit 2 hp 20 mp 10 !cl!th!wa!ra!as!sl!sk!dk!sd!ogr!tro!gia
+
+The Hell Hound (in 3)

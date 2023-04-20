@@ -1,0 +1,197 @@
+--- notes
+
+From key room, exit west leads to a room E "in" HighTower with more portal exits.
+
+Empedocles tells the group, 'Dalamar: 16w6swse14s10wdw2n5w, unlock door, w 2u kill mage'
+
+A is an "elevator" - entering west takes you to the other level of the city.
+
+X noexit but otherwise safe
+
+--- map
+            Moria  The Fields of Chaos
+                ∧⩘
+     Midgaard < E > The Tunnels in the Sewer
+               ⩗∨
+       Haon-Dor The City of Drow
+
+             Midgaard
+                ∧
+            E < # > The Sewer Maze
+               /∘
+       Arachnos c           Clan Zone
+                |               +
+                # - # - # - # - # - # - # - # - #
+                |               |               |
+                #           b - #               #
+                |               |               |
+                #       #       # - # - #       #
+                |       |       |               |
+                #   f   #   a - # - d   h   i   #
+                |   |   |   |   |   |   |   |   |
+            A - # - # - # - # - # - # - # - # - # - A
+                |   |       |  ∘|   |   |   |   |
+                |   g       | X |   |   #   #   |
+                |           |   |   |   |       |
+                |           | # |   |   #       |
+                |           |/  |   |           |
+                #           # - # - e           #
+                |               |               |
+                #       # * # - #               #
+                |               |               |
+                #           # - # - j           #
+                |               |               |
+                # - # - # - # - # - # - # - # - #
+                               /
+                              #
+                              |
+                              #
+                              |
+                              #
+                              ∘
+                       Forgotten Forest
+
+                        # * 0 - #
+                            |
+                            # 1
+                            |∘
+            A - # - # - # - # - # - # - # - A
+                            |
+                            #
+                            |
+                        # - # - #
+                            |
+                            #
+
+                            #
+                            |
+                        # - 1 - # - #
+                            |
+                            #
+
+
+--- loot
+
+A Per:
+    an elixir of life POTION (30: heal; cure critic; !NO SPELL!)
+
+A Highlander (in 0):
+    a plain black trench coat CONTAINER dam 2 mag
+
+King Greybeard (in 0):
+    a small ankh STAFF (30: strength 3/3) age 20 mp 30 !n
+
+In a safe (west of 0):
+    iron key (to door on beach of forgotten forest)
+
+The dark elven mage (in forgotten forest):
+    a black velvet robe ARMOR AC -10 mp 25 hit 2 mag
+    a shimmering band of energy ARMOR AC -9 dam 1 mp 20 mag
+    a belt of pouches which contain spell components CONTAINER mp 20 savespell -2
+A belt of pouches ... :
+    Moonstone KEY
+
+The green dragon (in forgotten forest, Lust is here):
+    Jhasso tells the group, '2d2esw2sw5s w2s2esesen2enen unlock moon east'
+    a sparkling emerald gem stone LIGHT mp 40 hit 1 !g
+    a horned dragon's skull ARMOR AC -15 dam 2 hp 15 mag!sl
+    a large lightning rod KEY
+
+The Marut (in 0):
+    a bracelet carved of pure onyx ARMOR AC -7 dam 2 mp 30 str 2 mag
+
+A Platinum Dragon (n of 0):
+    a platinum dragon's claw ARMOR AC -6 spelldam 25 mp 25 !e!sl
+    a key of stone KEY
+
+A Balor (w of 0):
+    an unholy bastard sword WEAPON slash F0 6d5 hp 25 hit 2 !g!cl!th!ra!as!sl!sd!gnm!hlf!fae
+    a key of stone KEY
+
+A swirling mist (s of 0):
+    a shroud of mist ARMOR AC -12 hit 2 hp 35 mag!g!mu!cl!th!as!sd!nm
+    a key of stone KEY
+
+--- shops
+
+Mr. Hooper in a:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A soft leather backpack                            1425
+  2)  Unlimited   A pair of swampboots                              10500
+  3)  Unlimited   A handbasket                                        675
+  4)  Unlimited   A ball of light made from fireflies                4500
+
+David in b:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A holy robe                                      550000
+  2)  Unlimited   A wooden shield                                   30000
+  3)  Unlimited   A mace                                            15000
+  4)  Unlimited   A warhammer                                       20000
+
+The keymaster in c:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A large stone key                                 75000
+  2)  Unlimited   A small stone key                                150000       (stone door in c)
+  3)  Unlimited   A rusty iron key                                 600000
+
+The baker in d:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A chocolate chip cookie                               6
+  2)  Unlimited   A piece of pastry                                    12
+  3)  Unlimited   A pop-over                                           18
+  4)  Unlimited   A package of iron rations                           240
+
+The bartender in e:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A flaegon of dark ale                                30
+  2)  Unlimited   A shotglass of local speciality                      24
+  3)  Unlimited   A glass of firebreather                              18
+  4)  Unlimited   A bottle of firebreather                             60
+
+The witch in f:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A glowing potion                                  18000
+  2)  Unlimited   A potion of truesight                             42000
+  3)  Unlimited   A blood red potion                                10200
+  4)  Unlimited   A vial of shimmering liquid                       18000
+  5)  Unlimited   A bright pink potion                               9600
+
+The mage in g:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)      1       A scribing quill                                    300
+  2)  Unlimited   A sheet of parchment                                120
+  3)  Unlimited   A Scroll of the Lost City                          4200
+  4)  Unlimited   A clear glass wand                                 7200
+  5)  Unlimited   A rough-textured scroll                           24000
+
+Talos in h:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A war helmet                                      60000
+  2)  Unlimited   Heavy chain armor                                 99600
+  3)  Unlimited   Heavy leg plates                                  90000
+  4)  Unlimited   Heavy arm plates                                  90000
+  5)  Unlimited   Full plate armor                                 120000
+
+The weaponsmith in i:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A quiver of lead arrows                             880
+  2)  Unlimited   A rapier                                          11000
+  3)  Unlimited   A bastard sword                                   22000
+  4)  Unlimited   A shortsword                                       5500
+  5)  Unlimited   An ornate longsword                               22000
+
+Zippy in j:
+-------------------------------------------------------------------------
+  1)  Unlimited   A leather wristguard                               6999
+  2)  Unlimited   A hardend leather helmet                           1259
+  3)  Unlimited   Black leather boots                                2799
+  4)  Unlimited   A black studded leather vest                      13999

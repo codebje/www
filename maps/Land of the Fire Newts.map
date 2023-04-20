@@ -1,0 +1,102 @@
+--- notes
+
+From Samsera, via Moria and Juargan: 10e3n2e5u2ede2n2es
+
+--- map
+
+                  The Underworld
+     The Underworld     ^
+            ^           +
+            # - # - #   #
+                +       +
+                # + #   #
+                |       +
+                #       #
+                |       +
+                #       #
+                +       +
+            # + # + #   #
+                |       +
+            1   # - 1 - # + #
+            v       ^
+            2   # - #
+                |
+                # + #
+                |
+                # + #             Moria
+                |                   |
+                # + #               #
+                |                   |
+    0 + # - # - # - # + #           #
+            |                       |
+        # + #                       # - #
+            |                           |
+        # + #                           #
+            |                           |
+        # + #                           #
+            |                           |
+            # - # - #+> #           # - # - Volcano
+                |                      /|
+    # - # - # - # - # - # + #         / #
+                |          /         /
+            # - #         # - # # - # - #
+                |                  /
+            # - # - #           # /
+            |                   |/
+            2                   #
+            |/                 /|
+            B                 B #
+
+--- loot
+
+A mountain ewe:
+    milk bladder LIQ CONTAINER
+A mountain goat:
+    horns WEAPON stab F0 1d7
+
+A fire newt worker:
+    shovel WEAPON bludgeon F0 2d6
+    chainmail ARMOR AC -6 hp 5 !mu!sl!nm
+A fire newt guard:
+    hand axe WEAPON slash F0 2d7 !mu!cl!nm
+A fire newt general:
+    pick WEAPON maul F0 2d9 hit -1 dam 1 !mu!cl!th!sd!nm
+
+A sleeping Firenewt:
+    a box CONTAINER
+A box:
+    a dead mouse FOOD (poison)
+
+The Firenewt chieftain (in 0):
+    a bullwhip whip WEAPON whip F0 4d10 hit -2 mag
+    a belt pouch CONTAINER ac -10
+A belt pouch:
+    a plain key KEY
+A sturdy chest:
+    200,000 coins
+
+An eating Firenewt:
+    a jar
+A jar:
+    some pickled eggs FOOD
+
+An old man:
+    a blue candle WAND (fireball)
+
+An iron Cyclops:
+    an expensive-looking jewel STAFF (sense life) mag
+
+A lumbering Neanderthal:
+    a crude stone club WEAPON crush F0 6d5 int -2 dam 3
+
+A fire newt priest:
+    mace WEAPON pound F0 3d8 dam 1 mag!mu!nm
+    orange potion POTION (dispel evil curse heal) mag
+
+On the ground below the temple:
+    a newt egg FOOD
+
+A fire newt leader:
+    broad axe WEAPON slash F0 4d6 hit 1 dam 1 mag!g!mu!cl!th!sk!sd!nm
+    leather suit ARMOR AC -5 dex 1 move 10 mag!sl
+    orange potion POTION (dispel evil curse heal) mag

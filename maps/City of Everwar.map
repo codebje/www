@@ -1,0 +1,88 @@
+
+--- notes
+
+Marathon hike from Samsera.
+
+Muerta offers quests, roams around.
+
+--- map
+
+                                        # - # - #
+                                        |       |
+                                #   # - #   # - # - #
+                                |       |       |
+            # - #           # - #       #       #
+                |               |       |       |
+                #               #   # - #   # - # - #           #
+                |               |       |       |               |
+            # - #               #       #       #               #
+            |*  |               |       |       |               |
+            B - # - # * 1 - # - # - # - # - # - # - # - # + # - # - # + # + # - # - # - # - Everwar Mountain
+            |   |           |/  |       |       |               |
+            # - #           # - #       #       #               #
+                |               |       |       |               |
+                #               # > # - #   a - # - #           #
+                |               |   |/  |       |
+            # - #           # - #   A - #       #
+                                |               |
+                                #           c - # - b
+                                |               |
+                                # - # - # - # - #
+
+                                      #
+                                     /
+                                    #
+                                   /
+                                  #
+                                |/
+                                A -
+
+                 /
+                #
+                |
+              - #
+                |
+            0 - # - #
+                |  /
+              - # B
+                |
+
+--- loot
+
+A Turrian soldier (variously):
+    a Turrian sword WEAPON slash F0 8d4 cha 2 hit 2 !e!mu!cl!th!as!dk!sd!gnm!hlf!nm!fae
+
+An old man:
+    a small oil lantern LIGHT str 1
+
+Princess Ildera:
+    an amulet of empathy WAND (50: heal 1/1) int 4
+
+The captain of the guard:
+    Turrian armor ARMOR AC -8 dam 1 str 1 !sl
+    the great key KEY
+
+--- shops
+
+Furfoot (in a):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A halflings charm                                 25000
+  2)  Unlimited   A small sack                                        100
+  3)  Unlimited   A dew-covered flask of water                         50
+  4)  Unlimited   Dried meat                                           12
+
+Margal the sage (in b):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   An empty bottle                                       3
+  2)  Unlimited   A potion full of mold                             60000
+  3)  Unlimited   A rotten smelling potion                          80000
+  4)  Unlimited   A sour potion                                     80000
+
+Kasri the scribe (in c):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A red scroll                                      15000
+  2)  Unlimited   A Turrian scroll                                   2100
+  3)      1       A blue scroll                                      7020

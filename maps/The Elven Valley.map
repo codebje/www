@@ -1,0 +1,79 @@
+--- notes
+
+Portal cooshee, or enter from Northern Mountain Range.
+
+Most of the down exits lead to other parts of the outer path. Some are obviously death traps.
+A few lead to the valley floor.
+
+
+--- map
+
+
+                                                                # - # - # - #
+                                                                |           |
+                                                                |         6 |               # + 6
+                                                                |        /  |               +  /*
+            # - # - # - # - #                                   #   # - #   #               # * #
+           /|  /   /   /   /|                                   |   |   |   |
+          ☠ |               |           # ----- # ----- #       #   # - #   #
+            |               |           |               |       |   +       |
+        # - #               # - #       |           # + # - #   # - # - # - #
+       /|  /               /   /|       |          x    |   |       |
+        |                       |       #         #     |   # - # - #
+        |                       |       |         |     |       |/
+        #                       #       |     4 * # * 5 |       #
+       /|                      /|       |               |       |
+        |                     1 |       # ----- # ----- #   # - # - #
+        |                       |                           |   |   |
+        # - #               # - #                       # - # - # - # - #
+       /   /|              /|  /                        |/  |   |   |   |/
+      ☠   ☠ |               |                           # - # - # - # - 1
+            |               |                           |   |   |   |   |
+            # - #   #   # - #                           # - # - # - # - #
+           /   /|  /|  /|  /                                |   |   |
+          ☠   ☠ | 0 | ☠ | ☠                                 # - 0 - #
+                |   |   |
+                # - # - #
+                    |
+              NMR - #
+
+--- loot
+
+Talemon (in 4):
+    a black crystal staff WEAPON pound F0 10d3 saves -2 mp 25 mag!cl!th!wa!ra!as!sl!sk!dk!sd
+    a sticky black bag CONTAINER
+
+A sticky black bag:
+    a vial of hemlock sap POTION (poison plague sleep) mag
+    a vial of cedar sap POTION (refresh fleet foot !NO SPELL!) mag
+    a vial of redwood sap POTION (bless shield briarwood skin) mag
+    a vial of dogwood sap POTION (armor invisibility !NO SPELL!) mag
+    a vial of maple sap POTION (haste !NO SPELL! !NO SPELL!) mag
+
+The guardian daemon (in 5):
+    a sticky black bag CONTAINER
+
+A sticky black bag:
+    a vial of sequoia sap POTION (eyes of the dead sagacity !NO SPELL!) mag
+    a vial of pine sap POTION (unholy word !NO SPELL! !NO SPELL!) mag
+    a vial of oak sap POTION (detect magic sense life !NO SPELL!) mag
+    a vial of aspen sap POTION (dispel good heal !NO SPELL!) mag
+
+A valley elf (maid):
+    a black aspen dagger WEAPON pierce F0 6d6 savespell -3 move 15 mag!g
+
+A valley elf elder:
+    a tiny golden ring WORN mp 25 mag!th!wa!ra!as!sl!min!dra!ogr!tro!gia
+    a key KEY
+
+A valley elf elder (sw corner):
+    a leaf of athelas SCROLL (heal !NO SPELL! !NO SPELL!) mag
+    a rhododendron leaf SCROLL (cure critic cure critic cure critic) mag
+    an ashen blackberry leaf SCROLL (fireball !NO SPELL! !NO SPELL!) mag
+
+On the ground in the upstairs of the house:
+    a lotus leaf SCROLL (chill touch ice storm !NO SPELL!) mag
+    a poppy leaf SCROLL (detect alignment true sight !NO SPELL!) mag
+    a leaf of aquatic lilium SCROLL (create water !NO SPELL! !NO SPELL!) mag
+
+

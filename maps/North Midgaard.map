@@ -1,0 +1,75 @@
+--- notes
+
+Zone: North Midgaard
+Description: Beginner zone (1-10)
+Notable mobs: 1 - Madame Ravenclaw, 2 - Greize (bodyguards), 3 - Terwin, 4 - Galatia
+Notes: M - moat is foggy (and pointless)
+
+--- map
+
+                             #
+                            /|            Thieves' Den
+                           / #---#              |
+                          /  |                  #                           #---#---#---#
+                         /   #                  |                           |           |
+                        #   3                   #                           #           #
+                        |   +                   |                           |           |/
+                        #---#-+-#---#---#---#---#---#                       #           M
+                        |   +  /                |                           |           |
+                        #   4 M                 # - $                       #           #
+                                                |                           |           |
+                                                # - #                       #---#---#---#
+                                                |
+                                        #   #-+-#       #
+                                        |   |   |       |
+                        #               #   #   #       #   # - 2           # - #
+                        |               |       |       ┼   ┼               |
+                    #───1─┼─#───#───#───#───#───#───# - # - # - # - # + # + # - #
+                        |           | #         |               ┼           |   |
+                        #           |/          #         #     #           #   #
+                                    #           |        /      ┼
+                                        # - # - #       #       # - #
+                                                |       |       | #
+                                # - #           # - # - #       |/
+                                    |           |               #
+                                    # - # - # - #
+                                    |           |
+                                    #           #
+                                                |
+                                                #
+                                                |
+                                     Northern Midgaard Main City
+
+--- items
+
+A crumpled note - a ransom demand to recover jewelery taken to the Thieves' Den
+
+Object 'an ironwood staff', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 2, Value: 300, Rent: 170
+Forge level: 0 No. dice: 5 Dice size: 4 Type: pound
+Can affect you as :
+   Affects: DAMROLL By 1
+
+Object 'a Bastard Sword', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: MAGIC !MAGE !CLERIC !THIEF !ASSASSIN !SHOU_LIN !SHAD_DANC IDENTIFIED
+Weight: 5, Value: 500, Rent: 170
+Forge level: 0 No. dice: 5 Dice size: 4 Type: slash
+Can affect you as :
+   Affects: DAMROLL By 1
+
+Object 'a halberd', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: !MAGE !CLERIC !THIEF !SHOU_LIN !SHAD_DANC IDENTIFIED
+Weight: 15, Value: 300, Rent: 135
+Forge level: 0 No. dice: 2 Dice size: 12 Type: crush
+
+--- shops
+
+Feargal Duroon:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A heater shield                                    4000
+  2)  Unlimited   A kettle helmet                                    2099

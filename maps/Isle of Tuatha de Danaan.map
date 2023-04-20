@@ -1,0 +1,124 @@
+--- notes
+
+From Samsera: 16w6swse14s10wd2wes
+
+--- map
+
+X: The Whirlpool (death trap)
+A: Exit to Land of the Amara
+M: Mananan mac Lir
+C: Cu Chulain
+E: Cernunnos (underwater)
+
+              The Mystic Sea
+                    |
+                    # - # - # - #
+                   /|   |       |
+            # - # A |   # - # - #
+                |   |   ^
+            # < # < #   |
+            |       |   |
+            # - #   X   # ----- #
+            v   |       ^       |
+            #   # > # > #   # - #
+            v   |           |   |
+            # > #   M   #   # < #
+            |   |   |   |   |
+            #   # - #   # - # - 0
+                                ∘
+                                #
+                                |
+            G               # - # - # - #
+           ⩘                |           |
+          E                 #           #
+         /                  |           |
+        # - #           G - #       # - # - #
+            +               |       |       |
+            T               #   P - #   T   #
+                            |       |   ^   |
+                    # - # - #       #   # - # - #
+                    |       v       |   |       |
+                    C     P #       # - # - #   #
+                          ^⩗                    ∘
+                          #             # - # < #
+                                        |
+                                    # - #
+                                    |
+                                # - 1
+                                |
+                                #
+                                |
+                        # - # ∘ # ∘ # - #
+                        |               |
+                    # ∘ #               # ∘ 3
+                        |               |
+                        #               #
+                        |               |
+                    2 ∘ #               # ∘ 4
+                        |               |
+                        # - # ∘ # ∘ # - #
+                                ∘
+                                #
+                                |
+                                #
+
+--- loot
+
+The Woodland Goddess Flidais (in 0):
+    <worn on body>       a suit of armor made of leaves ARMOR AC -10 mp 25 dam 2 mag!g!e!th!wa!ra!as!sl!sk!dk
+    <wielded>            a large wooden mallet WEAPON pound F0 13d2 hit 1 dam 1 mag!g!e!mu!th!wa!ra!as!sl!sk!dk!sd!nm
+    a key of the Danaan (to door in G)
+
+The Sidhe bard:
+    a wicked looking battle flute WEAPON crush F0 11d2 mag
+
+The Sidhe warrior:
+    <worn on body>       a suit of emerald armor ARMOR AC -9 savespell -2 !g!e!sl
+    <worn on legs>       a pair of emerald pants ARMOR AC -9 con 1 !g!e!sl
+    <wielded>            a sword of mist WEAPON slash F0 7d4 mag!g!e
+
+Taliesin:
+    <worn around neck>   the golden torc of Taliesin ARMOR AC -10 mp 35 mag!g!e!th!wa!ra!as!sl!sk!dk
+    a small grey mark KEY
+
+Cernunnos:
+    <worn about body>    the cloak of the first forest ARMOR AC -15 dam 3 hp 20 mp 10 savespell -5 savepara -5 savepetri -5 mag!g!e!mu!cl!th!as!sl!sk!dk!sd!nm
+    <held>               the bow of the first forest FIRE WEAPON (range 3 stun 1) hp 25 dam 3 hit 2 mpcost -5 !mu!cl!th!as!sl!sk!dk!sd!nm
+    a woodland arrow MISSILE 40d1 x20 level 15 !e
+
+Mananan mac Lir is using:
+    <worn on body>       a suit of armor made of seashells ARMOR AC -15 str 3 dam 3 savebreath -2 savepara -2 mag!g!e!mu!cl!th!as!sl!sk!dk!sd!nm
+    <worn about body>    a transparent cloak ARMOR AC -8 dam 1 savepara -3 savepetri -3 mag!g!e!sk!dk
+    <wielded>            a rough edged coral trident WEAPON pierce F0 3d11 hit 3 mag!g!e!mu!cl!th!as!sk!dk!sd!nm
+    a small black mark KEY
+    a small wooden carving of a boat BOAT
+
+Cu Chulainn is using:
+    <worn on head>       a warrior's scarf ARMOR AC -2 str 1 dam 2 mag!g!e!mu!cl!th!as!sl!sk!dk!sd!nm
+    <worn on feet>       Tuathan Boots of War ARMOR AC -7 dam 3 move -10 !g!e!mu!cl!th!as!sl!sk!dk!sd!nm
+    <wielded>            an enormous spear named "Gae Bolg" WEAPON impale F0 2d20 hit 3 dam 4 !g!e!mu!cl!th!as!sl!sk!dk!sd!nm
+
+Dianchect (in 2):
+    <worn around neck>   an iron torc ARMOR AC -8 mp 40 mag!g!e!th!wa!ra!as!sl!sk!dk
+    <wielded>            a wooden spear WEAPON pierce F0 5d5 !g!e
+    a small white mark KEY
+
+Oghma (in 3):
+    <worn on body>       a suit of silver chainmail ARMOR AC -10 dam 1 mag!g!e!sl!sk!dk!wer
+    <held>               a woven staff named "Binder" WEAPON crush F0 16d2 mp 40 hit 2 mag!g!e!cl!th!wa!ra!as!sl!sk!dk
+    a small silver mark KEY
+
+Gobnui (in 4):
+    <wielded>            a blacksmith's spear WEAPON bludgeon F0 8d3 mag!g!e!cl
+    a green amulet ARMOR AC -5 hp 40 savebreath -2 savespell -2 mag!g!e!mu!cl!th!as!sl!sk!dk!sd!nm
+    a brown amulet ARMOR AC -10 hit 2 dam 3 mag!g!e!sk!dk
+    a small golden mark KEY
+
+Nuada of the Silver Hand (in 5):
+    <worn on body>       a studded leather jerkin ARMOR AC -8 str 1 mag!sl
+    <worn on hands>      Nuada's silver hand ARMOR AC -5 str 3 dam 3 mag!g!e!mu!cl!th!as!sl!sk!dk!sd!nm!wer
+    <wielded>            a dancing sword WEAPON slash F0 16d2 hit 2 mag!g!e!mu!cl!th!as!sl!sk!dk!sd!nm
+    a small mist mirror KEY (to s of 5)
+
+A child of Oghma:
+    <worn on body>       a suit of amethyst armor ARMOR AC -5 dam 2 hit 3 hp 25 success 10 mag!g!e!sl

@@ -1,0 +1,311 @@
+You get a crystalline dagger from the corpse of Daphne the Adventurer.
+You get a red silk sash from the corpse of Daphne the Adventurer.
+You get a warm woolen coat from the corpse of Daphne the Adventurer.
+You get a pair of velvet shoes from the corpse of Daphne the Adventurer.
+You get a chainmail haubergeon from the corpse of Daphne the Adventurer.
+You get a rose ring from the corpse of Daphne the Adventurer.
+
+You get a hunting axe from the corpse of a dwarven hunter.
+You get a leather tunic from the corpse of a dwarven hunter.
+
+You get a purple cloth dress from the corpse of a dwarven woman.
+You get a silky green cloth dress from the corpse of a dwarven woman.
+You get a soft pair of shoes from the corpse of a dwarven woman.
+
+You get a roasted jackalope from the corpse of a jackalope.
+
+You get a weretiger claw from the corpse of a weretiger.
+
+You get a long twisted spear from the corpse of a fighting squirrel.
+You get an acorn cap from the corpse of a fighting squirrel.
+
+You get some frog legs from the corpse of a little frog.
+
+You get a turtle shell from the corpse of a large turtle.
+You get a bowl of turtle soup from the corpse of a large turtle.
+
+You get a fly egg from a rotting corpse.
+You get a fly pupa from a rotting corpse.
+
+--- map
+
+                                                                #
+                                                                |
+                                            #   #           # - #
+                                            |   |           |   |
+                                        # - # - # - #       # - # - #           # - #
+                                            |               |   |   |              /
+                            #       #       #               # - # - # - #         #
+                            |       |       |               |    /  |   |        /
+                        # - #   # - #       #               #   C - # - #       C
+                            |       |       |               |
+                # - # - # - # - # - # - # - # - # - # - B - # - #
+                |   |       |       |       |
+         Midgaard   #       # - #   #       #
+          Highway   |               |       |
+                A - A - # > B       #   # - # - #
+                    |                       |
+                    A                       #
+
+--- gear
+
+Object 'a crystalline dagger', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 5, Value: 200, Rent: 495
+Forge level: 0 No. dice: 8 Dice size: 3 Type: pierce
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: MAXHIT By 15
+
+Object 'an acorn cap', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 3, Value: 50, Rent: 105
+AC apply: 3
+Can affect you as :
+   Affects: INT By 2
+
+Object 'a long twisted spear', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 3, Value: 50, Rent: 90
+Forge level: 0 No. dice: 3 Dice size: 5 Type: sting
+Can affect you as :
+   Affects: HITROLL By 1
+
+Object 'a rose ring', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 2, Value: 100, Rent: 230
+Values not used for this item.
+Can affect you as :
+   Affects: MAXMANA By 20
+   Affects: STR By 2
+
+Object 'a chainmail haubergeon', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 10, Value: 100, Rent: 85
+AC apply: 5
+Can affect you as :
+   Affects: STR By 1
+   Affects: CON By 1
+
+Object 'a pair of velvet shoes', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 4, Value: 100, Rent: 90
+Values not used for this item.
+Can affect you as :
+   Affects: DEX By 2
+
+Object 'a warm woolen coat', Item type: CONTAINER
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 7, Value: 100, Rent: 325
+Capacity: 300lbs Flags: CLOSEABLE CLOSED  Key: No Key Is corpse? No
+Can affect you as :
+   Affects: ARMOR By -5
+
+Object 'a red silk sash', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 2, Value: 100, Rent: 600
+Values not used for this item.
+Can affect you as :
+   Affects: INT By 1
+   Affects: CON By 2
+   Affects: MAXHIT By 25
+
+Object 'a dark green dagger', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 4, Value: 200, Rent: 485
+Forge level: 0 No. dice: 7 Dice size: 4 Type: pierce
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 1
+
+Object 'a green pair of boots', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 4, Value: 100, Rent: 250
+Values not used for this item.
+Can affect you as :
+   Affects: DEX By 2
+   Affects: DAMROLL By 2
+
+Object 'a coarse blue cloak', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 5, Value: 100, Rent: 180
+Values not used for this item.
+Can affect you as :
+   Affects: INT By 2
+   Affects: WIS By 2
+
+Object 'a steel axe', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 10, Value: 200, Rent: 330
+Forge level: 0 No. dice: 4 Dice size: 6 Type: slash
+Can affect you as :
+   Affects: HITROLL By 2
+   Affects: DAMROLL By 1
+
+Object 'a jackalope cape', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 7, Value: 100, Rent: 150
+Values not used for this item.
+Can affect you as :
+   Affects: ARMOR By -5
+   Affects: AGE By 5
+
+Object 'a red enameled plate armor', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 10, Value: 100, Rent: 260
+AC apply: 10
+Can affect you as :
+   Affects: DAMROLL By 2
+
+Object 'a tribal headdress', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 5, Value: 100, Rent: 90
+Values not used for this item.
+Can affect you as :
+   Affects: WIS By 2
+
+Object 'a pair of feather boots', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 4, Value: 100, Rent: 235
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By 2
+   Affects: MAXMOVE By 15
+
+Object 'a heavy iron hammer', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 10, Value: 300, Rent: 485
+Forge level: 0 No. dice: 5 Dice size: 6 Type: pound
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 1
+
+Object 'an werehide bracer', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !THIEF !ASSASSIN !SHAD_DANC IDENTIFIED
+Weight: 2, Value: 100, Rent: 370
+Values not used for this item.
+Can affect you as :
+   Affects: DEX By 2
+   Affects: MAXHIT By 20
+
+Object 'a pair of blackened gauntlets', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 5, Value: 100, Rent: 290
+AC apply: 6
+Can affect you as :
+   Affects: DAMROLL By 2
+   Affects: CON By 2
+
+Object 'a sooty leather apron', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 9, Value: 100, Rent: 115
+Values not used for this item.
+Can affect you as :
+   Affects: ARMOR By -5
+   Affects: STR By 2
+
+Object 'an ethereal helm', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW !GOOD !SELL !MINOTAUR IDENTIFIED
+Weight: 2, Value: 5000, Rent: 380
+Values not used for this item.
+Can affect you as :
+   Affects: WIS By 3
+   Affects: INT By 3
+
+Object 'a night helm', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: MAGIC !GOOD !SELL !SHOU_LIN !MINOTAUR IDENTIFIED
+Weight: 3, Value: 31000, Rent: 145
+AC apply: 7
+Can affect you as :
+   Affects: INT By 2
+
+Object 'a purple cloth dress', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 4, Value: 100, Rent: 180
+Values not used for this item.
+Can affect you as :
+   Affects: STR By 2
+   Affects: WIS By 2
+
+Object 'a silky green cloth dress', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 4, Value: 100, Rent: 180
+Values not used for this item.
+Can affect you as :
+   Affects: DEX By 2
+   Affects: CON By 2
+
+Object 'a fly egg', Item type: FOOD
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 1, Value: 1, Rent: 72
+No. hours to fill stomach: 24(poison) Level: 40 Spell: poison
+
+Object 'a fly pupa', Item type: TRASH
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 1, Value: 1, Rent: 0
+Values not used for this item.
+
+Object 'a turtle shell', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 4, Value: 100, Rent: 55
+AC apply: 5
+Can affect you as :
+   Affects: STR By 1
+
+Object 'a bowl of turtle soup', Item type: FOOD
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 1, Value: 4, Rent: 27
+No. hours to fill stomach: 9(Edible) Level: 0 Spell: !NO SPELL!
+
+Object 'a weretiger claw', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: HUM IDENTIFIED
+Weight: 5, Value: 200, Rent: 220
+Forge level: 0 No. dice: 4 Dice size: 6 Type: slash
+Can affect you as :
+   Affects: DAMROLL By 1
+
+Object 'a leather tunic', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 8, Value: 18, Rent: 20
+AC apply: 4
+
+Object 'a soft pair of shoes', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 4, Value: 100, Rent: 155
+Values not used for this item.
+Can affect you as :
+   Affects: MAXMOVE By 25
+   Affects: DEX By 1
+
+

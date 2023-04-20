@@ -1,0 +1,116 @@
+--- items
+
+Object 'a blindfold', Item type: WORN
+Item will give you following abilities:  BLIND
+Item is: IDENTIFIED
+Weight: 1, Value: 200, Rent: 300
+Values not used for this item.
+Can affect you as :
+   Affects: ARMOR By 15
+
+Object 'a razor', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: NO_LOCATE IDENTIFIED
+Weight: 2, Value: 1200, Rent: 615
+Forge level: 0 No. dice: 5 Dice size: 6 Type: pierce
+Can affect you as :
+   Affects: DAMROLL By 2
+   Affects: MAXHIT By 10
+
+Object 'the sword swallower's sword', Item type: STAFF
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 3, Value: 1200, Rent: 0
+Spell lvl: 40 Max charges: 3 Charges left: 3 spell: heal
+
+Object 'tightrope walker's pole', Item type: WAND
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 4, Value: 1200, Rent: 120
+Spell lvl: 40 Max charges: 3 Charges left: 3 spell: fly
+
+Object 'a throwing knife', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: !INVIS IDENTIFIED
+Weight: 3, Value: 1200, Rent: 220
+Forge level: 0 No. dice: 4 Dice size: 6 Type: pierce
+Can affect you as :
+   Affects: DEX By 1
+   Affects: INT By 1
+
+Object 'the Strongman's Bracers', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 10, Value: 1200, Rent: 235
+AC apply: 7
+Can affect you as :
+   Affects: STR By 2
+   Affects: CON By 2
+
+Object 'a barbell', Item type: STAFF
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 10, Value: 0, Rent: 0
+Spell lvl: 40 Max charges: 3 Charges left: 3 spell: strength
+
+Object 'a thin dagger', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 2, Value: 1200, Rent: 635
+Forge level: 0 No. dice: 5 Dice size: 6 Type: pierce
+Can affect you as :
+   Affects: DEX By 2
+   Affects: DAMROLL By 2
+
+Object 'a goodluck charm', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 2, Value: 1200, Rent: 180
+Values not used for this item.
+Can affect you as :
+   Affects: INT By 2
+   Affects: DEX By 2
+
+Object 'a pointy translucent wand', Item type: WAND
+Item will give you following abilities:  NOBITS
+Item is: INVISIBLE IDENTIFIED
+Weight: 2, Value: 1200, Rent: 210
+Spell lvl: 40 Max charges: 5 Charges left: 5 spell: invisibility
+Can affect you as :
+   Affects: INT By 2
+
+Object 'a scalpel', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 2, Value: 2000, Rent: 655
+Forge level: 0 No. dice: 5 Dice size: 6 Type: slash
+Can affect you as :
+   Affects: DAMROLL By 2
+   Affects: HITROLL By 2
+
+Object 'a tophat', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 1, Value: 1200, Rent: 190
+Values not used for this item.
+Can affect you as :
+   Affects: INT By 2
+   Affects: ARMOR By -10
+
+Object 'a big red clown nose', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 1, Value: 0, Rent: 115
+AC apply: 5
+Can affect you as :
+   Affects: CHA By 2
+
+Object 'a whip', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 4, Value: 1200, Rent: 260
+Forge level: 0 No. dice: 4 Dice size: 6 Type: whip
+Can affect you as :
+   Affects: MAXHIT By 10
+   Affects: INT By 1
+

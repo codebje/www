@@ -1,0 +1,98 @@
+--- notes
+
+Scrolls of knowing and midgaard on various mobs.
+
+--- map
+
+                      3     # - # - # - 4
+                     /      |   |
+            # - # - #       # - #
+            |   |           |
+            # - #           |   # - # - #
+                |           |   |   |  /|
+                # - # ----- #   |   | 1 |
+                    |       |   |   |   |
+                    # - # - #   # - # - #
+                    |   |   |   |
+                # - # - # - #   #
+                |   |   |   |   |
+        2 - # - #   # - # - # - #
+                    |   |   |
+                    # - # - # - # - # - #
+                        |           |   |
+                        | #         # - #
+                        |/|         |   |
+                        # #         # - # - 0
+                         /
+                        #
+                       /
+                      #
+                     /
+                    #
+                   /
+                  #
+                 /
+    Northern Mountain Range
+
+--- loot
+
+The mountain climber:
+    anti-cyclops elixir POTION (15: invisibility; !NO SPELL!; !NO SPELL!)
+
+The cyclops:
+    some platinum arm bands ARMOR AC -4 str 1 wis -2 !sl
+    some platinum leg bands ARMOR AC -4 dex 1 int -2 !sl
+
+An alchemist:
+    elemental wand of wind and air WAND (10: fly 1/1)
+
+The elemental guardian:
+    an elemental bracelet WORN mp 25 !th!wa
+    an elemental amulet WORN savebreath -5 int 1
+
+An elemental magician:
+    elemental wand of fire WAND (15: fireball 1/1)
+
+A medium elemental:
+    a lodestone WAND (15: sleep 1/1)
+
+A rainbow warrior:
+    a stone club WEAPON pound F0 1d12 con 1 mag
+
+The Earth Ruler (in 0):
+    a stoney breastplate ARMOR AC -5 con 1 !sl
+    the earth ring WORN int 1 wis 1
+
+A lava beast:
+    a lava lamp LIGHT
+
+The Water Ruler (in 1):
+    an icy girth WORN con -2
+    a waterfall cloak WORN dex 2 str 1
+
+The Magneto (2e of 2):
+    the Shock Whip WEAPON whip F0 4d4 dam 2 str -2
+
+The Blue Flame (2e of 2):
+    a flame lance WEAPON impale F0 2d15 hp -20 hit 2
+
+The Hurricane (e of 2):
+    the Morning Star WEAPON pierce F0 6d3 savebreath -5 ac -3
+
+The Ice Bandit:
+    an icicle WEAPON pierce F0 7d3 dam 2 str -1
+
+The Rock Monaster (e of 2):
+    the Avalanche WEAPON crush F0 1d30 hit -1 mag
+
+The Fire Ruler (in 2):
+    a fiery dagger WEAPON pierce F0 4d4 dex 2
+    a flame red scarf WORN con 2
+
+The Lightning Ruler (in 3):
+    a sparking lightning sword WEAPON slash F0 6d3 hit -1 int 1
+    an electric shield ARMOR AC -7 str -1 con 1 !sl
+
+The Air Ruler (in 4):
+    the wind boots ARMOR AC -3 dex 2 mag!sl
+    a humming hurricane helmet ARMOR AC -4 savebreath -4 wis 1 !sl

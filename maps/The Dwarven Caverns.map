@@ -1,0 +1,80 @@
+--- notes
+
+From Samsera: 10ed
+
+--- map
+
+                                    Kenku Village
+                                        |
+                                        | Turning Point
+                                        |/
+               The Kingdom of Juargan - #
+                                       /∨
+                                      / The Tunnels in the Sewer
+                                     /
+                  The Tunnel Maze - # - # - # - # - # - # - # - # - # - #
+                                    |                                   |
+                                    #                       A (mirrors) S
+                                    |                       |
+                                    #           # - # - # - #
+                                    |           |
+                                    #           # - # - #
+                                    |               |
+                                    #               #
+                                    |               |
+                                    #   #   #   #   #
+                                    |   |   |   |   |
+                                    # - # - # - # - #
+
+
+Magical Mirror Maze:
+
+        You are inside the maze, but not far enough in that you could
+        get lost.  There is an enscription on the wall which says:
+
+                  1    3    2    4
+                  N    W    N    S
+
+        This isn't too tough, so don't take it so rough.
+
+        B   A   E   A           E           E           E           I           J           E
+        ∧   ∧   |   |           ∧           ∧           ∧           ∧           ∧           ∧
+    D < C - B - A - E > A   F < D > E   E < F > E   H < G > E   E < H > E   E < I > E   E < J > K
+        ∨   ∨   |   ∨           ∨           ∨           ∨           ∨           ∨           ∨
+        B   A  exit A           E           G           E           E           E           E
+
+        E           E           E           G           I           E           A           S          exit
+        ∧           ∧           ∧           ∧           ∧           ∧           ∧           ∧           |
+    E < K > L   E < L > M   E < M > N   I < N > O   C < O > P   H < P > K   J < Q > R   A < R > E   K < S > J
+        ∨           ∨           ∨           ∨           ∨           ∨           ∨           ∨           ∨
+        E           E           E           J           F           Q           F           K           J
+
+--- loot
+
+On the ground:
+    a long, black stick LIGHT
+
+The Archaeologist:
+    a pouch full of bones CONTAINER
+A pouch full of bones:
+    a bone WAND (30: awaken 3/3)
+
+--- shops
+
+The Hide & Tooth storekeeper:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A printed tee shirt                                8549
+  2)  Unlimited   A postcard                                        10449
+  3)  Unlimited   A pair of dwarven gloves                           7599
+  4)      1       A golden dwarven ring                             18999
+  5)  Unlimited   A paper hat                                        4749
+
+Granite Head:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A large pot pie                                      28
+  2)  Unlimited   A hunk of crusty, dry bread                           9
+  3)  Unlimited   A small brass lantern                                94
+  4)  Unlimited   A decanter of firebreather                           94
+  5)  Unlimited   A large wooden barrel of beer                       569

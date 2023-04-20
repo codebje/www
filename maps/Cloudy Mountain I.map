@@ -1,0 +1,112 @@
+--- items
+
+Object 'cloudBurst', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !WARRIOR !RANGER !SOLAMN_KN !DEATH_KN IDENTIFIED
+Weight: 4, Value: 10000, Rent: 260
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: HITROLL By 2
+   Affects: MAXMANA By 15
+
+Object 'a Cleric's Guild Ring', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !MAGE !THIEF !WARRIOR !RANGER !ASSASSIN !SHOU_LIN !SOLAMN_KN !DEATH_KN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 3, Value: 10000, Rent: 290
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By 2
+   Affects: HITROLL By 1
+   Affects: MAXMANA By 15
+
+Object 'aurora Borealis', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM !WARRIOR IDENTIFIED
+Weight: 2, Value: 10000, Rent: 190
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: HITROLL By 1
+   Affects: MAXMANA By 15
+
+Object 'volcano', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 2, Value: 10000, Rent: 425
+Forge level: 0 No. dice: 4 Dice size: 7 Type: crush
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: HITROLL By 1
+   Affects: MAXMANA By 10
+
+Object 'the King's Shield', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !MAGE !CLERIC !THIEF !ASSASSIN !SHOU_LIN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 2, Value: 10000, Rent: 195
+AC apply: 7
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: HITROLL By 1
+   Affects: MAXMANA By 10
+
+Object 'spectre', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !GOOD !WARRIOR !RANGER !SOLAMN_KN IDENTIFIED
+Weight: 2, Value: 10000, Rent: 290
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: HITROLL By 1
+   Affects: MAXMANA By 10
+   Affects: MAXHIT By 15
+
+Object 'spark', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM !THIEF !ASSASSIN !SHAD_DANC IDENTIFIED
+Weight: 2, Value: 10000, Rent: 425
+Forge level: 0 No. dice: 4 Dice size: 7 Type: maul
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: HITROLL By 1
+   Affects: MAXMANA By 10
+
+Object 'spring', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !EVIL IDENTIFIED
+Weight: 2, Value: 10000, Rent: 190
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: HITROLL By 1
+   Affects: MAXMANA By 15
+
+Object 'resurgence', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: !EVIL !MINOTAUR !GNOME !ORC !ELF !HALFLING !OGRE !TROLL !DWARF !FAERIE IDENTIFIED
+Weight: 2, Value: 10000, Rent: 625
+Forge level: 0 No. dice: 4 Dice size: 8 Type: slash
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: HITROLL By 1
+   Affects: MAXMANA By 10
+
+Object 'autumn', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !THIEF !ASSASSIN !SHAD_DANC IDENTIFIED
+Weight: 2, Value: 10000, Rent: 190
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: HITROLL By 1
+   Affects: MAXMANA By 15
+
+Object 'fireStorm', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW IDENTIFIED
+Weight: 2, Value: 10000, Rent: 140
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: HITROLL By 1
+   Affects: MAXMANA By 10

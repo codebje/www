@@ -1,0 +1,119 @@
+--- notes
+
+Rooms in the graveyard (past 0) marked '!' spawn an undead mob on entry.
+
+Tell Niles (in 5) you want to help to open door to the Baron. Tell the Baron you're there for the Witch or Necromancer
+and he'll tell you there's a reward for the Necromancer's defeat. Ask what proof is needed and the Baron will let you
+know that he wants the heart of the Necromancer while Francois will reward you for the head of the Witch. If you
+accept his tasks by saying yes he'll let you know that Maryah and Francois will have information.
+
+Maryah just panics. Francois says the Witch is in the abandoned graveyard.
+
+Push the altar north of 4 to open the passage down to 8; pull torch in 8 to open passage south.
+
+--- map
+
+                                  |
+                                  # - #
+                                  |   |
+                                  #   # + A
+                                  |      /
+                              #   #               7
+                              |   |               |
+                          # - # - # - #           #
+                          |/  |   |  /           /
+                          8   #   # #           #
+                          ?                    /
+                          # - #               #
+                             /               /
+          #                 9               #
+          |                                 |
+      # - 4 - #                     2       #                 #
+          |                         |       |                 +
+          #                         # - # - #         #   # + 6
+          |                         |       |         |   +
+          #                     1 - #       #     # + 5 + #
+          ∘                         |       |         +
+      ! - # - # - !                 # - # - # - 3     #
+      |   |   |   |                     |             |
+      # - # - # > # ∘ 0 - #             #     # - # - #
+      |   |   |   |      /              |    /
+      ! - # - # - !     # - # - # - # - # - #
+                                |
+                                #
+                                |
+                                #
+                                |
+                                #
+                               ⩘
+                         Isle of Myst
+
+--- loot
+
+In a corpse in 0:
+                         an iron key (to graveyard)
+
+Maryah (in 1):
+    <held>               the fire of magica WAND (50: pulse gain 1/1) dam 2 hit 4 !g!e!th!wa!ra!as!sl!sk!dk!sd
+                         a staff of warding STAFF (50: ward 3/3)
+                         a wand of divination WAND (50: identify 3/3)
+
+Francois, the burgomeister (in 2):
+    <worn around neck>   a Giant Silver Crucifix
+    <wielded>            a bastard sword
+
+Alain (in 3):
+    <worn on hands>      a pair of silver gauntlets
+
+The skeleton (roaming in graveyard past 0):
+                         the chapel key (to chapel north side of graveyard)
+
+A dire wolf (roaming near 4):
+                         a black collar WORN ac -7 con 1 dam 2 hit 2
+
+The mad priest (w of 4):
+    nothing
+
+A wooden altar (n of 4):
+    locked, no key (not chapel/iron)
+
+Niles (in 5):
+    <worn on head>       a powdered wig
+    <worn about body>    a red frock coat
+
+Baron duChesne (w of 5):
+    <worn about body>    a white baldric
+    <wielded>            the sword of the House of duChesne
+
+The crazed Nek'rabeast (in 6):
+    <wielded>            a butcher knife WEAPON pierce 3d12 dam 2 hit 2 !mu!cl!th!ra!wa!sl!sk!dk!nm (w:2 v:6500 r:855)
+
+Dengraz'ch (in 7):
+    
+
+You get a banner of duChesne from the corpse of the Knight.
+You get a knight's lance from the corpse of the Knight.
+You get a chain mail hauberk from the corpse of the Knight.
+You get a kite shield from the corpse of the Knight.
+You get chain mail sleeves from the corpse of the Knight.
+You get manor gauntlets from the corpse of the Knight.
+You get a pair of silver spurs from the corpse of the Knight.
+You get a chain mail coif from the corpse of the Knight.
+You get a duchesne tabard from the corpse of the Knight.
+You get a blue cloak from the corpse of the Knight.
+You get a chain mail barding from the corpse of the horse.
+
+A slobbering, drooling undead creature scurries along the path.
+These ghoulish minions of the necromancer wander the valley, protected
+
+Lord Tarrant (in 9):
+    <worn on finger>     Tarrant's signet ring
+    <worn as cloak>      a tattered cape
+    <wielded>            the sword of Tarrant
+
+G'qor (in A):
+    some bloodstained ceremonial robes ARMOR AC -12 dam 2 mp 25 hp 10 mag!g!n!th!wa!ra!sl!sk!min!hum!iza!gia
+    the circlet of dark influence ARMOR AC -12 dam 3 mp 30 success 2 hp 10 !g!n!th!wa!sl!sk
+    a black steel flamberge WEAPON crush F0 5d7 dam 3 str 2 !g!n!mu!cl!th!as!sl!sk!sd!nm
+    a pair of dark bracers ARMOR AC -8 dam 2 hp 10 mp 10 !g!n!th!wa!sl
+    a flaming key KEY

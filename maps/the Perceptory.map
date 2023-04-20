@@ -1,0 +1,90 @@
+--- notes
+
+Through maze: n2sen
+
+--- map
+
+        B               B               C               E               F               A
+        ^/              ^               ^               ^               |               ^
+    A < A - C       C - B > B       A - C - B       E < D > B       E < E > E       F < F > D
+        v               v               v               |               v               |
+        F               D               F               G               E               E
+
+        D               I               B
+        |               ^               ^               ^               ^               ^
+    F < G > H       E < H > B       D < I > B         < J >           < K >           < L >
+        v               v              /v               v               v               v
+        G               B             # G
+                                     /
+                                    #
+
+
+                    # - # - # - # - # - # - #                   # - # - # - The Forgotten Forest
+                    |           |           |                   |
+                    #           #           #           #   #   #
+                    |           |           |           |   |   |
+                    #         < 3 >         #           # - # - #
+                    |       ^   |   ^       |           |   |   |
+                    # - # - 5 - # - 4 - # - # - # - # - #   #   #
+                    |       v  /|   v       |           |       |
+                    #         < 2 >         #           # - # - # - #
+                    |           |           |           |           |
+                    #           #           #           # - #       0
+                    |           |           |           |
+                    # - # - # - # - # - # - #           1
+
+--- items
+
+A Papal soldier, a Royal soldier, a Papal Captain, a Royal Captain:
+    a royal breastplate ARMOR AC -8 hit 1 dam 1 mag!g!sl!sk!sd
+    a royal helmet ARMOR AC -8 hit 1 dam 1 mag!g!sl!sk
+    a royal tabard ARMOR AC -8 hit 1 dam 1 mag!g!sl!sk
+    a royal sword WEAPON slash F0 5d7 hit 1 dam 1 mag!g!sk
+
+A Templar soldier, a Templar Captain, a Templar Canon, a Templar Perceptor:
+    the Templar cape ARMOR AC -8 hit 1 dam 1 mag!e!n!th!as!sl!dk
+    the Templar shield ARMOR AC -10 hit 1 dam 1 mag!e!n!th!as!sl!dk
+    the Templar sword WEAPON slash F0 5d7 hit 1 dam 1 mag!e!n!th!as!sl!dk
+
+Clement (in 0):
+    a royal breastplate ARMOR AC -8 hit 1 dam 1 mag!g!sl!sk!sd
+    a royal tabard ARMOR AC -8 hit 1 dam 1 mag!g!sl!sk
+    a royal sword WEAPON slash F0 5d7 hit 1 dam 1 mag!g!sk
+    the Papal mitre ARMOR AC -10 mp 35 hp 20 mag!g!n!th!wa!ra!as!sl!sk!dk!sd
+
+King Philip (in 1):
+    the crown of the French King ARMOR AC -10 cha 2 hp 30 dam 2 mag!g!n!th!sl!sk!sd
+    a royal breastplate ARMOR AC -8 hit 1 dam 1 mag!g!sl!sk!sd
+    a royal tabard ARMOR AC -8 hit 1 dam 1 mag!g!sl!sk
+    a royal sword WEAPON slash F0 5d7 hit 1 dam 1 mag!g!sk
+
+Temperentia (in 2):
+    the Templar cape ARMOR AC -8 hit 1 dam 1 mag!e!n!th!as!sl!dk
+    the Templar shield ARMOR AC -10 hit 1 dam 1 mag!e!n!th!as!sl!dk
+    the Templar sword WEAPON slash F0 5d7 hit 1 dam 1 mag!e!n!th!as!sl!dk
+    the white Templar gloves ARMOR AC -10 hit 1 dam 2 mp 25 mag!e!n!th!as!sl!dk
+
+Prudentia (in 4):
+    the Templar cape ARMOR AC -8 hit 1 dam 1 mag!e!n!th!as!sl!dk
+    the Templar shield ARMOR AC -10 hit 1 dam 1 mag!e!n!th!as!sl!dk
+    the Templar sword WEAPON slash F0 5d7 hit 1 dam 1 mag!e!n!th!as!sl!dk
+    the Templar armguard ARMOR AC -10 hit 1 dam 2 mp 20 mag!e!n!th!as!sl!dk
+
+Silentia (in 5):
+    the Templar cape ARMOR AC -8 hit 1 dam 1 mag!e!n!th!as!sl!dk
+    the Templar shield ARMOR AC -10 hit 1 dam 1 mag!e!n!th!as!sl!dk
+    the Templar sword WEAPON slash F0 5d7 hit 1 dam 1 mag!e!n!th!as!sl!dk
+    a wristguard ARMOR AC -10 mp 20 dam 2 savepara -2
+
+Caritas (in 3):
+    the Templar cape ARMOR AC -8 hit 1 dam 1 mag!e!n!th!as!sl!dk
+    the Templar shield ARMOR AC -10 hit 1 dam 1 mag!e!n!th!as!sl!dk
+    the Templar sword WEAPON slash F0 5d7 hit 1 dam 1 mag!e!n!th!as!sl!dk
+    the Templar breastplate ARMOR AC -10 hit 1 dam 2 savespell -3 mag!e!n!th!as!sl!dk
+
+The statue of St John the Baptist:
+    the Templar ring ARMOR AC -10 move 30 mp 30 str 2 mag!e!n!th!as!sl!dk
+    a acacia staff STAFF (45: revive 2/2) age -10 mp 20 mag!e!n!th!as!dk
+
+Baphomet:
+    <held>               the Caput XIV

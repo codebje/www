@@ -1,0 +1,64 @@
+--- notes
+
+From Samsera:  10e3ne
+
+Yentle summonable no movement portal point mob.
+
+--- map
+
+
+
+                                                                      Moria
+                                                                        |
+                              # --------------------------------- # - # # - #
+                             /                                       /  |   |
+                            #                 # - #   # - # - # - # # - #   #
+                           /                  |   |   |       |   |        x
+                          #                   #   # - #       #   # - # - # - The Dwarven Caverns
+                         /                    +       |
+                        #         # - # - # - #       # - # - #   #   #
+                       /              |       |       |       |   |   |
+                      #       # - # - #   # - # - #   # - #   #   # - #
+                     /        |       |   |       |   |   |   |       |
+        Moria - # - #         # - #   #   #   4   #   #   #   # - # - #
+                              |       |   |   |   |       |           |
+                              # - # - #   # - # - #   # - # - # - #   #
+                                  |   |               |       |   |   |
+                                  0   # - # ----- #   # - #   #   #   #
+                                      |   |       |       |       |
+                                      1   2       |       #       #
+                                                  |
+                                          # ∘ 3   |
+                                              |   |
+                                              # - #
+
+--- loot
+
+A small dwarf:
+    a mining pick WEAPON maul F0 2d8 !mu!cl!sl!nm
+
+Pasty (in 0):
+    a chocolate chip cookie FOOD
+
+Leatherbie (in 1):
+    a leather jerkin WORN ac -5 con 1
+
+Gem (in 2):
+    a strange stone ring WORN str 2 age 5
+
+Grimdale the ancient king (in 3):
+    a large dwarven battle axe WEAPON slash F0 4d7 hit 1 dam 1 success 10 mag!mu!cl!th!ra!as!sl!sk!dk!sd!min!gnm!orc!elf!dra!hlf!ogr!tro!hum!nm!remort
+
+A large stone sarcophagus (in 3):
+    an ancient staff STAFF (chain lightning) mag!th!wa!as!sl
+
+A dwarf guard:
+    a dwarven helm ARMOR AC -6 savepara -1 !sl!min
+    a dwarven breast plate ARMOR AC -8 con 1 !sl
+
+Juargan the Dwarven King (in 4):
+    a small key KEY (to tomb w of 3)
+
+On the ground west of 3:
+    a large dwarven shield ARMOR AC -7 hp 20 !mu!th!as!sl!sd!nm
+    30000 coins

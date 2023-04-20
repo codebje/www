@@ -1,0 +1,81 @@
+
+D: a Black Panther (the Black Velvet Claws)
+H: Ant Hill, 130k xp kills, fast and easy but tend to blind the tank
+
+W: Waterfall (DEATH)
+X: Quicksand (DEATH?)
+
+--- map
+
+
+        #   #   #       #   #   #
+        |   |   |    /  |   |   |
+        # - # - # - H - # - # - # - #
+        |   |   |       |   |   |  /
+        #   #   #       #   #   # /
+                                 /
+          #   #   #   #   #     /
+          |   |   |   |   |    /
+      # - # - # - # - # - # - #  
+          |   |   |   |   |
+          #   #   #   #   #
+
+
+
+                                                            Isles of     
+                                                           the Pirate - 0 > 1
+                                                             Lords      |
+                1   5   6                                           Isles of
+                |   |   |                                          the Pirate
+          - 2 - # - # - b - O - 2 -                                  Lords
+            |   |   |   |   |   |
+          - 3 - # - # - # - # - 3 -
+            |   |   |   |   |   |
+          - 4 - # - w - # - # - 4 -
+            |   |   v   |       |
+        1 < 5 - 6 - 1 = 1 > 0 >
+            |   |       |   |
+
+
+
+                            #
+                           /|
+                          # |
+                         /  |
+                      - H - |
+                            |   # - D
+                            |  /
+                        X   | #
+                    ^   ^   |/
+                B - # - A - C - # --------- #
+                |       v       |           |
+                |       B     - O -         #       #
+                |               |           |      /|
+                |                           # ----- #
+ Isle of Myst - # - Isle of Myst            |     v/
+                |                          The    #
+                #                      Grassland  v
+                |                                 #
+           Isle of Myst          Isle of Myst     |
+                                      ^           |
+                                      #           |
+                                      |           |
+                                      #           |
+                                      |           |
+                                      # - # - # - #
+                                                  v
+                                                  #
+                                                  v
+                                                  W
+
+--- items
+
+Object 'a fern stem', Item type: WAND
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 5, Value: 0, Rent: 0
+Spell lvl: 35 Max charges: 3 Charges left: 3 spell: blindness
+
+
+a Queen ant is using:
+<worn on legs>       Fine red hair leggings

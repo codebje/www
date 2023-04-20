@@ -1,0 +1,134 @@
+--- notes
+
+Entrance is north of SilverDale. Requires the key to SilverDale to reach the entrance.
+
+Alternatively portal to Zash.
+
+Day and night have the same map, with some variation:
+    The door to 5 is locked (!pick, a small housekey)
+    Down from the privy is one-way into the Second Sewer
+    The room at 6 has an exit north to Lord Vrolock's
+    The grave at 1 leads back up to the Templ Square in Midgaard
+
+The two rooms marked '1' lead to Night. There is no way back to Day from Night.
+
+I could not find the key to the gate in Day. At Night it appears to be the small housekey (from the Night desk). Behind
+the gate (at Night) is reachable without any keys via the underground caves.
+
+--- map
+
+                                                    #
+                                                    |
+                                                    #
+                                                    |
+                                          #         #
+                                         x∘         |
+                                        # ^         #
+                                          |         |
+            #---#           #     #   #-+-#-+-# #-+-#
+            |   |           |    /        |         |
+            #---#   3---#-+-#-+-#     #-+-2-+-# #-+-#
+            |   |           |            /          |
+            #---#-+-#   #-+-#-+-#   #   #-----------#           #
+                 /  |       |      /|   |           |          /
+                5-+-#-+-4   |     # +   |           |         5     # 4
+               /    |  /    |       |   |           |        /      */
+            7-∘-#---#---#---#-------#---#-----------#       #       #
+                    |       |       |   |           |
+                    |     # |       +   |           |         #
+                    |    /  |       |   |           |        x
+                    |   #-+-#-+-#   #   #-----------#       #
+                    |       |      /                |      /
+                1---#-+-#   |     #             #-+-#     #
+                    |    /  |                       |    /
+                    #   0-+-#-+-#               #-+-#   0-+-
+                    |       |                       |
+                    #       #-*-#                   #
+                    |           |                   |
+                    #---#---# 7 #---#               #
+                    |   |   | | |  /|               |
+                    #---#---# # | 1 |               #
+                       /      | |   |               |
+                      #   #   # #---#               #
+                      |   |   !/                    |
+                  #---#---#---6                 SilverDale
+
+--- loot (day)
+
+The carpenter:
+    a nail WEAPON pierce F0 1d1 hit 1 dam 1 mag!cl
+
+The priest (in 0):
+    An iron gatekey KEY
+
+The stableboy:
+    a horseman's whip WEAPON whip F0 2d4
+
+The cleric (east of 2):
+    a cleric's mace WEAPON pound F0 3d5
+
+The thief (west of 2):
+    a large dagger WEAPON pierce F0 2d3
+
+The mage (north east of 2):
+    a large dagger WEAPON pierce F0 2d3
+
+The warrior (north, west of 2):
+    a silver longsword WEAPON slash F0 4d3 !cl
+
+The little girl:
+    a small doll OTHER mag
+
+On the ground in 3:
+    a beautiful orchid WORN wis -2 savespell -3 mag
+
+The butcher:
+    a meat cleaver WEAPON slash F0 2d5
+    a slab of beef FOOD
+    a slice of mutton FOOD
+
+The guard:
+    the key to the jailcells KEY !mu
+
+In the desk (up from 5, locked, pickable):
+    a small housekey KEY !mu
+
+--- loot (night)
+
+The Banshee:
+    a ring of protection WORN savespell -5 savebreath -5 savepara -5:
+
+The WereWolf:
+    a silver dragonscale shield ARMOR AC -9 savebreath -6 mag!sl
+
+On the ground (down from 5):
+    a glass jar LIQ CONTAINER !g
+
+The Hag (up from 5):
+    a ripped silk robe ARMOR AC -2 int -2 age 15 !g
+
+The vampire (up from 5):
+    a sticky iron key KEY mag!cl
+
+In the desk (up from 5, locked, pickable):
+    a small housekey KEY !mu
+
+The warrior (east from 2):
+    a silver longsword WEAPON slash F0 4d4 !cl
+
+The cleric (east from 2):
+    a cleric's mace WEAPON pound F0 3d6
+
+The thief (east from 2):
+    a large dagger WEAPON pierce F0 2d4
+
+The mage (east from 2):
+    a large dagger WEAPON pierce F0 2d4
+    a ring of spell-turning WORN savespell -3 savebreath -3
+
+The wooden golem:
+    a nail WEAPON pierce F0 1d2 hit 1 dam 1 mag!cl
+
+The priest:
+    a Silver Cross LIGHT age 10 wis 2 !e!vam!wer
+    An iron gatekey KEY

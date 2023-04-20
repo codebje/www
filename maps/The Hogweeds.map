@@ -1,0 +1,80 @@
+--- notes
+
+From Samsera: 10n8e
+
+--- map
+
+                              0
+                             /
+                            #                   6
+                            |                   |
+        The Grassland - # - # - # - # - # - # - # - # - # - #   # - #
+                                |   |           |           |   |   |
+                                # - #         1 |           # + # - # + 5
+                                             *  |           |   |   |
+                                            # - # - 2       #   # - #
+                                                |
+                                            # - # - 3
+                                                |
+                                            # - # - #
+                                                |
+                                            # - # - #
+                                           /    |
+                                          4 # - # - #
+                                                |
+                                                #
+                                                |
+                                                #
+                                                |
+                                             Garamond
+
+--- loot
+
+On the ground in 0:
+    a small key KEY
+
+On the ground in 1:
+    a doll OTHER cha 1 age -12 mag
+
+A display case (in 2):
+    a rusty nail POTION (30: armor; awaken; !NO SPELL!) mag
+    a rusty horseshoe OTHER hit 1
+    a rusty suit of ringmail ARMOR AC -8 dex -1 !sl!dk
+
+For sale in 3:
+     ##   Available   Item                                               Cost
+    -------------------------------------------------------------------------
+      1)  Unlimited   A gardening hoe                                     110
+      2)  Unlimited   A pair of weeding gloves                            220
+      3)  Unlimited   A picnic lunch                                       11
+
+On the ground in 4, a man, a woman, a child:
+    some rations FOOD
+
+The village blacksmith (wandering w of 5):
+    a black iron hammer WEAPON pound F0 9d2 dam 2 ac -5 !mu!th!ra!as!sl!sd!hlf!nm!fae
+    the blacksmith's lantern LIGHT str 1 dam 1 !vam
+
+The Giant hogweed (in 5):
+    a jagged hogweed vine WEAPON thrash F0 3d11 dam 1 hit 1 dex 2 !g!e!th
+    a silver key KEY !wer (to chest in 6)
+
+A wooden chest (in 6, !pick):
+    a string of wooden beads ARMOR AC -10 mp 15 dex 1 mag!e!sl!dk
+    a guardian spirit ARMOR AC -14 mp 20 dex 1 mag!e!sl!dk!dem MAIN_PART
+    a platinum cross TREASURE wis 2 cha 2 mp 10 !e!n!dk!dem!vam
+
+    n.b.: "*Added meld item to Guardian spirit, when melded with Plate of Solamnus --> 8825."
+    the Spirit Plate of Solamnus ARMOR AC -15 dam 2 str 3 dex 2 mp 20 ac -5 mag!e!n!mu!th!wa!ra!as!sl!dk!sd!nm!dem
+
+A small hogweed:
+    a hogweed seed FOOD (poison)
+
+A hogweed:
+    a hogweed vine WEAPON slash F0 8d3 dam 1
+
+A big hogweed:
+    a bloody leaf TRASH
+
+A large hogweed:
+    a hogweed root LIQ CONTAINER

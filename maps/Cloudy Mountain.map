@@ -1,0 +1,163 @@
+--- notes
+
+Part I and Part II both in this map.
+
+From Samsera: 17n6w4n2und3n4wn
+
+Zone errors:
+    Exit west into A near entrance should led to Part II instead
+    B exits south back to the room to the east, not east.
+    C and D links west to the wrong place; should be symmetrical into Part II.
+    Room F loops back to itself going north.
+
+The underground space must have been designed to be full of loops and odd connections, but given the errors in the
+rest of the zone I suspect it's also got errors as well.
+
+--- map
+
+                            |   |   |
+                          - J - I   K -
+                     /      |   |   |
+                    H - # - #   # - #
+            |       |   |   |   |   |
+            L - # - #   |   |   |   L -
+            |   |   |   |   |   |   |
+            # - #   # - #   # - #
+           (⋂   |   |   |   |   |
+        G < # - # - #   |   |   |
+                   /    |   |   |
+                  H     |   |   |
+                        |   |   |
+                # - #   # - # - #
+                    |   |x      |
+            # - #   |   G - #   |           #
+            |       |           |          x|
+        # - #       # - #       |         G +
+        |               |       |           |
+        # - A -         #       |       # - # - #
+        |               |       |           |
+        K ------------- # - J - I       # - # - #
+        |                   |   |           |
+                                        # - # - #                             #
+         /                                  |                                /
+    E < # - # - # - # - # ----- # - # - # - # - # - # - # - # - # - # - # - #
+        ∧                       |       |   |   |               |           |
+        E           # - # - #   #       # - # - #   #       W   #           #
+        |           |                   |  /    |   |       |               |
+        #       # - # - # - #           # N #   #   #   # - # - # - # - #   #
+        ∨       |   |   |   |           |   |   |   |   |   |   |   |       |
+        #   # - # - # - # - F           C - # - #   W   # - # - # - #       #
+        |       |           |      ____ |   |   |       |           |       |
+        # - # - # - # - #   # - #-' C <`# - # - D - # - #   B - # - # > A - #
+        |       |           |           |   |   |       |           |       |
+        #       # - # - # - #           # - # - #       # - # - # - #   # - #
+        |       |   |   |   |           |   |   |       |   |   |   |       |
+        #   # - # - # - # - #           # - # - # - #   # - # - # - #   #   #
+        |   |   |                       |   |   |           |           |/  |
+        # # X   #                       # - # - #       # - # - #       N   # #
+        |/                         ____ |   |   |                           |/
+        # - # - # - # - # - # - #-' D <`# - # - # - # - # - # - # - # - # - #
+                                            +
+        # + X                               #
+                                            |
+                                            #
+                                            |
+                                        # - #
+                                        |
+                                        #
+                                        |
+                                        #
+                                        |
+                                  Blasted Heath
+
+--- loot
+
+A dragon guard (variously):
+    Cloudy Mountain Neckguard WORN dam 1 hit 1 mp 10
+
+An Elite guard (variously):
+    lightweight boots WORN dam 1 hit 1 mp 10
+    a guard's sword WEAPON stab F0 4d5 dam 1 hit 1 mp 10
+    cloudy Mountain guard armor ARMOR AC -6 dam 1 hit 1 mp 10 !mu!cl!th!as!sl!sd!nm
+    a bracer of the Cloudy Mountain Elite Guard WORN dam 1 hit 1 mp 10
+
+The King's Bodyguard (variously):
+    a guard's sword WEAPON stab F0 4d5 dam 1 hit 1 mp 10
+
+The captain:
+    a guard's sword WEAPON stab F0 4d5 dam 1 hit 1 mp 10
+    a bracer of the Cloudy Mountain Elite Guard WORN dam 1 hit 1 mp 10
+    wind WORN dam 1 hit 1 mp 10
+
+Raechalin:
+    aurora Borealis WORN dam 1 hit 1 mp 15 !wa
+
+Commander Gauzrah:
+    fireStorm WORN dam 1 hit 1 mp 10
+
+Narz:
+    volcano WEAPON crush F0 4d7 dam 1 hit 1 mp 10
+
+Fred:
+    singe WEAPON thrash F0 4d7 dam 1 hit 1 mp 10 !th!wa!as!sk
+
+Zonk:
+    frostBite WEAPON pierce F0 4d7 dam 1 hit 1 mp 10 !wa!ra!sk!dk
+
+Zilch:
+    spark WEAPON maul F0 4d7 dam 1 hit 1 mp 10 !th!as!sd
+
+The King:
+    spectre WORN dam 1 hit 1 mp 10 hp 15 !g!wa!ra!sk
+    the King's Shield ARMOR AC -7 dam 1 hit 1 mp 10 !mu!cl!th!as!sl!sd!nm
+
+Lag (north of N):
+    a hat that says "I killed the lag monster!" WORN cha 4
+    a shirt that says "I survived the lag monster" WORN cha 4
+
+Drakknar:
+    ring of Drakknar WORN dam 1 hit 2 mp 15
+
+Nara Saan:
+    cloudBurst WORN dam 1 hit 2 mp 15 !wa!ra!sk!dk
+    a Cleric's Guild Ring WORN dam 2 hit 1 mp 15 !mu!th!wa!ra!as!sl!sk!dk!sd!nm
+
+A peddler:
+    a pine needle WEAPON pierce F0 4d5 dam 1 hit 1 mp 10
+    a gold watch TREASURE
+    a grail TREASURE
+
+Maaklan:
+    autumn WORN dam 1 hit 1 mp 15 !th!as!sd
+    resurgence WEAPON slash F0 4d8 dam 1 hit 1 mp 10 !e!min!gnm!orc!elf!hlf!ogr!tro!dwa!fae
+
+Arnog:
+    spring WORN dam 1 hit 1 mp 15 !e
+
+A samudragonai warrior:
+    samurdracai sword WEAPON slash F0 5d5 dam 1 hit 1
+
+Bazarnog:
+    a Warrior's Guild Ring WORN dam 2 hit 1
+
+Barkok:
+    a Mage's Guild Ring WORN dam 2 hit 1 mp 15 !cl!th!wa!ra!as!sl!sk!dk!sd
+
+Kringe:
+    the Liquidator WEAPON pierce F0 4d8 dam 1 hit 1 mp 10 !g!wa!sk
+    winter WORN dam 1 hit 1 mp 10 !mu!cl!wa!ra!sk!dk!nm
+A treasure chest:
+    gold TREASURE
+
+Ghanekar:
+    autumn WORN dam 1 hit 1 mp 15 !th!as!sd
+    hailStorm WORN dam 1 hit 1 mp 10 !g
+
+Gringle:
+    a Thief's Guild Ring WORN dam 2 hit 1 mp 10 !mu!cl!wa!ra!as!sl!sk!dk!nm
+
+Dracolich of Gimp:
+    drout LIQ CONTAINER dam 1 hit 1 mp 10
+
+On the ground (w2nw from G):
+    a snake-skin axe WEAPON tear F0 4d5 dam 1 hit 1 mp 10

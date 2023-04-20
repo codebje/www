@@ -1,0 +1,203 @@
+--- notes
+
+A huge pool of molten gold is here, reflecting the light. (above P)
+    Portal to Foret d'Mort
+
+A beautiful, flaming portal of fire is suspended in mid-air here. (in 0)
+    Lands of Chaos
+
+A glowing mercury color pool sits here, reflecting the light. (in 1)
+    Draconia?
+
+A opalescent color pool lies here, points of light shining in its depths. (in 2)
+    The Outer Galaxy (red supergiant)
+
+A glimmering pool of darkness sits here, reflecting the light. (in 3)
+    Leads back to itself
+
+A glowing amber colored pool sits here, reflecting the light. (in 4)
+    Portal to Haon-Dor, The Crossroads
+
+A huge Ruby color pool is here, sparkling in the light. (in 5)
+    The Abyss
+
+A glowing pool of white quartz sits here, reflecting the light. (in 6)
+    The Outer Galaxy (Hercules)
+
+A glowing sapphire color pool sits here, reflecting the light. (in c)
+    To Maerkil the Chaotic
+
+From Astral Guardians, nwse to the milky pool portal to the outer galaxy.
+Empedocles clans, 'Astral Guardian from UD center > 3s8w5s2w'
+
+722H 1019M 170V [457] >
+Empedocles clans, 'abyss from astral guardian > 3nwuned3dnee3n'
+
+--- map
+
+4x4x4 cube
+
+Up from A goes back to Astral Giths.
+
+        |/  |/  |/  |/  |/
+      - A - 1 - # - # - # -
+       /|/ /|/ /|/ /|/ /|/
+      - # - # - # - # - # -
+       /|/ /|/ /|/ /|/ /|/
+      - 0 - # - # - # - # -
+       /|/ /|/ /|/ /|/ /|/
+      - # - # - # - # - # -
+       /|/ /|/ /|/ /|/ /|/
+      - # - # - 2 - # - # -
+       /|  /|  /|  /|  /|
+
+          A
+        |/  |/  |/  |/  |/
+      - B - # - # - # - # -
+       /|/ /|/ /|/ /|/ /|/
+      - # - # - # - # - # -
+       /|/ /|/ /|/ /|/ /|/
+      - # - # - # - # - # -
+       /|/ /|/ /|/ /|/ /|/
+      - # - # - # - 3 - # -
+       /|/ /|/ /|/ /|/ /|/
+      - # - # - # - # - # -
+       /|  /|  /|  /|  /|                         p d
+                                                 /  |
+          B                                     #   #     #
+        |/  |/  |/  |/  |/                      ^   +    /
+      - C - # - # - 4 - # -                 # - p - # - #
+       /|/ /|/ /|/ /|/ /|/                  |  /|   |   |
+      - # - # - P - # - # -             # - # - # - # - #
+       /|/ /|/ /|/ /|/ /|/              |   |   |   |
+      - # - # - # - # - # -             # - # - # - #
+       /|/ /|/ /|/ /|/ /|/                 /
+      - # - # - # - # - # -               #
+       /|/ /|/ /|/ /|/ /|/               /
+      - # - # - # - # - # -             P
+       ⩗|  /|  /|  /|  /|
+
+          C                                                 #
+        |/  |/  |/  |/  |/                                 /|
+      - D - # - # - # - # -                     # F   # > # # - # ∘ 5
+       /|/ /|/ /|/ /|/ /|/                      |/    |   |/|
+      - # - # - # - # - # -                     #     F - # #
+       /|/ /|/ /|/ /|/ /|/                      |     |   |/
+      - # - # - # - # - # -                     #     # - #
+       /|/ /|/ /∨/ /|/ /|/                      |    /   /
+      - # - # - R - # - # -                     # - # - #
+       /|/ /|/ /|/ /|/ /|/                      |       |
+      - T - # - # - # - # -                     R       #
+       /|  /|  /|  /|  /|
+
+          D
+        |/  |/  |/  |/  |/
+      - E - # - # - # - # -                     S #
+       /|/ /|/ /|/ /|/ /|/                      |∘
+      - # - # - # - # - # -                     7
+       /|/ /|/ /|/ /|/ /|/
+      - # - # - # - # - # -
+       /|/ /|/ /|/ /|/ /|/
+      - # - # - S - # - # -
+       /|/ /|/ /∧/ /|/ /|/
+      - # - # - # - 6 - # -
+       /|  /|  /|  /|  /|
+
+                      9
+                     /∘
+                    # #
+                    ∘
+                #   #       #         a
+                |   |       |        /
+          # b - # - # - # - # ----- #
+          |x    |   |       |      /
+          # 8   #   #       #     #
+         /  +       |
+        c   #       #       #
+            |       +       |
+            #   # - # - #   #
+            |       ∘       |
+            # - # - # - # - #
+            |   |   |   |   |
+            # - # - # - # - #
+                    |
+                    #
+                   /
+                  T
+
+    # - # * # - #
+                |
+                #
+                |
+                #
+                ∘
+
+--- loot
+
+An Astral Guardian (in 7):
+    a blue potion POTION (15: heal; !NO SPELL!; !NO SPELL!) mag
+    an astral key KEY
+
+A beautiful succubus:
+    a crimson ring WORN dam 2 mp 15 ac -4 mag!g!cl!wa!ra!sk!dk
+
+A shadow demon:
+    a shadow knife WEAPON pierce F0 7d4 con -3 mag!g!cl!sk
+
+A beautiful phoenix:
+    a glowing rock LIGHT hit 1 dam 1 mag
+
+A mother phoenix (in d):
+    a glowing phoenix egg LIGHT hit 3 dam 3 mag!e!mu!cl!dk!nm
+    a sparkling potion POTION (15: strength; strength; strength)
+
+A githyanki knight:
+    a silver githyanki longsword WEAPON pierce F0 5d4 hp 20 hit 2 mag!mu!cl!th!as!sl!sd!nm
+
+On the ground (in 8):
+    a curved, black dagger WEAPON pierce F0 5d2 con 1
+    a large silverish key KEY !mu!nm
+
+The gith high mage (in b):
+    an orange wand WAND (20: magic missile 1/1) mag
+    a marble key KEY (to desk in a)
+
+In a cabinet:
+    a grayish-blue potion POTION (14: heal; heal; invisibility)
+    a dark brown potion POTION (21: curse; blindness; harm)
+
+a wooden spear WEAPON impale F0 1d4
+some copper bracers ARMOR AC -6 !sl
+a wooden practice sword WEAPON slash F0 1d4
+
+The gith chief knight (in a):
+    a polished silver coin ARMOR AC -0 hit 1 dam 1 !mu!nm!wer
+    a pair of Silverish Gauntlets ARMOR AC -5 dam 3 hit -1 str -1 mag!mu!cl!sl!sk!nm!wer
+    a dark metal key (to locker in a)
+
+A small wooden desk (in a):
+    a small note
+    a silverish key covered in glowing runes (to door leading to 9)
+A large metal locker (in a):
+    a cloak of the elvenkind ARMOR AC -0 ac -8 dex 2 mag
+
+A githyanki knight (in 9):
+    a silver githyanki longsword WEAPON pierce F0 5d4 hp 20 hit 2 mag!mu!cl!th!as!sl!sd!nm
+    an ornate oaken key (to door in 9)
+
+Lord Gith (s of 9):
+    <worn as shield>     a silver shield ARMOR AC -10 dam 3 hp 25 mag!mu!cl!th!as!sl!sd!nm!wer
+    <wielded>            a silverish two-handed Githyanki sword !ident
+
+The Lich Queen (s of 9):
+    an obsidian key (to desk)
+
+A desk (s of 9):
+    a book of arcane knowledge OTHER int 2 wis 2 mp 40 mag!cl
+
+a Nycadaemon is using:
+    <held>               a glowing adamantite key
+
+Demogorgon is using:
+    <worn around neck>   an ancient, blackened key (invisible)
+    <held>               a glowing key of emerald

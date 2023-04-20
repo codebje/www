@@ -1,0 +1,84 @@
+--- notes
+
+Werewolf questmaster is here.
+
+--- map
+
+                                             Everwar Mountain
+                                                    |
+                                    # - #           #
+                                    |   |           |
+          #   #                     # - # - # - # - #
+          |   |                                 |
+      # - # - # - # # - #                       #
+          |   |  /  |   |                       |
+          1   # # - # - #                   # - #
+                    |   |                   |
+                    # - # + # - # - # - # - #
+                    |   |                   |
+                # - # - #                   #
+                    |   |                   |
+                    # - #                   # - #
+                    |                           |
+                    #                           #
+                                                |
+                                      # - # - # - # - # - #
+                                     /          |/       /
+                                    #           #       #
+                                   /            |      /
+                                  #             #     #
+                                 /              |    /
+                                # ----+---- # - #   # - # - #
+                                            |               |
+                                            #               |
+                                            |               +
+                                        # - #               |
+                                        |                   |
+                                        #                   # - #
+                                        |                   |   |
+                                        # ----- #           # - #
+                                                |              x
+                                                #             #
+                                                |            /
+                                            # - # + #       #
+                                            |      x        |
+                                            #     □     0 - # - #
+                                            |    /          |
+                                    # - # - #   □           #
+                                    |          /            |
+                                    #         □             #
+                                    |        /              |
+                                    #       # ------------- #
+                                    |
+                                    #
+                                    |
+                                    #
+                                    |
+                                    #
+                                    |
+                                    #
+                                    |
+                                    #
+                                    |
+                                    #
+                                    |
+                                    #
+                                    |
+                                    #
+                                    |
+                          The Village of Turra
+
+--- loot
+
+The elven chief (in 0):
+    helm of the protector ARMOR AC -8 int 1 hit 1 dam 2 !e!th!as!sl!dk!sd!dra!ogr!tro!gia
+    elven shield of the defender ARMOR AC -9 wis 2 hp 15 dam 2 !e!mu!cl!th!as!sl!dk!sd!nm
+    an elven longsword WEAPON stab F0 4d8 hit 2 dam 1 mag!e!mu!cl!as!dk!sd!nm
+
+SirKrilldin (in 1):
+    <worn on head>       a guardians helm (invisible)
+Monra, high bishop of Turra (in 1):
+    <worn on finger>     a ring of purity
+
+A Turrian soldier:
+    a spirit whip WEAPON whip F0 9d3 hit 2 dam 2 !g!th!as!sl!sk!sd

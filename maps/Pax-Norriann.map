@@ -1,0 +1,50 @@
+--- notes
+
+From Samsera: 14w2s2e
+
+--- map
+
+                            ☠ - # - # - #   #
+                                |       |   |
+                                #       # - # > 0
+                                |           |
+                                # #         # Isle of Myst II (near shou hermit)
+                                |/|         | |
+                                # #   # ∘ 1 # 0
+                                  |       + |/
+                                  #       # #
+                                  |       | |
+                                  # - # - 2 #
+                                            |
+                                            #
+                                            |
+                                            #
+                                            |
+                                        # - #
+                                        +
+                                        #
+                                        |
+                        # - # - # - # - #
+                        |   |   |   |   |
+             Haon-Dor - # - # - # - # - #
+                        |   |   |   |   |
+                        # - # - # - # - #
+                        |   |   |   |   |
+                        # - # - # - # - #
+
+--- loot
+
+The various animals:
+    a freckled egg FOOD
+    a goose egg FOOD
+    a fern stem WAND (35: blindness 3/3) mag
+
+The Mygale (in 2):
+    a spider sack SCROLL (45: paralyze; !NO SPELL!; !NO SPELL!) mag
+
+The Spectral Minion (in 1):
+    a spectral blade WEAPON slash F0 5d6 hit 2 int 2 mag!g
+    a golden key KEY mag!mu!cl!ra!as!sk!nm
+
+On the ground (w of 1):
+    a plain looking stone TREASURE (1,000,000)

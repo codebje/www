@@ -1,0 +1,68 @@
+--- notes
+
+Portal gnome_female.
+
+Chief advisor (in 0) is gnome quest master.
+
+--- map
+
+A: Lust
+B: Sloth
+C: Gluttony
+D: Avarice
+E: Envy
+F: Justice
+G: Sincerity
+H: Fidelity
+
+                     Forest of Turra
+                            |
+                            #
+                            |
+        H   G   F   E   D   #   B
+        |   |   |   |   |   |   |
+    J < # - # - # - # - J - C - #   A
+        |   |  ⩗|   |   |   |   |   |
+        |   | N |   |   |   |   |   |
+        |   |   |   |   |   |   |   |
+    I < # - # - # - # - I - # - # - # -
+        |   |   |   |   |   |   |   |
+    D < H - G - F - E - D - # - B - A - # - # - #
+            |   |   |   |   +   |   |          ⩘+
+                            #                 N #                   0
+                            |                   |                   +
+                            |   #               #       #   #       #
+                            |  /                |       |   |       |
+                            | #                 # - # - # - # - # - # + #
+                            |/                          |   |       |
+                            #                           #   #       #
+                            |                               +
+                            #                               # + #
+                            |
+                            #               #
+                            |               *
+                            #               #
+                            |               |
+        # - # - # - # - # - # - # - # - # - # - #
+        |                   |                   |
+        #                   #                   # - #
+        |                   |                   |
+        #       #   #       #     # #   #   #   # - #
+        |       |   |       |    /  |   |   |   |
+        # - # - # - # - # - # - # - # - # - # - #
+                            |
+                        # - # - #
+                            |
+                            #
+                            |
+                            #
+                            |
+                            #
+                            |
+                    The Plains of Xev
+
+--- loot
+
+The gnome leader (in 0):
+    robes of the gnomish order ARMOR AC -7 int 2 wis 1 mp 20 !th!wa!ra!as!sl!sk!dk!sd!min!ogr!tro!dwa!fae
+

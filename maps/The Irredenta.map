@@ -1,0 +1,98 @@
+--- notes
+
+Primal water elemental is here (last seen wandering in and out of Blackheart Keep)
+
+--- map
+
+                 Blackheart Keep
+                        |
+                        #
+                        |
+                        #                The City of Freehold - # - The War Camp
+                   The  |                           +           +
+                 Enfans #                   # ----- 6       # - #
+                    |   |                   |  The Freehold |
+                    # - #   # - #           #     Thieves * #
+                    ∨   |   |   |           |      Guild    |
+               Dragonor # - # - 5   3 - 2 - # --------- # + #
+                  Keep  |               |   |
+                        #               |   |      The      #
+                        |               |   |   Michaeline /
+                        # - # - # ----- # - # - # - Keep  # - #
+                        |   |  /        |   |            /
+                    4 - # - # 1         # - # --------- #
+                        |   |           |   |
+                        # - #           # - 0 - ☠
+                            |           |   |
+                      The Blackhand     # Usurpers of Hochenyana
+                                        |
+                                      Moria
+
+--- loot
+
+A bandit (in 0):
+    a thief's dagger WEAPON pierce F0 12d2 hit 1 dex 2 mag!cl
+    a big black bag CONTAINER
+A big black bag:
+    a silver candlestick TREASURE !wer
+
+A troll (in 1):
+    a troll mantle ARMOR AC -7 dam 1 mag
+    a pair of gauntlets wrapped in gnome skin ARMOR AC -5 str 2 int -1 dam 1 !sl!gnm
+    a troll maul WEAPON pound F0 4d8 dam 1 mag
+
+A knight (in 2):
+    blue steel chain mail ARMOR AC -9 !e!mu!sl!dk!nm
+    a blue steel shield ARMOR AC -8 !e!mu!sl!dk!nm
+    a blue steel sword WEAPON slash F0 6d5 !e!mu!cl!dk!nm
+
+Jebediah (in 2):
+    a church standard LIGHT mp 20 dam 1 mag!e!dk
+    blue steel chain mail ARMOR AC -9 !e!mu!sl!dk!nm
+    a blue steel helm ARMOR AC -8 !e!mu!sl!dk!min!nm
+    a blue steel bracer ARMOR AC -4 hit 1 dam 1 mag!e!dk
+    a blue steel sword named "Foe-Hammer" WEAPON slash F0 10d3 dam 1 mag!e!mu!cl!dk!nm
+
+Marhalt (in 2):
+    a blue steel helm ARMOR AC -8 !e!mu!sl!dk!min!nm
+    a blue steel plate ARMOR AC -9 str 2 dam 1 !e!mu!th!as!sl!dk!sd!nm
+    a blue steel bracer ARMOR AC -4 hit 1 dam 1 mag!e!dk
+    a blue steel sword named "Valorius" WEAPON slash F0 5d7 hit 1 mag!e!mu!cl!dk!nm
+
+Soldier (in 3):
+    a mirkyl sword WEAPON slash F0 6d5 !g!mu!cl!sk!nm
+    mirkyl chain mail ARMOR AC -9 !g!mu!sl!sk!nm
+
+Kourgas (in 3):
+    a mirkyl helm ARMOR AC -8 !g!mu!sl!sk!min!nm
+    mirkyl chain mail ARMOR AC -9 !g!mu!sl!sk!nm
+    a maul named "Pummeler" WEAPON pound F0 8d4 hit 2 mag!g!mu!th!as!sk!sd!nm
+
+Martel (in 3):
+    a mirkyl plate ARMOR AC -9 str 2 !g!mu!th!as!sl!sk!sd!nm
+    a mirkyl helm ARMOR AC -8 !g!mu!sl!sk!min!nm
+    a grey cloak WORN mp 5 ac -9 hit 2 mag!g!sk
+    a sword named "Punisher" WEAPON slash F0 6d5 dam 1 mag!g!mu!cl!sk!nm
+
+Kearny (in 4):
+    a granite club WEAPON pound F0 4d8 hit 2
+    a animal skin ARMOR AC -8 hp 20
+
+Schmoe (in 4):
+    a granite club WEAPON pound F0 4d8 hit 2
+    a animal skin ARMOR AC -8 hp 20
+
+Harry (in 4):
+    a granite club WEAPON pound F0 4d8 hit 2
+    a animal skin ARMOR AC -8 hp 20
+    a bone necklace ARMOR AC -1 con 2 hp 15 mag
+
+The seeker (in 5):
+    nothing
+
+Gate guard (in 6):
+    a mirkyl sword WEAPON slash F0 6d5 !g!mu!cl!sk!nm
+
+A thief (usually wanders into The War Camp):
+    a thief's dagger WEAPON pierce F0 12d2 hit 1 dex 2 mag!cl
+    a granite key KEY (to thieves guild)

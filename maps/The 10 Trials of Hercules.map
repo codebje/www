@@ -1,0 +1,110 @@
+--- notes
+
+Zone start in S, portal point in P ("A Valley Entrance").
+
+--- map
+
+# Valley
+
+                   8th     10th    1st
+                    ∘       ∘       *
+    C               C - B - # - # - # ∘ 9th             B: south, north, north to Demeter's secret room (pick boulder)
+   ∘                |   |   |   |   |
+  4th         3rd ∘ # - # - # - # - #
+                    |   |   |   |   |
+                    # - # - # - A - #                   A: west, east, down to Hebe's secret room (meld two shards)
+                    |   |   |   |   |
+              6th ∘ # - # - P - # - # ∘ 5th
+                    ∘       |       ∘
+                   2nd      #      7th
+                            |
+                            #
+                            |
+                            #
+                            |
+                            #
+                            |
+                            #
+                            |
+                            #
+                            |
+                            #
+                            |
+                            S
+
+# 1st Trial
+
+                                  Valley
+                                    ∧
+                                    #
+                                    |
+                                    #
+                                    |
+                            # - # - #
+                            |
+                            #
+                            |
+                    # - # - #
+                    |
+                1   #
+                |   |
+                # - #
+
+# 2nd Trial
+
+                                      Valley
+                                        ∘
+                                # - # - #
+                                |       ∨
+                        # - # - #     Valley
+                        |
+                    # - #
+                    |
+        # - # - # - #
+        |
+        # - 2
+
+# 3rd Trial
+
+    # - # - # - #           # - # - # - # - # ∘ Valley
+    |           |           |
+    # - 3       # - # - # - #
+       ∘
+
+# 4th Trial
+
+    Enter pool to D - frequent misports, target room !reloc !nexus !summon, mobs will roam in happily
+
+    # - # - # - #
+    |           |
+    # -4        # - # - # - #
+                            |
+                            # - # - # - # - #
+                                            |
+                                            D
+
+# 5th Trial - maze, one-way exits, etc.
+                    ?
+                  ? # ----- #   5
+                ?   |       |   |   ?
+      ∘ # - # - A - # - A ? # ? # - # ?
+                ?   ?   ?   |   |   |
+                      ? # - # ? # ? # ? ... got lost around here, cretan wound up 2n
+                        |   ?   |   ?
+                      ? # - # - # ?
+                        ?   ?   ?
+
+# 6th Trial
+
+# 7th Trial
+
+# 8th Trial
+
+# 9th Trial
+
+# 10th Trial
+
+---
+
+The Erymanthian Boar (in 3):
+    a cloak of the Erymanthian Boar ARMOR AC -10 dam 3 mp 35 !th!ra!wa!as!sl!sk!dk!loc (w:10 v:500000 r:850)

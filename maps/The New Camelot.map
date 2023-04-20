@@ -1,0 +1,170 @@
+--- notes
+
+a - The Black Knight
+b - King Pellinore (a key with the letter "P" on it)
+c - The Questing Beast
+d - Nyneve
+e - Sir Garlon
+f - Turqine, Sir Galahad (3x charge, tracks)
+g - Sir Benlad de Haudtesert (the green knight)
+h - Mordred
+j - Sir Gareth
+k - Sir Gawaine
+l - Sir Lancelot du Lake
+m - Dagonet (Arthur's Court Jester), King Arthur
+n - Sir Tristram of Lyoness
+o - Barant Les Apres (King of the Hundred Knights)
+p - Lionel, Dodinas le Savage, Persante of Inde (the blue knight)
+q - Gaheris
+r - the Pict leader
+s - Queen Gwenivere
+t - Merlin
+u - (noexit room) a towering, black scaled demon
+v - Morgan le Fay
+
+--- map
+
+                                                                  #
+                                                                 /
+                  #       #                                     #
+                 /       /                                      +
+                # - # - #                                       # + #
+                |   *   |                                       |
+                # # h   # #                                     #
+                |/      |/                                      |
+                # - # - #                                       # - # - #
+                    +                                           |      /
+                    #                                 j         #     #         u
+                    +                                /          +              ∘
+                  f #                               # - # ----- # - # - k     t
+                 ⩘  |                               |           |   |   |    /
+                g < f - #                           # - # + #   #   # - #   #     s
+               ⩗        |                           |               |   |   +    /
+          v + #         # --------- #   i - # - # + # - # ----- # - # - l - m + #
+              v         |          /   /            |               |   |   |
+              g         |     e   # - #             # - #   #       # - #   # #
+                        |    ⩘   /   /              |       +       |   |   +/
+                d * #   #   #   ☠   ☠               | # # * # - #   |   |   #
+                    |   |   ∧                       |/      +       |   |
+                b - a - # - # - e                   # - # - o ----- # - n
+                |   |                                       +
+            c - #   |                                       #
+                    |                                       |
+   The Mystic Sea - #                                   # - #
+                                                        |   #
+                                            r + p - # - # - #
+                                                            |
+                                                            q
+
+--- loot
+
+a white fur-lined robe ARMOR AC -5 str 2 savebreath 1 !e!n
+a white war sword WEAPON bite F0 4d7 hit 1 dam 1 !e!n
+a white bracer ARMOR AC -10 hit 2 dam 2 hp 20 mag!e!sl!dk
+a white shield ARMOR AC -10 !sl
+a lump of jade OTHER wis 2 savebreath -3 mag
+Benlad's Axe WEAPON slash F0 5d6 hit 2 dam 2 savebreath -4 mag!mu!cl!th!as!sl!sd!nm
+a suit of green armor ARMOR AC -8 hp 10 str 2 dam 2 mag!e!sl!dk
+a suit of shimmering red armor LIGHT ac -10 hit 2 str 2
+a chunk of salt beef FOOD 12h Edible
+a round bread FOOD 24h Edible
+a plain shield ARMOR AC -10 !sl
+a chestnut staff WEAPON pound F0 2d6 mp 25 !e
+Garlon's invisible armbands ARMOR AC -8 dam 2 hit 1 hp 5 mag!g!mu!cl!sl!sk!nm
+lifecutter WEAPON slash F0 5d6 hit 2 dam 2 hp -10 !mu!cl!nm
+a plumed golden helm ARMOR AC -3 str 2 dam -2 !cl!sl!min
+a suit of golden armor ARMOR AC -10 dam 2 mp 15 hp 15 mag!g!cl!sl!sk
+a spear glowing in an unholy dark light WEAPON pierce F0 6d6 str 2 hit 2 dam 2 mag!g!sk
+a wolf helm ARMOR AC -15 hit 2 dam 2 int 2 mag!g!sl!sk!min
+a marble rod with a white hot tip WAND (45: demon fire 3/3) mp 30 !g
+a black fur-lined robe ARMOR AC -5 wis 1 con 2 !g!n
+the holy grail POTION (45: revive; revive; revive) mag!dem!und
+
+a small leather pouch CONTAINER
+A small leather pouch (potions OR wands):
+    a lavender potion POTION (35: sleep; cure critic; protection from evil)
+    a potion made from nightshade POTION (27: poison; harm; !NO SPELL!)
+    a blue wand WAND (15: color spray 1/1)
+    a red wand WAND (15: fireball 1/1)
+    a hot wand WAND (15: fireball 1/1)
+    a humming wand WAND (15: invisibility 1/1)
+    a long stemmed white rose WAND (30: bless 5/5)
+
+Barant Les Apres (King of the Hundred Knights):
+    a massive spiked ball and chain WEAPON blast F0 5d6 dam 4 !e!mu!cl!th!ra!as!sl!dk!sd!nm
+
+Sir Gareth:
+    a shield of many colors ARMOR AC -7 hit 2 dam 2 str 2 mag!e!mu!cl!sl!dk!nm
+    a many colored cloak ARMOR AC -8 dex 2 hp 20 str 3 mag!e!sl!dk
+
+Megnual gets a squire's dagger from the corpse of the squire.
+Megnual gets a white shield from the corpse of the squire.
+    a squire's dagger WEAPON pierce F0 5d6 hit 2 dam 2 !e!dk
+
+Sir Tristram of Lyoness.
+    a love letter SCROLL (40: sand storm; invisibility; ice storm) mag
+
+Sir Lancelot du Lake:
+    a combat hammer WEAPON crush F0 7d3 !e!n!mu!cl!th!as!sl!dk!sd!nm
+    an engraved silver sword WEAPON slash F0 5d4 hit 1 dam 1 mag!e!n!wer
+    gauntlets of bravery ARMOR AC -9 dam 2 hit 2 str 1 mag!e!mu!cl!sl!dk!nm
+    a cloth vest ARMOR AC -7 con 2 mag!e!sl
+
+A merchant:
+    a goblet of mead LIQ CONTAINER
+
+A lady in waiting:
+Megnual gets a long flowing tight skirt from the corpse of a lady in waiting.
+    a silken favor SCROLL (40: protection from evil; !NO SPELL!; !NO SPELL!)
+
+A Saxon chief:
+    a lice infested cloak ARMOR AC -7 str 3 con -1 !sl
+
+Sir Gawaine:
+    Gawaine's horned helm ARMOR AC -12 hp 15 dam 2 hit 1 !e!mu!cl!th!as!sl!dk!sd!min!nm
+
+Charmed knight of quality:
+    a rusty knotched sword WEAPON slash F0 4d6 dex -2
+
+The southern outpost commander:
+    a commander's steel broad sword WEAPON slash F0 5d5 hit 1 dam 1 str 1
+
+Persante of Inde (the blue knight):
+    the blue war banner of Persante of Inde LIGHT str 2 hp 15
+
+Lionel:
+    a suit of full plate armor ARMOR AC -10 hp 15 !e!mu!cl!th!as!sl!dk!sd!nm
+
+The Angle chief:
+    an angle WEAPON whip F0 5d6 hit -3 dam 3 !g
+
+Gaheris:
+    an enormous axe WEAPON slash F0 5d6 dam 2 hit 2 int 2 !e!mu!cl!th!as!sl!dk!nm
+
+the Pict leader is using:
+    <held>               a rod of command
+
+King Arthur is using:
+    <worn on body>       full plate armor ARMOR AC -10 dam 3 hp 10 mag!mu!th!ra!as!sl!sd!nm
+    <worn on head>       the English king's crown ARMOR AC -6 wis 4 dam 2 mag!e!n!sl
+    <worn about body>    a brown ermine-lined robe ARMOR AC -8 hp 25 hit 1 !mu!cl!th!as!sd!nm
+    <worn about waist>   Arthur's Scabbard CONTAINER dam 2 hp 10 savebreath -5 savespell -5
+    <wielded>            Excalibur, the Sword of Kings
+
+Dagonet (Arthur's Court Jester) is using:
+    <worn on head>       fool's motley ARMOR AC -5 int -1 !sl
+
+Queen Gwenivere is using:
+    <worn around neck>   an emerald necklace WORN cha 2 wis 2 int 2
+    <worn on head>       a golden circlet ARMOR AC -3 int -2 mp 25 mag!e!n!sl
+    <worn about body>    a green ermine-lined robe ARMOR AC -3 dex 1 hp 20 !mu!cl!th!as!sd!nm
+    <wielded>            a small jewelled dagger WEAPON pierce F0 4d3 hit 1 dam 1 mag
+
+Megnual gets a bastard sword from the corpse of Sir Lamorak.
+Megnual gets Lamorak's Spurs from the corpse of Sir Lamorak.
+    Lamorak's Spurs ARMOR AC -0 dam 2 hit 2 dex 2 !g!mu!cl!sl!nm
+    a bastard sword WEAPON slash F0 2d16 dam 2 hp 10 mag!mu!cl!th!as!sl!sd!nm
+
+Merlin is using:
+    <worn on finger>     the Incubus crest ring WORN mp 30 str 2 spelldam 15 !th!wa!ra!as!sl!sk!dk!sd
+    <held>               Merlin's Staff WEAPON drain F0 6d6 mp 35 str 2 dam 2 mag!cl!th!wa!ra!as!sl!sk!dk!sd

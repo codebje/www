@@ -1,0 +1,268 @@
+--- notes
+
+From Samsera: d14w2sese6s3e3se
+
+M: mirror to BlackHeart Keep
+
+Can portal to 'a', though there is a hidden aggro (relatively low hp/damage) cobra in the room.
+Portal point for remainder of dungeon is B.
+
+Hidden, aggro leprechauns wander around in the section reached from B - expect 10 all up. Because there are two
+one-way exits into C, many will wind up with the bloodbeast in there. Some will wind up past the waters near b/c.
+They're relatively easy mobs for the zone, but don't let them catch you by surprise in big numbers.
+
+The old man in f wants to be given something, presumably from the zone, but I do not know what. Tried:
+    - a magnificent winged helm
+    - a gold ring
+    - a short throwing spear
+    - a bone ring
+    - a large pearl
+    - a velvet bag
+    - a crown
+
+--- map
+
+                                      C
+                                      ∧
+                                      j
+                                      |
+                                      #     g
+                                      +     ^
+                                # + # i     ∘
+                               /   /  +     |
+                              ∘   h - #     #
+                             /              ∘
+                        # - f - # > D       #
+                        |                   ∘
+                        #                   #
+                        |                   +
+                        #                   #
+                        ∘                   +
+                        #                   C
+                        |                   ∧
+                        c           # <-+-- #
+                        |                   |
+                    # + #               D - #
+                        |                   |
+                        #                   #
+                        |                   |
+        # - #       b + #                   #
+        |  ⩗|          ⩘                    |
+        # C # + # - d # #               # + #
+        |   |         |/|               |
+        # - #         # #           #   #
+            |           |           +   |
+    e + # + # --------- # ----- # - # - B
+                                        ∧
+                                        ∘
+                                        |
+                                        #
+                                        ∘
+                                    # + a + #
+                                        |
+                            # - # - # + #
+                            |
+                            A
+
+          # < # - 9 - #
+             ⩗    |
+            A     |
+                  |
+            # --- # - # - # > #
+           /          |
+          8       #   # + #     #
+          |       +   +         ∧
+          # ----- # + 7         #
+                     x          |
+                    # - # - 6<+ #
+                                |
+                    #       # + #
+                    |           |
+   BlackHeart < M - # - # - # - #
+        Keep            |
+                        # + #
+                        |  /
+                        L #
+                        |
+                    5 + # 4
+                        |/
+                        #       3
+                        |       +
+                # - # - # ----- # - #
+                |       |           |
+                |       #       # + #
+                1       |      /    |
+                |       0     2     |
+                |       |           |
+                # - # - # - # - # - #
+                            |
+                            #
+                            |
+        The Old Marsh - # - #
+
+--- loot
+
+A black widow spider:
+    a bamboo tube LIQ CONTAINER
+
+A savage orc:
+    a morning star WEAPON slash F0 5d6 hit 1 dam 1 con 1
+
+A Great Cave Troll (in 0):
+    a club WEAPON bludgeon F0 5d6 hp 15 dex 2
+    a leather wristband from which 4 small rat skulls hang WORN int 2 dam 2 ac -5 !g
+
+On the ground in 1:
+    a leather bag CONTAINER
+A leather bag:
+    a corked earthenware jug POTION (30: poison; blindness; sleep)
+
+A fierce-looking orc (in 2, variously):
+    a coil of rope WORN dex 1 int 1
+    a beautiful diamond KEY
+
+On the ground in 3:
+    a silver goblet POTION (30: shield; holy armor; protection from evil) !wer
+    a small pouch CONTAINER
+A small pouch:
+    some herbal meat FOOD 12hrs Edible (30: heal)
+
+A flying guardian (in 4):
+    a large emerald KEY
+
+A spectre (in 5):
+    a gold ring ARMOR AC -5 dex 2 con 1 dam 2
+
+A skeleton warrior (in 6):
+    a piece of parchment TRASH
+    a tattered cloak WORN ac -20 con 2 dam 2 hit 1
+    a suit of archaic scale mail ARMOR AC -5 con 2 int 2 mp 15 age 20 !sl
+    an ornate helm ARMOR AC -5 mp 25 dam 2 int 1 mag!th!wa!as!sl!sd!min
+    a pair of leather boots WORN hp 20 dex 2 dam 1
+    the Bloodstealer WEAPON slash F0 5d6 int 1 dam 1
+
+A goblin (in 7):
+    a sharp short sword WEAPON slash F0 6d6 hit 2 str 2 dam 1
+    a short throwing spear MISSILE (5d6 x1)
+
+A cupboard (in 7):
+    an iron spike WEAPON stab F0 5d6 hit 4 dex 2
+    a wooden mallet WEAPON pound F0 5d6 str 2 int 2
+
+On the ground (wn of 7):
+    a loaded crossbow FIRE WEAPON (range 2 stun 1)
+
+In a marble plinth (wn of 7):
+    a human skull CONTAINER int 2
+A human skull:
+    A topaz (50000 coins)
+    A topaz (50000 coins)
+
+A mirror demon (in 8):
+    a pair of white boots WORN mp 20 !th!wa!ra!as!sk!dk!min!ogr!tro!gia
+
+A barbarian (in 9):
+    a loincloth WORN dex 2 hit 2
+    a tattoo WORN str 2 dam 2 (neck)
+    a pair of fur-lined boots WORN ac -10 dex 3
+    a throwing dagger WEAPON pierce F0 6d6 hit 2 int 2
+    a broad axe WEAPON slash F0 6d5 int 2 dam 2 !mu!cl!th!as!sl!sd!nm
+
+A wooden box (s2e of 9):
+    a sapphire KEY
+    an iron key KEY
+    an iron key KEY
+
+On the ground (w of 9):
+    a piece of brown, curled paper TRASH
+
+On the ground (in A):
+    a black leather-bound book CONTAINER
+    a red leather-bound book SCROLL (30: sanctuary; !NO SPELL!; !NO SPELL!)
+A black leather-bound book:
+    a small corked bottle POTION (30: group sanctuary; group invisibility; awaken) mag
+
+A cave troll (ne of A):
+    a bone ring WORN mp 30 dex 2 str 2 mag!g!th!wa!sk
+
+A tiny mouse (n2e of A):
+    a small leather pouch CONTAINER (x4, empty)
+
+On the ground (in a):
+    a roast meal FOOD
+    a pint of ale LIQ CONTAINER (7u poison)
+    a wicker basket CONTAINER (empty)
+
+A giant scorpion (e of a):
+    a test chamber key KEY
+
+A minotaur (w of a):
+    a test chamber key KEY (to door n of a)
+
+On the ground (2w of B):
+    a serving tray WEAPON pound F0 5d6 hit 1 dam 1
+    a glass of water LIQ CONTAINER (1u poison)
+    a plate of food FOOD 4hrs poison
+
+A wooden casket (n of B):
+    a velvet bag CONTAINER
+A velvet bag:
+    a large pearl TREASURE
+
+A chair (3wn of B):
+    a glass phial POTION (30: group fly; group invisibility; group shadow vision) mag
+
+A swarm of insects (we of B):
+    a crown TRASH
+
+An elven thief (in b):
+    a pair of elven boots WORN hit 2 dex 2 mag
+    a dagger WEAPON pierce F0 5d6 hit 2 dam 2 int 1
+
+A boa constrictor (in b):
+    a snake skin WORN str 2 dam 2 (belt)
+
+A metal grille (ne of b):
+    a small leather pouch CONTAINER
+A small leather pouch:
+    a tiny brass bell TRASH
+    a grappling iron WEAPON impale F0 5d6 hit 1 dam 1
+
+A large oak chest (e2nw of b):
+    a silver pendant TREASURE
+
+A primitive troglodyte (variously, in c):
+    a crude stone axe WEAPON pound F0 5d6 int 1 dam 1
+    a crude wooden spear WEAPON stab F0 5d6 str 1 hit 1
+    a feces-stained loincloth ARMOR AC -2 cha -5
+
+On the ground in d:
+    a magnificent winged helm ARMOR AC -7 dex 2 con 2 int 2 !mu!cl!th!as!sl!sd!nm
+
+A medusa (in e):
+    a brooch set with a large garnet WAND (35: paralyze 1/1) con 3 hit 1
+
+On the ground in g:
+    the Ring of TrialMasters WORN dam 3 hit 3 ac -5 dex 2 level 25
+
+A guard dog (in h)
+    a spiked dog collar CONTAINER con 2 dam 2
+    an amulet of strength WORN str 3 dam 1 mag
+
+A pit fiend (in i):
+    a magnificent shield ARMOR AC -15 int 3 hit 2 dam 3 !th!as!sl!sd
+
+A ninja (in j):
+    <worn on hands>      a pair of ninja tiger claws WORN dex 2 dam 3 !mu!cl!th!wa!ra!sk!dk!sd!nm
+    <worn about body>    Armplates of the Sensei ARMOR AC -4 dex 3 dam 3 !n!mu!cl!th!wa!ra!sl!sk!dk!sd!nm
+    rice wrapped in palm leaf FOOD 4hr Edible
+    a flask of water LIQ CONTAINER
+    a jar of healing ointment STAFF (30: group heal 3/3) mag
+    a small shuriken on a chain !ident
+
+--- shops
+
+An old man (in f):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A basket shell                                     1200

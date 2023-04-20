@@ -1,0 +1,138 @@
+--- notes
+
+Can portal highbulp, does not seem to see invis. Early in zone is blood_hound.
+
+Well in C is portal to D.
+
+--- map
+
+            2
+            |
+            #           1
+            |x         x
+            A         #
+            |        /
+            # - # - # - #
+
+                    0
+                    +
+                    # - #       # - # - # - # - #
+                    |                   |       |
+                    #                   #       □
+                    +                  x        |
+            # + #   #             # - #         #
+            |  x    |             |             *
+            # A     #     # - # - #             # - # - #
+            |       |    /                      |      /
+            # ----- #   #                       #   # 3
+            |          /                        |  /|
+            #         #     #                   | # #
+            |        /      |                   |/  |
+            # - # - # B     #                   #   |
+                     /      |                       |
+                    # - # + #                       |
+                            |                       |
+                            #       #   #           |
+                            |       |   |           |
+                            # - # - # - # - 4 - # - #
+                                    |   |       |
+                                    #   #       #
+                                                |
+                                                #
+
+                            5 ----*---- #
+                            +          /
+                        # - # - #   B #
+                            |      /|/
+            #               #       #
+           x+               +
+          6 # - # - # - # - C
+                |
+            The Blight
+
+                        9
+                        +
+                    # - # - #
+                        |
+                        #
+                        +
+                        #
+                        |
+                    8 - # - #
+                        |
+                        #
+                        |
+                    # - 7 - #
+                        |
+                        D
+
+--- loot
+
+Phudge I the HighBulp (in 0):
+    Crown of the HighBulp ARMOR AC -4 hp 10 dam 1 str 2 cha -5 !sl!hlf!ogr!tro!hum!nm!gia
+    a jewel encrusted Key KEY mag
+
+Khisanth the Black Dragon (in 1):
+    the Discs of Mishkal SCROLL (40: group sanctuary; !NO SPELL!; !NO SPELL!) !e
+    a Shroud of elvenskin ARMOR AC -6 hp 15 dex 2 cha -5 mag!g!elf
+    Khisanth's Winged Anklets WORN hp 10 dam 3 hit 2 level 30 mag!g!n!sk!hlf
+    the SpellBook of Fistandantilus WEAPON blast F0 8d5 mp 20
+
+On the ground in 2:
+    a Black Hole PORTAL (Samsera Centre) mag CURSED
+
+Tyras the Hydra (in 3):
+    Hydra Scales ARMOR AC -5 hp 10 dam 1 cha -5 mag!g!mu!sl!min!gnm!hlf!dwa!hum!nm!fae
+
+Horned Skeleton (rooms n/s in hallway w of 4):
+    Bone Mace WEAPON bludgeon F0 5d5 dam 2 !g CURSED
+    Shadow Cloak ARMOR AC -9 mag!g!mu!sl!min!gnm!hlf!dwa!hum!nm!fae
+    Stone Sarcophagus OTHER
+
+Horned Skeleton (rooms n/s in hallway w of 4):
+    Bone Sword WEAPON tear F0 5d5 mag!g
+    Bone Shield ARMOR AC -9 mag!g!mu!sl!min!gnm!hlf!dwa!hum!nm!fae
+    Stone Sarcophagus OTHER
+
+Bupu the Gully Dwarf (last seen in 4, may wander):
+    Bupu's ragged dress WORN
+    Bupu's Bag CONTAINER !ogr!tro!gia
+    silver Key KEY !g!wer
+Bupu's Bag:
+    a small rusty key KEY mag
+
+Statue of Mishakal (in 5):
+    Mishkal's Blessing LIGHT mp 20 mag!e!dk
+
+Blood Hound (in 6):
+    a blood-stained armband ARMOR AC -9 hp 15 dam 2 hit 1 mag!g!mu!sl!min!gnm!hlf!dwa!hum!nm!fae
+
+Sturm the Knight (w of 7):
+    Sturm's Blade WEAPON maul F0 3d10 hit 2 dam 2 cha 2
+Flint the Dwarf (w of 7):
+    Helm of the griffon ARMOR AC -8 str 3 mag!e!mu!cl!sl!min!gnm!hlf!dwa!nm!fae
+
+Caramon (e of 7):
+    FireBeast bracer ARMOR AC -0 str 1 con 2 age 5 mag!g!mu!sl!min!gnm!hlf!dwa!hum!nm!fae
+The shadow of Raistlin (e of 7):
+    Staff of the Magius STAFF (35: holy armor 2/2) hp 20 dam 2 cha -5 mag!e!min!hlf!hum
+
+Laurana the Elf Maiden (in 8):
+    Crystal Blue Earrings ARMOR AC -0 mp 20 dam 1 hit 1 spelldam 5 mag!e!th!wa!as!dk!min!gnm!hlf!dwa!fae
+Tanis the half-elf (in 8):
+    WyrmSlayer WEAPON slash F0 6d6 hp 20 dam 2 !mu!cl!th!as!nm
+    Sandals of the Winds ARMOR AC -0 move 100 !sl!ogr!tro!gia
+
+Goldmoon (in 9):
+    a Blue Crystal Staff STAFF (35: group heal 5/5)
+
+Spectre of Xak Tsaroth:
+    the Eye of the Spectre ARMOR AC -9 hp 20 dam 2 cha -5 mag!g!mu!sl!min!gnm!hlf!dwa!hum!nm!fae
+
+Draconian guard:
+    black Diamond Armor ARMOR AC -15 hp 15 dam 2 ac -6 mag!g!cl!sl!gnm!hlf!dwa!fae
+    a blood-stained Whip WEAPON bite F0 5d5 !g
+
+A Draconian Scout:
+    Icy Steel Dagger WEAPON pierce F0 4d5 hp 20 dex -3 mag!g!mu!sl!min!gnm!hlf!dwa!hum!nm!fae
+    Draconian's Helm ARMOR AC -5 hp 20 mag!g!mu!sl!min!gnm!hlf!dwa!hum!nm!fae

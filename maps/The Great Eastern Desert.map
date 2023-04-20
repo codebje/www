@@ -1,0 +1,57 @@
+--- notes
+
+From ToJ: d8s3e2sd20e
+
+--- map
+
+C: Saera                D: Versant              E: white_lion           F: Ryke                 G: Dyana
+H: Yeven                I: Voryl                J: Katyre               K: Jorinne              L: Lerylke
+M: grey_lion            N: Nerael               O: a sparring warrior   P: Rakael               Q: Nyxil
+R: the lab assistant    S: Rachal (below Ceres) T: Nerr (below Pyramid) U: Chake                V: Dreyva
+W: The Weeping Willow   X: Daeman               Y: Deis (below Pyramid) Z: Kranali              a: a night hawk
+b: a shadow lynx        c: Rexena               d: Koofy                e: lab asst             f: Xanil
+g: Sorina               h: Delyrus              i: Loryn
+
+                                                                                R
+                                                                                ∧
+                                                                            H < h > g
+                                                                                |
+                                                                            Y < g - f
+                                                                                ∨   |
+                                R        The Nomad Camp     h               h   Z   |           i Clan
+                                ∧               |           ∧               ∧   ⋂   |           ∧/ zone
+                            S < H > T       j < F - 2   i < i > i       H < R - d - c       H < S > Y      m            G
+                                ∨               ∨           ∨               ∨   ⋃  /|           |         ⩘             ∧
+                  # #           H               P         m K               Y     / |       P < P > 2    l          O < G > G
+                 /|/|    The Silver Duchess              ⩘                       /  |           ∨        ∨              ∨
+                0 m-|-- #    Mines Pt II    F           l   l   # - # - # - # - #   |           C        k              P
+                    |   |       |           ∧           ∨   ∧   |                   |
+                    |   # - # - #           O > H       k   # - k               a < Z - # - The Ancient Road
+                    |           |    New    |                                       |
+                    |           #  Thalos - j > G                               b   |
+                    |           |           |                                   ∧   |                              The
+    The River - # - # - # - # - # - # - # > B > 2                       a   L < b - W       S                   Y Bazaar
+                        |   |   |           |                           ∧       ∨   |       ∧                   ∧   |
+                        # - #   |           I > C       D       K   X < L > N   E   |   F - 2 > X           D < X - K > K
+                        |       |           |           ∧       ∧       |           |      /∨                   ∨   ∨
+                        1 - #   |           Q --------- C ----- D > C < J --------- N  Azar P                   X   Z
+                            |   |           |           ∨       ∨      ∘∨           |
+                            A --> #         M > D       J       L  Hell E       N < U > N               2               Z
+                                |/∨  The    ∨                      Gates            |                   ∧               ∧
+                                # A  City - E > N       2 The Pyramid           N < V > N           J < Y > a       L < a > W
+                                  of Thalos ∨           ∧/ of the Serpent           |                   ∨               ∨
+                                            M       P < T > a                   N < # > N               T               b
+                                                        ∨                          ⩗
+                                                        K                Pasiphae's Labyrinth
+
+--- loot
+
+The dracolich (in 0):
+    some crap, who cares
+
+the myconoid shaman (roaming in or near 1):
+    <worn around neck>   an amulet ARMOR AC 0 con 2 mag (w:2 v:1500 r:90)
+
+the sand worm (in 2):
+    a pink potion POTION (15: poison; curse; !NO SPELL!)
+    a platinum wand WAND (30: magic missile 10/10)

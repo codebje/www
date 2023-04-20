@@ -1,0 +1,88 @@
+--- notes
+
+From Samsera: 8s3e2sd11wn
+
+Dark Strider aggro, hidden, wanders, tracks.
+King of the Crocodilians is fairly tough, tracks.
+Lich of Thanos controls multiple pets and hits pretty hard, tracks.
+Shadow Dragon not too tough, tracks.
+Queen of the Black Widow Spiders relatively easy.
+
+Orc Questmaster wanders. Undead Questmaster in 1.
+
+--- map
+
+                # - 4
+                |
+                #   #       #
+                |   |       |
+                # - # - # - #
+                |   |   |   |
+                # - # - # - #       3
+                    |               |
+                    #               #                                       #
+        The Tombs   |               |                                       |
+        of Tarin    # - #       # - #               2           #           8
+            |       |   |       |                   |           |   The     |
+    #   # - #       # - #       #   # - # ----- # - #       # - # - Old # - #
+    |   |   |       |   |       |   |   ∧           |       |     Marsh |
+    5 - # - # - # - # - # ----- # - #   #   1 - # - # - # - # - # - # - #
+                    |           |   |   |               |   |   |   |   |
+                    #       # - # - #   #       # - # - # - # - # - # - #
+                    | The   |   |   |   |       |           |
+                    # Old - 7   # - #   #       0           # - The Old Marsh
+                    | Marsh |           |       |
+                    #       |           # ----- #
+                    |       |           |       |
+                    6       # - # - # - #       #
+                                        |       |
+                                  The River # - #
+                                            |
+                                            #
+
+--- loot
+
+The Dark Strider:
+    the Cloak of Shadows OTHER dex 1 dam 3 ac -12 !g!n!cl!sk
+    a black leather tunic ARMOR AC -10 hp 15 move 25 !g!n!ra!sl!sk
+    a pair of black leather pants ARMOR AC -8 hp -25 hit 2 !g!n!ra!sl!sk
+    a black leather belt ARMOR AC -7 age 10 dam 2 !g!n!ra!sk
+    the Boots of Stealth ARMOR AC -9 dex 3 dam 2 !g!n!sl!sk
+    the Strider's Blade WEAPON pierce F0 5d5 hit 3 dam 3 mag!g!n!ra!sk
+
+A Silver Serpent:
+    Scales of the Silver Serpent ARMOR AC -8 savespell -1 dam 3 mag!th!wa!sl!dk!sd
+
+The Creature of the Mists:
+    the Shield of the Mists ARMOR AC -10 dam 3 mag!n!mu!cl!sl!nm
+
+The shade of a hermit (in 2):
+    an old gray tattered cloak ARMOR AC -10 age 15 wis 3
+
+King of the Crocodilians (in 8):
+    an opaque emerald ring ARMOR AC -8 dam 2 int -1
+    an Ivory Staff WEAPON pound F0 6d4 str 2 dam 3
+    a bejewelled helm ARMOR AC -10 hit 2 con 2 mag!g!n!mu!cl!th!as!sl!sd!min!nm
+    an azure bracelet ARMOR AC -3 hit 1 dam 3 !g!n!mu!cl!th!ra!sk!sd!nm
+
+The massive ettin (in 3):
+    a tree branch WEAPON pound F0 2d10 hit -2
+    Some animal furs ARMOR AC -4
+    a black leather belt ARMOR AC -7 age 10 dam 2 !g!n!ra!sk
+
+The Lich of Thanos (in 4):
+    a guised cloak ARMOR AC -11 dex 3 move 50
+    a bejewelled staff WEAPON pound F0 5d4 hit 2 mp 40 saverod -2 !g!n!ra!sk
+
+The Adder of Death (in 0):
+    the Gem of Death ARMOR AC -0 dam 5 hp -100 mp -100 !g!n!ra!sk
+
+A Shadow Dragon (in 5):
+    a Kraken Eye of the Shadow Dragon LIGHT con 2 dam 3
+
+A Shadow Dragon (n of 5):
+    <held>               a charred dragon's horn
+
+The Queen of the Black Widows (in 6):
+    a Black Onyx Staff WEAPON pound F0 5d3 hit 3 dam 3 !g!n!th!wa!ra!sl
+    a Pure Onyx Tiara ARMOR AC -9 mp 35 hit 2 dam 1 !g!n!th!wa!ra!as!sl!sk!dk

@@ -1,0 +1,208 @@
+--- notes
+
+Entrance from Lupisville (Night).
+
+Easier to portal to musician_master.
+
+--- map
+
+                                        0       #
+      Soul keepers                      |       +
+        graveyard               #---#---#-------#-+-#
+            +                   |    /  +    /  |   +
+            #---#---#-∘-#---#-∘-#---2   #-∘-1   #-+-#---☠           B
+            |                   |            /      |               ^   ⋂
+            #                   #---#---#-+-3       #           B < E < D > A
+           /                    +       |          x    ⋂           v   v
+          #                     4       |         # A < B ⊃ D > B   A   B
+         /                              |               ^   ^
+        #                           # + #---#-----+-----A > C > B       D
+        |                                               v   ⋃           ^
+        #                                               B       B   E > F > E
+        *                                               V       ^       v
+        #-∘- Lupisville (Night)                         C       G   C < G > D
+        |                                                               v
+    Lupisville (Night)                                                  B
+
+                    9---☠               #
+                    +                  /∘
+                    #                 # c
+                    |                /  +
+                    #               #   #
+                    |              /    |
+            #       #             #     #---#---∘---5-+-#
+            +       |            /     /|              /
+        #---#       #           #     7 |         6   #
+        ∘   |/      +          /        |        ∘   /
+        b   7---8---#-+-#     #         #---#-+-#   1
+        |  /|                /|         +      /
+        ∘ 2 |               ☠ #         # #-+-#
+        |   |                 |           |  /
+        #---#                 #           | 3
+            +                 |           |
+            a                 #           #-+-#---#
+                              |
+                          #---d---#
+                          |   |   |
+                          #---#---#
+                          |   |   |
+                          #---#---#
+--- loot
+
+A Sentry:
+    a lucerne hammer WEAPON crush F0 4d4 hit 2 dam 2 mag
+    the gate key KEY
+
+An animated suit of armor:
+    a heavy poleaxe WEAPON slash F0 4d6 mag
+
+An uninvited guest (in 0):
+    a book KEY (for shelf to 1)
+
+A dinner guest:
+    a crystal wine glass LIQ CONTAINER mag
+
+The chef:
+    a bloody cleaver WEAPON slash F0 4d5 mag
+
+The alchemist:
+    a foaming potion POTION (detect alignment protection from evil sanctuary) mag
+
+The flesh golem:
+    a tungsten bracelet ARMOR AC -3 str 1 con 1 mag
+
+A ghostly dancer:
+    a silver coin OTHER hp 5 mag!wer
+
+A ghostly dancer:
+    a lace garter WORN move 20
+
+A violinist:
+    a violin STAFF (sleep) mag
+
+On the groud in G:
+    a long wooden stake WEAPON pierce F0 7d2
+
+The master musician:
+    the conductor's baton WAND (lightning bolt) hit 1 dam 1 mag
+
+On the ground with the master musician:
+    sheet music SCROLL (sleep blindness fireball)
+
+A closet skeleton (in 4):
+    a heavy coat ARMOR AC -15
+    a skeleton key KEY
+
+Lord Vrolock (in 5):
+    the Ring of Regeneration ARMOR AC -0 age 20 hp -5 mag!cl
+    the Cape of Midnight CONTAINER dam 2 savespell -5 !g!n!cl
+    a bejewelled crown ARMOR AC -5 wis 2 mp 5 mag!g!n!sl
+    a crimson and black robe ARMOR AC -6 str 2 con 2 mag
+    the Vampire Blade WEAPON pierce F0 3d7 con 2 dam 4 !g
+
+The white priest:
+    an anointed morningstar WEAPON pound F0 10d2 hit 2 dam 2 mag!e
+    a silver key KEY !wer (to Threnody)
+
+On the ground with the white priest:
+    a holy scripture SCROLL (bless enchant weapon !NO SPELL!) mag
+
+Threnody (in 6):
+    a silver tiara ARMOR AC -5 wis 2 mp 25 mag!e!n!sl!wer!rent
+    a pair of shimmering sandals ARMOR AC -3 move -3 !g!sl
+    a spectral gown ARMOR AC -12 mp 19 mag
+
+A gypsy:
+    a Kukri knife WEAPON slash F0 5d3 hit 1 dam 1
+
+A gypsy leader:
+    a leather whip WEAPON whip F0 4d4 hit 3 dam 3 mag
+
+A female vampire (in c):
+    a pair of diamond earrings ARMOR AC -0 int 1 cha 2 mag
+    a diamond necklace ARMOR AC -1 savespell -3 mag
+    a diamond bracelet ARMOR AC -1 con 2 mag
+    a large sack CONTAINER
+    a tiny gold key KEY (to window in c)
+
+A large sack:
+    a corpse of a child TRASH
+
+The werewolf master (in 8 - only coming in from west):
+    a vermillion kilt ARMOR AC -4 str 1 dex 2 mag!cl!sl
+    a full-moon talisman ARMOR AC -2 str 1 con 1 mag
+    the Wolf's Fang WEAPON pierce F0 4d2 hit 3 dam 3 mag
+    a tungsten key KEY (to door east on third floor)
+
+A horned owl (2e of 8):
+    a strange feather OTHER dex 2 hit 2 mag
+    a heavy iron key KEY (to 9)
+
+On the ground in 9:
+    a fire jewel OTHER str 3 dex -2 mag
+    a large pearl ring ARMOR AC -2 hit 3 mag!th!wa
+    a glittering pyrite ring ARMOR AC -0 int -5 mag!cl
+    a jewel-encrusted scarab ARMOR AC -5 dex 1 move 25 mag!cl
+    the Mask of Death ARMOR AC -0 age 60 hp -12 mag!cl!sl
+
+The head of a boar in 9:
+    a nose ring ARMOR AC -0 dam 2 mag!sl
+
+A shaggy werewolf:
+    a tattered pair of pants ARMOR AC -4 dex 1 !sl
+
+A vampire (in a):
+    a long black cape ARMOR AC -10 savebreath -3 savespell -3 mag
+    an obsidian key KEY (to b)
+
+A large, black raven (in b):
+    the Lidless Eye LIGHT mag!g!cl
+
+Cassova (wanders near d):
+    <worn on finger>    a Mercury Ring ARMOR AC -0 dex 3 str -1 mag
+    <worn on body>      a black bodysuit ARMOR AC -6 dex 4 con -1 !g!sl
+    <worn on head>      a black mask ARMOR AC -0 con 1 savespell -2 !g!sl
+    <held>              a sharp stiletto dagger WEAPON pierce F0 5d3 hit 3 dam 3 mag
+
+Ordog (in d):
+    <worn on body>      a suit of black field plate mail ARMOR AC -13 hit -5 dam 2 mag!cl!sl!rent
+    <worn on feet>      a pair of spurred boots ARMOR AC -6 con 2 dam 1 mag!g!sl
+    <worn on hands>     a pair of spectral gauntlets WORN str 2 dam 2 ac -5 mag
+    <wielded>           the Hammer of Despair WEAPON crush F0 3d10 con 1 dam 3 !g
+
+Grigori (east of d):
+    <worn as cloak>     a Whirlwind Cloak ARMOR AC -5 dex 1 dam 1 mag!wa
+    <worn on body>      a Captain's jacket ARMOR AC -7 wis 1 con 1 !sl
+    <wielded>           a silhouette rapier WEAPON slash F0 7d3 dex 2 hit 4
+    <held>              a golden net STAFF (word of recall) mag
+
+Sasha (west of d):
+    a feathered Lorist's cap ARMOR AC -3 con 2 savespell 3 !e!sl
+    a pair of silk sleeves ARMOR AC -2 str 1 hit 3 mag!th!wa!sl
+    a pair of tassled boots ARMOR AC -6 dex 3 mag!sl
+    a gold and silver lyre STAFF (charm person) ac -5 mp 8 !e
+    a magic flute STAFF (charm person)
+
+Sergei (se of d):
+    <worn around neck>  a beaded necklace ARMOR AC -3 age -5 mag
+    <worn about body>   a priestly robe ARMOR AC -4 mp 10 mag
+    <wielded>           an Iron Cross WEAPON crush F0 9d2 dex -2 mp 10 mag!vam
+    <held>              the Mirror of Truth ARMOR AC -1 wis 1 mp 15 mag!sl
+
+Alexei (sw of d):
+    a Crusader's Shield STAFF (dispel evil) ac -10 savespell -3 mag!e!n
+    an emblazoned sable surcoat ARMOR AC -8 dam 2 dex -1 mag!e
+    a White Silk Sash ARMOR AC -3 dex 2 mp 20 mag
+    the Defender's Sword WEAPON slash F0 10d3 dam 4 ac -10
+
+Voivode (2s of d):
+    an embroidered robe ARMOR AC -8 con 2 savebreath -2 mag!th!sl
+    an obsidian bracelet ARMOR AC -0 mp 20 mag
+    the Eldritch Staff WEAPON pound F0 3d8 mp 10 hp -10 !e
+    the Grimoire WAND (color spray) mp 35 mag
+
+Tatiana (2se of d):
+    <worn on body>      a dark olive shirt ARMOR AC -8 savepara -2 mag!sl
+    <worn on head>      a wreath of flowers WORN mp 10 savespell 3 mag
+    <worn on legs>      a dark olive skirt ARMOR AC -7 savebreath -2 savespell -2 mag!sl
+    <wielded>           a silver sickle WEAPON slash F0 6d4 hit 4 dam 3 mag!wer

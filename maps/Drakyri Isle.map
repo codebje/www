@@ -1,0 +1,294 @@
+--- notes
+
+From Samsera: 17n2e2nenedne3nuen4e
+
+East of lake in Northern Mountain Range.
+
+Enter counter in 1 to reach 2
+
+--- map
+
+                                     /
+                                    B * # * #
+                                        *
+                                        #
+
+                                          # #
+                                          */
+                                      # * # * #
+                                         /*
+                      #         #       # #
+                      *        /       /|
+                  #   # * # - #       B #
+                  *   *      /          |
+              # * # - #     #       # - # - # * #
+                     /*     |           *
+                    / #     |       #   #       #
+                   /        |       |   |       |        #
+                  # ------- # - # - # * #   # * # - #   ⩘
+                                |       |   |   |      *
+                                #   # - #   *   C 1   0   2
+                     Northern       |       |  * /   /
+                     Mountain - # + # - # - # - # - #       #   #
+                      Range         |       |               *   *
+                                    #   D * #           # - # - # * #
+                                    *       |           |   *   *
+                                # # #       # - # * # - #   #   #
+                                **  |                   |
+                            # * # - # * #           # - # - #
+                                *   *                   |
+                                #   #                   #
+                                                       *
+                                                      1
+                                                      *
+                                                      #
+
+                            #
+                            *
+                        #   #
+                        *   |
+                    # * # * # - D *
+                        *   |
+                        #   #
+                            *
+                            #
+
+                                C # * #
+                               *  *   *
+                              # * # * #
+                                 *
+                                #
+
+--- loot
+
+NW section: A white clad paladin, Rexena, Deis, Kaele, Denylis, Dosandre, Rodwen, Josreke, Lyrene
+N section:  glyph of warding, A mage in training, Roweni, Lechandre, A writhing form, Xanil, Dyrli, The lab assistant, Noriek, Tyrena, Daeman, Ykandres, Nalyss, Zeion
+SW section: The guardian spirit, Jorinne, Lerylke, Nerael, Nerr, The grey cat, The white cat, Dryna, Yllyra, Voryl
+Mid section: The Shadow, The stalker, The hunter, Gydeas, Ryxis, A black panther, Nyxi, A shadow lynx, Delise, Dyraena, Katyre, A night hawk, Neraikis, Jaena
+S section: A guardian knight, A warrior in training, Saera, Versant, The white lion, The grey lion, Ryke, Dyana, A sparring warrior, Rakael, Nyxil, Yeven
+SE section: The hellish guardian, The necromancer, A mass of writhing tentacles, A summoned demon, Rachal, A demonic figure, A howling beast, Dreyva, Loryn, Sorina, Janalis, Kranali, Chake, Delyrus, Toryan
+
+A Guardian (in 0):
+    the guardian's key KEY int 2 con 1
+
+A drakyri warrior protector (variously):
+    drakyri arm guards ARMOR AC -3 dam 1 hit 1 !e!sl
+    a drakyri wrist guard ARMOR AC -3 dam 1 hit 1 !e
+
+A drakyri mage protector:
+    a drakyri girth ARMOR AC -3 dam 1 mp 15 !e!n!th!wa!ra!as!sl!dk
+
+A white clad paladin (variously):
+    a gleaming white sword WEAPON impale F0 4d7 dam 2 hp 10 !e!mu!cl!th!wa!ra!as!sl!dk!sd!nm
+    a gleaming white shield ARMOR AC -8 str 1 con 1 hp 10 dam 1 !e!mu!cl!th!wa!ra!as!sl!dk!sd!nm
+
+Rexena:
+    a pair of ((-*-)) leggings ARMOR AC -9 dam 1 ac -5 !e!mu!cl!th!wa!ra!as!sl!dk!sd!nm
+
+Deis:
+    a white ((-*-)) visor ARMOR AC -0 mp 15 hp 20 !e!mu!cl!th!wa!ra!as!sl!dk!sd!nm
+
+Dosandre:
+    a gleaming ((-*-)) circlet ARMOR AC -3 dam 1 mp 20 !e!mu!cl!th!wa!ra!as!sl!dk!sd!nm
+    a set of ((-*-)) chain armor ARMOR AC -9 !e!mu!cl!th!wa!ra!as!sl!dk!sd!nm
+
+Rodwen:
+    some ((-*-)) sleeves ARMOR AC -6 dam 1 hp 15 mp 10 !e!mu!cl!th!wa!ra!as!sl!dk!sd!nm
+
+Josreke:
+    an embroidered ((-*-)) cape ARMOR AC -3 dam 2 int 1 !e!mu!cl!th!wa!ra!as!sl!dk!sd!nm
+    an ancient tome SCROLL (25: dispel evil; cause wound; !NO SPELL!) mag!e
+    an ornate mask ARMOR AC -0 mp 20 hit 2 !e!mu!cl!th!wa!ra!as!sl!dk!sd!nm
+
+Lyrene:
+    a golden ((-*-)) bracer ARMOR AC -3 dam 1 mp 15 !e!mu!cl!th!wa!ra!as!sl!dk!sd!nm
+
+Denylis:
+    a white ((-*-)) belt ARMOR AC -3 dam 1 int 1 !e!mu!cl!th!wa!ra!as!sl!dk!sd!nm
+
+A glyph of warding (variously):
+    a staff of guarding STAFF (25: holy armor 5/5) !e
+
+Roweni:
+    a ((+*+)) chain belt ARMOR AC -3 !e!cl!th!wa!ra!as!sk!dk!sd
+
+Lechandre (east of B):
+    a mithril ((+*+)) torque ARMOR AC -5 int 2 con 1 !e!th!as!dk!sd
+    a shimmering blue robe ARMOR AC -0 mp 15 con 1 !e!cl!th!wa!ra!as!sk!dk
+    a magic flame LIGHT dam 2 hit 2 mag!mu!cl!th!wa!ra!as!sk!dk!nm
+
+Xanil:
+    a pair of ((+*+)) shoes ARMOR AC -3 mp 20 !e!cl!th!wa!ra!as!sl!sk!dk!sd
+
+Dyrli:
+    a ((+*+)) bracelet ARMOR AC -3 mp 10 hit 1 !e!cl!th!wa!ra!as!sk!dk!sd
+
+Tyrena:
+    some ((+*+)) armbands ARMOR AC -3 mp 15 dam 1 hit 1 !e!cl!th!wa!ra!as!sl!sk!dk!sd
+
+Nalyss:
+    a glittering ((+*+)) earring ARMOR AC -0 wis 2 int 2 mp 10 !e!cl!th!wa!ra!as!sk!dk!sd
+
+Ykandres:
+    a ((+*+)) tunic ARMOR AC -3 dam 1 mp 15 int 1 !e!cl!th!wa!ra!as!sl!sk!dk!sd
+
+Daeman:
+    a glowing ((+*+)) sphere ARMOR AC -3 dam 1 mp 15 !e!cl!th!wa!ra!as!sk!dk!sd
+
+Zeion:
+    Owl eyes ARMOR AC -3 mp 15 int 2 !cl!th!wa!ra!as!sl!sk!dk!sd
+
+Noriek:
+    a ((+*+)) crest ARMOR AC -3 int 2 con 2 mp 5 !e!cl!th!wa!ra!as!sk!dk!sd
+    an engraved ((+*+)) ring ARMOR AC -2 dam 1 mp 10 !e!cl!th!wa!ra!as!sk!dk
+
+The Hand:
+    <worn as cloak>      laerkai life ARMOR AC -7 dam 2 con 2 mag!e!th!wa!ra!as!dk (but held)
+
+The Fist:
+    <worn on body>       laerkai might ARMOR AC -7 dam 2 hp 15 mag!e!mu!cl!th!as!sl!nm
+
+The Flame:
+    <worn on finger>     laerkai fury ARMOR AC -1 dam 2 cha -3 !g!sk
+
+The Shadow:
+    laerkai stealth ARMOR AC -7 dam 2 dex 2 move 20 !g!mu!cl!wa!sl!sk!nm
+
+The Shield:
+    <worn as shield>     laerkai justice ARMOR AC -9 dam 1 str -1 ac -6 mag!e!n!th!sl!dk
+
+The Claw:
+    <worn on hands>      laerkai pain ARMOR AC -7 dam 2 str -1 ac -5 !g!n!cl!th!wa!ra!sl!sk
+
+Lerylke:
+    the lapis statue TREASURE int 2 con 1
+    a beautiful -(+)- girth ARMOR AC -3 dam 1 wis 1 mp 10 !e!n!th!as!sl!dk
+
+Jorinne:
+    the lapis statue TREASURE int 2 con 1
+    an inlaid silver -(+)- bracelet ARMOR AC -3 dam 1 mp 10 !e!n!th!as!dk!wer
+
+Nerr:
+    a pair of -(+)- sleeves ARMOR AC -3 dam 1 int 1 mp 10 !e!n!th!as!sl!dk
+
+Dryna:
+    a filligree -(+)- necklace ARMOR AC -3 dam 1 int 1 mp 10 !e!n!th!as!dk
+
+Yllyra:
+    some finely crafted -(+)- gloves ARMOR AC -3 dam 1 str 1 hit 1 !e!n!th!as!sl!dk
+
+Voryl:
+    some tooled -(+)- boots ARMOR AC -3 dam 1 hit 1 move 5 !e!n!th!as!sl!dk
+
+The hunter:
+    a hunter's arrow MISSILE 22d1 x5 dam 1 int 1 level 10 !mu!cl!th!sl!sk!dk!sd!nm
+
+Gydeas:
+    a shadowy -=+)> neckchain ARMOR AC -3 con 2 int 2 !g!n!mu!cl!wa!ra!sl!sk!dk!nm
+
+A frail old man:
+    a warp pill POTION (25: teleport; !NO SPELL!; !NO SPELL!) (to the Ebony Queen?)
+    an energy pill POTION (25: strength; !NO SPELL!; !NO SPELL!)
+    a deep indigo pill POTION (25: feeblemind; !NO SPELL!; !NO SPELL!)
+
+A drakyri assassin:
+    a drakyri dagger WEAPON pierce F0 5d4 dam 1 mp 10 !wa!ra!sl!sk!dk!sd
+
+The Mediator:
+    a shimmering curtain PORTAL int 2 con 1 mag (to Holy Grove)
+
+The hellish guardian:
+    a black runed collar ARMOR AC -6 hit 3 savespell -3 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+
+Dreyva:
+    some  ->*<-  legplates ARMOR AC -8 dex 2 move 10 ac -5 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+
+Loryn:
+    a tempered throwing dagger MISSILE dam 1 int 1 !g!mu!cl!wa!sl!sk!dk!nm
+    a pair of  ->*<-  boots ARMOR AC -5 dam 2 move 30 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+
+Sorina:
+    a humanoid skull WAND (25: demon fire 2/2) !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+    a dark  ->*<-  necklace ARMOR AC -5 dam 1 int 1 savespell -3 savebreath -2 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+
+Janalis:
+    a dark  ->*<-  orb ARMOR AC -0 mp 15 hp 15 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+
+Kranali:
+    an ebony  ->*<-  bracer ARMOR AC -5 dam 1 hit 2 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+
+Chake:
+    some  ->*<-  sleeves ARMOR AC -6 hit 2 dex 2 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+
+Toryan:
+    a  ->*<-  breast plate ARMOR AC -8 dam 2 mp 10 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+
+Delyrus:
+    a carved  ->*<-  ring ARMOR AC -3 dam 1 hp 15 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+
+A demonic figure:
+    a black runed collar ARMOR AC -6 hit 3 savespell -3 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+
+A howling beast:
+    a black runed collar ARMOR AC -6 hit 3 savespell -3 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+
+A mass of writhing tentacles (in 1):
+    a tentacled key KEY int 2 con 1
+
+Rachal:
+    a pair of taloned gloves ARMOR AC -0 hit 2 mp 15 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+    a jet black  ->*<-  helm ARMOR AC -8 con 2 dam 2 !g!n!mu!th!wa!ra!as!sl!sk!sd!nm
+
+A summoned demon:
+    demon's wings ARMOR AC -5 dam 1 hit 1 ac -5 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!nm
+
+Dyana:
+    a set of ][+][ platemail ARMOR AC -8 dam 2 con 1 !mu!cl!th!as!sl!sk!dk!sd!nm
+    a ][+][ shield ARMOR AC -9 dam 1 con 2 !mu!cl!th!as!sl!sk!dk!sd!nm
+    a bracer of ]+[ power ARMOR AC -3 dam 1 hit 1 mag
+
+Saera:
+    an engraved platinum ][+][ ring ARMOR AC -3 dam 1 con 2 !e!mu!cl!th!as!sl!sk!dk!sd!nm
+    strong ][+][ armplates ARMOR AC -6 dam 2 hp 10 !mu!cl!th!as!sl!sk!dk!sd!nm
+
+Rakael:
+    a ][+][ helm ARMOR AC -5 dam 1 ac -8 !mu!cl!th!as!sl!sk!dk!sd!nm
+
+Nyxil:
+    some grey ][+][ legplates ARMOR AC -8 dam 1 hit 1 !mu!cl!th!as!sl!sk!dk!sd!nm
+
+Yeven:
+    an engraved ][+][ crest ARMOR AC -3 dam 1 hp 15 !mu!cl!th!as!sl!sk!dk!sd!nm
+
+Ryxis:
+    a slim -=+)> bracer ARMOR AC -6 dex 3 hit 1 !g!n!mu!cl!wa!ra!sl!sk!dk!nm
+
+Nyxi:
+    silent -=+)> boots ARMOR AC -3 dam 2 dex 1 move 20 !g!n!mu!cl!wa!ra!sl!sk!dk!nm
+    a ring of the panther ARMOR AC -4 dam 1 hit 2 dex 2 !g!n!mu!cl!wa!sl!sk!dk!nm
+
+Dyraena:
+    a pair of black -=+)> leggings ARMOR AC -5 hit 3 !g!n!mu!cl!wa!ra!sl!sk!dk!nm
+    a -=+)> shroud ARMOR AC -5 dam 1 savebreath -3 savespell -3 !g!n!mu!cl!wa!ra!sl!sk!dk!nm
+
+Delise:
+    a ring of the lynx ARMOR AC -5 dam 2 dex 1 !g!n!mu!cl!wa!sl!sk!dk!nm
+    a black -=+)> belt ARMOR AC -5 dam 1 hit 2 !g!n!mu!cl!wa!ra!sl!sk!dk!nm
+
+A night hawk:
+    night hawk talons ARMOR AC -5 dam 1 hit 2 !g!n!mu!cl!wa!sl!sk!dk!nm
+
+Jaena:
+    a sharpened stiletto WEAPON pierce F0 5d5 dam 2 hit 1 !g!mu!cl!wa!ra!sl!sk!dk!nm
+    some dark -=+)> gloves ARMOR AC -5 dam 1 dex 2 !g!n!mu!cl!wa!ra!sl!sk!dk!sd!nm
+    an onyx -=+)> earring ARMOR AC -0 dam 2 !g!n!mu!cl!wa!ra!sk!dk!nm
+    an invisible flame LIGHT dam 1 int 1 mag!g!n
+
+Nerael:
+    a shimmering -(+)- sphere ARMOR AC -3 dam 1 int 1 mp 10 !e!n!th!as!dk
+    a niobium -(+)- circlet ARMOR AC -3 wis 2 int 1 mp 10 !e!n!th!as!sl!dk!min
+    a carven -(+)- signet ring ARMOR AC -3 dam 1 str 1 con 1 !e!n!th!as!dk
+
+Laerkai Master (in 2):
+    laerkai power ARMOR AC -4 dam 1 str 3 mag!e!th!as!dk
+    a honed shortsword 'Zedraikis' WEAPON bite F0 4d8 dam 1 int 1 !sl!sd

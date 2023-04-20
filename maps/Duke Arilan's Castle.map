@@ -1,0 +1,78 @@
+--- notes
+
+Portal to Jabbard, or north side of Freehold.
+
+--- map
+
+              1               2
+             /               /
+            #         # #   #
+            |        x  +   |
+            # - #   # - # - #
+            |               |
+            # - # - # - # - #                   1   #   # - # - 2
+            |   |   |   |   |                   |   +       |
+            |   # - # - #   |               # - #   #   # + # + #
+            |       |       |                   |   +       +
+            #   #   |       #   #           # - # - # + #   #
+            |  /    |       |  /                    +
+            | #     |       | #                     #
+            |/      |       |/
+            # - # - # - # - #
+                    |
+                    #
+                    |
+                 Freehold
+
+--- loot
+
+Guard:
+    a suit of guard chain mail ARMOR AC -8 mp 5 !mu!th!as!sl!sd!nm
+    a guard helm ARMOR AC -8 hit 2 !mu!th!as!sl!sd!min!nm
+    a guard sword WEAPON slash F0 4d8 !mu!cl!nm
+
+General Hector:
+    a suit of guard plate mail ARMOR AC -10 str 1 !mu!th!as!sl!sd!nm
+    a guard helm ARMOR AC -8 hit 2 !mu!th!as!sl!sd!min!nm
+    a sword of silver named "Peacemaker" WEAPON slash F0 8d4 hit 2 mag!mu!cl!nm
+
+Jester:
+    a goofy cap ARMOR AC -4 dex 1 !sl
+    a set of juggling balls WEAPON bludgeon F0 6d4
+
+Nobleman:
+    a foil WEAPON slash F0 13d2 dam 2 !mu!cl!sl!nm
+
+Princess Daran:
+    an amulet of nobility TREASURE mpcost 5 con 4 move 20 !orc!dra!ogr!tro!nm!dem!vam
+
+Jeeves:
+    a dustmop WEAPON whip F0 6d3
+
+Baron von Mimbre:
+    a suit of guard plate mail ARMOR AC -10 str 1 !mu!th!as!sl!sd!nm
+    a guard helm ARMOR AC -8 hit 2 !mu!th!as!sl!sd!min!nm
+    the legendary "Badaxe" WEAPON slash F0 3d12 dam 2 mag!mu!cl!th!as!sd!nm
+
+Peter:
+    a suit of guard plate mail ARMOR AC -10 str 1 !mu!th!as!sl!sd!nm
+    a guard helm ARMOR AC -8 hit 2 !mu!th!as!sl!sd!min!nm
+    a guard sword WEAPON slash F0 4d8 !mu!cl!nm
+
+Duke Arilan:
+    a suit of golden chain mail ARMOR AC -13 hp 15 dam 3 mag!e!n!mu!cl!th!wa!ra!as!sl!dk!sd!nm
+    a crown of gold ARMOR AC -8 cha 2 dam 2 mp 15 mag!e!n!sl!dk
+    the Haldane sword named "Severious" WEAPON slash F0 6d8 dam 2 hit 2 mp 20 mag!e!n!mu!cl!th!as!sl!dk!sd!nm
+
+Mordecai:
+    a Haldane defender's sash WORN ac -7 hit 2 dam 1 mag!e!n!dk
+
+Ariel:
+    a blue diamond ring ARMOR AC -1 int 2 wis 2 mag
+
+Sahar Jabbard:
+    a holy potion POTION (heal sanctuary !NO SPELL!) mag!dem!und
+    a glowing wand WAND (meteor swarm)
+
+Brand:
+    a silver lute LIGHT hit 2 mag!wer

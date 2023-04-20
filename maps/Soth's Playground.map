@@ -1,0 +1,226 @@
+--- notes
+
+From Samsera: 8s3e2sd27w3sn
+
+Huge amounts of zone are !magic
+
+D: Deepspawn
+T: Tempest (x3)
+S: The Shadow Dragon
+N: The Nothingness - no exits, no magic, no escape, 3x Tempest
+W: Wemic (x2)
+K: Kriegmacher, Soth's Horse of Death
+
+Loop between 'a' and 'B' is A Black Stormcloud; B is Drawbridge to Soth's Stronghold; n of B is The Courtyard of The Fortress.
+
+--- map
+
+                                                                 2
+    ⋂   ⋂   ⋂   ⋂   ⋂                                            ^
+  ⊂ M - # - # - # - 7 ⊃                              M<* # - 2 - #
+    v   |   ⋃   ⋃   |                                    v   |
+    6   | d       ⊂ # ⊃                                  # - #
+        |/          |                                   /       ⋂
+        #         ⊂ # > 7                      N   3 < K    S < #
+                    v       ?   ?              ^   ⋂   |        |
+                    8     ⊂ #> ⊂# ⊃          ⊂ #⊃ ⊂4 - # ⊃    ⊂ # ⊃
+    ⋂       ⋂       v       |   |              |   |   ⋃        |
+  ⊂ # ----- ☒ ⊃     9     ⊂ # < T > 0          5 * # ⊃      1 < 0 > 1
+    |       |               ⋃   |                  ⋃            |
+    # - B ⊂ 8 ⊃               ⊂ D ⊃                           ⊂ 1 ⊃
+    ⋃   ⋂   |                   |                  ⋂            ⋃
+      ⊂ a - 9 > 8             ⊂ # ⊃            N < 3 ⊃
+        ⋃                       |                  v
+                              ⊂ # ⊃                4
+                                |
+                              ⊂ # ⊃
+                                ⋃
+
+      ⋂       ⋂
+    ⊂ # ----- # ⊃
+      |      /⋃                 ⋂       ⋂   ⋂   ⋂       ⋂
+      | M   #               e < d ⊃   ⊂ e - # - # ⊃   ⊂ # > E
+      |/    |                   ⋃       ⋃   ⋃   |   ⋂   |
+    ⊂ # ⊃ ? 6 ?                               ⊂ # - # - # ⊃
+      ⋃     ?                                   ⋃   ⋃   |
+                                                       (#)
+                                                        V
+                                                        L
+
+(dhork+zim explore)
+
+                   ⋂   ⋂   ⋂   ⋂   ⋂
+                 ⊂ N - # - # - # - # ⊃                                          A Black Stormcloud
+                  ⩘∨   |   ⋃   ⋃   |
+                 / B   | D       ⊂ # ⊃
+                /      |⩘          |
+               /     ⊂ # ⊃       ⊂ # ⊃
+              /        ⋃           ∨
+          ⋂  /    ⋂     (room east of P in map from logs)
+        ⊂ ▧ ----- # ⊃                                                           Soth's Riding Ground
+          |/     /⋃
+        ⊂ ▧ ⊃   /
+          ⋃   ⋂/
+            ⊂ # ⊃                                                               A Dark Tunnel
+              |   ⋂
+            ⊂ B - A ⊃
+              ⋃   ∨
+                  C
+
+                  ⋂                     ⋂
+                ⊂ D > E             F < E ⊃
+                  |                     ⋃
+                ⊂ C > A
+                  ⋃
+
+                  ⋂   ⋂   ⋂       ⋂       ⋂
+                ⊂ F - ▧ - ▧ ⊃   ⊂ ▧ ⊃   ⊂ ▧ > Necrophedius                      Soth's Riding Ground (!magic)
+                  ⋃   ⋃   |       |       |
+                        ⊂ ▧ ----- ▧ ----- ▧ ⊃
+                          ⋃       ⋃       |
+                                        ⊂ ▧ ⊃
+                                          ∨
+                                  Soth (The Darkness)
+
+(from logs)
+
+        Soth's Riding Grounds
+
+                          N<∘ # - # - #
+                              ∨   |
+                              # - #
+                        ⋂    ⩘
+                3 <---- ▧⊃ <6
+                ∧       ⋂   ∧
+              ⊂ ▧ ⊃   ⊂ ▧ - ▧ ⊃
+                |       |   ⋃
+                5 --∘-- ▧ ⊃
+                        ⋃
+
+        The Sea of Despair / A Small Island?
+
+                L
+                ∧   ⋂
+              ⊂ # - # - T > O
+        ⋂       ∧   ⋃
+      ⊂ # ----- # ⊃                     I
+        |       |   ⋂   ⋂               ∧
+      ⊂ # ⊃   ⊂ # - # - # > G         ⊂ J ⊃                             L       H
+        |       |   ⋃   ∨               |               ⋂       ⋂       ∧       ∧       ⋂
+      ⊂ F ---- #># ---> 3           H < G > H       5 < I ----- # ⊃   ⊂ K ⊃   ⊂ L ⊃   ⊂ M ⊃
+        |       |                       |               |       ∨       ⋃       ∨       ∨
+      ⊂ D ⊃   ⊂ # ⊃                   ⊂ H ⊃           ⊂ # ⊃     K               M       A
+        ∧       |                       ⋃               ∨
+      ⊂ C <---- # ----> G                               J
+        ⋃       |
+              ⊂ 4 ⊃
+                |
+              ⊂ # ⊃
+                |
+              ⊂ # ⊃
+                |
+              ⊂ A ⊃
+                ⋃
+
+        The Dungeon
+
+                        T
+                        ∧
+                        +
+                        |
+                        8
+                        ∘
+                7 ----- # > S
+                ∘       |
+                #   # + S ⊃
+                        |
+                  P # + # ⊃
+            ⋂    ⩘      |
+        Q < R ⊃ #   # + # ⊃
+            ∧   ∧       |
+            # ⊃ ∘       #
+            ∧   |       |
+          ⊂ O * # ----- #
+            |
+        R < Q ⊃
+            ⋃
+
+    A Black Stormcloud
+
+        ⋂       ⋂
+      ⊂ # ----- # ⊃
+        |       |
+        # - B   |
+        ⋃       |
+              ⊂ # ⊃
+            ⋂   |
+          ⊂ # - P > (room leads s to P, n to n of P, w to w of P, e loops)
+            ⋃   ⋃
+
+    Soth's Fortress
+
+            0 ∘ #
+            ∘
+            E
+            |
+          - B
+
+--- loot
+
+a long black stinger WEAPON whip F0 3d4 wis -2 dam 2 !g!n
+
+Wemic:
+    a bone chiseled spear WEAPON pierce F0 3d4 hit 1 !g!n
+
+Deepspawn (in 4):
+    the Tentacle of the Deepspawn WEAPON whip F0 2d2 hit 3 str 2 !g!n
+    Obsidian Mace of Darkness WEAPON crush F0 11d3 hit 3 mp 20 !g!n!th
+
+The Tempest (n of 4):
+    a strip of stormcloud ARMOR AC -6 hit 3 !g!n
+    a swirling buckler ARMOR AC -3 dam 2 !g!n!sl
+
+The Tempest (in 3, The Nothingness, noexit, nomagic):
+    ?
+
+the Shadow Dragon (in 5):
+    a Writhing Shroud of Darkness CONTAINER dam 3 ac -18 !g!n
+    a pitch black key KEY
+
+Kriegmacher, Soth's Horse of Death (in 6):
+    <worn on feet>       the Hoof of Kriegmacher ARMOR AC -5 dam 2 move 20 !g!n!sl
+    the Tail of Kriegmacher WEAPON whip F0 2d2 !g!n
+    a piece of cloud KEY
+
+Necrophedius (s of 0):
+    the Staff of Elminster KEY mag (portals to Soth and Darkness)
+    black marble bracelet ARMOR AC -5 dam 3 mp 15 hit 1 !mu!cl!th!wa!ra!as!sl!sk!dk!sd
+
+Lord Soth (in 0):
+    <worn on body>       the Armor of the Undead
+
+Darkspawn (e of 0):
+    <worn on body>       the Black Armor of Darkspawn (invisible)
+    <wielded>            the Dagger of Ultimate Evil (invisible)
+
+The Gorgon (roams):
+    <worn on head>       the Black Horns of the Gorgon
+
+Lieutenant Rahnahara (in 7):
+    a skeleton key KEY (to door s in 7)
+
+a wooden chest (in 7):
+    a ball and chain WORN move -100 hit -1 !e
+    rusty shackles WORN con -3 dex -2 !e
+
+the Executioner (s of 7):
+    an Executioner's Axe WEAPON slash F0 9d3 dam 1 !g!n!mu!cl!th!as!sl!sd!gnm!hlf!nm!fae
+    a spiked key KEY (to door to 8)
+
+the Warden (in 8):
+    <used as light>      Black-Framed Lantern LIGHT hit 3 dam 3 mp 15 !g!n
+    <worn as cloak>      a black silk cape ARMOR AC -5 dam 1 int -3 !g!n
+    <held>               a barbed key KEY
+    a rusty key KEY
+    a barbed scourge WEAPON whip F0 4d4 dam 2 con -2 !g!n
+

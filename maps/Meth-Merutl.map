@@ -1,0 +1,99 @@
+--- notes
+
+--- map
+
+                                        # - 5 - 
+                                        +   +
+                                        # - # - 
+                                        |   |
+                                        | #
+                                        |/
+                                    # - # -
+                                    |   |
+                                    4 -
+                                    |   |
+                                    # - # -
+                                        |   |   |   |   |
+                                        |   | # |   | # |
+                                        |   |/  |   |/  |
+                                        2 - # - # - # - 3
+                                            |   |   |
+                                            0 - # - 1
+                                                |
+                                                #
+                                                |
+                                                # + Plains of Shierre
+                                                |
+
+--- loot
+
+The drying racks (in 0):
+    an apricot
+    a piece of salted meat
+    a filet o' hare
+A basket of interwoven twigs (in 0):
+    a pear
+    an apricot
+    a strawberry
+
+The drying racks (in 1):
+    a piece of salted meat
+    a filet o' hare
+
+An oven (in 2):
+    a blueberry pie
+
+A bloody elf (in 3):
+    a deer carcas FOOD
+A Terelat butcher (in 3):
+    a blood-stained deer skin tunic WORN cha -2 dex 2
+
+A Keruzet elven guardian:
+    a woodland axe WEAPON slash F0 3d8 str 2 hp 10 !e!mu!cl!nm
+    a pair of camouflaged boots WORN dam 1 dex 2
+    a camouflaged breast plate ARMOR AC -10 con 2 dam 1 !mu!cl!th!as!sl!sd!nm
+    a camouflaged helm ARMOR AC -8 dam 2 int 2 !mu!cl!th!as!sl!sd!nm
+    a pair of camouflaged leg plates ARMOR AC -8 str 2 dam 1 !mu!cl!th!as!sl!sd!nm
+    a pair of camouflaged swordsman's gloves ARMOR AC -5 dex 2 dam 1 !sl
+    a pair of camouflaged arm plates ARMOR AC -8 dam 1 hit 1 !mu!cl!th!as!sl!sd!nm
+
+Terelat, Keruzet elves:
+    a woodland axe WEAPON slash F0 3d8 str 2 hp 10 !e!mu!cl!nm
+    a camouflaged vest WORN con 3 dam 1
+    a pair of camouflaged leggings WORN dam 1 move 25 ac -8
+    a pair of camouflaged boots WORN dam 1 dex 2
+    a pair of camouflaged vambraces WORN str 2 hit 2 ac -5
+
+A Terelat cleric, a Terelat sorcerer:
+    white robes embroidered with silver and green WORN savespell -5 mp 25 !e!n!th!wa!ra!as!dk
+
+A Terelat hunter:
+    a Terelat elven bow FIRE WEAPON (range 2 stun 3) !mu!cl!th!as!sl!sk!dk!sd!nm
+    a Woodland quiver of arrows MISSILE 25d1 x5 level 15
+    a camouflaged vest WORN con 3 dam 1
+    a pair of camouflaged leggings WORN dam 1 move 25 ac -8
+    a pair of camouflaged boots WORN dam 1 dex 2
+    a pair of camouflaged vambraces WORN str 2 hit 2 ac -5
+
+You get a camouflaged belt from the corpse of a Keruzet elven guardian.
+You get a camouflaged shield from the corpse of a Keruzet elven guardian.
+You get a pair of camouflaged arm plates from the corpse of a Keruzet elven guardian.
+You get a pair of camouflaged swordsman's gloves from the corpse of a Keruzet elven guardian.
+You get a pair of camouflaged leg plates from the corpse of a Keruzet elven guardian.
+You get a camouflaged helm from the corpse of a Keruzet elven guardian.
+You get a camouflaged breast plate from the corpse of a Keruzet elven guardian.
+
+The Keruzet Enchantress:
+    the lilth golden crown of an elven princess WORN mp 35 dam 3 int 2 ac -10 level 30 !e!th!wa!ra!as!sl!sk!dk!min!ogr!tro!gia
+
+The overseeer:
+    the overseer's blessing SCROLL (45: revive; !NO SPELL!; !NO SPELL!) int 4 wis 4o
+    a Woodland Belt CONTAINER hp 20 ac -5 !e!mu!cl!th!as!sl!sk!dk!sd!nm
+    the Shield of the Chosen One ARMOR AC -10 mp 35 savespell -5 savebreath -5 level 30 mag!e!mu!th!wa!ra!as!sl!sk!dk!sd!nm
+A Woodland Belt:
+    a large woodland key KEY
+
+the Keruzet commander is using:
+    <worn around neck>   the Woodland Amulet WORN dam 3 move 25 ac -6 level 30 !mu!cl!th!wa!as!sl!sk!dk!sd!nm
+    <worn on body>       a suit of camouflaged chainmail ARMOR AC -7 dex 2 hit 2 !e!mu!sl!nm
+    <wielded>            a woodland axe WEAPON slash F0 3d8 str 2 hp 10 !e!mu!cl!nm

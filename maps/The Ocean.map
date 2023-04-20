@@ -1,0 +1,107 @@
+--- notes
+
+K: The Kraken
+
+0: You see creatures moving about in the tight packed strands, (with coin)
+1: A red mist was rising from the water, and in that thick vapor the (1 coin)
+2: All the surface of the ocean is in motion, quivering, trembling.
+3: You see creatures moving about in the tight packed strands,
+4: You eye the horizon uneasily. A few hours ago the dragon (1 coin)
+5: You now lay in the heart of a tight-woven fabric of seaweed (1 coin)
+6: a mass of sea-serpents (a seagull)
+7: clouds begin to roll in
+8: sweat and swear
+9: There is no air. The ocean steams and stinks beneath a sun that does
+a: You sweat and swear as you move slowly against the current, almost (with coin)
+b: There is no air. The ocean steams and stinks beneath a sun that does (with coin)
+d: the world has suddenly been turned
+e: You had imagined daily adventure, new beasts of fantastic nature, (with coin)
+g: you are beyond the first patches
+h: as serpent might move
+i: the stuff is seaweed of some sort
+j: you notice the weeds appear thicker
+l: where weeds were impenetrable
+m: menace, you think, is not the seaweed but boredom
+n: beginning to have your doubts already
+o: All the surface of the ocean is in motion, quivering, trembling. (1 coin)
+p: large waves rock you (Ring keeper)
+q: The salty smell of the ocean stings your nose. (Dhork)
+r: A few strands of dragon grass floats coiling and writhing in the water (with coin)
+s: You carefully note your position so as not to lose your bearings on
+t: You are beginning to feel it, that hideous killing boredom, that
+u: The journey has been so uneventful that the days have become voids.
+w: The wind begins to pick up and is blowing briskly over gray blue
+x: There is no air. It seems as if the world has suddenly been turned
+y: There is no air. It seems as if the world has suddenly been turned (with coin)
+z: The clouds begins to roll in, and the thunder begins to rumble off in the (with coin)
+A: You are on the ocean. Large waves rock you, and you have a hard time (with coin)
+B: A few strands of dragon grass floats coiling and writhing in the water
+C: You carefully note your position so as not to lose your bearings on (with coin)
+D: You are beginning to feel it, that hideous killing boredom, that (with coin)
+E: The journey has been so uneventful that the days have become voids. (with coin)
+F: You had imagined daily adventure, new beasts of fantastic nature,
+G: The wind begins to pick up and is blowing briskly over gray blue (with coin)
+H: There is no air. It seems as if the world has suddenly been turned (two coins)
+I: Here and there in the infinitely entangled webwork its inhabitants (1 coin)
+J: You now lay in the heart of a tight-woven fabric of seaweed
+L: Here and there in the infinitely entangled webwork its inhabitants
+M: This dense and tightly interwoven mass of algae stretching toward (1 coin)
+
+--- map
+
+                                                    K   K   K
+                                                    ^   ^   ^
+                            K   N   M           K < m - l - j > K
+                            ^   ^   ^               |   v   |
+                        K < L - M - N > M       K < n > K   |
+                            |   v   v           |   |       |
+                    K   K   |   N   M       K < 0 - o > K   |
+                    ^   ^   |                   v   v       |
+                K < 3 - 4 - J > K               K   K       |
+                    |   v   v   ^               ^           |   n
+                K < 2 > K   K < 5 --------- K < h --------- i > K ↄ
+                    |           |               |           v
+                K < 1 --------- I > K           |           K   K
+                    v           v               |               ^
+                    K           K           K < g ------------- 6 > K
+                                                v               |
+                                p               K               |
+                                ^                               |
+                            q < s ----------------------------- r > q
+                                |                               |
+                                |       y   p           6       |
+                                |       ^   ^           ^       |
+                                |   t < z - A --------- B > w   |
+                                |       |   v           |       |
+                                |       |   y       x < C > r   | The Solamnic Knights
+                                |       |Isles of the   |       |   |
+                                |       |Pirate Lords - D - # --|-- #
+                            r < t > p   |               |       |
+                # - #           |       |   w       x < E > r   |
+                    |           |       |   ^           |       |
+            # - # - #           |   s < a - 9 > r   y < F > q   |
+            |                   |       v   |           |       |
+            # - #               |       q   |           |       |
+                |               |           |           |       |
+            # - # - # - Freeport|   t   r < y > p       |       |
+            |                   |   ^   ^   |           |       |
+            #               q < u - e - w - x > t       |       |
+  Isles of  |                   v   v   v   v           |       |
+     the  - #                   p   s   s   q           |       |
+Pirate Lords|          Isles of the                     |       |
+            #          Pirate Lords 9           x       |       |
+            |               |       ^           ^       |       |
+            #           # - #   a < 8 --------- b > y   |       |
+            |           |   |       |           |       |       |
+            # --------- #   # ----- 7 > 6   e < H ----- G > s   |
+                                    v           v       v       |
+                                    6           u       t       |
+                                                                |
+                                                            r < q > p
+                                                     Isles of   |
+                                                   the Pirate - p > q
+                                                     Lords      v
+                                                              Great
+                                                             Western
+                                                              Ocean
+

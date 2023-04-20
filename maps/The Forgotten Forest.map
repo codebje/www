@@ -1,0 +1,473 @@
+Notes:
+  - Amara questmaster
+  - Izarti questmaster
+
+1 A forgotten beach
+   The sea has eroded the cliff to the south to provide the island with a small
+beach here. The saltwater laps the shore in a rhythmic pattern and you have no
+doubt that at high tide there would be no beach at all here. A large stone
+juts out from the beach here and would probably be here even at the highest
+tide however.
+Obvious Exits :  West
+
+2 A forgotten beach
+   You stand on the beach of some long forgotten land. A light mist surrounds
+you and you feel as if you had taken a step back in time. A volcano, a rarity
+these days, can be seen in the distance, past a very thick forest. The Forest
+is strangely quiet almost as if its watching you to determine your intent.
+You conclude that you may have found the lost Forbidden Island.
+Obvious Exits :  East South West
+
+3 Entering the enchanted forest
+   The forest and the mist seem to close in around you. You leave the beach
+behind and enter this strange forest. The trees are larger than any you have
+ever seen before, they rival even those of the forest of Han-dor. Animals you
+have, until now, only seen in books seem to be commonplace here.
+Obvious Exits :  East South West
+
+4 Entering the forest
+   The forest and the mist seem to close in around you. You leave the beach
+behind and enter this strange forest. The trees are larger than any you have
+ever seen before, they rival even those of the forest of Han-dor. Animals you
+have, until now, only seen in books seem to be commonplace here.
+Obvious Exits :  East West
+
+5 A forgotten beach
+   The sea has eroded the cliff to the south to provide the island with a small
+beach here. The saltwater laps the shore in a rhythmic pattern and you have no
+doubt that at high tide there would be no beach at all here.
+Obvious Exits :  East South(3) West
+
+6 The forgotten forest
+   You are in the middle of a forgotten forest on a forgotten island. Strange
+creatures hide in the shadows just out of eyesight. Strange beasts lurk just
+off in the distance leading you to wonder if they are staying away out of fear
+or because they are waiting for an opportune time to strike.
+Obvious Exits :  East South
+
+7 Deep in the forest
+   The forest surrounds you as you travel deeper into its depths. Shadows and
+sounds from the shadows keep your nerves on edge. Your never sure when you're
+going to run into some strange creature that makes this forest its home.
+Obvious Exits :  North South
+
+8 A forest clearing
+   The clearing allows you to once again see the light of day. Its large enough
+for a large giant to fit in and your not sure if its wise to leave
+yourself so exposed and visible, for you can't help but feel you're being
+watched from the shadows.
+Obvious Exits :  North South West
+
+9 Deep in the forgotten forest
+   The forest is never quiet. There is always some creature calling out to its
+group for protection, or screaming out in terror as it is attacked and dies.
+Such is the way in nature, only the strong survive. Judging by all the screams
+you don't stand a chance.
+Obvious Exits :  East South
+
+A Entrance to a Village
+   You are at the entrance to a small centaur village. These strange mythical
+beasts are quite intelligent at watch you calmly, for they know that you are
+an intruder. However, they are confident that you pose no real threat and
+apparently if you did anything wrong they would certainly kill you without
+thinking twice!
+Obvious Exits :  North South West
+
+B The Village Square
+   This is where the centaurs meet to relax and to eat a common meal. They are
+quite communal creatures, eating and relaxing, even playing together! There
+games are complex but some are simple, like archery contests with the winner
+receiving a small prize and the support of the entire family. A large fire pit
+dominates the square for cooking and partying at night.
+Obvious Exits :  North East South West
+
+C The Chiefs Home
+   This spartan house (more like a hut actually) is the home of the village
+chief. Sparcly decorated, it houses only necessities, it shows that these
+creatures have no need for worldly goods and are not interested in money and
+power. The cultures are still the hunter gathers of the world, and aren't
+complaining either.
+Obvious Exits :  South
+The corpse of a centaur leader is lying here.
+
+D A Centaur's Hut
+   Strange creatures have strange houses, and this hut is no different!
+Furniture is almost nonexistent and what there is, is certainly different!
+However, there are some pictures on the wall and of course a fire pit to keep
+the hut warm at night.
+Obvious Exits :  East
+Obvious Exits :  North
+
+E Deep within the forest
+   The forest surrounds you and you're not quite sure how you're going to get
+out. The twisted paths make it impossible to tell the exact way you came and
+the centaurs trampling over your tracks rule out using that method to
+determine if you have or haven't been here. Everything seems to be working
+against your getting out.
+Obvious Exits :  North East South
+
+F A dead end in the forest
+   The forest path you have been following once again stops for some unknown
+reason. Whoever or whatever created these paths seems to have no idea where it
+was going. Paths start and stop in the middle of nowhere with no reason why.
+It wouldn't be that bad if you knew where you were going or where you've been,
+but you've been lost for several hours now and you're getting just a bit
+tired of this.
+Obvious Exits :  East
+Obvious Exits :  North
+
+G Near another volcano
+   Another volcano extends to the south-east of here. Unlike the other one
+however this one appears to be inactive for some time. Not that you'd rather
+it be active! One volcano threatening to blow you to bits is enough to deal
+with. It is curious, however, that only one of the volcanoes is active. Wonder
+why?
+Obvious Exits :  North South West
+
+H Turn in the path
+   No path in this forest is straight, hence they all must make a turn
+sometime. This is the case now. There is no indication why the path makes this
+turn, perhaps the trees wear too thick up ahead, or perhaps the creature that
+made the path wanted to get a drink from the river to the east. The reason
+doesn't matter all that matters is you must change your direction.
+Obvious Exits :  North West
+
+I End of the forest
+   The forest ends and to the south you can see the beginning of a large, foul
+smelling swamp. Traversing the swamp will be difficult, but possible if you
+travel slowly and carefully. A reminder for swamps however, watch out for
+quicksand. That could end your trip real quick!
+Obvious Exits :  East South West
+
+J Beginning of a swamp
+   Traveling is not as difficult as you feared and, so far, you haven't run
+into any quicksand! Strange creatures dwell in this swamp, making this swamp
+scarier than any you have ever been in before. The swamp gas is so strong you
+feel as if you might be overcome by it. If you did pass out from it some
+creature would surly kill you instantly.
+Obvious Exits :  North South
+
+K A foul smelling swamp
+   A foul smelling gas erupts from the ground in this swamp. Hmmm funny thing,
+swamp gas in a swamp! Seriously, the gas is so strong you feel as though you
+might be overcome by the fumes. How anything could live in this place, you
+really don't know. By the looks of things however, some creatures actually
+prefer this environment.
+Obvious Exits :  North East
+
+L A foul smelling swamp
+   Traveling is not as difficult as you feared and, so far, you haven't run
+into any quicksand! Strange creatures dwell in this swamp, making this swamp
+scarier than any you have ever been in before. The swamp gas is so strong you
+feel as if you might be overcome by it. If you did pass out from it some
+creature would surely kill you instantly.
+Obvious Exits :  East West
+
+M End of the swamp
+   The swamp ends at a small forest glade. The glade to the east looks peaceful
+and calm, you can actually hear the call of birds that you recognize. Perhaps
+it will be a refuge in this horrible world. First, however, you must get to it
+through the muck that makes up this place, no small task indeed.
+Obvious Exits :  South West
+
+N A forest glade
+   What trees there are in this forest are small compared to those you saw on
+the other side of the island. Its as if all the trees on this side were
+destroyed and the plant eaters had to move on to the other side of the island.
+That means that whatever lives here must be able to survive on a small amount
+of plants or they don't feed on the plants at all...
+Obvious Exits :  North East
+Obvious Exits :  North East South
+
+O A forest glade
+   The glade continues here right up to the side of a volcano. From here at its
+base you can tell it is no longer active like the other volcano on this island.
+You wonder why only one of the two volcanoes would die, since they are so close
+together. The steep stone slope of the volcano blocks any further progress to
+the north.
+Obvious Exits :  South West
+
+P A forest glade
+   The dried bones of some creature lay on the ground here, telling you that
+something in this part of the forest has a taste for flesh. Lets just hope it
+doesn't like human flesh, eh?
+Obvious Exits :  North East
+
+Q A forest glade
+   A beautiful forest glade, free of the destruction caused by some of the
+larger plant eaters, covers the southern part of the island. However, you'd
+rather not think about what the creatures in this part of the forest eat if
+they're not eating the trees...
+Obvious Exits :  North South West
+Obvious Exits :  South
+
+R An ocean harbor
+   This island had shown no sigh of a civilization until now. A magnificent
+dock made of stone stands here on the ocean, and remains of buildings can be
+found testifying that this place was used as some sort of harbor at one time,
+however that must have been a long time ago. The only thing left is the stone
+dock jutting out into the ocean.
+Obvious Exits :  North South
+
+S On the ocean
+   Once again your on the ocean fighting the strange current that seek to push
+you back to the island which you came from. The water is warmer than before
+and you speculate that perhaps this is not the same ocean. Maybe you are on
+the ocean as it was in prehistoric times, and maybe that means there'll be
+prehistoric creatures in it....
+Obvious Exits :  North East
+
+T At the edge of a forest
+   The plains meet a small forest here, providing you with some shelter from
+the elements. But at what cost do you attain this shelter? So far there has
+been danger at every step, will this step be any different? Will the forest be
+the end of the road? Are you ever going to find out the answers to these
+questions...
+Obvious Exits :  East West
+
+U On the plains of The Forgotten Island
+   The plains stretch from the inactive volcano in the west, to the river in
+the east and finally to the sea in the south. They are nothing but a great
+expanse of open space, yet still they contain much hidden danger. The speed of
+the creatures here allows you to see them, but not time to prepare for them.
+Obvious Exits :  North East West
+
+V The plains of The Forgotten Island
+   You leave the deep, dark forest behind and head out onto the open plains of
+this long lost island. You are high above the level of the sea, which you can
+see from here. Not only do creatures roam the forest, you can see them
+here and in the ocean too. Will you ever be able to leave them behind?
+Obvious Exits :  East South
+Obvious Exits :  North West
+
+W Traveling the plains
+  The wide open plains allow you to see creatures in the distance...
+preventing them from surprising you as they did in the forest. Several of the
+creatures you have seen are incredibly fast and use this speed effectively by
+attacking in packs of 3 and 4, you should be cautious!
+Obvious Exits :  North South West
+
+X The plains of The Forgotten Island
+   You leave the deep, dark forest behind and head out onto the open plains of
+this long lost island. You are high above the level of the sea, which you can
+see from here. Not only do mythical creatures roam the forest, you can see
+them here and in the ocean too. Two strange stone pillars stand at the edge of
+the cliff here and far in the distance you can see two identical pillars on
+the distant shore of another island across the river.
+Obvious Exits :  North (East) South
+
+Y A forest path
+   Some beast has made a path, several paths in fact, through this thick
+forest. The lower branches and leaves of several trees look as though they have
+been chewed and gnawed on. You dare to hope that whatever beasts live in this
+forest they only eat the trees and not small humans like yourself.
+Obvious Exits :  North South
+
+Z A trail between the cliffs
+   A large trail begins here. Its too large to have been made by any of the
+creatures you have seen to use, only some type of humanoid could possibly
+have made it. The path looks like it continues up the valley walls further on.
+Obvious Exits :  South West
+
+a A trail near the volcano
+   The trail becomes rockier as it slowly ascends the slope of a huge active
+volcano. The slope is devoid of foliage due to previous lava flows. A slight
+rumble and a pillar of smoke, however, are the only signs that this is an
+active volcano.
+Obvious Exits :  North South West
+
+b At the mouth of the volcano
+   You are standing at the rim of a huge volcano. The steam that rises from
+below is almost hot enough to melt the steal in your weapons, not to mention
+your flesh! Below you, you can see the lava still bubbling in the cauldron, or
+is that something else causing the lava to stir? a creature perhaps?
+Obvious Exits :  North West Down
+(unicorn was here, but probably roams)
+
+c Inside the Volcano
+   The hot lava makes the heat in this place almost too hot to handle. How
+anything could survive in this place is beyond you! You certainly can't take
+much more of it...why the H*ll did you come down here in the first place!? Oh
+yeah that stirring in the lava. Well from down here you can tell that there is
+something under the surface..but what, is the question!
+Obvious Exits :  Up
+the Phoenix (wings of the phoenix)
+
+d A small valley
+   The path leads you up the walls of this small valley to a point high above
+the treetops. There are footprints in the dirt witch are obviously recent and
+made by a humanoid. The valley is curved, like a crescent moon, and the path
+follows the north-eastern wall, leading to what appears to be several caves in
+the distance.
+Obvious Exits :  North East
+
+e A mountain path
+   The small path continues here. You have to hug the wall and travel very
+slowly, to avoid falling, in several places. This is one of those places you
+don't want to look down! A fall would me certain death, perhaps you should
+have taken those mountain climbing classes back in town, eh?
+Obvious Exits :  North East West
+
+f A cave
+   You are in a large cave that appears to be used as a home. The cave is not
+entirely natural, some of the walls have obviously been chipped away with
+some sort of tool, and strange pictures have been drawn on the walls in
+several places. There is a pit in the floor for building a fire and niches
+have been carved in several places for storage. Necessity, not comfort,
+dictates the layout of this home.
+Obvious Exits :  South
+
+g Corner of cave street
+   The path gets wider here and has apparently seen much more use. The path
+follows the valley as it takes a sharp turn to the south here. There are caves
+to the north and east. Several buckets are here filled with water leading you
+to believe that this is some sort of gathering place for the inhabitants of
+this strange village.
+Obvious Exits :  North East South West
+
+h End of the path
+   The end of the trail widens as you approach some very important looking
+caves. The cave to the east is surrounded be drawings of skulls and Dragons!
+all drawn in what appears to be blood. While the cave to the south is just the
+largest of all the caves you've seen so far, no doubt someone (or something?)
+important lives there.
+Obvious Exits :  North East South
+
+i The cave of the Shaman
+   This cave must belong to the shaman of the village. Skulls litter the floor,
+strange herbs hang from pouches from the ceiling, and pictures drawn in blood
+cover the walls. A large stone alter is in the center of the room, apparently
+so the patients have somewhere to die.. Pictures of a huge dragon, the largest
+you've ever seen, covers one wall and several sigils of warding have been
+scribed in blood around them.
+Obvious Exits :  West
+
+j The chief's cave
+   This cave is so large and richly decorated that it must be the chief's home.
+Furs from many different animals covering the floor, and a fire pit with a vent
+to the outside, keep this cave significantly warmer than other caves you have
+visited. Colorful pictures, made of plant dyes, tell the history of the tribe
+forever preserving it on the stone walls.
+Obvious Exits :  North (East)
+the Stone giant chief (a large lionskin sash, a large stone key)
+
+k The village treasure room
+   This room is used to hide the treasures of the tribe. Paints made of plant
+dyes, grain, crude grain alcohol, and treasure, lie in clay containers on the
+floor. Dried meat hangs from the ceiling to make sure the tribe does not go
+hungry if a food shortage should occur. Not much here is worth anything to a
+civilized person, but you may be able to find something.
+Obvious Exits :  West
+A large sack of gold coins is here. (45000)
+
+l On the ocean
+   Once again your on the ocean fighting the strange current that seek to push
+you back to the island which you came from. The water is warmer than before
+and you speculate that perhaps this is not the same ocean. Maybe you are on
+the ocean as it was in prehistoric times, and maybe that means there'll be
+prehistoric creatures in it....
+Obvious Exits :  East West
+The dragon turtle (some seaweed)
+
+m Mouth of the river
+   A river is to the north that separates the main island with a much smaller
+island. This is the connection between the river and the ocean. A small
+waterfall allows the water from the river to join with the ocean and keeps the
+ocean from polluting the freshwater of the river.
+Obvious Exits :  North West
+
+n The river
+   The river is small and fast moving. Steep cliffs rise to either side of you
+that prevent you from reaching either island. Effectively keeping you trapped
+on the river. Below you dark shapes can be seen in the water, large dark
+shapes....
+Obvious Exits :  North South
+
+o Source of the river
+   The source of this river is apparently an underground spring, because the
+water bubbles up from below. It is also a hot spring judging by the air
+temperature and the steam rising off the water. Perhaps there is some
+underground river or cave too, but that's for another area...
+Obvious Exits :  South
+
+                              * 5 - 2 - 1
+                                v   v
+                            6 - 4 - 3 - 6 - Z   f   f   f
+                            |       |   |   |   |   |   |
+                            7       Y - a   d - e - e - g - f
+                            |       |   |               |
+                    C   9 - 8       a - b               e - f
+                    |   |   |          /                |
+                D - B - A   F         c                 h - i
+            The     |   |                               |
+         Dreamworld D   E - # - 8                       j * k
+                |       |       |
+                # + F - G   F - 6 - 7 - 8     Avalon (aggro guardian)
+                        |           |   |       |
+   the Perceptory - I - H           6 - Y - E - F
+                    |                       |
+                    |                       H - 7
+                    |                           |
+                    J                           Y
+                    |          The              |
+                    |     Forgotten City        X ∘
+                    |           |               |
+                    K - L - M   #   Q       V - W   o
+                            |   ∘   |       |   |   |
+                            N - O   N - T - U - V   n
+                                |   |               |
+                                P - Q               n
+                                    |  The Portals  |
+                                    R    of Time    n
+                                    |       |       |
+                                    S - l - l ----- m
+
+--- items
+
+Object 'a unicorn's horn', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: MAGIC BLESS !EVIL !NEUTRAL IDENTIFIED
+Weight: 8, Value: 100000, Rent: 1545
+Forge level: 0 No. dice: 4 Dice size: 10 Type: pierce
+Can affect you as :
+   Affects: DAMROLL By 2
+   Affects: MAXMANA By 30
+
+Object 'wings of the phoenix', Item type: BOAT
+Item will give you following abilities:  NOBITS
+Item is: MAGIC BLESS !EVIL IDENTIFIED
+Weight: 10, Value: 100000, Rent: 115
+Values not used for this item.
+Can affect you as :
+   Affects: ARMOR By 1
+   Affects: HITROLL By 2
+
+Object 'a large lionskin sash', Item type: OTHER
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 10, Value: 2000, Rent: 505
+Values not used for this item.
+Can affect you as :
+   Affects: MAXHIT By 25
+   Affects: ARMOR By -5
+
+Object 'pipes-of-pan', Item type: STAFF
+Item will give you following abilities:  NOBITS
+Item is: !MAGE !NECRO IDENTIFIED
+Weight: 1, Value: 8000, Rent: 0
+Spell lvl: 15 Max charges: 3 Charges left: 3 spell: charm person
+
+Object 'some seaweed', Item type: BOAT
+Item will give you following abilities:  NOBITS
+Item is: !RENT IDENTIFIED
+Weight: 1, Value: 1000, Rent: 0
+Values not used for this item.
+
+Object 'a silver trident', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 10, Value: 6500, Rent: 310
+Forge level: 0 No. dice: 2 Dice size: 8 Type: slash
+Can affect you as :
+   Affects: HITROLL By 2
+   Affects: MAXHIT By 15

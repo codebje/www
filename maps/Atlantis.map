@@ -1,0 +1,81 @@
+--- notes
+
+Portal to Neptune, not aggro, but underwater. Or Grouper, who is aggro, but gentle.
+
+--- map
+
+                    #                                   #                   # - # ----- # - #
+                   x|                                  x|                   |               |
+                  4 |           #           0         1 |                   #   # - # - #   #     6
+                    |           |           |           |                   |   |       |   |    x
+                # - # - #   # - # - #   # - # - #   # - # - #           # + # - # - # - # - # - #
+                    |           |           |           |              /    |   |       |   |
+                # - # - #   # - # - #   # - # - #   # - # - #     # - #     #   # - # - #   #
+                    |           |           |           |        /          |               |
+        # --------- # --------- # --------- # --------- # ----- #           # - # ----- # - #
+        | Reggid    |           |           |           |
+        + Ocean # - # - #   # - # - #   # - # - #   # - # - #
+        |/          |           |           |           |
+        #       # - # - #   # - # - #   # - # - #   # - # - #
+                    |           |           |           |
+                    #           3           #           #
+                   x                                   x
+                  5                                   2
+
+
+--- loot
+
+A pirahna swarm:
+    piranha teeth necklace WORN dam 2 !g!e
+
+Serving wench:
+    serving tray CONTAINER !g!e
+
+A noblewoman:
+    a noblewoman's dress WORN ac -4 hit 1 wis 1 !g!e
+
+A nobleman:
+    a nobleman's suit WORN ac -4 hit 1 wis 1 !g!e
+
+A male peasant:
+    some old rags WORN
+
+An Atlantean security officer:
+    an officer's ring WORN hit 2 hp 10 con 2
+
+Head of security:
+    badge of office WORN !g!e
+
+Poseidon, the Shopkeeper (in 0):
+    the Sword of the Deep WORN
+    water dagger TRASH
+    an Atlantean tourist ring WORN
+    an Atlantean ballcap WORN
+    a Mug LIQ CONTAINER !g!e
+
+Octoroon, the Giant Octopus (in 1):
+    a pair of inky shoes WORN hp 10 move 15 dex 2 !g!e
+
+Kraken, the giant squid (in 2):
+    squid-skin leggings ARMOR AC -9 ac -9 !sl
+
+Jeze (in 3):
+    a Land-Dweller Burger FOOD
+    a "club sandwich" FOOD
+    a Seaweed Salad FOOD
+    some Land-Dweller Fries FOOD
+    a Land-Dweller milkshake FOOD
+
+The Leviathan (in 4):
+    the Leviathan's Tooth ARMOR AC -5 str 2 dam 2 hit 2 !g!e
+
+The Devouring Deep (in 5):
+    a Pendant of the Deep ARMOR AC -4 dam 3 move -10 cha -3 !g
+
+Neptune, King of Atlantis (in 6):
+    <worn on body>               Coral Breastplate ARMOR AC -10 ac -7 hit 3 dex -1 !g!e!sl
+    <worn on head>               Coral Helm ARMOR AC -7 ac -4 con 2 dam 1 hit 1 !g!e!sl!min
+    <worn on legs>               Coral Leggings ARMOR AC -8 ac -4 move -10 spelldam 22 !g!e!sl
+    <worn on arms>               Coral Sleeves ARMOR AC -7 ac -4 dam 2 dex -1 !g!e!sl
+    <worn as shield>             Coral Shield ARMOR AC -12 ac -4 dam 2 mp 15 !g!e!sl
+    <wielded>                   trident of Atlantis WEAPON impale F0 6d5 dam 2 hit 2 !g!e

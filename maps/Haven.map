@@ -1,0 +1,48 @@
+--- notes
+
+Portal to gnome_guard, top of stairs to 6 (or gnome_busy, right inside everything)
+
+--- map
+
+                               The Great Western Ocean (or Dragonnia?)
+                                                v
+            3                                   #
+            ^                                   |
+          ⊂ # ⊃               (snow fields maze, just go all south)
+            |                                   |
+        1 - 2 - 1                             - # -
+            |                                   |
+        2 - 1 - 2                               #
+            +                                  /
+            #                                 #
+            |                                /
+            #               #               #
+            |              ⩗^              ⩗
+            #             5 #             6
+            |               |
+            0               #
+            |               +
+            # - 4           #
+            |  /            |
+            | 0             # - 5
+            |               |
+            # - # - 6 - # - #
+
+--- loot
+
+The cold frost giant:
+    a fuchsia potion POTION (cure critic cure critic !NO SPELL!)
+
+A bodyguard:
+    a copper hammer WEAPON claw F4 3d5
+
+A master herbal (in 4):
+    a sprig of mints LIGHT move 25 hp 10 hit 1 mag
+
+The Snow Queen (in 3):
+    the Shield of the South Wind ARMOR AC -10 str 2 hit 2 hp 10 !sl
+    the ice staff WEAPON pound F0 6d5 mp 10 savespell -1 hit 2 mag!cl!th!wa!ra!as!sl!sk!dk!sd
+    TODO probably something else, someone had killed her already
+
+The white dragon:
+    a wand of fire WAND (burning hands) !th!wa!as!sl

@@ -1,0 +1,128 @@
+--- notes
+
+From Samsera: 10e10n2e11n3e
+
+--- map
+
+    # - #
+    |  /
+    # A
+    |
+    #
+    |
+    #
+    |
+    # - #
+       /
+      B
+
+                                  C             C
+                                 /             /|
+                                #           # - # - #
+                                |               |
+                                # - #       # - # - #
+                     /          |               |
+                    A       # - # + #       # - # - #
+                    |       |   |               |
+                  # # - #   # - #   #   # ∘ # - # - #
+                 x  |   |       |   |           |
+The Irredenta - # - # - # - # - # - # - #     ∘ # ∘
+                    |   |       |               |
+                    # - #       # - #           #
+                    |/  |       |/             /
+                    B   #       D             D
+
+--- loot
+
+On the ground:
+    devotional candle LIGHT
+
+Stablehand:
+    re-enforced jerkin ARMOR AC -5 !sl
+
+Cook:
+    soup ladle WEAPON pound F0 3d3
+
+Librarian:
+    Dayan's guide TREASURE hit 2 int 1 mag
+
+Priest:
+    Golden Cross WEAPON crush F0 11d2 wis 1 hit 2 mag!e!dk!vam
+    Priestly vestaments ARMOR AC -7 mp 20 dam 1 mag!e!sl!dk
+
+Guard, soldier (eating):
+    Blue Steel Scale Mail ARMOR AC -8 !e!mu!sl!dk!nm
+    Blue Steel Halberd WEAPON slash F0 2d11 hit 1 dam 1 !e!mu!cl!th!dk!sd!nm
+
+Soldier (training):
+    training sword WEAPON pound F0 5d3
+
+Man at arms:
+    Blue Steel Axe WEAPON slash F0 2d10 dam 2 !e!mu!cl!th!dk!sd!nm
+    padded armor ARMOR AC -4 !sl
+
+Knight:
+    blue steel chain mail ARMOR AC -9 !e!mu!sl!dk!nm
+    Blue Steel Leggings ARMOR AC -8 !e!mu!sl!dk!nm
+    Blue Steel Gauntlets ARMOR AC -6 !e!mu!th!as!sl!dk!sd!nm
+    Blue Steel Sleeves ARMOR AC -8 !e!mu!sl!dk!nm
+    Horseman's Lance WEAPON impale F0 5d5 hit 1 dam 1 !e!mu!cl!th!ra!as!sl!dk!sd!nm
+
+Knight (praying):
+    blue steel chain mail ARMOR AC -9 !e!mu!sl!dk!nm
+    silver cross TREASURE ac -6 savepetri -4 mag!e!dk!vam!wer
+    Church Tabard ARMOR AC -7 savespell -4 mag!e!dk
+    a blue steel sword WEAPON slash F0 5d4 hit 1 !e!mu!cl!dk!nm
+
+Senior Knight:
+    Blue Steel Sleeves ARMOR AC -8 !e!mu!sl!dk!nm
+    Blue Steel Leggings ARMOR AC -8 !e!mu!sl!dk!nm
+    blue steel chain mail ARMOR AC -9 !e!mu!sl!dk!nm
+    a blue steel helm ARMOR AC -8 !e!mu!sl!dk!min!nm
+    a blue steel sword WEAPON slash F0 5d4 hit 1 !e!mu!cl!dk!nm
+    battle plans TREASURE
+
+Sephriana:
+    Flowers ARMOR AC -1 mag!e!sl
+    Golden Amulet ARMOR AC -8 mp 25 dam 1 mag!e!dk (cloak)
+
+Allister:
+    Blue steel belt ARMOR AC -6 !e!dk
+    Blue Steel Arm Plates ARMOR AC -11 dam 1 !e!mu!th!as!sl!dk!sd!nm
+    Blue Steel Boots ARMOR AC -6 dam 1 !e!mu!th!as!sl!dk!sd!nm
+    Blue Steel Leg Plates ARMOR AC -8 dam 1 !e!mu!th!as!sl!dk!sd!nm
+    a blue steel plate ARMOR AC -10 str 2 dam 1 !e!mu!th!as!sl!dk!sd!nm
+    a blue steel helm ARMOR AC -8 !e!mu!sl!dk!min!nm
+    Defender WEAPON slash F0 4d10 ac -15 hit 2 !e!mu!cl!dk!nm
+
+Rinaldo:
+    Blue Steel Leggings ARMOR AC -8 !e!mu!sl!dk!nm
+    Blue Steel Sleeves ARMOR AC -8 !e!mu!sl!dk!nm
+    Blue Steel Boots ARMOR AC -6 dam 1 !e!mu!th!as!sl!dk!sd!nm
+    blue steel chain mail ARMOR AC -9 !e!mu!sl!dk!nm
+    a blue steel bracer ARMOR AC -4 hit 1 dam 1 !e!dk
+    Avatar's Epee WEAPON pierce F0 7d4 hit 2 dam 1 mag!mu!cl!nm
+
+Vanion:
+    a blue steel plate ARMOR AC -10 str 2 dam 1 !e!mu!th!as!sl!dk!sd!nm
+    a blue steel helm ARMOR AC -8 !e!mu!sl!dk!min!nm
+    Blue Steel Leg Plates ARMOR AC -8 dam 1 !e!mu!th!as!sl!dk!sd!nm
+    Blue Steel Boots ARMOR AC -6 dam 1 !e!mu!th!as!sl!dk!sd!nm
+    Blue Steel Arm Plates ARMOR AC -11 dam 1 !e!mu!th!as!sl!dk!sd!nm
+    Blue steel belt ARMOR AC -6 !e!dk
+    Partisan WEAPON slash F0 3d13 hit 1 mag!e!mu!cl!th!dk!sd!nm
+
+James:
+    blue steel chain mail ARMOR AC -9 !e!mu!sl!dk!nm
+    a blue steel helm ARMOR AC -8 !e!mu!sl!dk!min!nm
+    Blue Steel Sleeves ARMOR AC -8 !e!mu!sl!dk!nm
+    Blue Steel Leggings ARMOR AC -8 !e!mu!sl!dk!nm
+    a blue steel sword WEAPON slash F0 5d4 hit 1 !e!mu!cl!dk!nm
+    vault key KEY
+
+Kieth:
+    blue steel chain mail ARMOR AC -9 !e!mu!sl!dk!nm
+    a blue steel helm ARMOR AC -8 !e!mu!sl!dk!min!nm
+    Blue Steel Sleeves ARMOR AC -8 !e!mu!sl!dk!nm
+    Blue Steel Leggings ARMOR AC -8 !e!mu!sl!dk!nm
+    a blue steel sword WEAPON slash F0 5d4 hit 1 !e!mu!cl!dk!nm

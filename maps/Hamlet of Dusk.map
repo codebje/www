@@ -1,0 +1,85 @@
+
+--- loot
+
+You get a whip from the corpse of a village witch.
+
+You get a dog whistle from the corpse of the kennel owner.
+
+You get a bear skin from the corpse of a cave bear.
+You get a bear skull from the corpse of a cave bear.
+
+--- map
+
+        # - # - # - #                       #
+        |           |                       |
+        #           #               # - # - #
+        |           |               |       |
+    # - #           #               #       #       # - # - # - #
+        |           |               |       |       |   |   |   |
+        # - # - # - # - # - # - # - #       #       # - # - # - # - #
+                                            |       |   |   |   |
+                                            # - # - # - # - # - #
+                                            |
+                # - # - #       #   #       #
+                |   |           |   |       |
+            A - A - #           # - # - # - #
+                |   |           |   |       |
+            B - B - #           #   #       #               #   #   #
+                |   |                       |               |   |   |
+                # - # - # - # - # - #       # - # - # - # - # - # - # - # - #
+                |   |               |       |               |   |   |
+            C - C - #               #       #               #   #   #
+                |   |               |       |
+            D - D - # - #           # - # - #       #
+                |   |                       |       |
+            E - E - #                       # - # - #
+                    |                       |
+                    #                       #
+                                            |
+                                            #
+                                            |
+                                         Haon-Dor
+
+--- items
+
+Object 'a bird talon', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 1, Value: 800, Rent: 120
+AC apply: 2
+Can affect you as :
+   Affects: WIS By 2
+   Affects: MAXMANA By 5
+
+Object 'a dog whistle', Item type: SCROLL
+Item will give you following abilities:  NOBITS
+Item is: GLOW IDENTIFIED
+Weight: 2, Value: 500, Rent: 50
+Spell lvl: 30 spell1: call of the wild spell2: !NO SPELL! spell3: !NO SPELL!
+
+Object 'a whip', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: GLOW IDENTIFIED
+Weight: 6, Value: 3500, Rent: 350
+Forge level: 0 No. dice: 6 Dice size: 4 Type: whip
+Can affect you as :
+   Affects: STR By 1
+   Affects: HITROLL By 2
+   Affects: MAXMOVE By -5
+
+Object 'a bear skin', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 9, Value: 2500, Rent: 85
+AC apply: 0
+Can affect you as :
+   Affects: ARMOR By -9
+
+Object 'a bear skull', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: MAGIC !SHOU_LIN !DEATH_KN IDENTIFIED
+Weight: 8, Value: 2800, Rent: 160
+AC apply: 8
+Can affect you as :
+   Affects: STR By 2
+

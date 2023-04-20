@@ -1,0 +1,110 @@
+--- notes
+
+Entrance from Shaden. Aggro, hidden, roaming mobs.
+
+--- map
+
+
+                Shaden
+                   \
+                    #
+                    *
+                    # - # + #
+                        |
+                    # - # - #
+                    |   |
+                    #   # - #
+                    |   |   +
+                # + #   | A 0
+                        |/
+                        #
+
+                  # ------------- #
+                 ⩘                |
+            #   # + #     #       |
+            *   |         |       |
+            # - # - #     # - # - #
+            |   |   |     |
+            #   #   #     # - # * #
+            |       |             |
+            # - A - #       B     |
+               /           ⩘      |
+                          # - # - #
+
+            # + # - #
+                    |
+            # - # - #
+                +   +
+            #   #   # C
+            |   |   |⩘
+            B + #   #
+
+                        D
+                       ⩘
+                #     ∘
+                ∘    /
+            # - # - #
+            |   |
+            # - # - #
+            |   |   |
+            # - # - C
+
+
+            # - # - D
+            |
+            # ∘ # - #
+                |   |
+            # - # - #
+
+--- loot
+
+The pilferer:
+    a bone handle knife WEAPON pierce F0 6d5 !mu!cl!wa!ra!sl!sk!dk!nm
+
+The fake juggler (variously):
+    a wrap of climbing spikes TREASURE
+    a grappling iron TREASURE
+    a colorful liripipe ARMOR AC -7 !sl!min
+
+The sneak (variously):
+    a colorful liripipe ARMOR AC -7 !sl!min
+    a housebreaker harness WORN move 10 dex 2 !mu!cl!wa!ra!sl!sk!dk!nm
+
+A sturdy cabinet (in 0, locked, pickable):
+    two glinting cesti ARMOR AC -10 dex 3 dam 2 !mu!cl!wa!ra!sl!sk!dk!nm
+    a silver epee WEAPON pierce F0 4d1
+    a sapphire neckchain OTHER con 2 ac -5 mag
+
+The assassin's guild clerk:
+    a belt pouch CONTAINER
+A belt pouch:
+    150000 coins
+
+The legbreaker:
+    a metal-studded club WEAPON pound F0 3d3 mag
+
+The rogue:
+    a jeweled dagger WEAPON pierce F0 5d5 !mu!cl!wa!ra!sl!sk!dk!nm
+
+The assassin (wandering near C):
+    an onyx key KEY (to doors on floors C and D)
+
+The knifer (variously):
+    a dark crimson cloak ARMOR AC -0 ac -10 hit 2 mag!mu!cl!wa!ra!sl!sk!dk!nm
+
+The killer:
+    a pair of dark leather foot-pads ARMOR AC -6 hit 2 move 50 !mu!cl!wa!ra!sl!sk!dk!nm
+
+The DarkFriends assassin (variously):
+    a writhing kris WEAPON pierce F0 6d5 hit 1 dam 1 ac 6 !g!mu!cl!wa!ra!sl!sk!dk!nm
+    a black velvet hood ARMOR AC -5 hit 2 !mu!cl!th!wa!ra!sl!sk!dk!sd!min!nm
+    a bejeweled Eog bracelet ARMOR AC -8 dam 1 mp 15 !cl!wa!ra
+    a black velvet cloak ARMOR AC -5 hp 5 hit 2 !mu!cl!wa!ra!sl!sk!dk!nm
+
+The DarkFriends bodyguard (variously):
+    a pair of black eog bracers ARMOR AC -8 dam 2 int 2 mag!mu!cl!th!wa!ra!sl!sk!dk!sd!nm
+    a huge Eog warshield ARMOR AC -9 mp 5 hit 2 mag!sl
+    a pair of black eog greaves ARMOR AC -8 dam 2 move 25 dex 1 mag!mu!cl!th!wa!ra!sl!sk!dk!sd!nm
+
+Some trash mob:
+    a pair of Drow skin boots ARMOR AC -8 dam 2 mp 15 !mu!cl!wa!sl!sk!dk!nm

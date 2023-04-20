@@ -1,0 +1,96 @@
+--- notes
+
+Key to first door is on X-Ist northeastern tower of Fairhaven City.  Entrance eastern road beside wall, a few north.
+
+Choranai right before underwater section to crab/keraptis
+
+100k coins on the ground in 4, 8, 9.
+
+--- map
+
+                                                  5
+                                          4       |
+                                          *       #
+                                          3 Sams  |
+                                          |/      *
+                                          # + # - #
+                                          |
+                                      # - #
+                                      |   |
+                            # * #     # - ▧
+                            *   *     |   |\
+                            0   # - # # - # \
+                            *    \  |\    |  \
+                            #  2  ☠ # ☠   |   \     9
+                            |  |\   +\    |    \    |
+                        # - #  # #  # \   # @ - @ - @
+                        |   |  | ∘  |  \  |
+                # Fair- #   #  # A  1   \ |
+                | Haven ∘   *  |         \|
+                # City  #   8  # ---- # - #
+                |⩗      |
+                # ----- #
+
+                        B
+                        ^
+            B           # < #
+            v               ^
+            # > # > C > # > #
+            *       |
+            □       # - # The Isle of Myst
+            |       |   *⩗
+            □ - □ * #   #<* A
+                    ∘
+                    #
+                     \
+                      @ - @
+                          |
+                          @
+                          |
+                          @
+                          |
+                          @
+                          |
+                          @
+                          |
+                  @ - @ - @
+                  |
+                  | # - #
+                  |/    |
+                  @     #
+                        |
+                        #
+                        |
+                        # 6
+                        |⩘|
+                        # #
+                          |
+                          #
+                          +
+                          # #
+                          ∘/
+                      7 - #
+                          ∘
+                          #
+
+
+--- loot
+
+a flesh golem (in 0): nothing
+Ctenmiir (in 1):
+    <worn around neck>   a silver moon !ident (key to door 2s from C)
+    <worn on legs>       the Shroud of Doom ARMOR AC -9 dam 3 mp 20 hp 10 !g!n!mu!cl!th!wa!ra!as!sl!sk!sd!loc (w:10 v:2000 r:615)
+the giant crayfish (in 2): nothing
+Burket (in 3):
+    <held>               a crossbow
+    an arrow
+the air elemental (in 4): nothing
+Snarla (in 5):
+    a tiny brass key KEY (to chest in 5, to door below 2)
+a giant crab (in 6, destroy through sanc):
+    a huge metal key KEY (probably to door 3s from 6, not tested)
+Keraptis (in 7):
+    <held>               a tiny knife (probably key to chest)
+chest in 7:
+    a skeleton key (to es from 7, possible guardian room)
+

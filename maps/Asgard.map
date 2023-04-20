@@ -1,0 +1,213 @@
+--- notes
+
+From Samsera: d17n6w4n2undnw2en
+
+--- map
+
+
+                                    #           #
+                                    ∘           +
+                                    8       # + # + #
+                                    |           |
+                                    # + # - # - #
+                                    |   +
+                        # - #       |   #   # - #
+                        |   |       |       |   |
+                        # - 5 - # + # + # - 7 - #
+                        |   |       |       |   |
+                        # - #       #       # - #
+                            +       ∘
+                            #       #
+                           /        |
+                          #         #                                9
+                         /          |                               +|
+             Midgaard + #           #                              ☠ +
+                       /            |                                |
+                      #     # < # - # - # - # - # > dudesdnsdw > # > #
+                     /     ⩗       /
+                    #   Olympus   #
+                    |            /
+                    # + # - #   #
+                        |   |  /
+                        # - 6 #                 B < A > B                 3
+                             /                      ∨                     |
+                            2                       C                     #
+                            |                                            /
+                            # - # - # - # - B - # - # - # > A           #
+                            |   |   |   |   |   |   |   |              /
+                            |   #   #   #   #   #   C   4     # > # > #
+                            |                                /
+                            # ------------- # ------------- # - ☠
+                            |
+                            □
+                            |
+                            □                   #
+                            |                   |
+                            □       # - # - # - # - #
+                            |       |           |
+                            □       |       a   #
+                            |       +       +
+                            #       |       #
+                            |       |       +
+                            #   # - # ----- # + #
+                            ∘   |   |       |
+                            1 - #   # + b   # + #
+                                |   |       |
+                                # - # ----- #
+                                |           |
+                                #           #
+                                |
+                            0 - #
+                                |
+                                #
+                                |
+                          Blasted Heath
+
+Misty maze (entrance A from main map, exit E from P is back in main map, X is in the Bifrost up from Heimdall):
+
+        B C             E A             D D             G H             G B
+        |⩘              |⩘              ∧⩘              ∧⩘              ∧⩘
+    E < A > E       A < B > A       B < C > E       E < D > C       B < E > G
+       ⩗∨              ⩗|              ⩗∨              ⩗∨              ⩗∨
+      D F             A A             F D             E A             B B
+
+        C G             X E             B G             E G             B E
+        ∧⩘              ∧⩘              ∧⩘              ∧⩘              ∧⩘
+    C < F > A       F < G > F       G < H > D       G < I > J       E < J > E
+       ⩗∨              ⩗|              ⩗∨              ⩗∨              ⩗∨
+      G C             E E             I F             E E             B K
+
+        A B             M A             L A             A K             L L
+        ∧⩘              ∧⩘              ∧⩘              ∧⩘              ∧⩘
+    B < K > B       A < L > A       D < M > B       C < N > F       P < O > L
+       ⩗∨              ⩗∨              ⩗∨              ⩗∨              ⩗∨
+      L B             A A             A N             O L             L L
+
+        B K
+        ∧⩘
+    C < P > # 
+       ⩗∨
+      K A
+
+--- loot
+
+A viking warrior:
+    a pair of bear claw gloves WORN weight -10 dam 1 mag
+    a leather headband ARMOR AC -5 wis 2 mag!sl
+
+The Norse man:
+    a bronze spear WEAPON stab F0 2d9 hit 1 mag
+
+Grendel (in 0):
+    amber necklace WORN con 3 int 1 mag!e
+
+A Viking berserker (in 1):
+    a blooded blade WEAPON slash F0 4d8 mag
+    a key KEY (to secret in 1)
+
+Heimdall (in 2, blocks path up):
+    a Viking war hammer WEAPON bludgeon F0 5d6 str 1 move -10 mag
+    a helmet with rams horns ARMOR AC -8 int 2 mag!e!sl!min
+    silver armor ARMOR AC -10 hit 2 dam 1 mag!e!n!sl!dk!wer
+
+Nidhug (in 3):
+    a vial of dragons blood POTION (1: revive; !NO SPELL!; !NO SPELL!) mag
+    the Shield of the Black Dragon ARMOR AC -11 savebreath -4 dam 2 mag!n!mu!th!as!sl!sd!nm
+    a dragons tooth OTHER savespell 5 mp 20 mag!n
+
+The ghost (in 4):
+    the rainbow key KEY (to gates 4u3n from 2)
+
+Freya (wn of 5):
+    the Falcon dress ARMOR AC -9 move 30 savespell 2 cha 4 mag!wa!ra!as!sl
+    the necklace Brisingamen WORN dam 2 hit 1 ac -5 mag
+
+Freyr (ws of 5):
+    a sword called Balmung WEAPON sting F0 1d24 mag!n
+    the Crown of Flames ARMOR AC -10 dam 1 mag!sl
+
+Urdi, Skuld (s of 5):
+    a water skin LIQ CONTAINER mag
+
+Vedani (s of 5):
+    a water skin LIQ CONTAINER mag
+    a small piece of gold OTHER mag INSERT_PART
+
+The giant thrym (roaming near 6, hidden, aggro, quad enshroud):
+    a rock WEAPON crush F0 10d4
+    a giants skin WORN hp 20 ac -10 mag
+
+The Goddess Sif (n of 7):
+    runed leg plates ARMOR AC -8 hit 2 dam 1 savespell 6 mag!e!mu!th!sl!nm
+
+The God Tyr (s of 7):
+    the sword of Victory WEAPON slash F0 6d4 str 1 hit 3 mag!cl!sl
+
+The Goddess Ran (es of 7, flees):
+    a silver chalice LIGHT mag!n!wer
+
+Thor (en of 7, level 51):
+    <worn on hands>      a pair of iron gloves
+    <wielded>            Mjolnir
+
+Odin (in 8):
+    the bracelet Draupnir ARMOR AC -6 dam 3 hp 15 wis 1 mag!e!mu!th!ra!as!sl!sd!nm
+    a corslet of mail ARMOR AC -9 int 1 con 1 mag!sl
+    the rune wand WAND (40: group haste 3/5) mag!mu!wa!nm
+    the spear Gurgnir TREASURE (1500000)
+    an apple core TRASH mag
+    a juicy orange KEY (to throne in 8)
+
+Idun (n of 8):
+    an apple FOOD (spell 50, youthen)
+
+Loki (in 9):
+    the gloves of the trickster ARMOR AC -0 str 2 dam 2 mag!mu!cl!wa!ra!as!sl!sk!nm
+    the Dagger of Lies WEAPON stab F0 8d4 ac 10 savespell 5 dam 2 mag!mu!cl!wa!ra!as!sl!sk!nm
+
+An Evil Man (in a):
+    the Tahg WEAPON slash F0 3d10 dam 2 mag!g!n!mu!cl!nm
+    the skull of a ram ARMOR AC -7 dam 2 mag!g!mu!sl!nm
+A guard (in a):
+    a Viking war hammer WEAPON bludgeon F0 5d6 str 1 move -10 mag
+The Viking Chief (in a):
+    a pentacle disk OTHER mp 15 ac 3 mag!g
+    a pouch full of rune stones CONTAINER mp 15 ac -8 mag!e
+A pouch full of rune stones:
+    a rune stone OTHER mag (x20)
+
+A Norse woman:
+    a leather headband ARMOR AC -5 wis 2 mag!sl
+    a pair of bear claw gloves WORN weight -10 dam 1 mag
+    a coarse woolen cape ARMOR AC -5 mag
+    a rusty dagger WEAPON pierce F0 3d6 mag
+    a pair of whale skin boots WORN cha 4 mag
+
+The Battlemaster:
+    a necklace of everforged rings WORN str 3 ac -7 cha 3 mag!e!mu!th!dk!nm
+
+A blood crazed warrior (variously):
+    a leather headband ARMOR AC -5 wis 2 mag!sl
+    a pair of bear claw gloves WORN weight -10 dam 1 mag
+    a coarse woolen cape ARMOR AC -5 mag
+    a Viking war hammer WEAPON bludgeon F0 5d6 str 1 move -10 mag
+    a dull bronze helm WORN dex 2 ac -5 mag!min
+
+A Viking child:
+    a leather sling WEAPON hit F0 2d7 mag
+
+--- shops
+
+Volund (in b):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A pair of whale skin boots                         2534
+  2)  Unlimited   A leather headband                                  140
+  3)      1       Hide and steel chainmail                          12999
+
+Sigmund (in c):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A rusty dagger                                     1169
+  2)  Unlimited   A bronze spear                                     1949
+  3)  Unlimited   A leather sling                                     779

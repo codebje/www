@@ -1,0 +1,162 @@
+--- notes
+
+From Astral Guardian, 3nwuned3dnee3n to area, kill a servant for key to room with pool.
+
+Juggernaut roams area, has key for stone to the east.
+
+Juggernaut and Black Mages are command aggro.
+
+Plaques: EMBRACE, WITH, THE, SWORD'S, BEGINS, DESCENT; go w, w, w, w, w, e
+
+L: The Lich of Verminaard
+A: Ariakus
+F: Fistandantilus
+D: The Aurak Draconian
+
+--- map
+
+
+                                                    0
+                                                    ^
+                                                  - # >
+                                                    |
+                                                  - # -
+                                                |   |
+                                       # ...  - # - 0 < #
+                                      ⩗         v       |
+                                     #          0       |
+                                    ⩗                   |
+                                   #                    |
+                                  ⩗         # - # - #   |
+                                 #          |       |   |
+                                ⩗           #   S   # * #
+                               #            |  %|   |
+                               |            | 1 |   |
+                               L S          |   |   |
+                               |%           # - # - #
+                               1                |
+                               |                #
+                           # - # - #            |
+                           |       |            #
+                       # - #   #   # - #                                #
+                       |      ⩗*       |                                |
+                   A + #     H #       # + F                            H
+                       |       *       |                                |
+                       # - #   #   # - #                        S * # - # - # * C
+                           |   *   |                                *   |   |
+                           # - # - #                                M   |   #
+                               +                                        |   +
+                               D                                        |   H
+                                                                        |
+                                                                    Z * # * N
+                                                                        |
+                                                                        #
+                                                                    |   ∘
+                                                                  - # - # -
+                                                                    |   | ... maze
+
+S: Sargonnas
+M: Morgion
+N: Nuitari
+C: Chemosh
+Z: Zeboim
+H: Hiddukel
+
+--- loot
+
+Nuitari:
+    <worn on finger>     the Ring of Healing WAND (revive) ac -3 con 4 mag
+    <worn on body>       Black Robes WORN mp 30 dam 2 ac -9 mag!g!cl!th!wa!ra!as!sk!dk
+    <wielded>            the Staff of Power
+
+Sargonnas is using:
+    <worn around neck>   Feathered neckpiece ARMOR AC -4 dam 3 mag!g!n
+    <wielded>            the Talons of Sargonnas
+    <held>               the Bow of Sargonnas
+    Bladed Feather of Sargonnas WEAPON thrash F0 7d2 dam 2 str 4 mag!g!cl!sk
+
+Morgion is using:
+    <worn on finger>     a ring named "Warbringer"
+    <worn on head>       Morgion's Veiled Crown
+    <wielded>            Rod of Decay
+    <held>               Wand of Disease
+
+Chemosh is using:
+    <worn on body>       Skeletal Breast Plate
+    <worn on head>       Ram's Skull
+    <worn around wrist>  a band of snowflakes
+    <wielded>            the Bone Club of Chemosh
+
+Zeboim is using:
+    <worn on body>       Turtle Shell Armor (invisible)
+    <worn on feet>       a pair of Clawed Boots (invisible)(blue aura)
+    <worn about waist>   the Belt of the Eye of Zeboim (invisible)<Paste>
+
+Hiddukel backstabs a _lot_, no idea what he's wearing
+    <wielded>            Dagger of Vengeance (invisible) WEAPON pierce F0 5d7 dam 3 hit 3 mag!cl
+    Odamaron gets Hiddukel's horde from the corpse of Hiddukel.
+
+A Dark Priest:
+    a large sable mace WEAPON pound F0 4d6 !mu!nm
+
+Acolyte of the Dark Queen:
+    Dark Robes ARMOR AC -8 savespell -2 !sl
+    a dark armband ARMOR AC -8 savespell -2 !sl
+
+Black Mage:
+    <worn about body>    Black robes
+    Black robes ARMOR AC -10 savespell -4 mag!g!n!wa!ra!sl!sk
+    a pair of black slippers WORN hp 10 move 10 mp 10 dam 1 ac -5 mag!wa!ra!sk!dk
+
+The Silver Dragon:
+    Wings of the Silver Dragon WORN move 40 ac 15 mag!e!n!cl!dra!fae    FLY
+
+The Lich of Verminaard:
+    Sable Belt WORN hit 3 dam 1 ac -8 mag!g!n!sk
+    a large spiked sable mace WEAPON pound F0 6d6 dam 2 hit 2 mp 10 mag!mu!th!wa!ra!as!sl!sk!sd!nm
+    the Key of Night
+
+Ariakus is using:
+    <worn as cloak>      the Dragon Key
+    <worn on body>       Red Dragon Armor Breast Plate
+    <worn on legs>       Red Dragon Armor Leg Plates
+    Red Dragon Armor Breast Plate ARMOR AC -15 hit 3 mag!g!mu!th!as!sl!sk!sd!nm
+    Red Dragon Armor Leg Plates ARMOR AC -10 hit 1 dam 2 mag!g!n!mu!th!as!sl!sk!sd!nm
+    the Dragon Key KEY
+
+Fistandantilus is using:
+    <worn as cloak>      the Magic Key
+    <held>               Orb of Dragonkind
+    Orb of Dragonkind OTHER str -3 mp 30 mag
+    the Magic Key KEY
+
+the Aurak Draconian is using:
+    <worn as cloak>      the Distorted Key
+    <worn about waist>   Belt of Golden Shards
+    <wielded>            a cruel golden sword
+    a cruel golden sword WEAPON slash F0 10d2 hit 2 dam 2 mag!mu!cl!nm
+    Belt of Golden Shards ARMOR AC -5 dam 1 dex -1 mag
+    the Distorted Key TREASURE
+
+A Bloodthirsty Tanar'ri Lord:
+    <worn as cloak>      the Dread Key KEY mag
+    <worn on body>       Field Plate of the Black Rose ARMOR AC -8 dam 2 savespell -4 mag!g!n!mu!th!ra!as!sl!sk!sd!nm
+    <wielded>            the Tarnished Brightblade WEAPON slash F0 15d2 con 1 hp 10 !mu!cl!nm
+
+Takhisis is using:
+    <worn on arms>       Dragon Scale Armband (invisible)
+    <worn about body>    wings of the chromatic dragon(blue aura)
+    <worn about waist>   Belt of Deception
+    <held>               the Heart of Dragonkind (invisible)
+    the Dragonblade
+
+  0 00:32:31 # Arys gets a green dragon claw from the corpse of the Green Dragon.
+
+  0 00:58:19 # the White Dragon is using:
+  1 00:58:19 # <worn on hands>      the claw of a white dragon
+
+    0 00:58:44 # the Red Dragon is using:
+  1 00:58:44 # <worn on hands>      a red dragon claw
+
+    0 00:59:54 # the Black Dragon is using:
+  1 00:59:54 # <worn on hands>      a black dragon claw

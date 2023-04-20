@@ -1,0 +1,148 @@
+--- notes
+
+Enter via Three of Swords. From Samsera, 10esed4e2se2dw
+
+Zone is lousy with death traps. Some rooms sound a bit death-trap-ish but are not. Some rooms don't
+sound very dangerous but are DTs.
+
+The various trash mobs pick up items and likely have collected junk from previous clears of the zone.
+
+Room X is !sound !magic !summon. Kind of annoying.
+
+2nswes through maze from A
+
+--- map
+
+                                                                                ☠   X
+                                                                                |   ∧
+                                                    # - #                       # - #
+                                                    |  ∘|           Three      ∘
+                                                    # # ☠   # - # -  of       #
+                                                     /      |       Swords   /
+                                                    4       #               2
+                                                   /        |              /
+                                                  #         #             #
+                                                 /          |            /
+                                                #           #           #
+                                                |           |           |
+                                                # - # - # - # - # - # - #
+                                                            |           |
+                                                            #           #
+                                                            |           |
+                                        # - #           # - # - #       #
+                                        |   |           |   |   |       |
+                                    # - # - # ∘ 7 - # - # - # - # - # - # - #
+                                        |   |           |   |   |       |
+           C                            # - #           # - 0 - #       #       #
+           ∧           ⋂                                    ∘           |      ∘|
+          ⊂B > C   ☠ - C > B                                #           #     3 |
+           |/          ∨                                   /            |    /  |
+           A           D                                  A             |   #   |
+                                                                        |  /    |
+                       B                    # - # - # - # - # - # - # - # # X < #
+           ⋂           ∧                    |           |               |/      |
+       ☠ - E > F   E < D - #   6            | # --- #   #               #       ☠
+           ∨           ∨       |            | |    ∘
+           C           C       #            | #-# 5
+                               |            |    /
+           D                   #            |   #
+           ∧                   |            |  /
+       C < F - #           E < G > D        | #
+           ∨                   ∨            |/
+           G                   C            #
+
+--- loot
+
+A cook (in 7):
+    an iron skewer WEAPON pierce F0 3d3 hit 1 dam 2 mag
+    a leather apron CONTAINER
+A leather apron:
+    an iron key KEY mag
+
+A snap-dragon:
+    a leaf WAND (20: blindness 2/2)
+
+Grey dog:
+    a pair of claws WEAPON claw F0 3d3 mag
+    a dog collar ARMOR AC -5 savespell -3
+    a bowl of water LIQ CONTAINER
+
+The Soothsayer:
+    a crystal orb LIGHT int -2 mp 25 mag!g!e
+    a pair of leather sandals ARMOR AC -3 dex 2 move 30 mag!g!e!sl
+    a carved wooden bracelet ARMOR AC -1 str -3 mp 30 mag!e!n
+    a small leather pouch CONTAINER
+A small leather pouch:
+    a pulsating potion POTION (4: teleport; sleep; !NO SPELL!)
+    a potion made from nightshade POTION (27: poison; harm; !NO SPELL!)
+    a lavender potion POTION (35: sleep; cure critic; protection from evil)
+    a peppermint potion POTION (35: heal; !NO SPELL!; !NO SPELL!)
+    a long stemmed white rose WAND (30: bless 5/5)
+
+A serving wench (variously):
+    a chunk of salt beef FOOD
+    a goblet of mead LIQ CONTAINER
+    an iron knife WEAPON bludgeon F0 3d2 hit 2 dam 1 mag
+    a chastity belt ARMOR AC -5 wis -3 age -10 mag!cl
+    a pair of thigh-high leather boots ARMOR AC -5 move 10 !sl
+
+A Maid (variously):
+    a jewelled knife WEAPON pierce F0 3d2 hit 1 dam 1 mag
+    an embroidered sash ARMOR AC -6 con 1
+
+A court entertainer (variously):
+    a dancing dagger WEAPON bludgeon F0 4d3 dam 1 mag
+    a chequered tabard ARMOR AC -6
+    a round bread FOOD
+    a chunk of salt beef FOOD
+    a long flowing tight skirt ARMOR AC -8 !sl
+    a silk scarf ARMOR AC -5 str 1 hit 2
+    a pair of soft leather boots ARMOR AC -10 !sl
+    a goblet of mead LIQ CONTAINER
+    a swinging staff WEAPON pound F0 4d3 dex 2 mag
+    a blue tunic ARMOR AC -8
+    a black shawl ARMOR AC -3 hp 10
+
+An older Knight:
+    a noble knight's sword WEAPON slash F0 5d4 dam 1 mag
+    a blue cape ARMOR AC -7
+    a pair of blue hosier ARMOR AC -8 !sl
+    a pair of blue gloves ARMOR AC -5 !sl
+    a pair of soft leather boots ARMOR AC -10 !sl
+    a blue tunic ARMOR AC -8
+    a gold poesy ring ARMOR AC -1
+
+A young Knight:
+    a young knight's sword WEAPON slash F0 2d4 dam 1 mag
+    a pair of emerald hosier ARMOR AC -7 !sl
+    a pair of emerald gloves ARMOR AC -4 !sl
+    a emerald tunic ARMOR AC -7
+
+Second Knight of the Sword (in 2):
+    a knight's sword WEAPON slash F0 3d4 dam 1 mag
+    a knight's shield ARMOR AC -10 !sl
+    a harp-handled key KEY mag
+
+Third Knight of the Sword (in 3):
+    a knight's sword WEAPON slash F0 3d4 dam 1 mag
+    a knight's shield ARMOR AC -10 !sl
+    a cross-handled key KEY mag!vam
+
+Fourth Knight of the Sword (in 4):
+    a knight's sword WEAPON slash F0 3d4 dam 1 mag
+    a knight's shield ARMOR AC -10 !sl
+    an eagle-handled key KEY mag
+
+Queen of Swords (in 0):
+    a runic ring KEY mag
+
+King of Swords (in 0):
+    nothing?! repop issues?
+
+Lady Dawn (in 6):
+    some doe skin leggings WORN mp 35 dam 1 ac -6 mag!g!e!cl!th!wa!ra!as!sl!sk!dk!sd
+
+Little Shade (above 2):
+    a plumed beret ARMOR AC -6 con 1 !sl
+    a lion-headed lyre OTHER int 2 mp 30 mag!e!n
+    a singing sword WEAPON sting F0 5d5 hit 1 dam 1 mag!e!n

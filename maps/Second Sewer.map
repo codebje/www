@@ -1,0 +1,38 @@
+--- notes
+
+Mid-air DT exits to room south of B.
+
+--- map
+
+                                                    # > # - E           E
+                                                   ⩗|   |  +∨          +
+                                                  A B - ☠ - #        Sewer Maze
+                                                    |       ∨
+                                                    # - ☠ - #
+                                                    |       ∨
+                                                    # - ☠ - #
+                                                    ∨       ∨
+                                                    C       D
+
+                                                    B             The Tunnel Maze
+                                                    ∧            ⩘
+                                                    C - ☠ - D - #
+                                                    |   |   |
+                                     Moria > F      # - F - #
+                                                   /|   |  ⩗
+                                                  A |   # A
+                                                 /  |  /
+                                        The     #   | Sewer Maze
+                                       Tunnel       |
+                                       Maze # - #   |
+                                         /      |   |
+                                        # ----- # - # - #
+                                       /
+                                    The
+                                    Tunnels
+                                    in the
+                                    Sewer
+
+--- loot
+
+--- shops

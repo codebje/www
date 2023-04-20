@@ -1,0 +1,103 @@
+--- notes
+
+Several asymmetric exits that appear to be zone errors. Multiple disjoint sections.
+
+--- map
+
+                        # - #               # - #
+                        |   |               |   |
+                        #   #               #   #
+                        |   |               |   |
+                        #   #               #   #
+                        |   |               |   |
+                # - # - #   #               #   #
+                |           |               |   |
+  The Tunnels - #           # - # - # - # - #   # - # - # - #
+                                                            |
+                                                    0 - # - #
+                                                    |
+                                                    #
+                                                    |
+                                                    # - # - # - # - #
+                                                                    |
+                           The city of Samsera                      # - # - # - #
+                                    +                                           |
+                                    #                                           #
+                                    |                                           |
+                                # - #   B                                       #
+                                |       ^                                       |
+                        # - # - # ----- #       B - #                           #       # - #
+                        |                       v   |                           |       |   |
+                        #                       A   #                   # - # - #       #   2
+                        |                           |        The Elven  |               |   ∨
+                        #               # - # - # - #          Forest   #               #   C
+                        |               |                        x      |               |
+                        #               #   # ----- # ----- #   #       #               #
+                        |               |   |       Dwarven |   |       |               |
+                        #       #       #   # - # - Caverns #   #       #           # - #
+Fairhaven               |       |       |                   |   |       |           |
+  Sewers                #      Samsera  A - # ----- # ----- #   #       1           #
+    ^                   |       |/                          |   |       |           |
+    #       # - #⊃< # - # - # - #                           #   #       #           #
+    |      /|                  ⩗|                           |   |       |           |
+    #Second #        The Tunnels#                           #   #       #           C
+    |Sewer  |       in the Sewer|                           |   |       |           |
+    #       #                   #   # - # - # - #           # - # - # - #           #
+    |       |                  ⩗    |           |           |                       |
+    #       #             The River #           #           #                       #
+    |       |                       |           |           |                       |
+    # ----- #                       #           #           #                       #
+                                    |           |           |                       |
+                                The Shire       #           #                       #
+                                                |           |                       |
+                                                # - # - # - #       # - # - # - # - #
+                                                                    |
+                                                                    #
+                                                                    |
+                           Rat's Lair - # - #                       #
+                                            |                       |
+                                            #                       #
+                                            |                       |
+                                            #                       #
+                                            |                       |
+                                            #                       #
+                                            |                       |
+                        The Shire - # - # - #                   The Shire
+
+--- loot
+
+Inside a small crack in 1:
+    some fungus POTION (sanctuary !NO SPELL! !NO SPELL!)
+
+The hunting horror:
+    an auburn-colored orb STAFF (charm person) mag
+    a bar of gold TREASURE
+
+The Mi-Go:
+    disgusting pinkish plasma webbing ARMOR AC -7 !g!n!as!sl
+
+The mad etcher:
+    an artist's smock ARMOR AC -0 age -3 !sl
+
+The rock slug:
+    a piece of slime FOOD
+
+The nightgaunt:
+    a nightgaunt's tickler WEAPON bludgeon F7 3d4 hit 1 dam 2
+
+The guardian vampire:
+    a tightly rolled scroll SCROLL (color spray create food magic missile) mag
+    a dark black cape ARMOR AC -5 hp 10 ac 10 mag
+    a pitch-black longsword that flames brightly... WEAPON slash F1 3d6 hit 1 mag
+
+Snapper Joe:
+    a whisper thin rapier WEAPON pierce F1 4d2 dex 2 hit 1
+    a worn and dented breast plate ARMOR AC -6 !sl
+
+
+The spirit of King Crotus (in 2):
+    a heavy iron key (to a sarcophagus, in 2)
+
+A sarcophagus (in 2);
+    a mound of coins fit for a dead king (10,000 coins)
+    a wineflask LIQ CONTAINER 4 units wine(clear) (w:5 v:80 r:40)

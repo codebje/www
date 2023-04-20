@@ -1,0 +1,67 @@
+--- notes
+
+--- map
+
+
+                   The
+                Irredenta #
+                        |x
+                        # - #     #
+                        |   |    /
+            #       # * # - 0 - # - #
+            ∘       |               |/
+            3 - # - # - #           A
+                    |
+                # - # - 1
+                |   ∘
+                2   #
+                    |
+                    # - # - #
+                    |   |   |
+                    # - B - #
+                    |  /|   |
+                    # - # - #
+
+            # - #
+            |  /
+            + A
+            |
+            # - #
+            |   |
+            # - 4
+
+--- loot
+
+Torturer:
+    Cloth Mask ARMOR AC -0 hit 2 mag!g!sl
+    Curved Dagger WEAPON pierce F0 6d5 dam 2 wis -2 mag!g
+
+Ogre (in 0):
+    a granite club WEAPON pound F0 4d8 hit 2
+    a animal skin ARMOR AC -8 hp 25
+    iron key KEY
+
+Witch (in 1):
+    Knuckle-Bones TREASURE int 2 wis 2 mag
+
+Wyvern (in 2):
+    the wyvern's horde (135621 coins)
+    Dark key KEY
+
+Guardian (in 3):
+    stone key KEY (to pointless door north of 3)
+
+Rendor (in 4):
+    Tool of Inquiry WEAPON pierce F0 14d2 dex 2 hit 2 mag!g!n!mu!cl!th!wa!ra!sl!sk!sd!nm
+    Black Hood ARMOR AC -5 dex 2 dam 2 mag!g!sl!min
+    Torturer's Belt ARMOR AC -4 str 2 dam 1 mag!g!n!sl
+
+Morgoth (in B):
+    <worn as cloak>      Cloak of Fury ARMOR AC -8 mp 25 dam 1 mag
+    <wielded>            Soulstealer WEAPON crush F0 3d12 age 9 mp 15 dam 1 mag!g!n!mu!sk!nm
+    <held>               a Bloody Dagger WEAPON pierce F0 3d11 !g
+
+The Dead God Somm (d from B):
+    <worn around neck>   amulet of submission ARMOR AC -5 move -100 mag
+    <worn on head>       Skull Helm ARMOR AC -8 str 2 dam 3 int -1 mag!g!n!sl!sk!min
+    <wielded>            Subjugator WEAPON slash F0 6d6 hit 2 int 2 mag!g!n!mu!cl!th!as!sl!sk!sd!nm

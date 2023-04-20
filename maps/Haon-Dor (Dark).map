@@ -1,0 +1,52 @@
+--- notes
+
+  - The two southern "The Shire" exits are to the same place in that zone.
+  - The eastern and western Myth─Try exits are to the same place.
+  - Tree 1: The enormous grey trunk shivers slightly, as if sighing deeply.
+  - Tree 2: The enormous grey trunk emits a deep, moaning sound.
+
+--- map
+
+                                                                     The
+                                                                   Windmill ─ # ─ # ─ # ─ #
+                                                                                  │       │
+                                                                                  # ─ #   # ─ X
+                                                                                      │   │
+                                                                                      #   # ─ # ─ # ─ Myth─Try
+                                                                                      │   │   │
+                                                  The Elven Forest                # ─ #   #   # ─ # ─ Houses (Thog)
+                                                         │                        │   │   │   │   │
+                                                         # ─ # ─ # ─ Holy Grove   #   # ─ # ─ #   │
+                                                         │        ╲               │   │   │       │
+             Ancalador                                   │         #              │  Myth─Try     #
+         Hamlet  │                                       #         │     ╭────────╯               │  The
+        of Dusk  #                                       │         #     │                        │ Shire      Samsera
+Midgaard   │     │                                       │               v                        │   │           │   The city
+ Highway ─ # ─── # ─── # ─── # ─── # ─── # ─── # ─── # ─ # ─── # ─── # ─ # ─ # ────── # ───── # ─ # ─ # ─ # ─ # ─ # ─ of Samsera
+                 │           │                           │     │     │       │                │
+                 #           #              Arachnos     │   Gnoll   │       # ─ # ─ Enclave  #
+                 │           │                 │         │    Camp   │       │                │
+   Lost Temple ─ #      Rabbit Hole    2 ─ # ─ #         │           #       # ── # ───────── # ─ # ─ Pax─Norriann
+                 │                            ╱          │           │       │    │               │               The
+                 #                           # ─ # ─ # ─ #           │    MahnTor # ─── # ─────── # ── #         Shire   3
+                 │                           │   │       │           │            │          The       │ # ─ A     │    ╱
+                 #       HighTower   1    Snake  #       # ───── # ─ #        4 ─ # ─ #  Grassland     │⩗          │   #
+                 │           │       │    Valley │               │                    │       │        # ───────── #  ╱
+                The  Xanth ─ # ─ # ─ #       # ─ # ───── #   # ─ # ─ #                │       #        │           │ A
+               Gypsy     The     │           │   Land    │   │       │                │       │        │           │╱
+               Fair      Black ─ # ─ # ─ # ─ # ─ of the  # ─ #       #                │   # ─ #        │           #
+                         Market              │   Reborn              │                │   │   │        │
+                                             # ─ # ─ #           # ─ #                │   # ─ # ─ The  │
+                                                                 │                    │   │      Shire │
+                                                             The River                # ─ # ────────── #
+                                                          Island of Minos                              │
+                                                                                                    The Old
+                                                                                                     Marsh
+
+
+ 1 ─ The green dragon
+ 2 ─ The Queen Spider
+ 3 ─ The bobcat
+ 4 ─ The brown bear
+
+ X ─ All directions loop bar west

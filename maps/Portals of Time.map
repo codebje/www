@@ -1,0 +1,54 @@
+--- notes
+
+--- map
+
+                          #
+                          |
+                          #
+                          |
+          # - # - # - 2   #                     6
+          |   |           |                     |
+      # - # - ⌘           #                     #
+      |                   |                     |
+      1 - # - # - # - # - #                 # - # - #
+              |                                 |
+              #                                 #
+              |                                 |
+              C                     5           #
+             /                      |           |
+            #                       #   # - # - # - # - #
+            |                       |   |       |
+          C # - #               #   # - #       #
+         ⩘  |                   |\              |
+        0 - #       #   A   A   | ☠             |
+            |   ⋂   |   ∧   ∧   |               |
+          ⊂ # - A - # - # - # - # --------- B > #
+            ∨   |   ∨   |   ∨   |               ∨
+            A   B   A   3   B   4               B
+                |
+                #
+                ∧
+      The Forgotten Forest
+
+--- loot
+
+0: Triceratops
+1: sabertooth tiger
+2: tyrannosaurus rex
+3: prehistoric crocodiles
+4: hidden raptors, velociraptor
+5: The Keeper of Fire
+6: a gigantic caveman
+
+You get a glowing Green flame from the corpse of the Keeper of Fire.
+You get ring of petrified wood from the corpse of the Keeper of Fire.
+
+You get caveman boots from the corpse of a gigantic caveman.
+
+You get a spiked Triceratop Skull from the corpse of the triceratops.
+
+a spiked Triceratop Skull ARMOR AC -10 dam 3 dex -3 move -30 !mu!cl!th!as!sl!dk!sd!fae
+ring of petrified wood WORN mp 15 ac -5 mag!e!n!th!wa!ra!as!sl!sk!dk!sd
+a glowing Green flame WEAPON burn F0 18d1 dam 2 !th!ra!as!sl!dk!tro!gia
+
+Fang of the T.rex WEAPON pierce F0 8d4 dam 2 hit -1 !g!n!mu!cl!ra!sl!sk!nm

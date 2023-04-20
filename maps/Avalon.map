@@ -1,0 +1,109 @@
+--- notes
+
+Killed: Guardian of the Pattern, a huge vortex (first two), Gwalen guard, the suffering man, manthing (in DT!)
+        Julian's pack of hunting demon dogs, 
+
+Entrance from The Forgotten Forest.
+
+Hidden vortex mobs in 0 rooms.
+
+Portal room south of 1 or first room of Sellatr-Under-The-Sea.
+
+A silver rose on the ground n of 1
+
+chef (low hp) in 3
+
+king, queen (blind), queen's guard in 2
+
+Prince Tannel in 4
+
+bodyguard has a small key made of coral, unlocks hallway door n and door to Wiane
+
+Princess Wiane in 5, has key to en of 5
+Princess Lilith in 6
+Queen Lelline in 7
+Prince Jeralnd in 8
+Princess Florence in 9
+Prince Dasix east of 9
+
+Waymera in A
+
+You get Silver Chain of Avalon from the corpse of Princess Lilith.
+You get a tiny diamond key from the corpse of Princess Lilith. (to 8)
+
+You get the Sea Queen's Coral Belt from the corpse of Queen Lelline.
+You get the Sea Queen's Coral Ring from the corpse of Queen Lelline.
+
+You get Grey Sharkskin Boots from the corpse of Prince Jerald.
+You get a large golden key from the corpse of Prince Jerald.
+
+You get deck of Tarots  from the corpse of Princess Florence.
+You get deck of Tarots  from the corpse of Princess Florence.
+
+The Shield of the Design: you can't carry that much weight.
+You get White Ceramic Armor from the corpse of Prince Dasix.
+Key to the cells: you can't carry that much weight.
+
+You get the Tarotmaster's Ring from the corpse of Waymera.
+You get a small lantern from the corpse of Waymera.
+You get a mages chest from the corpse of Waymera.
+
+--- map
+
+                                    6   7   #   #
+                                    ∘   ∘   +   +
+                        # #     5 ∘ # - # - # - # + 4
+             ∘ + A      ∘/∘        /
+         X - #          X # - # - # - # - 2 - #
+                                  |   |   |   |
+                          # - # - # - # - # - #
+                          |               |
+                          3   # - # - # - # - # ∘ 8
+                                  |       *   ∘
+                              # ∘ # - #   #   9 + #
+                              |
+                              #
+                             /
+                            #
+                           /
+                #         #
+                ∘        /
+                1 - # - #   ☠
+                |           |
+                # - # - # - #   ☠
+                            |   |
+            # - □ - # - # - # - #
+            |       ∨           |
+            # - # - # - # - # - # - # - Sellatr-Under-The-Sea
+            |   |   |   |   |       |
+            # - # - # - #   # - # - #
+                        ∧
+                        #
+                        ∧
+                        0
+                        ∧
+                    # > □       A
+                    ∧           ∧
+                    #   □ < # < # < # > A
+                    ∧   ∨       |   ∧
+                    # < #   ☠   ☠   0 - ☠
+                    ∨   ∨   |       ∧
+                    A   A < # > 0   # > A
+                            ∧   ∨   ∧
+                            #   # > □ - ☠
+                            ∧
+                            A
+                            |
+                   The Forgotten Forest
+
+--- loot
+
+Gwalen guard:
+    <wielded>            guard's sword WEAPON pierce F0 5d5 dam 1 !e
+
+Prince Julian (hidden, wandering, aggro):
+    <wielded>            SpineCutter
+    <held>               Great Recurve Bow
+
+The manticora (in 1, easy kill):
+    an intricate key KEY

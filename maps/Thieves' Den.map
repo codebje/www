@@ -1,0 +1,45 @@
+--- notes
+
+  - A north exit leads back east
+  - Carrots and tomatoes in western living area on teens and wives, respectively
+  - In 1, the leader of the thieves
+
+--- map
+
+
+                        # - # - #
+                        |   |   |
+                        # - # - #   #
+                        |   |   |   |     To Knights of Krynn (via a few connecting rooms of Northern Midgaard Main City)
+                        # - # - # - #     ... - # + # - # - # - # - # - # - #
+                            |                   |                           |
+            # - #           #                   #                           #
+                |           |                   |                           |
+    # - # - #   # - # - # - # - #               #                           #
+    |   |   |   |       |   |   |               |                           |
+#   # - # - # - #       # - # - # - # - # - # - $                       # - #
+|   |           |       |   |   |               |                       |   |
+# - # - # - # - #       A - # - #               #                       # - # + 1
+        |   |                                   |
+        # - #                                   #
+        |   |                                   |
+        # - #                                   #
+                                                |
+                                                #
+                                                |
+                                                #
+                                                |
+                                                #
+                                                |
+                                                #
+                                                |
+                                        Northern Midgaard
+
+--- shops
+
+A thief:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   Thieve's gloves                                    1800
+  2)  Unlimited   Thieve's eyepatch                                  3015
+  3)  Unlimited   Bracers of thievery                                1125

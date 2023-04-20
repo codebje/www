@@ -1,0 +1,159 @@
+--- notes
+
+Seagulls can be portalled to, but there's gulls in other zones too.
+
+From A Magical Shoreline:
+
+| Destination                   | Path    |
+| ----------------------------- | ------- |
+| The Forgotten Forest          | `w2n2w` |
+| The Isle of Druids            | `w3n`   |
+| The New Camelot               | `nwsw`  |
+| The Isle of Tuatha de Danaan  | `2wes`  |
+
+ w3n4d3ne2n2wswn
+
+--- map
+
+
+    D1
+    ^
+5 < P - !            D3  D1 Thousand Mile Road (western edge)
+    |                |   |/
+    |   L1       P < 5 - S - Houses
+    |   |            |   v
+5 < 3 - L1- D2       5   B
+    |   |
+5 < D1- 2
+    |
+    s                               5   G2
+                              The   ^   |
+    7   M2              Forgotten < L3- M3> P
+    |   |                  Forest   |   |
+P < 7 - M2- s                   5 < 8 - D3> P
+    v                               |   |
+    L2                              |   5
+                                    |
+                            # - G3- L4- L4
+        s           M2      |       |
+        |           |       # - The L4
+    p - L2--------- 6 - D1      New
+        |           |           Camelot
+    p - ! - 4       6
+        |   |
+        E   4 - G1
+            |
+        l1- D2- m1
+        |   |
+    2 - 2 - M1- d2
+        |   |
+    s - B - 1 - s
+        |   |
+        b   m1
+
+        G2 - # > The Isle of the Druids
+       /
+      @
+     /
+  R @
+  |⩗
+  @
+
+ S - A Magical Shoreline
+ G - Glowing Island (1 - Vambraces, 2 - Helm and Visor, 3 - Greaves)
+ R - Reefs
+ M - Mermaid (1 = alone, 2 = one coin)
+ D - Dolphin (1 = one coin, 2 = ?, 3 = spring)
+ P - Mermaid + Dolphin
+ B - Seagulls
+ L - Seagull (1=one coin, 2=tiny pile, 3=forgotten beach, 4=glowing island)
+ E - Emerald Sea (The Isle of Tuatha de Danaan)
+                      # - Glowing Island
+
+Reef area:
+
+ R - entrance from surface G1
+ F - The Ocean Floor (I think room 8?)
+ 0 - air bubble room
+ G1 - Emerald Guardian (Emerald Helm and Visor)
+ G2 - Emerald Guardian (Emerald Greaves)
+ G3 - Emerald Guardian (Emerald Vambraces)
+ G4 - Emerald Guardian (Emerald Breast Plate)
+
+                #                   G4 - #
+                |                   |   /
+                #               6   | Meth-Merutl
+                |               ^   |
+            9 < 7 - @ > 8   7 < 8 - G1 > G1
+                                |
+        #       4   R   @ - @   @ > R
+        |       ^   ^   |   |   |
+        G3  3 < @ < 3 - 5   6 - @ > 5
+        |       |       |
+        @ ----- @       @
+                        |
+                        4       2
+                        |       ^
+                    @ - @   1 < @ - @
+                    |           |  /|
+                    0 - 9       2 F G2 - #
+                    |   |       |
+                    R   1 - @ - @
+                   /        v
+                  F         1
+
+
+The Ocean Floor:
+
+                                                                            |
+                                                                        # - #   3
+                 The Fields                                                 |   ^
+                  of Chaos  Legend                                      #ↄ <# - # -
+                     /      ^                                   |   n       |   |  
+                    #       #                               6 < 5 - # ----- # - # -
+                    |       |                               ^   |   |   n   |   |
+                    G3      G4                          3 - # - # - # - B - 4 - 3 -
+                    |       |                                       ?   |   |   | 
+                7 - # ----- 7                                   1 - 2 - 1 -
+                    |       |
+                8 - # ----- 8   3
+                    |       |   ^       |       |
+                  - 9 ↄ 9 < A - # ----- D ----- E - 9 ↄ 
+                   v n      |   | .---> | <---. |
+                  - G ----- # - F       Z       H - G           exit down from Pirates is to Z
+                    |   n   |   | H <-' | `-> F |
+                  - C - B - 4 - 3 ----- # ----- # - C
+                    |   |   |   |       |       |
+                    9   |   A   |       D       E
+      The Siege on      |       |
+      Malfor's Keep 2 - 1 ----- 2
+            |   n   |   |
+            G2- # - # ↄ G1- #
+                u   |
+                    4
+
+--- loot
+
+Object 'Sapphire Vambraces', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW !SHOU_LIN IDENTIFIED
+Weight: 35, Value: 4000, Rent: 55
+AC apply: 5
+Can affect you as :
+   Affects: WIS By 1
+
+Object 'Sapphire Helm and Visor', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW !SHOU_LIN !MINOTAUR IDENTIFIED
+Weight: 15, Value: 3000, Rent: 50
+AC apply: 4
+Can affect you as :
+   Affects: WIS By 1
+
+Object 'Sapphire Greaves', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !SHOU_LIN IDENTIFIED
+Weight: 35, Value: 4000, Rent: 70
+AC apply: 6
+Can affect you as :
+   Affects: WIS By 1

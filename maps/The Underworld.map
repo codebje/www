@@ -1,0 +1,153 @@
+
+--- notes
+
+Coming in from Under Dark Extensions, there's a jade door south of J that's unpickable.
+
+Duergars north
+
+K: a tiny black key is here (from someone else killing?)
+S: black steeders, a mithril key (for door north of gates)
+M: the duergar war master (sapphire key, for gates)
+Q: ascended dwarf questmaster
+B: Bregnar the Duergar King, the duergar high cleric
+
+Can portal to human_slave to reach Bregnar directly.
+
+--- map
+
+                                                                    #   # - # + #
+                                                                    |   |
+                                                                # - # - # - #
+                                                            |       |       |
+                                                        # - 0 - # - #   # - #
+                                                        |   |       |       |
+                                                        # - # - # - # - #   #
+                                                            |       |       |
+                                                            #       #     # #
+                                                            |            /  *
+                                                            #           # - #
+                                                            |
+                                                        # - # - # - # - #                       #
+                                                        |               |                  .---'|
+                                                        #       Moria   #                 #     |
+                                                        |        /                   .---'      |
+                                                        # - # - #                   #           |
+                                                        |                           |           |
+                                                    # - #                           #           |
+                                                        |                           |           |
+                                                # - # - #                           #           |
+                                               x        |                           |           |
+                                  The Pech Community    # - #               # - #   #           |
+                                 (via Mile-High Bridge) |                   |   *   |           |
+                                        #       #   # - # <---- # <---- # < B   #   #   #       |
+                                        |       |   +   |                       *   |   |       |
+                                    # + #     # # - #   # - # - # - #   Q   M   #   # - # - #   |
+                                   /    |    /  |   |                   |   |   |   |   |       |
+                                  # # - # - # - #   #               # - # - # - # - # - # - #   # + # - #
+                                 /          |       |                   |   |   |   |   |       |      /
+                                #           # - # - #                   #   #   #   #   #       #     #
+                               /                                                    |           |    /
+                              #                                                 # - #           #   #
+                             /                                                      |           |  /
+                            #                                                       #           # S #
+                           /                                                        |           |   |
+                    # - #-/-#                                                       # - # ----- #   #
+                    |   |/  |                                                       |               |
+        # - # - # - # - # - # - # - # - #                                           #       # - # - #
+               x|   |   |   |   |       |                                           |       |       |
+              I # - # - # - #   |       #                                           # - # - #       #
+                |       |       |                                                   |       |       |
+                # - # - # ----- #                                                   #       #   # - #
+                |               |                                                   |       |   |
+                #               # - #                                               # - K - #   #
+                                |   |                                               |           |
+                                # - #                                           # - #           #
+                                                                                +               |
+                                                                              # #               #
+                                                                              */                |
+                                                                              #                 #
+                                                                                                |
+                                                                                                #
+                                                                                                |
+                                                                                                #
+                                                                                                |
+                                                                                                #
+                                                                                                |
+                                                                                                #
+                                                # ----- #                                       |
+                                                |      /                                        #
+                                                J     #                                         |
+                                                *    /                                          #
+                                                I   #                                           |
+                                                   /                                            #
+                                                  #                                             |
+                                                 /                                              #
+                                                #                                               |
+                                               /                                                #
+                                              #                                                 |
+                                             /                                                  #
+                                            #   Under Dark Extensions                           |
+                                           /            +                                       #
+                                          #             # - #                                   |
+                                         /              |   |                       #   Moria > # (mushrooms here)
+                                        # - # - # - # - # - #                       |           |
+                                                                                    # - # - # - #
+                                                                                    |           |
+                                                                                    #           #
+                                                                                                |
+                                                                                                0
+
+--- loot
+
+A duergar guardian:
+    a suit of dwarven scale mail armor ARMOR AC -7 ac -5 hp 25 mag!g!mu!th!as!sl!sk!sd!nm
+
+A dark dwarf:
+    a duergar rug TREASURE
+
+In the forge:
+    a smithy hammer WEAPON pound F0 4d3 str 1 hit 2 !mu!th!sl!sd!nm
+
+The duergar war master:
+    a gleaming mithril bracelet TREASURE hp 20 ac -6 dam 2 mag!mu!cl!th!as!sd!nm
+    a sapphire key KEY
+
+The duergar high cleric:
+    a dark blue potion POTION (sanctuary heal remove curse) mag!e
+    a light blue potion POTION (armor blindness poison) mag!mu!nm
+
+Bregnar the Duergar King is using:
+    the girdle of the underworld TREASURE hp 30 ac -11 hit 2 mag!g!n!mu!sk!dk!sd!nm
+    a mithril two-handed dwarven battle hammer WEAPON pound F0 8d4 mp 10 dam 2 hit 3 mag!mu!th!as!sl!sd!nm
+
+A kuo-toan noble:
+    a slimy green staff STAFF (charm person) mag
+
+A wooden crate:
+    a small green orb LIGHT dex 1 mag
+
+A kuo-toan shaman:
+    a wicked looking black dagger WEAPON pierce F0 5d5 hit 3 dam 2 mag!g!n!mu!wa!ra!sl!sk!dk!nm
+
+A kuo-toan guardian:
+    a long trident WEAPON pierce F0 4d2 hit 1 dam 1 mag!mu!cl!th!sl!sd!nm
+    a slimy green key KEY mag
+    a small green orb KEY mag!mu!nm
+
+The kuo-toan high priestess:
+    a glowing green ring ARMOR AC -2 mp 15 mag!g!n!mu!th!wa!ra!as!sl!sk!dk!sd!nm
+    a dark green bodycloak ARMOR AC -8 mp 15 hit 1 dam 1 mag!g!n!th!wa!ra!as!sl!sk!dk!sd
+    a dark green wand WAND (color spray) mag
+
+A huge xorn:
+    a polished gray stone WORN int 1 wis 1 mag!mu!nm
+
+A human rogue:
+    a torch burning soft blue flames LIGHT hit 4 mag
+
+A Huge Purple Worm:
+    a jade stone key KEY dam 1 mag
+    a purple worm's bladder LIQ CONTAINER
+
+A shambling mound:
+    an amulet made from rotting plants WORN savepara 6 savespell 6 mag CURSED

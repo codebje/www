@@ -1,0 +1,62 @@
+--- notes
+
+Entrance: 10e3n
+Primal earth elemental in the maze
+
+--- map
+
+                                                The Irredenta
+                                                        |
+                                                        #
+                                                        |
+                                                        #
+                                     Land of            |
+                                   the Reborn - # - # - #               #
+                                                        |               |
+                                                        # - # - # - # - # > Second Sewer
+                                                        |       |       |
+                                                        # The Kingdom  Land of
+                                                        | of Juargan  the Fire Newts
+                                           SilverDale - #
+                                                        |
+                                            #           |
+                                            |           |
+                                            #           #
+                                            |           |
+            2 < #                       # - # --------- #                   # - # - # > 4
+                |                       |   |           |                   |
+            # - # - # - # - #           #   #     3     #                   # - 3 - #
+           /            |               |   |     ^    /                        |
+          /             # - # --------- # < #     5 - #                         #
+         /                              |                                       |
+        /   # - # - # - # - 4           #                               2 - # - # < # > 5
+       /        |                       |                                       |   ^   ^
+      /         # - #                   #                                       # > # - #
+     /          |   |                   |                                           |
+    /           # - # - #               #                                       # - #
+   /            |       |               |                                       |   |
+  # ----------- #       # - # - 1 - #   #                                       # - # - # - # > The Underworld
+                ^       |          /    |                                               |
+                #       #        The    # - The Kingdom of Juargan                      #
+                |       |     Underworld|                                              /
+                # < 0   |           1  Raven Wilderness                           Deep-Moria
+                        |           ^
+                        #   0 < # - #
+                        |       |   |
+                        # ----- # - #
+
+--- loot
+
+The thief:
+    a thieves' dirk WEAPON pierce F0 5d4 hit 1 dam 1 !mu!cl!wa!ra!as!sl!sk!sd
+
+The Warrior:
+    a pair of swordmans' gloves ARMOR AC -0 dam 1 !g!sl
+
+The Mage:
+    a scroll which reads "ysafg" SCROLL (detect alignment detect invisibility detect magic) mag
+
+The troll:
+    a black demon blade WEAPON pierce F0 4d4 !g!n
+
+a yellow and green ring ARMOR AC -0 str -2

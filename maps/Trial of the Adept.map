@@ -1,0 +1,56 @@
+--- notes
+
+--- map
+
+            # - # - # - #   # - # - # - #   # - # - # - # - # - # - # - #
+            |           |   |   ∘   *   |   |           |           |   |
+            #   # - #   #   # ∘ # * 0 ∘ # - #   # - 1 + # - # - #   # - #
+            |   |   |   |   |       ∘   |       +   |   |   |   |
+            #   # - #   #   # - # - # - #       ☠   #   #   # - #
+           ⩘    |       |                               |
+      Trial of  #   # - #   # - # - # - # - #   # - #   #       # - # - #   #
+   the Initiate |   |   |   |   |   |   |       |   |   |       |       |  /|
+                # - # - #   #   # - # - # - # - # - # - #       #       # # Trial of
+                |               |   |   |   |   |   |   |       |       |/  Darkness
+            # - #   # - # - # - # - # - # - # - # - # - #   # - # - #   #
+            |           |       |   |   |   |   |   |   |   |   |   |
+            #           #   #   # - # - # - # - # - # - #   # - # - #
+            |           |   |   |   |   |       |   |   |       ∘
+            # --------- #   # - # - # - # - #   # - #   # - # - # - # - #
+
+--- loot
+
+On the ground in 0:
+    a bronze key KEY
+
+An ancient chest (w of 0):
+    the gold (98753 coins)
+
+Igor the hunchback (in 1):
+    an iron manacle TRASH hit -4 move -100 mag
+    a heavy iron hammer WEAPON pound F0 2d10
+    a mithril chisel WEAPON pierce F0 4d5 hit 2 dam 2 mag!g!sk
+
+Khosatral (in 1):
+    a jade ring TREASURE ac -10 hit 2 dam 2 mag!g!sk
+    a wavy bladed dagger WEAPON pierce F0 4d8 hit 2 dam 2 mag!g!cl!sk
+
+An ice box (s of 1):
+    human body parts TRASH
+
+On the ground (w of 1):
+    brass slab ARMOR AC -1
+
+A crate (w of 1):
+    iron ore ARMOR AC -1
+
+A Wight Guard:
+    a wavy bladed dagger WEAPON pierce F0 4d8 hit 2 dam 2 mag!g!cl!sk
+
+The Adept:
+    black steel chainmail ARMOR AC -10 str 1 hp 15 !g!mu!sl!sk!nm
+    a black steel warhammer WEAPON pound F0 5d4 hit 2 dam 2 !g!mu!th!as!sl!sk!sd!nm
+
+The Veteran Tower Guard:
+    black steel chainmail ARMOR AC -10 str 1 hp 15 !g!mu!sl!sk!nm
+    a black steel bardiche WEAPON slash F0 2d12 hit 1 dam 3 !g!mu!cl!th!as!sk!sd!nm

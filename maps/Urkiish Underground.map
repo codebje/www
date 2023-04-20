@@ -1,0 +1,49 @@
+--- notes
+
+X: the tempest, land of the reborn
+
+--- map
+
+                        #
+                        *   The
+                        0   Tunnels
+                        |   in the
+                        #   Sewer   #
+                        |  /        |
+                        # #     # - # - #
+                        |/      |
+                    # - # ----- #
+                    |  +|
+            # - # - # A # - #
+                |           |
+                #           ☠
+
+                  # > # < #
+                  ∧   ∨   ∧
+                  #   X   # (down also DT)
+                 /∧      /∧
+                ☠ # < # > #
+                      ∧
+                      # # - #
+                      | |+
+                      # A
+                      |/|
+                      # |
+                        |
+                    # - #
+
+--- loot
+
+The Urkii hunter:
+    a bone-handled knife WEAPON pierce F0 6d2 hit 1 dam 1
+    a suit of Human Skin Armor ARMOR AC -10 !sl
+
+The guard (in 0):
+    a bronze-tipped spear WEAPON impale F0 4d5
+    an emerald key LIQ CONTAINER (still key to door in 0)
+
+The Magistrate (n of 0):
+    a Silver Circlet LIGHT str 4 ac 5 !e!wer
+    a ring TREASURE
+
+--- shops

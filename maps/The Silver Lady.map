@@ -1,0 +1,84 @@
+--- notes
+--- map
+
+                                                  #
+                                                 /
+                                                #
+                                               /
+                              #               #
+                              |              /
+                              #             #
+                              |            /
+                              # # + #     #
+                             /      +    /
+                            # ----- #   #
+                            |       |  /
+ The Black Market - # - # - # ----- # - #                   #
+                        |   |       |/  |                  /
+                        # - B ----- # - #                 #
+                        |  /|       |/  |                /+
+                        # - # ----- A - #               A #
+                            +       +                     |
+                        # - C ----- # ∘ #                 #
+                           /|       |
+                            # ----- #
+                                    +
+                                # - #
+
+                        First Deck         Second Deck          Third Deck
+                            #
+                            |
+                        # - # - #               #                   #
+                            |                   |                   |
+                        # - # - #           # - # - #           # - # - #
+                            |/                  |/                  |/
+                        # - B - #           # - B - #           # - B - #
+                           /|                  /|                   |
+                        # + #               # - # - #           # - # - #
+                            |                   |                   |
+                        # + # + #           # - # - #               #
+                            |/                  +/
+                        # ∘ C ∘ #           # - C - #
+                           /+                   ∘
+                            #                   #
+
+--- mobs
+
+Calias                  Above A
+The helmsman            Southern rooms, main deck
+Zeigan, the navigator   Southern rooms, main deck
+Captain Kaleff          Southernmost cabin, main deck
+The lookout             Atop the mast
+Sailor                  Roaming whole ship (two vnums, no detectable difference)
+The wealthy merchant    First deck, south of C
+The passenger           Inside cabins, first deck
+The enraged prisoner    The brig, southern end of second deck
+The cook                North and east from B, third deck
+
+--- loot
+
+the helmsman:
+    <held>               a sword-shaped key (to 3e from helmsman)
+
+Calias:
+    a steel key (to doors w/e of C, first deck)
+    a coral potion
+
+Zeigan, the navigator:
+    a skull key
+    a large iron key (to chest w of C, first deck)
+    a beryl potion
+
+Captain Kaleff:
+    <worn on finger>     a hematite ring
+    <worn as cloak>      an onyx serpent key (to case w of Captain)
+    <wielded>            a finely crafted rapier
+    <held>               a brass key
+
+The wealthy merchant:
+    the Shark key (to the merchant's door, not locked)
+
+The passenger, variously:
+    <held>               the Stingray key (to the passenger's door, not locked)
+    <held>               the Dolphin key (to the passenger's door, not locked)
+    <held>               the Octopus key (to the passenger's door, not locked)

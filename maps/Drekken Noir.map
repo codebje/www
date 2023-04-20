@@ -1,0 +1,69 @@
+--- notes
+
+From river south/down New Thalos, all west, all south.
+
+Midnight Guardian wandering near 1, hidden, aggro, hits fairly hard but not much health, below narrow rooms.
+
+--- Map
+
+  Land of the Reborn
+        (Werewolf)  Les Foret d'Mort
+                |   |
+   New Thalos - # - # - # - #
+                        |
+                  B     +         A                         C               B               A
+                 /      |        /                         /|              /|              /|
+                #       #       #                           #               #               #
+          C     |       |       +                           |               |               |
+         /      # - # - # - # - #                           #               #               #
+        +       |       |       |                           |               |               |
+        # - # - #       #       # - # + # - # - # ∘ 2       # - # #         # - # - # - # - #
+        |   |           |                                       ∘∘                  ∘
+        # - #       # - # - X (kill tree)                       0                   #
+                    |                                                              /
+                The Emerald Forest                                                #
+                                                                                 ⩗
+                                                                                1
+                                                                                |
+                                                                                #
+                                                                                |
+                                                                                #
+                                                                                |
+                                                                                #
+                                                                                ∘
+                                                                                3
+
+--- loot
+
+A forest guardian:
+    a swirling potion POTION (infravision refresh !NO SPELL!) mag
+
+An undead archer:
+    a dark potion POTION (infravision !NO SPELL! !NO SPELL!) mag
+    a bent arrow KEY (on archer in C, to Ragnun)
+
+An undead woodsman (wandering near 2):
+    a dark key KEY (to 2)
+
+An ebony tree (variously):
+    a vermilion scroll SCROLL (meteor swarm !NO SPELL! !NO SPELL!) mag
+    a quenched sword WEAPON slash F0 3d5
+    an iron bracer ARMOR AC -5 hp 10 mp 10
+    a large ruby TREASURE mag cursed
+    a bone fish hook WEAPON pierce F0 3d2 dex 1 cursed
+    a thick white potion POTION (cure critic remove curse detect invisibility) mag
+
+Ragnun (in 0):
+    a black dart KEY (to platform up)
+
+Salek (above 0):
+    an ebony leaf KEY (to door on other archer platform)
+
+The Forestmaster (in 2):
+    a dark axe WEAPON slash F0 8d4 savespell -5 dam 4 !g!n!mu!cl!th!as!sl!sk!sd!nm
+    a blackened broach ARMOR AC -7 hp 30 dam 1 !g!n!mu!cl!th!as!sl!sk!sd!nm
+    a cold sphere KEY (to 3)
+
+Xule (in 3):
+    the Holy Mace WEAPON pound F0 7d4 mp 20 savespell -4 mag!e!mu!th!wa!ra!as!sl!sk!dk!sd!nm!dem!und
+    a small globe WORN mp 50 savespell -6 mag!g!n!cl!th!wa!ra!as!sl!sk!dk

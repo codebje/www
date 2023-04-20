@@ -1,0 +1,112 @@
+
+--- notes
+
+Quick run: 9n2eses <say freeport> 2n <open gates> nd2w2n6e
+
+Linked from Ocean. Portal to 'palanth' to skip straight into keep.
+Many mobs will track all the way back home.
+
+C: Dragonrider with key, glass case with Dragon Lance
+S: Shrine to Paladine (fountain)
+P: Priest of Paladine (the Ring of Paladine)
+W: The Great Silver Wyrm (Silver Dragonscale Armor, the Silver Wyrm's Horns)
+G: Grymthorne (Ring of the Ancients, Armor of the Gold Wyrm)
+B: The Grand Bronze Dragon (the pelt of Kiri-Jolith, bronze dragonscale frock)
+A: locked aura containing ... something ...
+R: Sir Ratlief (the Plate of Solamnus, a Golden Broadsword)
+
+--- map
+
+                                        # ∘ # * #
+                                       /    *
+                                      #     #
+                                     /
+                G   B   #   #       #
+                |   |   |   |       ∘
+                # - # - # - # - A   1
+                |   |               +
+                W   # - C - C + C   # - # - # - # - #
+                    |   |   |       |
+                    #   #   #   # - # - #
+                    |               |
+                    #       #   #   #   #       #   #
+                    |       |   |   |   |       |   |
+                2 - # - # - # - # - S - # - # - # - #
+                        |   |       |           |
+                        #   #   # - # - #       #
+                                    |
+                                # - # - #
+                                    |
+                                    | # - # # - #   # - # - # - #               # - #       #       # *
+                                    |/---'  |   |   |           |               |   |       +       |
+                                    # * # - #   # - #           #       # - # - #   # - # - # - # - #
+                                                                |       |   |       |       |
+                                                                # - # - #   R       #   # - # - # - #
+                                                                    |                       |   |
+                                                                    #                       #   #
+                                                                                            |
+                                                                                          Ocean
+--- loot
+
+Sir Ratlief (in R):
+    the Plate of Solamnus ARMOR AC -15 str 2 dam 2 mag!e!n!sl INSERT_PART
+    a Golden Broadsword WEAPON slash F0 7d5 mp 11 dam 1 !e!n
+    a mithril key KEY
+
+Mordekain (wanders past gate)
+    Mordekain's Magical Neutralizer KEY mag
+
+The High Priest of Paladine (in 1):
+    the Ring of Paladine ARMOR AC -0 dam 2 mp 30
+
+In 1:
+You get an ornate key from the corpse of a Solamnic Guardsman.
+You get a crested breastplate from the corpse of a Solamnic Guardsman.
+You get a knight's belt and scabbard from the corpse of a Solamnic Guardsman.
+
+n2u from 1:
+You get the audience key from the corpse of a Solamnic Guardsman.
+
+n2ue from 1:
+You get a figurine of Majere from the corpse of Lord Amothus.
+You get a Palanthian Signet Ring from the corpse of Lord Amothus.
+You get a dark metal key from the corpse of Lord Amothus.
+You get a tiny steel key from the corpse of Lord Amothus.
+
+n2ues from 1:
+Lord Gunthar Ust Wistan:
+    the Knight Lord's shield ARMOR AC -12 dam 3 hp 30 !e!n!mu!th!as!sl!dk!sd!nm
+    a knight's belt and scabbard ARMOR AC -5 dam 1 hit 1 !mu!cl!th!as!sl!sd!nm
+
+You get bronze dragonscale frock from the corpse of the Grand Bronze Dragon.
+You get the pelt of Kiri-Jolith from the corpse of the Grand Bronze Dragon.
+bronze dragonscale frock ARMOR AC -8 dam 2 dex -3 savebreath -5 !e!n
+the pelt of Kiri-Jolith WORN dam 2 hp 5 ac -6 mag!e!n!mu!cl!th!nm
+
+bronze dragonscale vambraces ARMOR AC -10 dam 1 dex -2 !e!n!sl (bronze dragon)
+
+You get the Silver Wyrm's Horns from the corpse of the Great Silver Wyrm.
+You get Silver Dragonscale Armor from the corpse of the Great Silver Wyrm.
+    the Silver Wyrm's Horns ARMOR AC -5 hit 3 dam 2 !e!n!mu!cl!sl!dk!min!nm
+    Silver Dragonscale Armor ARMOR AC -12 dam 2 savespell -2 !e!n!sl
+
+Grymthorne:
+    Armor of the Gold Wyrm ARMOR AC -15 hp 15 hit 2 !e!n!sl
+    Ring of the Ancients ARMOR AC -10 dam 3 savebreath -5 hit 1 saverod -5 !e!n
+
+A glass case:
+    a Dragon Lance WEAPON impale F0 7d5 dam 2 !e!n
+
+A Palanthian Dragon Guard:
+    a Palanthian Signet Ring WORN ac -5 dam 2 dex -1 mag!e!th!as!dk
+    a suit of Gold Dragonscale armor ARMOR AC -12 dam 1 hit 2 hp 5 mag!e!mu!th!as!sl!dk!sd!nm
+    a runed belt of silver ARMOR AC -7 dam 3 int 1 mag!e!mu!th!as!sl!dk!sd!nm!wer
+
+Lord Amothus:
+    a Palanthian Signet Ring WORN ac -5 dam 2 dex -1 mag!e!th!as!dk
+    a figurine of Majere ARMOR AC -4 dam 3 !e!mu!th!sl!dk!nm
+    a dark metal key KEY
+    a tiny steel key KEY
+
+A Priest of Paladine:
+    Holy Symbol of Paladine ARMOR AC -10 hit 2 mp 20 dam 1 mag!e!n!dk!dem!und

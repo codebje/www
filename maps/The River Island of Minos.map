@@ -1,0 +1,60 @@
+--- notes
+
+From Samsera: 20w2sese2sws
+
+2: hombas
+3: horned swordsman x2
+4: ghost minotaur (hidden)
+5: forest minotaur
+6: General Woundwort (hidden)
+7: Franza, Hanza
+8: King Minos the Minotaur
+
+--- map
+
+
+                            Haon-Dor
+                                |
+                0 < #   # - # - #
+                    |   |
+          9     0 < # - #
+         ⩗      |
+        1       #
+        |       |
+        # - # - #
+                |
+                # ----- #
+                |       |
+                ⌘   0 < #
+                v
+                2 > 3
+                    v
+                    4 > 5     9
+                        v    ⩘
+                        6 > 7
+                            v
+                            8 * □
+
+--- loot
+
+On the ground in 0:
+    a pair of boots BOAT move -20
+
+A mermaid (hidden, s from 0):
+    a trident WEAPON pierce F0 2d4 dex 3 dam 1
+
+General Woundwort (in 6):
+    a pair of troll gauntlets ARMOR AC -5 con 2 hp 15 dam 1 mag!sl
+
+Franza the henchman of Minos (in 7):
+    a flail WEAPON pound F0 5d5 hit 1 hp 5 mag
+Hanza the henchman of Minos (in 7):
+    a heavy spear WEAPON stab F0 5d6 dam 1 hit 2
+
+King Minos the Minotaur (in 8):
+    a dark minotaur shield ARMOR AC -7 con 2 dam 2 mag!mu!cl!th!as!sl!sd!nm
+    a golden key KEY
+
+On the ground east of Minos:
+    50000 coins
+    a platinum ring ARMOR AC -5 hp 25 hit 2 mag!mu!cl!th!as!sl!sd!nm

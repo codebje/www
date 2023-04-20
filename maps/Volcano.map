@@ -1,0 +1,79 @@
+--- notes
+
+From Samsera: 10e10n2e4n4e3se3se
+
+E: the efreeti
+H: the horgar
+P: the pyromancer
+X: death trap
+
+The primal fire elemental wanders here - remort questmaster.
+
+Through fire path: eeneesswwswsseseenneene from 1w of "on the path"
+Back through fire path: wswwsswwnwnneneennwwsww
+
+--- map
+
+                  - # - #               I
+                    +   |               |
+                    I   |               #       H
+                        |               |       |
+                    X   #               # - # - #       # - #           #                           X
+                    |   |               |                   |           |                           |
+                    # - #               #                   #       0 < #                           #
+                                        |                   |           ^                           |
+                                # - # - # - # - # - # - # - # - # - # - 0                           # - # - P
+                                        |           |       |                                       |   |   |
+                                        #           #       # - #                                   # - # - #
+                                        |           |           |                                   |
+                                        #       # - # - #       #       X - # - # - # - X           # - #
+                                        |       |       |       |       |   |   |   |                   |
+                                    # - # - # - #       # - # - # - # - # - # - X - # - X               #
+                                    |                           |       |       |   |                   |
+                                    #                           #       X - # - # - # - X   X         c # + #
+                                    |                           |       |   |       |       |           |
+                                # - # - #       # - # - #       #       # - # - X   X   X - # - # - # * # - #
+                                |   |   |       |       |       |       |   |       |   |   |           |
+                                # - X - # - # - #       # - # - #       # - X   X - # - # - #   # - # - # - #
+                                |   |   |       |                       |   |       |   |   |   |   |   |   |
+                                # - # - #       #                       # - # - X - # - X   X   #   # - # - #
+                                                |                       |   |   |   |           |
+                                                # - E - X               X - # - # - # - X   # - #
+                                                                                           /
+                                                                        X   X   X   X     /
+                                                                        |   |   |   |    /
+                                                                      * # - # - # - # - #
+                                                                        |   |   |   |
+                                                                        X   X   X   X
+
+--- loot
+
+You get a fiery spear from the corpse of the salamander.
+
+You get a small rock from the corpse of the efreeti. (key for secret at end of dt path)
+You get a fiery ring from the corpse of the efreeti.
+
+You get a flaming wand from the corpse of the pyromancer.
+You get red robes (ARMOR AC -7 int 2 wis 1 hit 2 mag!g!n!sl) from the corpse of the pyromancer.
+You get a fiery key from the corpse of the pyromancer.
+
+a flaming wand WAND (harm) savespell -5 mp 25 mag!g!n!wa
+
+--- items
+
+Object 'a fiery spear', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 15, Value: 100, Rent: 10
+Forge level: 0 No. dice: 2 Dice size: 4 Type: impale
+
+Object 'a fiery ring', Item type: LIGHT
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !GOOD !NEUTRAL IDENTIFIED
+Weight: 1, Value: 5000, Rent: 1055
+Duration: Infinite
+Can affect you as :
+   Affects: CON By 1
+   Affects: ARMOR By -5
+
+

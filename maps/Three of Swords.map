@@ -1,0 +1,114 @@
+
+--- notes
+
+From Samsera: 10es
+
+One-way exit into Silver Duchess Mines pt. II (The Drift) in the tunnels.
+
+Receptionist sells scrolls to New Thalos, Lost City, Freehold, Samsera, Midgaard.
+
+0: Cyclops
+
+--- map
+
+                        Raven Wilderness
+                                |
+                                # - #
+                                   /
+                                  # - # - # - # - #
+                                         x        |
+                                        #         #
+                                     ∘            |
+                    # - # - # - # + 1             |                                   #
+                    |               *             |                                  /
+                    #               #             |                     6       4 + 2     #
+                   /                |             |                    x|      x|        /
+                  #                 #         4   |                     |   5 - #   # - #
+                 /| Lair of         |        x    |          Castle     |/ x    |       +
+              # # 0   the + # - # - # - # - #     |         of Swords - M - # - 3 ----- #
+             ∘|/ /   Horde      |   |             |                     |   +   |      /
+            1 # #               #   #         5   |                   7 #   #   #     # + #
+                |               |   |        x    |            /      ^x        #         +
+                |               7   # - # - #     |           9       #       # - # - #   # - #
+                |               v   |             |           |               |       |       |
+                |             Mines | 6           |           # --------- # - #   8 ∘ # - #   #
+                |                   |x            |                           |           |   |
+                # - # - # - #       #       #     |                           #   # - #   # - #
+                           /                |     |                           |   |   |
+                          # - # ----------------- # - #                       # - #   #   # - # ∘ # > Bank of Samsera
+                         /                  |    /   /                                |   |
+                    # - #                   #   #   #                                 # - #
+                                           /   /   /
+                                          # - #   M
+                                             /
+                                            #
+                                           /
+                                          9
+                                          |
+
+--- shops
+
+A farmer's wife (in 5):
+     ##   Available   Item                                               Cost
+    -------------------------------------------------------------------------
+      1)  Unlimited   A melon                                           36000
+      2)  Unlimited   An apple                                          36000
+      3)  Unlimited   An orange                                         36000
+
+The Cook (common room of the inn, 3enw from M):
+     ##   Available   Item                                               Cost
+    -------------------------------------------------------------------------
+      1)  Unlimited   A glass of ale                                        9
+      2)  Unlimited   A glass of beer                                       6
+      3)  Unlimited   A meat sandwich                                      16
+
+The Receptionist (upstairs inn, 3enu from M):
+     ##   Available   Item                                               Cost
+    -------------------------------------------------------------------------
+      1)  Unlimited   A New Thalian scroll of recall                     4200
+      2)  Unlimited   A Scroll of the Lost City                          4200
+      3)  Unlimited   A Freehold scroll of recall                        4200
+      4)  Unlimited   A Samsera scroll of recall                         3600
+      5)  Unlimited   A Midgaard scroll of recall                        1800
+
+The Storekeeper (south of M):
+     ##   Available   Item                                               Cost
+    -------------------------------------------------------------------------
+      1)  Unlimited   Some beef jerkey                                     12
+      2)  Unlimited   A candle                                              6
+      3)  Unlimited   A loaf of bread                                      12
+
+--- loot
+
+Gabadiel (in 1):
+    a short sword WEAPON slash F0 5d7 hit 2 dam 2 hp 10 !mu!cl!th!as!sl!sk!dk!sd!nm
+    a crooked key KEY (for crate, hidden, and door all in 1)
+
+A crate (in 1):
+    a knife WEAPON pierce F0 5d7 hit 2 dam 2 dex 2 !mu!cl!wa!ra!sl!sk!dk!nm
+    a long sword WEAPON slash F0 5d7 hit 2 dam 2 mp 10 !th!wa!ra!as!sd
+
+Salle (wandering in town):
+    a leather vest ARMOR AC -6 hit 1 con 2 mag!sl
+
+A hunter (in 2):
+    a hunting bow WEAPON hit F0 1d5 dam 1 mag!mu!cl!th!as!sl!sk!dk!sd!nm
+
+A bandit, a bandit guard:
+    a scimitar WEAPON slash F0 1d7 mag
+
+On the ground in 3:
+    a dragon's crown TREASURE wis 1 dam 1 ac -5 mag
+
+Aglandiir (wandering in town):
+    a plain key KEY
+
+Duwick (wandering in bandit caves):
+    a square metal key KEY (door to 7, door to bank)
+
+On the ground in 8:
+    a barrel of perfume TREASURE
+    a statue TREASURE
+    a halberd WEAPON slash F0 1d12 mag
+    a dark bottle POTION (sanctuary paralyze armor) mag
+    a potion of protection POTION (sanctuary armor bless)

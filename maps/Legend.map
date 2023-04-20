@@ -1,0 +1,109 @@
+--- notes
+
+From Samsera: 8s3e2sd27wnwdew4n
+
+Entrance from The Mystic Sea is asymmetrical into A
+
+The Meg Maze, from the first foggy room:
+    wne <kill meg w> e <kill meg s> n
+
+Portal point past Una ne from Lord of Darkness.
+
+Through white/black square maze from PP room: 2ns2newns s 2w
+
+Shimmering cube guardian may be 2n from Father Darkness.
+
+--- map
+
+        C               D               B               E               B               B               J
+        ^               ^               ^               |               ^               ^               ^
+    D < B > B       B < C > F       C < E > E       G < F > D       D < G > H       C < H > D       C < I > B
+        v               v               |               v               v               v               v
+        D               E               F               B               F               I               D
+
+        2               B
+        ^               ^
+    B < J > D       B < D > B
+        v               v
+        D               B
+
+                                #
+                                |
+      # ∘                   7 - # - #
+     /                          |
+    # - # - #         maze  6 + # + #       #   # - # maze
+    |       |           ∧       |           ∘   |   |   ∨
+    #       # - #       #   3 ∘ # + #       # - # - # - 9 -
+    |       |  ∘|       |       |           ∘   |   |
+    # - # - # 3 2   # - # - # - # - #           # - #
+                v   |   |   |   |   |
+                D   8   5   # - 4 - #
+                    |   |
+                ☠ - #   #
+
+                                    # - # - 1
+                                    |
+            B < ⌘ - # - # - A - #   #
+                        |   |   |   |
+                        |   | # |   # - #
+                        |   |/  |   |   |
+                        |   #   |   0   #
+                        |       |   |   |
+                        # ----- # - # - #
+                        |       |   |
+                        # - # - # - #
+                                    |
+                                    # - # - #
+                                            |
+                                            #
+                                            |
+                                            #
+                                           /
+                                          # (tunnel)
+                                         ∘
+                                        @
+
+--- loot
+
+You get drop of honey from the corpse of the Queen. (0)
+
+a sheath of Skeletal claws WEAPON bludgeon F5 1d5 dam 2 str 1 ac -10 !g!n (was w of 1)
+
+Blix (in 2):
+    a poison blow gun FIRE WEAPON (range 2 stun 4) ac 10 hp 15 dam 2 !g!n!mu!cl!th!ra!sk!dk!sd!nm
+    a poisoned dart MISSILE 45d1 x20 level 20 !mu!cl!sl!sk!dk!nm
+    Chain of Skulls ARMOR AC -5 hp 8 hit 2 dam 1 cha -1 !g!n!mu!cl!nm
+
+A mummified guard (n of 2):
+    a twig KEY mag (to grave)
+
+Screwball (in 4):
+    the snow globe of death LIGHT dam 2 mp 5
+
+Jack (in 5):
+    silk leggings ARMOR AC -10 dex 2 dam 2 mag!n!cl!th!wa!sl!sk!dk
+
+Honeythorn (s of 5):
+    Some fairy dust SCROLL (50: chain lightning; chain lightning; !NO SPELL!) mag
+    a quiver of arrows WORN int 2 ac 10 dam 2 !mu!cl!sk!dk!sd!nm
+
+Blunder the Goblin (in 6): ?
+
+A huge iron pot (in 7):
+    Tiax tells the group, 'not sure what bone key from cauldrin for'
+
+Lord of Darkness (in 8):
+    <worn as cloak>      Cloak of the Innocents ARMOR AC -10 cha -1 dam 3 str 1 !g!n
+    <worn on head>       Horns of Darkness WORN dex -1 hit 3 dam 2 ac -4 mag!g!n!mu!cl!th!sl!sk!sd!min!nm
+    <held>               a razor sharp needle KEY
+
+The Solace of the Shadows (in 9?):
+    the stealth leggings ARMOR AC -9 hp 10 dam 2 mag!g!e!sl!sk!dk (w:5 v:300000 r:315)
+    the dark shiv
+    the ancient branch
+
+Saladrex gets a barbed whip of poison from the corpse of the Mother of Night.
+
+Father Darkness is using:
+<worn on head>       the face of death
+<held>               an Alicorn Horn

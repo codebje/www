@@ -1,0 +1,309 @@
+--- notes
+
+Easy to portal to lamia.
+Down from Beholder (B) is a little maze.
+Zombie servants all west in courtyard.
+
+O: an otyugh
+C: crocodiles
+
+--- map
+
+                                                                DEATH
+                                                                 /
+                                                      # # - # - # - m     # DEATH DOWN
+                                                     /      |            /
+                  #                                 # - # - # - # - # - #
+                 /              +                   |       |       |   |
+                # --+-- #   # - #       #           #   m - # - # - #   #
+               /           /|   |      /            |       |           |
+              /         ? O |   |     # X   # - # - #   # - # - #   m   #
+             /          +   |   |   +/  |   |   |   |   |   |   |   |   |
+            # ----+---- # + # - # + # - # - # - # - # - # - B - # - # - # - # - X (The Great Eastern Desert)
+           /            +   |   |   +   |   |   |   |   |  /|   |   |   |
+                            |   |       X   # - #   #   # - # - # - #   #
+                            |   |               |   |       |       |
+                            # - #               # - #   # - # - # - # - #
+                           /    +                   |       |       |   |
+                          C                         # # m - # - #   # - #
+                                                    |/      |
+                                                    # - # - # - m
+
+--- items
+
+Found: golem in northwest tower
+Object 'an engraved ivory seal', Item type: KEY
+Item will give you following abilities:  NOBITS
+Item is: !MAGE !NECRO IDENTIFIED
+Weight: 2, Value: 500, Rent: 0
+Key type: 2
+
+Found: golem in southwest tower
+Object 'an engraved ebony seal', Item type: KEY
+Item will give you following abilities:  NOBITS
+Item is: !MAGE !NECRO IDENTIFIED
+Weight: 2, Value: 500, Rent: 0
+Key type: 2
+
+Object 'a black silk robe', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 6, Value: 1300, Rent: 5
+AC apply: 1
+
+Object 'a silver flute', Item type: STAFF
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !WEREWOLF IDENTIFIED
+Weight: 3, Value: 10500, Rent: 0
+Spell lvl: 18 Max charges: 2 Charges left: 2 spell: charm person
+
+Object 'a dark green cloak', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC IDENTIFIED
+Weight: 12, Value: 14500, Rent: 75
+AC apply: 0
+Can affect you as :
+   Affects: MAXHIT By 8
+   Affects: ARMOR By -5
+
+Object 'a sturdy iron shield', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: MAGIC CURSED !SHOU_LIN IDENTIFIED
+Weight: 5, Value: 500, Rent: 225
+AC apply: 5
+Can affect you as :
+   Affects: SAVING_BREATH By -2
+   Affects: SAVING_SPELL By -2
+
+Object 'a scarlet and blue stone', Item type: TREASURE
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 10, Value: 5500, Rent: 30
+Values not used for this item.
+Can affect you as :
+   Affects: INT By 1
+
+Object 'an iridescent stone', Item type: TREASURE
+Item will give you following abilities:  NOBITS
+Item is: MAGIC CURSED IDENTIFIED
+Weight: 10, Value: 3700, Rent: 5820
+Values not used for this item.
+Can affect you as :
+   Affects: MAXHIT By -100
+
+Object 'a half-rotted arm', Item type: FOOD
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 20, Value: 0, Rent: 72
+No. hours to fill stomach: 24(poison) Level: 0 Spell: !NO SPELL!
+
+Object 'a lavender and green stone', Item type: TREASURE
+Item will give you following abilities:  NOBITS
+Item is: MAGIC CURSED IDENTIFIED
+Weight: 10, Value: 4700, Rent: 200
+Values not used for this item.
+Can affect you as :
+   Affects: SAVING_SPELL By -4
+
+Object 'a clear stone', Item type: TREASURE
+Item will give you following abilities:  NOBITS
+Item is: MAGIC CURSED IDENTIFIED
+Weight: 10, Value: 8900, Rent: 15
+Values not used for this item.
+Can affect you as :
+   Affects: ARMOR By -3
+
+Object 'an incandescent blue stone', Item type: TREASURE
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 10, Value: 5500, Rent: 30
+Values not used for this item.
+Can affect you as :
+   Affects: WIS By 1
+
+Object 'a pearly white stone', Item type: TREASURE
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 10, Value: 8700, Rent: 4
+Values not used for this item.
+Can affect you as :
+   Affects: MAXHIT By 1
+
+Object 'a pale lavender stone', Item type: TREASURE
+Item will give you following abilities:  NOBITS
+Item is: MAGIC CURSED IDENTIFIED
+Weight: 10, Value: 4300, Rent: 100
+Values not used for this item.
+Can affect you as :
+   Affects: SAVING_SPELL By -2
+
+Object 'a ringmail vest', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !SHOU_LIN IDENTIFIED
+Weight: 60, Value: 12000, Rent: 45
+AC apply: 6
+Can affect you as :
+   Affects: ARMOR By -1
+
+Object 'a pink stone', Item type: TREASURE
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 10, Value: 5500, Rent: 30
+Values not used for this item.
+Can affect you as :
+   Affects: CON By 1
+
+Object 'a golden harp', Item type: STAFF
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 100, Value: 2500, Rent: 0
+Spell lvl: 18 Max charges: 1 Charges left: 1 spell: call lightning
+
+Object 'a mandolin', Item type: STAFF
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 20, Value: 3000, Rent: 0
+Spell lvl: 13 Max charges: 3 Charges left: 3 spell: cure critic
+
+Object 'a dull grey stone', Item type: TREASURE
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 10, Value: 20, Rent: 0
+Values not used for this item.
+
+Object 'a vibrant purple stone', Item type: TREASURE
+Item will give you following abilities:  NOBITS
+Item is: MAGIC CURSED IDENTIFIED
+Weight: 10, Value: 10200, Rent: 2220
+Values not used for this item.
+Can affect you as :
+   Affects: MAXHIT By -50
+
+Object 'a tattered scroll', Item type: SCROLL
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 15, Value: 11000, Rent: 1100
+Spell lvl: 50 spell1: enchant weapon spell2: !NO SPELL! spell3: !NO SPELL!
+
+Object 'a bound scroll', Item type: SCROLL
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 15, Value: 4200, Rent: 420
+Spell lvl: 15 spell1: detect alignment spell2: detect invisibility spell3: detect magic
+
+Object 'an iron helm', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN !MINOTAUR IDENTIFIED
+Weight: 10, Value: 5000, Rent: 165
+AC apply: 7
+Can affect you as :
+   Affects: HITROLL By -2
+
+Object 'a pair of iron gauntlets', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 10, Value: 2200, Rent: 315
+AC apply: 7
+Can affect you as :
+   Affects: HITROLL By -3
+   Affects: DAMROLL By 1
+
+Object 'a pair of iron sleeves', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 10, Value: 2450, Rent: 565
+AC apply: 7
+Can affect you as :
+   Affects: HITROLL By -4
+   Affects: DAMROLL By 2
+
+Object 'a pair of iron boots', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 6, Value: 800, Rent: 150
+AC apply: 4
+Can affect you as :
+   Affects: HITROLL By -1
+   Affects: DEX By -2
+
+Object 'a set of iron greaves', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !SHOU_LIN IDENTIFIED
+Weight: 10, Value: 5400, Rent: 445
+AC apply: 7
+Can affect you as :
+   Affects: HITROLL By -3
+   Affects: DEX By -3
+
+Object 'an iron girth', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 6, Value: 4200, Rent: 20
+AC apply: 4
+
+Object 'a pale blue stone', Item type: TREASURE
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 10, Value: 5500, Rent: 30
+Values not used for this item.
+Can affect you as :
+   Affects: STR By 1
+
+Object 'a pale green stone', Item type: TREASURE
+Item will give you following abilities:  NOBITS
+Item is: MAGIC CURSED IDENTIFIED
+Weight: 10, Value: 7100, Rent: 910
+Values not used for this item.
+Can affect you as :
+   Affects: DAMROLL By -5
+
+Object 'a deep red stone', Item type: TREASURE
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 10, Value: 5500, Rent: 30
+Values not used for this item.
+Can affect you as :
+   Affects: DEX By 1
+
+Object 'a dusty rose stone', Item type: TREASURE
+Item will give you following abilities:  NOBITS
+Item is: MAGIC IDENTIFIED
+Weight: 10, Value: 9800, Rent: 5
+Values not used for this item.
+Can affect you as :
+   Affects: ARMOR By -1
+
+Object 'a pink and green stone', Item type: TREASURE
+Item will give you following abilities:  NOBITS
+Item is: MAGIC CURSED IDENTIFIED
+Weight: 10, Value: 6600, Rent: 550
+Values not used for this item.
+Can affect you as :
+   Affects: HITROLL By -5
+
+Object 'a green serpentine staff', Item type: STAFF
+Item will give you following abilities:  NOBITS
+Item is: INVISIBLE MAGIC IDENTIFIED
+Weight: 12, Value: 6600, Rent: 0
+Spell lvl: 40 Max charges: 1 Charges left: 1 spell: invisibility
+
+Object 'a black potion', Item type: POTION
+Item will give you following abilities:  NOBITS
+Item is: INVISIBLE MAGIC IDENTIFIED
+Weight: 5, Value: 6000, Rent: 600
+Spell lvl: 16 spell1: blindness spell2: sanctuary spell3: strength
+
+Object 'an orange potion', Item type: POTION
+Item will give you following abilities:  NOBITS
+Item is: INVISIBLE MAGIC IDENTIFIED
+Weight: 10, Value: 750, Rent: 75
+Spell lvl: 20 spell1: sense life spell2: !NO SPELL! spell3: !NO SPELL!
+
+Object 'a spiked club', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 7, Value: 100, Rent: 120
+Forge level: 0 No. dice: 3 Dice size: 6 Type: pound
+Can affect you as :
+   Affects: DEX By 1
+   Affects: CON By 1

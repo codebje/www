@@ -1,0 +1,98 @@
+--- notes
+
+Marathon hike from Samsera. Shorter walk from City of Everwar, portal muerte (or scroll from Abenos).
+
+Human camp from B: knights have pfe, scouts hidden (with gnomish spies).
+
+Keys are once per boot.
+
+--- map
+
+                          □                   □
+                         /|                  /|
+                        □ |             # - # □
+                       /  |            /      |
+                      F + |   F + # + # - #   |
+                     /    |              /    |
+                # - #     □ - □       # /     |
+               /          |   |      /|/      |
+              #       2 * □ - □     # #       |
+             /            |       |/          |
+            #             □       D -         |
+          |/              |                   |
+          E       1 ----- □ ----- □ - 0 - □ - □
+                  |               |
+              □ - □   □ ∘ □ ∘ 5 ∘ #
+             /                    |
+            □             □ ----- □ - □
+            |             |           |
+            |         3 ∘ □ - □   4 ∘ □
+            |                 |       |
+        # - □ --+-- # + # --- #       □ - □
+        |              /                 /
+        #             #                 □
+       /             /                  |
+      # - #     # - # --+-- # --+-- # - □
+         /      |                  /
+        #       #                 #
+        |      /                  |
+    # - #     #                   #
+  |/         /                   /
+- C         #                   # - #
+           /                       /
+      # - #                       #
+     /                           /
+  - A                           B -
+    |                           |
+
+                    # - # - # - # - #
+                    |   |/  |/  |/  |
+                    # - C   E   D - #
+                    |               |
+                    #               #
+                    |    /       /  |
+                    # - A       B - #
+                    |   |       |   |
+                    # - # - # - # - #
+                            |
+                            #
+                  City of   |
+                  Everwar - # - #
+                                |
+                         Forest of Turra
+
+--- loot
+
+The gnome faithful:
+    gauntlets of faith OTHER str 1 ac -3 hit 1 !e!mu!th!as!dk!sd!nm
+
+Chief Bigtooth (in 0):
+    <worn about waist>   girdle of ogre strength ARMOR AC -4 str 2 dam 2 !mu!cl!sk!nm
+    <held>               a small star KEY (to 2)
+    a short note NOTE
+
+King Akabron (in 1):
+    <worn around neck>   a mithril neckguard ARMOR AC -4 int 1 dam 2 hit 1
+    <held>               a small diamond KEY (to 4)
+
+King Unger of the trolls (in 2):
+    a pair of troll skin boots ARMOR AC -4 str 1 con 1 dam 2 !mu!cl!sl!nm
+    the eye of a dragon KEY (to 3, and to w of 5)
+
+King Gnomilies the great (in 3):
+    <wielded>            Wrath of the Gnome WEAPON bludgeon 11d3 int 2 hit 2 mp 30 !th!ra!as!sl!sk!dk!sd!orc!elf!dra!ogr!tro!dwa!fae!drw (w:5
+    v:100000 r:1585)
+    <held>               a crescent moon KEY (to 5)
+
+King Heldane IV (in 4):
+    <worn on arms>       bands of woven silver OTHER ac -5 dam 2 hp 5 !mu!cl!th!as!sd!nm!wer
+    <held>               a symbol of life KEY
+
+On the ground (in 5):
+    a gift from the gods (200000 coins)
+
+A large case (w of 5):
+    an aura of protection LIGHT dex 1 hit 1 dam 3 mag
+
+An ancient chest (2w of 5):
+    a ring of protection ARMOR AC -8 dex 1 hp 10 dam 3 mag!e!mu!cl!dk!dra

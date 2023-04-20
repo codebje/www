@@ -1,0 +1,281 @@
+
+--- loot
+
+You get a wooden mallet from the corpse of the shipwright.
+
+You get a watchman's lantern from the corpse of Stiggs, the cabin boy.
+
+You get a javelin from the corpse of Redbeard.
+You get the cloak of looting from the corpse of Redbeard.
+You get an iron key from the corpse of Redbeard.
+You get a small piece of gold from the corpse of Redbeard.
+
+You get the kracken's eye from the corpse of the kracken.
+
+You get a strange map from the corpse of the black masted ghost ship.
+
+You get an icicle from the corpse of the pirate in fur skins.
+
+A pirate guard:
+    a garrote wire WEAPON strangle F0 3d9 hit 2 dam 2 dex 2 !mu!cl!wa!ra!sl!sk!dk!nm
+
+You get the ghost stone from the corpse of the helmsman.
+
+You get the Robe of the Hawklord from the corpse of the hawklord.
+
+You get a gizzard from the corpse of the terra-kan.
+
+You get a golden hawk key from the corpse of the first mate.
+
+You get lord vulture's wings from the corpse of Lord Vulture.
+You get the eye of the eagle from the corpse of Lord Vulture.
+
+You get the everfull mug from an iron chest.
+You get a mountain of silver from an iron chest.
+
+Tiax gets the storm cape from the corpse of the raging typhoon.
+
+You get a pair of feather boots from the corpse of Chief Unga-bunga.
+You get a chain of human hair from the corpse of Chief Unga-bunga.
+
+Pele, god of fire is using:
+<worn on arms>       armbands of the volcanoes
+
+Cutter, the 5th Pirate Lord is using:
+<worn on legs>       white fur leggings
+<worn on hands>      frost gloves
+<worn around wrist>  a frost chain
+<wielded>            Frostbite, the Touch of Winter
+
+--- notes
+
+Down from most rooms goes to underwater in The Mystic Sea
+
+D: down from here to the Beach of Draconia Isle (Draconia)
+E: down from here to In an old shipwreck (75k coins on ground, underwater)
+F: south from here to Freeport
+I: Sliding Down an Icy Shoot
+S: Shipwrecked on the shoals (no exits, but safe)
+
+b: the blue shark (hard to blind)
+C: Cutter, the 5th Pirate Lord
+g: the great white shark
+h: the hammerhead shark
+j: the whaler
+k: the kracken
+m: the merchant trader
+o: the black masted ghost ship
+P: Pele, god of fire
+q: the giant squid
+r: pirate raiders
+R: Redbeard
+s: the mako shark
+I: the siren
+t: the tiger shark
+U: Chief Unga-bunga
+V: Lord Vulture, Alinda
+w: sperm whale
+y: the raging typhoon
+
+--- map
+
+                                                        S                        Abenos
+                                                        ^                           |
+                                                    S < j > S   S   S   S   S   I   #       # --- # --- #
+                                                    ^   |   ^   ^   ^   ^   ^   ^   |       |           |
+                                                S < w - # - w - # - # - # - # - # - # > S   #       J   #
+                                                   /|  /|  /|  /|  /|  /|  /|  /|  /|   ^   |      *|   |
+                # - g - h                       S < # - m - # - # - # - # - # - m - # - # - r > S I # - #
+                |   |   |                    /  ^  /|  /|  /|  /|  /|  /|  /|  /|  /|  /|  /|
+            # - t   #   b ----- #           M - r - # - # - j - # - r - # - # - # - # - # - # > S
+            |       |           |              /|  /|  /|  /|  /|  /|  /|  /|  /|  /|  /|  /S
+            #   # * # - #       s   S   S   S < # - # - # - # - # - F - # - # - m - # - # - The Ocean
+            |       +           |   ^   ^       S  /|  /|  /|  /|      /|  /|  /|  /|  /|   S
+            # - #   #   s ----- # - # - # > S Clan  # - # - j - t > S < # - # - # - # - # - w > S
+                |       |      /|  /|  /|   ^   |  /|  /|  /|   |   ^  /|  /|  /|  /|  /|  /|   ^
+                b - # - #   S < r - # - m - # > E < # - # - # - # - # - # - # - r - # - # - # - # - The Ocean
+                                |  /|  /|  /|  /   /|  /|  /|  /|  /|  /|  /|  /|  /|  /|  /| Great Western Ocean
+             # - # - Jungle S < # - # - w - # > S < # - m - # - # - q - # - m - # - # - # - o > S       # * # - #
+             |   |      |    /  v  /|  /|  /v      /|  /|  /|  /|  /|  /|  /|  /v  /|  /|  /|              /|
+             U - #      # + A   S < # - # > S   # - # - # - # - # - # - # - # > S < # - # - # > S         / #
+                        |           v  /|   ^   |  /|  /|  /|  /|  /|  /v  /v      /v  /|  /|   ^        /  |
+                # - # - #           S < # - # - # - D - # - j - # - # > S   S       S < w - j - r > S   /   # - # P
+                    |   |              /v  /v  /|  /|  /|  /|  /|  /v                  /v  /v  /|      /        v/
+                    # - #               S   S < # - # - # - # - # > S                   S   S   # - k /     # * R - #
+                        |                      /|  /|   v  /|  /v                               |   |/
+                        # --------------------- r - # > S  The  S                           # - #   #   # - #
+                                               /v  /v     Ocean                             |   |       |   |
+                                                S   S                                       # - # - # - # - #
+                    # < I       # - # - #                                       #           |   |   v   |
+                    v           |   |   |                       |              /+           # - # > P < #
+      # - # - # #   # > #       # - # - # * C                 - 0 -         # + # + #           |  /|   |
+      |       |/       /        |   |   |  /                    |               |               # - # - #
+      # - # - #       #   #     # - # - # J                   - # -         # + # + #
+     /|      x|       v   ^\    ^                               |               |
+  + A |    #  |       # > # #   #                             - 0 -         # + # + #
+      |       |             v   ^                              /|               |
+      # - # - #             # > #                             M                 * V
+                                                                                |/
+                                                                                #
+
+--- items
+
+Pele:
+    armbands of the volcanoes ARMOR AC -4 dam 2 hit 3 hp 10 !mu!cl!sl!nm
+
+Navigator:
+    a sextant SCROLL (40: teleport) (w:5 v:5000 r:500)
+
+Object 'a wooden mallet', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 3, Value: 100, Rent: 80
+Forge level: 0 No. dice: 3 Dice size: 3 Type: bludgeon
+Can affect you as :
+   Affects: WIS By 1
+   Affects: STR By 1
+
+Object 'greek fire', Item type: SCROLL
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM MAGIC IDENTIFIED
+Weight: 5, Value: 0, Rent: 0
+Spell lvl: 40 spell1: flame strike spell2: !NO SPELL! spell3: !NO SPELL!
+
+Object 'an outrigger called Waverunner', Item type: BOAT
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 15, Value: 0, Rent: 0
+Values not used for this item.
+
+Object 'a watchman's lantern', Item type: LIGHT
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 5, Value: 1000, Rent: 1200
+Duration: Infinite
+Can affect you as :
+   Affects: MAXMANA By 15
+   Affects: HITROLL By 2
+
+Object 'a javelin', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 3, Value: 20000, Rent: 1045
+Forge level: 0 No. dice: 5 Dice size: 7 Type: impale
+Can affect you as :
+   Affects: INT By 2
+   Affects: HITROLL By 2
+   Affects: DAMROLL By 2
+
+Object 'the cloak of looting', Item type: CONTAINER
+Item will give you following abilities:  NOBITS
+Item is: !MAGE !CLERIC !WARRIOR !RANGER !SHOU_LIN !SOLAMN_KN !NECRO IDENTIFIED
+Weight: 0, Value: 0, Rent: 800
+Capacity: 500lbs Flags: CLOSEABLE  Key: No Key Is corpse? No
+Can affect you as :
+   Affects: STR By 2
+   Affects: ARMOR By -10
+   Affects: HITROLL By 2
+
+Object 'a small piece of gold', Item type: OTHER
+Item will give you following abilities:  NOBITS
+Item is: HUM !RENT !DONATE MAGIC !SELL NO_LOCATE INSERT_PART IDENTIFIED
+Weight: 2, Value: 10000, Rent: 0
+Values not used for this item.
+
+Object 'the kracken's eye', Item type: POTION
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 2, Value: 1000, Rent: 100
+Spell lvl: 30 spell1: cure blind spell2: detect invisibility spell3: sense life
+
+Object 'an icicle', Item type: WAND
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 2, Value: 5000, Rent: 500
+Spell lvl: 40 Max charges: 3 Charges left: 3 spell: chill touch
+
+Object 'a garrote wire', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: !MAGE !CLERIC !WARRIOR !RANGER !SHOU_LIN !SOLAMN_KN !DEATH_KN !NECRO IDENTIFIED
+Weight: 1, Value: 100000, Rent: 545
+Forge level: 0 No. dice: 3 Dice size: 9 Type: strangle
+Can affect you as :
+   Affects: HITROLL By 2
+   Affects: DAMROLL By 2
+   Affects: DEX By 2
+
+Object 'the ghost stone', Item type: WAND
+Item will give you following abilities:  NOBITS
+Item is: !DONATE INVISIBLE MAGIC CURSED IDENTIFIED
+Weight: 1, Value: 5000, Rent: 500
+Spell lvl: 40 Max charges: 3 Charges left: 3 spell: demon fire
+
+Object 'the Robe of the Hawklord', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW !DONATE MAGIC IDENTIFIED
+Weight: 5, Value: 8000, Rent: 370
+Values not used for this item.
+Can affect you as :
+   Affects: HITROLL By 2
+   Affects: DAMROLL By 2
+   Affects: ARMOR By -10
+
+Object 'the storm cape', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM !DONATE MAGIC !THIEF !WARRIOR !ASSASSIN NO_LOCATE IDENTIFIED
+Weight: 1, Value: 75000, Rent: 580
+Values not used for this item.
+Can affect you as :
+   Affects: MAXMANA By 25
+   Affects: HITROLL By 3
+   Affects: DAMROLL By 2
+
+Object 'a chain of human hair', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !DONATE !MAGE !CLERIC !THIEF !ASSASSIN !NECRO IDENTIFIED
+Weight: 0, Value: 0, Rent: 570
+Values not used for this item.
+Can affect you as :
+   Affects: ARMOR By -15
+   Affects: HITROLL By 2
+   Affects: DAMROLL By 2
+
+Object 'a pair of feather boots', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !DONATE !SELL NO_LOCATE IDENTIFIED
+Weight: 3, Value: 10000, Rent: 450
+Values not used for this item.
+Can affect you as :
+   Affects: DEX By 2
+   Affects: MAXMANA By 15
+   Affects: HITROLL By 2
+   Affects: DAMROLL By 2
+
+Object 'a gizzard', Item type: FOOD
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 2, Value: 0, Rent: 36
+No. hours to fill stomach: 12(Edible) Level: 30 Spell: heal
+
+Object 'the eye of the eagle', Item type: STAFF
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 2, Value: 5000, Rent: 0
+Spell lvl: 40 Max charges: 3 Charges left: 3 spell: sense life
+
+Object 'the everfull mug', Item type: LIQ CONTAINER
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 1, Value: 5000, Rent: 2000
+Max. Units: 5000 Units left: 5000 Liquid: clear water(clear)
+
+Object 'lord vulture's wings', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 5, Value: 15000, Rent: 520
+Values not used for this item.
+Can affect you as :
+   Affects: HITROLL By 2
+   Affects: DAMROLL By 2
+   Affects: AGE By 10
+

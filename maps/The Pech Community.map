@@ -1,0 +1,45 @@
+--- notes
+
+Entrance from The Underworld (via a section shoved into Mile-High Bridge)
+
+--- map
+
+                                                        # - # - #
+                                                        |   |
+                                                        #   # - # - #
+                                                                    |
+                                                0 * #   # - # - # - #
+                                                    |           |
+                                                    # - # - # - # - #
+                                                        |
+                                                        # - # - #
+                                                            |
+                                                #   # - # - # - #
+                                                |   |
+                                            # - # - #   #
+                                                |   |   |
+                                                #   # - # - #
+                                                    |   |
+                                            # - # - #   #
+                                            |
+                                            #   #
+                                            |   |
+                                            # - # - #
+                                            |   |
+                                        # - #   #
+                                        |
+                                # - # - #
+                                |
+                            # - #
+                            |
+                            | The Underground (via MHB)
+                            |x
+                            #
+
+--- loot
+
+A pech:
+    a mining pick WEAPON pierce F0 4d6 str 1 dex 1 !e
+
+A cave fisher (in 0):
+    the Talisman of Darkness ARMOR AC -5 dam 2 hit 2 mag!g!n!ra!sl!sk

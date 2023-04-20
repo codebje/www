@@ -1,0 +1,122 @@
+--- notes
+
+Parts 1 and 2 included.
+
+From Samsera, via The River/Desert: 8s3e2sd24e3n
+From Samsera, via Three of Swords: 10esed4e2se2d2e2n <open rock> d3w3s
+From Samsera, via Garamond/Wildnerness: 25e2ses4es
+
+--- map
+
+                              Three of Swords
+                                    ∨
+                                    B - #
+                                        |
+                        # - #           #
+                        ∘   |           |
+                    #   1   #   #       #
+                    +       |   +       |
+                    # - # - # - # + #   # - #
+                    |           +       |   |
+                    #   #       #       #   #
+                    |   +               |   |
+                    # - # + #           # - #           # - #   # - #
+                        |               |   |           |   |   |   |
+                        # - # - #       | The Great     #   #   #   #
+                                |       | Eastern       |   |   |   |
+                    0 ∘ # - # - #       | Desert        #   #   #   #
+                    |                   |               |   |   |   |
+                    # - # - # - # ----- # ----- # ----- #   # - #   #
+                        * (Part II north)                           |
+                        #                       # - # - # - # - # - #
+                        |                      ⩗
+                        |           Northern Mountain Range
+                        |
+                        |       # - # - # - # - #
+                        |       |            /  |
+                        |       #           A   #
+                        |       |           |   |
+                        # - # - #           # - #
+                        |
+                        #
+                        |
+   Raven Wilderness     #
+        |               |
+        # - # - # - # - #
+
+                                                                                B
+                                                                               ⩘
+                                                                              #
+                                                                             ⩘
+                                                                            #
+                                                                           ⩘
+                                                                          #
+                                                                         ⩘
+                                                                        #
+                                                                       ⩘
+                                                                      #
+                                                                     ⩘
+                                                                    #
+                                                                   ⩘
+                                                                  #
+                                                                 ⩘
+                                                                #
+                                                               ⩘
+                                                              #
+                                                             ⩘
+                                                            #
+                                                           ⩘
+                                                          # (pt. II above)
+                                                         ⩘
+                                                        #
+                                                       ⩘
+                                                      #
+                                                     ⩘
+                                                    #
+                                                   ⩘
+                                                  #
+                                                 ⩘
+                                                #
+                                               /
+                                    #         #
+                                   /|        /
+                                  # |       #
+                                 /  |      /
+                                □   |     #
+                               /    |    /
+                              # # - # - #
+                             /  |
+                            #   #   # - # - # - #
+                           /    |   |           |
+                          ☠     # - #   # - # - #
+                                        |
+                                # - # - #
+                                |
+                                #   # - #
+                                |   |   |
+                                # - #   #                     #
+                                        |                    /|
+                        # - # - # - # - #                   # #
+                        |                                  / /
+                        #                                 A #
+                        |                                   |
+                        # - #                   # - # - #   # - # - #   #
+                            |                   |       |           |  /|
+                            # - # - # - # - #   # - #   # - # - # - # # |
+                                            |       |                /  |
+                                            #   # - #   # - #       #   |
+                                                           /    |       |   |       |   |
+                                                          #     # - # - #   # ----- #   |
+                                                         /                              |
+                                                        # ----- # ----- # ----- # ----- #
+
+--- loot
+
+A gargoyle (in 0):
+    a carved stone key KEY
+
+A Fire Wizard (in 1):
+    a fire crystal WORN hit 2 dam 3 hp 5 ac -5 mag!g!sk
+
+A fire giant (past gargoyle, randomly, may have looted from something else):
+    a black iron key KEY

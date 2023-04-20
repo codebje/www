@@ -1,0 +1,14 @@
+--- shops
+
+The Chef:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   Some Russian caviar                                 275
+  2)  Unlimited   A delicious-looking lobster                         110
+
+The Astrologer:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   An ancient scroll of knowing                      21060
+  2)  Unlimited   A Midgaard scroll of recall                        1800
+  3)  Unlimited   A large vial                                      28800

@@ -1,0 +1,81 @@
+--- notes
+
+From Samsera: 17n3wu4w2nw3neuenun
+
+Hidden, aggro evil Spirits wandering around below 4. Room immediately below 4 appears to be safe.
+
+--- map
+
+        #       #       #                               8
+        |       |       |                               ∘
+    # - # - # - # - # - # - # - 5 ∘ 6 > 7           4 < 7
+    |       |       |                                   ∨
+    |       #       #               #                   9
+    |                               +                  ⩗
+    | 4                         # - # - #             A
+    |∘∘                         |   |   |
+    # 3   2                     # - # - #
+      |   |                         +
+      # ∘ # - #             # - #   #
+              |             |   |   |
+              #         0 + # - # + # +
+              ∘        ∘    |   |   |
+          1 - # - # - #     # - #   #
+                                    |
+                            # - #   # + # - # - #
+                            |   |   |       |   |
+                        # - # - # + #       # - #
+                            |   |   |
+                            # - #   #
+                                    |
+                                    #
+                                    +
+                                    A
+                                    |
+                        Northern Mountain Range
+
+--- loot
+
+A Solemn Monk (variously):
+    reed sandals WORN move 50 ac 2
+
+A visiting monk:
+    a saffron robe WORN hit 2 dex 2
+
+The Warrior Monk:
+    a white headband WORN hit 3 ac -5 !mu!cl!th!wa!ra!as!sk!dk!sd!nm
+
+The Shou Lin Master (in 0):
+    a red sash ARMOR AC -7 hit 1 dam 2 !mu!cl!th!wa!ra!as!sk!dk!sd!nm
+    an ivory key KEY (to secret in 0)
+
+The Silver Statue (in 1):
+    a silver key KEY !wer (to secret east of 1)
+
+The Gold Statue (in 2):
+    a gold key KEY (to secret s of 2)
+
+The Platinum Statue (in 3):
+    a platinum key KEY (to secret in 3)
+
+Amal Ialad (in 4):
+    the Ivory Buddha ARMOR AC -7 hit 1 dam 2 !mu!cl!th!wa!ra!as!sk!dk!sd!nm
+    a grey stone key KEY !mu!cl!th!wa!ra!as!sk!dk!sd!nm
+
+The Guardian Spirit (in 5, quad oblit, no track):
+    the Shou Lin Spirits WORN hit 2 dam 3 ac -10 !mu!cl!th!wa!ra!as!sk!dk!sd!nm
+    a basalt key KEY !mu!cl!th!wa!ra!as!sk!dk!sd!nm
+
+Guardian Spirit (in 6):
+    <worn on finger>     a Ring of Energy ARMOR AC -1 mp 40 dam 2 mag!th!wa!ra!as!sk!dk
+    <worn around neck>   the Cape of the Khans OTHER hit 2 dam 3 ac -15 mag!mu!cl!th!as!sd!nm
+    <worn as shield>     a Dagger En Seconde ARMOR AC -10 dex 2 dam 3 mag!mu!cl!wa!ra!sl!sk!dk!nm
+
+The Monk-Priest of Buddha:
+    a holy symbol of Buddha WORN hp 10 wis 1 ac -5 !mu!cl!th!wa!ra!as!sk!dk!sd!nm!dem!und
+
+A wise man (in 8):
+    <held>               a smooth pebble OTHER hit 4 dam 4 mag
+
+Soong Chen Yi (in 9):
+    <worn on hands>      Fists of the Dragon WORN dam 3 mp 10 ac -7 mag!mu!cl!th!wa!ra!as!sk!dk!sd!nm

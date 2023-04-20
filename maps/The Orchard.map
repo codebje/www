@@ -1,0 +1,57 @@
+--- notes
+
+South off Midgaard Highway.
+
+peasant, imp, brownie, gremlin, pixie, spriggan, sprite, berserk spriggan, fighting-mad gremlin, enraged imp,
+shrieking brownie, furious pixie, angry sprite
+
+--- map
+
+--- loot
+
+--- shops
+
+The faerie smithy:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A tiny silver ring                                  500
+  2)  Unlimited   Some golden threads                                 500
+  3)  Unlimited   A copper shield                                     500
+
+A faerie baker:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A slice of black currant pie                          4
+  2)  Unlimited   A sweet roll                                          5
+  3)  Unlimited   A loaf of wheat bread                                 4
+
+A faerie herbalist:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   Some ground coffee beans                          40000
+  2)  Unlimited   Some carrot juice                                 30000
+  3)  Unlimited   Some dragonfly dust                               40000
+  4)  Unlimited   Magic dust                                          100
+
+A faerie taylor:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   Sleeves of fox fur                                 1000
+  2)  Unlimited   Greaves of thistles                                1000
+  3)  Unlimited   A pair of rose petal slippers                      1000
+  4)  Unlimited   A green leaf cloak                                  100
+
+A faerie grocer:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A thimble of clear water                            100
+  2)  Unlimited   A firefly                                            10
+  3)  Unlimited   A small backpack                                    200
+
+An ancient faerie:
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   A Midgaard scroll of recall                        1500
+  2)  Unlimited   An Elven Scroll                                    2500
+  3)  Unlimited   A scribing quill                                    250
+  4)  Unlimited   A sheet of parchment                                100

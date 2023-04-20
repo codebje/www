@@ -1,0 +1,116 @@
+--- notes
+
+From Samsera (via Great Western Ocean): 8s3e2sd28wse
+
+Mist/portal to 3.dragon_baby, usually this is the one right near the ancient black dragon.
+
+--- map
+
+                                          #
+                                         /|
+                                        / # - #
+                                       /  |
+                                      /   |     Midgaard
+                                     /    |        /
+                                    # 5 * # * 6   # 8
+                                    |     |       |/|
+                                    |     7 - #   # #
+                                    |               |
+                                # - # ----- # ∘ # > # - # ∘ 9
+                               /    |
+                              0     #
+                              *     |
+              # * 1 - # - # * #     3
+             /         Great        ∘
+            /         Western - # - #
+           /           Ocean        v
+          /                       Haven
+         /              F
+        /              /*
+       /  2   Dragonnia #                                     A
+      /   |          ⩗ /                                     /
+     /    #     3   A #                                     #
+    /     |    ⩘     /                                     /
+   # ---- # - # # - #                                     /
+              | |  /                                      /
+              # 4 /
+              |  /
+              # /
+              |/
+              #
+             /
+            ☠
+
+--- loot
+
+The dragon hatchling:
+    a steel key
+
+A bodyguard:
+    a jagged spear WEAPON impale F3 2d5
+    a copper hammer WEAPON claw F4 3d5
+    a silver dagger WEAPON pierce F2 2d4 !wer
+    an emerald sword WEAPON slash F1 3d6
+
+A Draconian:
+    a jagged spear WEAPON impale F3 2d5
+
+A large hydra (in 0):
+    a golden wand WAND (life drain)
+    a stone club WEAPON claw F4 3d5
+    a silver staff STAFF (heal) mag!wer
+    a grey key KEY
+
+A concubine:
+    a silver dagger WEAPON pierce F2 2d4 !wer
+
+A powerful mage (in 5):
+    a cyan potion POTION (blindness harm !NO SPELL!)
+    a diamond brooch ARMOR AC -4 mp 25 mag
+    a stone club WEAPON claw F4 3d5
+    a black staff STAFF (life drain) !g
+
+The holy Draconian (in 6):
+    a platinum bracelet ARMOR AC -7
+    a white silk belt ARMOR AC -6 str 2
+    a holy symbol ARMOR AC -4 mp 15 !dem!und
+    a magenta potion POTION (cure critic protection from evil !NO SPELL!)
+    a runed scroll SCROLL (armor protection from evil flame strike) mag
+
+The Draconian King (in 7):
+    a pair of spiked gauntlets ARMOR AC -4 dam 1 str 1 mag!sl
+    a crested shield ARMOR AC -8 con 1 !sl
+    a fur cloak ARMOR AC -6 str 1 hit 1 dam 1
+    an emerald sword WEAPON slash F1 3d6
+    a stone key KEY (unlocks door to the east below King)
+
+The Draconian Queen (east of 7):
+    a black silk belt ARMOR AC -6 con 2
+    a dragon skin bracelet ARMOR AC -6
+    a silver dagger WEAPON pierce F2 2d4 !wer
+
+The dragon master:
+    a dragon's tooth knife WEAPON pierce F2 3d5 dex 1
+    a set of dragon scale sleeves ARMOR AC -7 hit 1 dam 1 !sl
+    a pair of dragon skin gloves ARMOR AC -6 dex 2 hp 10 !sl
+    a skeleton head key KEY
+
+The Great White Dragon:
+    scale mail ARMOR AC -8 hp 20 !sl
+
+The Great Black Dragon (in 4):
+    a pair of dragon scale leggings ARMOR AC -7 !sl
+    a platinum key KEY (to Fryscillius)
+
+The Great Red Dragon (in 8):
+    the staff of the dragon STAFF (call lightning) mag
+    a helm of dragon kind ARMOR AC -8 hp 5 !sl!min
+    a tarnished gold key KEY (to 9)
+
+The Ancient Green Dragon (in 9):
+    a dragon tailed whip WEAPON bite F7 4d5 hit 1 dam 1 !g
+    a diamond brooch ARMOR AC -4 mp 25 mag
+    a ruby key KEY (to door west below 0)
+
+Fryscillius (in F):
+    <worn on claw>       a diamond ring

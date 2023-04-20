@@ -1,0 +1,93 @@
+--- notes
+
+Need to kill waitress (in a)
+
+From Samsera: 16w6swse14s7e2s4e
+
+Hugo, the bartender's quest:
+    Hugo, the bartender tells you, 'the ingredients needed for brewing are some special fungus, barley, a cask,'
+    Hugo, the bartender tells you, 'some malt, and some yeast.    '
+    Barley must be fresh from the fields, not the stuff from Lucia.
+
+Sisters: Yun (51 mu), Yumi (51 cl), Yuiri (51 sl)
+
+Chris Lightfellow:
+    Flexo tells you, 'and say take me to alma kinan'
+
+--- map
+
+
+                             x           x
+                            # - # - # - C   #
+                            |           |   |
+                            # * 1       # - a
+                            |x          |x  |
+                            A - # - # - B   #
+
+                                                # - # - #
+                                                   /|
+                                                  x |
+                                                ∘/  |
+                                                #   |
+                                                    |
+                                                # + #
+                                                    |
+                                                    # + #
+                                                    |
+                    # - # - # - # - #           # + #
+                    |   |   |   |   |               |
+                    # - # - # - # - #           # + #
+                    |   |   |   |   |               |
+                    # - # - # - # - #               # + #   # - # - !   # - # - #
+       Thousand     +   +   +   +   +               |       |      x    |      x
+         Mile - # - # - # - # - # - # - # - # - # - # ----- # - # - # - #     C
+         Road       +   +   +   +   +               |       |           |
+                    # - # - # - # - #           # + #       # - # - #   # - # - #
+                    |   |   |   |   |               |              x           x
+                    # - # - # - # - #               # + #         A           B
+                    |   |   |   |   |               |
+                    # - # - # - # - #           # + #
+                                                    |
+                                                    # + #
+                                                    |
+                                                # + #
+                                                    +
+                                                # ∘ 0
+                                                    ∘
+                                                    #
+
+--- loot
+
+Ace (in 0):
+    <held>               the keys to the mansion KEY
+
+Chief Geddoe (w of 0):
+    <held>               an ornate iron key KEY
+
+Chris Lightfellow (in 1):
+    a white key (to desk)
+Desk (in 1):
+    the band of the Silver Maiden TREASURE con 2 int 1 wis 1 mag!e!dem!vam
+
+On the ground (in the fields off road at zone entrance), Lucia:
+    an ear of barley FOOD 10hr Eligible
+
+Zapon, the lizard Chief:
+    some strange dark fungi FOOD 1hr poison
+
+Salome Harras:
+    some unused malt TRASH
+Emily:
+    some organic yeast TRASH
+
+Dominic:
+    a cask LIQ CONTAINER
+
+--- shops
+
+Hugo, the bartender (in a):
+ ##   Available   Item                                               Cost
+-------------------------------------------------------------------------
+  1)  Unlimited   Beer-battered Minotaur pie                           50
+  2)  Unlimited   Hugo's large cask of ale                             85
+  3)  Unlimited   An aged bottle of wine                              185

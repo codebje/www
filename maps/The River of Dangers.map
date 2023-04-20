@@ -1,0 +1,74 @@
+--- notes
+
+Entrance from Plains of Xev. Maiden is in peace room.
+
+Weeds in A are portal to B. Giant Barracuda 3x mutilate through sanc, 51mu, tracks, but can't track out of zone.
+
+--- map
+
+             The Plains of Xev
+                    |
+                    #
+                    |
+                    #
+                    |
+                # - #
+                |
+            # - #
+            |   |
+        # - A - #
+        |  /|   |
+    0 + # - # - # - # - 1 - #
+           /|  /|
+            # - #
+           /|  /|
+            # - #
+           /|  /
+        # - #
+       /|  /
+        #
+       /|
+        #
+
+--- underwater
+
+
+          A
+         /
+        @
+        |/   /
+        @ - @
+        |/  |/
+        @ - @
+        |/  |/
+        @ - A
+     /  |/
+    @ - @
+    |/
+    @
+
+            @ - @
+            |   |
+            @ - @
+                |
+                @
+                |
+    A           @ - @
+    ∧           |   |
+    B - @ - @ - @ - @
+            |/
+            @
+
+--- loot
+
+The female alligator (in 0):
+    the corpse of a jungle man CONTAINER (weight 611)
+    alligator hatchlings ARMOR AC -2 dam 2 hp 22 dex -2 cha -2 level 28 !g!mu!cl!th!wa!sl!sk!dk!sd!nm
+The corpse of a jungle man:
+    fiery red face paint WORN str 1 dam 2 hp 5 !mu!cl!nm
+
+The old fisherman (in 1):
+    a weathered fishing rod POLE dex -2 con 1 mp 1 hit 1
+
+The gigantic snapping turtle:
+    the shell of a snapping turtle ARMOR AC -14 dam 2 hp 25 dex -2 ac -2 level 28 !g!mu!cl!th!as!sl!sk!dk!sd!hlf!nm

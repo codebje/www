@@ -1,0 +1,82 @@
+--- notes
+
+frozen_hatchling in 0 can be portalled to - aggro room but not too dangerous
+
+Most mobs track back to town. Dragonslayer does not.
+
+--- map
+
+                                                                        #
+                                                                        |
+                                                                        9
+                                                                        |
+                                        #                               #
+                                        +                              /
+                                    # + # + #                         #
+                                        |                            /
+                                    # + # + #               # - # - # - #
+                                        |                   |   |   |   |
+          Q         2   0               #   #               # - 5 - # - #
+         /          +   +               |   +               |   |   |   |
+        # - # - # ∘ 1 - # - # - # - # - # - 3 + #           8 - 4 - # - #
+                    +           |       |   +               |   |   |   |
+                    #           |       #   #               7 - # - # - 6
+                                |       |                      /
+                                |   # + # + #                 # ----- #
+                                |       |                    /       /
+                                #   # + # + #               #       #
+                                |       +                  /       /
+                #               |       #             # - # - # - #
+                |               |                            /    |
+            # - # - #   # 4     |       #   # 5             #     #
+                |       +⩘      |       +   +⩘             /     /
+                #   # + # - # - # - # - # - # + #      Frozen   #
+                |       +       |       +   +          Plains
+                #       # 8     |       #   #
+                |        ⩘      |
+                # - # - #       #
+                |               |
+                | 7             |         6
+                |⩘              |        /
+                # ------------- # - # - #
+
+--- loot
+
+Ashlan (in 1):
+    <wielded>            Icening Tongue WEAPON burn F0 3d13 hit 3 dam 1 mag!n!mu!cl!th!as!sl!sd!nm
+    <helnd>              an icy key KEY
+
+Fastillion (in 2) is using:
+    ice blue robes WORN hit 1 mp 20 dam 2
+    Fastillion's Staff WEAPON blast F0 5d8 dam 2 mp 10 !n!th!wa!ra!as!sl!sk!dk!sd
+
+Tsalmoth (in 3):
+    Tsalmoth's Blade WEAPON impale F0 3d13 hit 2 dam 2 mag!e!n!th!as!sd
+
+A priestess of Brys:
+    a snowy white headband WORN mp 30 savespell -5 !n!wa!sk!dk
+    winter robes ARMOR AC -2 mp 25 hit 3 !n!th!wa!ra!as!sk!dk
+
+the Dragonslayer (in 9, Solamnic Knight, charge through sanc) is using:
+    <worn on body>       black dragonscale armor ARMOR AC -12 hp 10 hit 1 dam 2 !sl
+    <worn on head>       a black dragonscale helm ARMOR AC -6 hp 10 hit 1 dam 2 !sl
+    <worn on legs>       black dragonscale leggings ARMOR AC -6 hp 10 hit 1 dam 2 !sl
+    <worn on feet>       black dragonscale boots ARMOR AC -6 hp 10 hit 1 dam 2 !sl
+    <worn on hands>      black dragonscale gauntlets ARMOR AC -6 hp 10 hit 1 dam 2 !sl
+    <worn on arms>       black dragonscale sleeves ARMOR AC -6 hp 10 hit 1 dam 2 !sl
+    <worn as shield>     a black dragonscale shield ARMOR AC -6 hp 10 hit 1 dam 2 !sl
+    <worn about waist>   a black dragonscale girth ARMOR AC -6 hp 10 hit 1 dam 2
+    <wielded>            Wrath of the Dragonslayer WEAPON crush F0 4d9 hp 10 hit 1 dam 2 !g!mu!cl!th!as!sl!sd!nm
+
+Fazande (below Q) is using:
+    icy blue plate ARMOR AC -6 hp 10 hit 1 dam 2 !n!mu!cl!th!as!sl!nm
+    a rapier named "WinterSoul" WEAPON stab F0 6d6 hp 10 hit 2 dam 2 !mu!cl!nm
+
+Ilvisan (in Q) is using:
+    <used as light>      a frosty sceptre WAND (35: protection from evil 10/10) !e!n
+    <worn on head>       Crown of Frost ARMOR AC -11 mp 25 hit 2 dam 3 !n!th!wa!ra!as!sl!sk!dk!sd
+
+Tika the Frost Queen (in Q) is using:
+    an ice coated tiara WORN mp 20 dam 1 hit 1 spelldam 15 !e!n!th!wa!ra!as!sk!dk!min
+    an ice-coated dagger WEAPON pierce F36 5d13 hit 2 dam 2 mp 10 level 36 !wa!ra!sk!dk (after perfect forge)
+    <worn about body>    the corpse of a skeleton

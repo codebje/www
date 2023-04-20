@@ -1,0 +1,72 @@
+-- notes
+
+"an old key" in corpse in 1, key to 2
+
+-- map
+
+            1                                                               # + #   8 ∘ # - #
+            +                                                                   +   ∘   +
+            #                                                               # + # - # - # + #
+            |                                                                   |   +   |
+            #   # + #   0   c       #           6 + #   #                       #   #   # + #
+            |   |       |   ∘       |           ∘       +                       |       |
+        2 ∘ # + # - # - # - # - # - #           # - # - # + 5                   #   # + # + #
+                |       +       |               |   +   |                       |   +   |
+                #   # - # - #   #           7 ∘ #   #   # + #               # + #   # + # + #
+                |   |   |   |   |           ∘   |   |   |                       |       |
+                #   # - # - # - # - #       #   #   #   # + #               a ∘ # #     #
+                |   |   |   |   |   |       +   |   |   |                       | |     |
+                #   # - # - #   #   #       # + #   #   #                   9 ∘ # b     #
+                |    /  |       |   |           |   +   |/                      |∘      |
+            3 ∘ #   A - # - #   #   4           A - # - B                       # - # - B
+                |       |       |              /+       +                              /
+                # - # - # - # - # - #           # - # - #
+
+-- mobs
+
+the nightmare (in 2):
+    <worn around neck>   a long black mane (invisible) WORN dam 3 mp 30 ac -5 mag!th!wa!ra!as!sl!sk!dk
+                         a horseshoe nail (key to 3)
+
+the Eldrak (in 3):
+    <worn on body>       a heart of ice WORN spelldam 15 mp 40 wis 1 ac -8 !th!wa
+                         a broken scale (key to 6)
+
+a gruesome stone gargoyle (in 4):
+                         a heart POTION
+
+a closet skeleton (in 5):
+    a heart POTION
+
+the Keeper (in 6):
+    <worn around neck>   a cape CONTAINER hit 2 dam 2 hp 25 ac -8
+in a cape:
+                         a gold key (to 7)
+
+the dragon statue (in 7):
+                         a heavy silver chain ARMOR AC -9 dam 2 hit 1 hp 25 mag!mu!cl!th!ra!as!sl!sd!nm!wer
+                         a silver key (to 8)
+
+the wizard Medraut (in 8):
+    <worn about waist>   a thin gold belt (invisible) ARMOR AC -5 dex 1 mp 30 !th!wa!sl
+                         a glowing key (to 9)
+
+Queen Norriann (in 9):
+    <worn around neck>   a silver locket WORN ac -8 dam 2 mp 35 mag!wer
+                         a grey key (to a)
+
+Pompius the mad (in a):
+                         a silver grey beard WORN dam 2 hp 30 ac -7
+                         a sliver of glass KEY (to b)
+
+the Shadow Demon (roaming near b):
+    <worn on head>       a veil of shadows (invisible) WORN mp 20 dam 2 hit 2 level 30 !wa!ra!sk!dk
+                         a tiny shadow KEY (to c)
+
+Leander (in c):
+    <worn about body>    a brown robe WORN mp 30 hit 3 ac -10 !wa!as
+    <worn around wrist>  a rune bracelet WORN mp 40 ac -8 !th!wa!ra!as
+    <held>               a walking stick OTHER hit 4 dam 4 mag
+                         a star (key to glass case)
+glass case (in c):
+                         the constellation WEAPON blast F0 11d3 hit 3 dam 3 ac -5 !mu!cl!th!as!sl!sd!nm

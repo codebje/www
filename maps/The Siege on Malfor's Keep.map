@@ -1,0 +1,283 @@
+--- loot
+
+You get a heavy cloak from the corpse of a solamnic knight.
+
+You get a white hooded robe from the corpse of a priest.
+
+You get a pair of pugilist gloves from the corpse of a shou-lin warrior.
+
+You get a silver longsword from the corpse of a Solamnic knight officer.
+
+You get a buckler from the corpse of the gateguard.
+
+You get a hunting knife from the corpse of a ranger.
+
+You get a black dagger from the corpse of an assassin.
+
+You get a buckler from the corpse of the towerguard.
+
+You get a red fur cloak from the corpse of a death knight.
+
+You get a black silken robe from the corpse of the mage.
+
+You get a crystaline wand from the corpse of a huge, black demon.
+
+You get a dark longsword from the corpse of a death knight.
+
+You get a red hooded robe from the corpse of the unholy cleric.
+
+You get a blessed mace from the corpse of Solice's bodyguard.
+
+You get a black dagger from the corpse of the torturer.
+You get a bloody leather apron from the corpse of the torturer.
+You get a dagger shaped key from the corpse of the torturer.
+
+You get a beautiful key from the corpse of Lord Jalek.
+You get a silver longsword from the corpse of Lord Jalek.
+You get a pair of Solamnic boots from the corpse of Lord Jalek.
+
+Lady Solice is using:
+<held>               the Holy Word of Paladine
+
+Lord Krass is using:
+<worn around neck>   the Black Rose of Krass ARMOR AC -2 str 1 hit 2 dam 1 mag!g!n!mu!th!ra!as!sl!sk!sd!nm
+<worn on feet>       Boots of the Black Rose ARMOR AC -6 con 2 hit 2 dam 3 mag!g!n!mu!cl!th!as!sl!sk!sd!nm
+<wielded>            a dark longsword WEAPON slash F0 4d8 hit 1 dam 1 mag!g!n!mu!cl!th!ra!as!sl!sd!m
+<held>               a beautiful key
+
+Lady Ssirak is using:
+<held>               a tome of learning
+a tome of learning ARMOR AC -0 hit 2 mp 45 mag!g!n!cl!th!wa!ra!as!sl!sk!dk!sd
+
+Carrying a note:
+    I have finally done it!
+    My magic has created the portal I have so desired.
+    The concentration of the magic I required was obtainable in the
+    plains of the Astral Gods.
+
+    Lady Ssirak
+
+Lord Malfor is using:
+<worn on hands>      a pair of serpent skin gloves
+<wielded>            a black dagger
+<held>               a beautiful key
+
+You get an odd looking key from the corpse of the evil master.
+
+You get a titanium key from the corpse of the titanium golem.
+
+You get a bloodstained key from the corpse of the evil priest.
+
+--- notes
+
+A: a bloodstained altar (50k coins)
+J: Lord Jalek
+K: Lord Krass
+E: the evil master
+M: Lady Ssirak, Lord Malfor
+P: the evil priest
+S: Lady Solice
+T: the titanium golem
+O: the torturer
+
+Keys: from M unlocks door to T which further unlocks door east; a demon is there, no loot.
+
+--- map
+
+                                         #
+                                         |
+             # - #                       #                       # - #
+             |   |                       |                       |   |
+             # - # ------ # ------ # ------ # ----- # ----- # ----- # - #
+                 |                 |                |               |             #       2       #
+                 #                 #       /        #               #            x       /       x
+                 |                      - 1 -                       |           # ----- 1 ----- #
+                 |                       /|                         |                  /|
+                 |                      #   #                       |           K + # - # - # + #
+                 |                     x|   +                       |                   |
+                 |                    # #   #                       |           # + # - # - # + #
+                 |              *       |   |                       |                   |
+                 |              #   # - #   #                       |                   #
+                 |              |       |   |                       |               #   +
+                 |              #   #   #   #                       |              /|   #
+                 |              +   +   |   |                       |             # |
+             # - #              # - # - # - # - #                   |            /  *
+             |                          +                           |         ☠ /   |   2
+             #      A     P # - # - # - # - # - # - #   # E         |         +/    |   |
+             |      |    x  |                       |   |/          |         # M - #   # - # + #
+             #      # - # + #   #       #       #   # + # - #       # - #    x+ |       |
+             |              |   |       +       |   |                   |   # # # + # - #
+     # - # - #              #   # - #   # # # - #   #                   #     *
+             |              |       |   +/  |       |                   |     (malfor's room bottom of keep)
+             # - #  # - # + #       # - # - #       # * T * #           #
+             |     /        |           +           |      x            |
+             #    O         # - # - # - # - # - # - #     #             # - # - #
+             |              |           |   |       |                   |
+             |  # - # - #   #           #   #       #   # - # - #   # - #
+             |      |       |                       |       |           |
+             |  # - # - #   #           #           #   # - # - #       #
+             |      |       |           |           |       |           |
+         # - #  # - # - # + # - # - # - # - # - # - # + # - # - #       # - #                                 #
+             |                          +                               |                                    /
+             #                      # + # + #                           #                                   #
+             |                      |/  |   |/                          |                                  /
+             # - #                  T   #   T                       # - #               both T look like: T
+             |                          +                               |
+             #                          #                               #
+             |                          |                               |
+         # - # ------ # ------ # ------ # - # - # ----- # ----- # ----- # - # - #
+         |   |                          |                                   |
+         # - #                          #                                   # - #
+                                        |                                   |
+                                        # - # - # ----- # ----- # ----- # - # - #
+                                        |                               |   |
+                                        #                               J   S
+                                        |
+                                 The Mystic Sea
+
+--- items
+
+Object 'a pair of pugilist gloves', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: MAGIC !MAGE !CLERIC !THIEF !WARRIOR !RANGER !ASSASSIN !SOLAMN_KN !DEATH_KN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 3, Value: 1300, Rent: 100
+Values not used for this item.
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 1
+
+Object 'a white hooded robe', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !EVIL !NEUTRAL !MAGE !THIEF !WARRIOR !RANGER !ASSASSIN !SHOU_LIN !SOLAMN_KN !DEATH_KN !SHAD_DANC !NECRO
+    IDENTIFIED
+Weight: 5, Value: 1700, Rent: 215
+AC apply: 5
+Can affect you as :
+   Affects: MAXMANA By 15
+   Affects: SAVING_SPELL By -2
+
+Object 'a heavy cloak', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !EVIL !NEUTRAL !MAGE !THIEF !RANGER !ASSASSIN !SHOU_LIN !DEATH_KN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 8, Value: 1400, Rent: 230
+AC apply: 4
+Can affect you as :
+   Affects: DAMROLL By 1
+   Affects: SAVING_SPELL By -3
+a heavy cloak ARMOR AC -4 dam 1 savespell -3 mag!e!n!mu!th!ra!as!sl!dk!sd!nm
+
+Object 'a silver longsword', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: HUM MAGIC !EVIL !NEUTRAL !MAGE !CLERIC !THIEF !RANGER !ASSASSIN !SHOU_LIN !DEATH_KN !SHAD_DANC !NECRO !WEREWOLF
+    IDENTIFIED
+Weight: 10, Value: 4950, Rent: 585
+Forge level: 0 No. dice: 4 Dice size: 8 Type: slash
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 1
+a silver longsword WEAPON slash F0 4d8 hit 1 dam 1 mag!e!n!mu!cl!th!ra!as!sl!dk!sd!nm!wer
+
+Object 'a buckler', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM MAGIC !SHOU_LIN IDENTIFIED
+Weight: 7, Value: 1500, Rent: 175
+AC apply: 7
+Can affect you as :
+   Affects: STR By 1
+   Affects: DEX By 2
+
+Object 'a pair of Solamnic boots', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: MAGIC !EVIL !NEUTRAL !MAGE !CLERIC !THIEF !RANGER !ASSASSIN !SHOU_LIN !DEATH_KN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 7, Value: 140000, Rent: 560
+AC apply: 6
+Can affect you as :
+   Affects: CON By 2
+   Affects: HITROLL By 2
+   Affects: DAMROLL By 3
+a pair of Solamnic boots ARMOR AC -6 con 2 hit 2 dam 3 mag!e!n!mu!cl!th!ra!as!sl!dk!sd!nm
+
+Object 'a hunting knife', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: HUM MAGIC !EVIL !MAGE !CLERIC !THIEF !SHOU_LIN !SOLAMN_KN !DEATH_KN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 4, Value: 21000, Rent: 425
+Forge level: 0 No. dice: 4 Dice size: 7 Type: slash
+Can affect you as :
+   Affects: DEX By 1
+   Affects: HITROLL By 2
+
+Object 'a black dagger', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: MAGIC !GOOD !MAGE !CLERIC !WARRIOR !RANGER !SHOU_LIN !SOLAMN_KN !DEATH_KN !NECRO IDENTIFIED
+Weight: 3, Value: 1100, Rent: 385
+Forge level: 0 No. dice: 8 Dice size: 3 Type: pierce
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 1
+   Affects: POISON By 45
+   Affects: POISON By 45
+   Affects: POISON By 45
+   Affects: POISON By 45
+
+Object 'a red fur cloak', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !GOOD !MAGE !CLERIC !THIEF !RANGER !ASSASSIN !SHOU_LIN !SOLAMN_KN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 8, Value: 1400, Rent: 115
+AC apply: 3
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 1
+
+Object 'a black silken robe', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: MAGIC !GOOD !NEUTRAL !CLERIC !THIEF !WARRIOR !RANGER !ASSASSIN !SHOU_LIN !SOLAMN_KN !DEATH_KN IDENTIFIED
+Weight: 5, Value: 1900, Rent: 140
+AC apply: 4
+Can affect you as :
+   Affects: INT By 1
+   Affects: MAXMANA By 15
+
+Object 'a crystaline wand', Item type: WAND
+Item will give you following abilities:  NOBITS
+Item is: !DONATE MAGIC CURSED !SELL IDENTIFIED
+Weight: 4, Value: 10000, Rent: 1000
+Spell lvl: 40 Max charges: 2 Charges left: 2 spell: true sight
+
+Object 'a dark longsword', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: HUM MAGIC !GOOD !NEUTRAL !MAGE !CLERIC !THIEF !RANGER !ASSASSIN !SHOU_LIN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 10, Value: 4950, Rent: 585
+Forge level: 0 No. dice: 4 Dice size: 8 Type: slash
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 1
+
+Object 'a red hooded robe', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: GLOW MAGIC !GOOD !NEUTRAL !MAGE !THIEF !WARRIOR !RANGER !ASSASSIN !SHOU_LIN !SOLAMN_KN !DEATH_KN !SHAD_DANC !NECRO
+    IDENTIFIED
+Weight: 5, Value: 1700, Rent: 215
+AC apply: 5
+Can affect you as :
+   Affects: MAXMANA By 15
+   Affects: SAVING_SPELL By -2
+
+Object 'a bloody leather apron', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: MAGIC !GOOD !MAGE !CLERIC !WARRIOR !RANGER !SHOU_LIN !SOLAMN_KN !DEATH_KN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 6, Value: 3100, Rent: 225
+AC apply: 7
+Can affect you as :
+   Affects: HITROLL By 2
+   Affects: DAMROLL By 1
+
+Object 'a blessed mace', Item type: WEAPON
+Item will give you following abilities:  NOBITS
+Item is: GLOW HUM MAGIC BLESS !EVIL !NEUTRAL !MAGE !THIEF !WARRIOR !RANGER !ASSASSIN !SHOU_LIN !DEATH_KN !SHAD_DANC !NECRO
+    IDENTIFIED
+Weight: 10, Value: 4950, Rent: 260
+Forge level: 0 No. dice: 4 Dice size: 6 Type: bludgeon
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 1
+

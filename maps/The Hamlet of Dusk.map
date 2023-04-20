@@ -1,0 +1,22 @@
+--- items
+
+Object 'a shark tooth necklace', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: MAGIC !DEATH_KN IDENTIFIED
+Weight: 2, Value: 4500, Rent: 150
+AC apply: 6
+Can affect you as :
+   Affects: MAXHIT By 5
+   Affects: DAMROLL By 1
+   Affects: WIS By -1
+
+Object 'a shark skin bracelet', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !DEATH_KN IDENTIFIED
+Weight: 7, Value: 2800, Rent: 315
+AC apply: 9
+Can affect you as :
+   Affects: DEX By 1
+   Affects: DAMROLL By 1
+   Affects: MAXHIT By 8
+   Affects: INT By -2

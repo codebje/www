@@ -1,0 +1,45 @@
+--- Notes
+
+From Samsera: 17n2e3n2uwnd2n
+
+To Shrike from first room of maze: nwn2enwn2w n
+
+--- map
+
+        0 - Y - Z
+        |   |   ∨
+        X - U < T - R
+        |   |   |   |
+        W < V   S - Q > E > A
+        ∨   ∨   ∨   |   ∧
+        N - M - O - P > D   M
+        ∨   ∧   ∨   ∨   |   ∨
+    I < K < L - G - C - B   N
+        ∧   ∨   |   ∨   |
+        J - I - H > F - A
+                ∧   ∨
+                | # H
+                |⩗|
+                # 1
+                  |
+                  #
+                  |
+                  #
+                  |
+                  #
+                  |
+                  #
+                  |
+        Northern Mountain Range
+
+--- loot
+
+The Shrike (in 0):
+    ButcherBird's Leggings ARMOR AC -6 hp 10 dam 2 mag!n!mu!cl!th!wa!ra!sl!sk!nm
+    Embrace of Death ARMOR AC -6 hp 10 dam 1 mag!mu!cl!wa!ra!sl!sk!dk!nm
+
+First Temple Priest (in 1):
+    Cloak of Forever ARMOR AC -9 mp 15 str 1 dam 1 mag!th!wa!ra!as!sk!dk!sd
+
+Second Temple Priest (in 1):
+    Robe of Never ARMOR AC -9 mp 15 int 1 dam 1 mag!n!th!wa!ra!as!sk!dk!sd

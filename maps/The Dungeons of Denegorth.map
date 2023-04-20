@@ -1,0 +1,168 @@
+--- notes
+
+Can portal in to scuzzy to skip the huge walk.
+
+Courier repops fairly quickly with 100k in changepurse each time.
+
+Veneziruion is trigger aggro, 50SK, 3xoblit through sanc. Does not wander.
+The Warden will wander about. 50RA, 3xoblit through sanc.
+
+--- map
+
+                    #   #   #   #   #
+                    ∘   ∘   ∘   ∘   ∘
+                # ∘ # - # - # - # - # ----- #
+                    |   ∘   ∘   ∘   ∘      /
+                # ∘ #   #   #   #   #     #
+                    |                     |
+                # ∘ #   # - # - # - # # ∘ # ∘ #
+                    |   *   *   *   |     |
+      1KMR          # - # - # - # * # # ∘ # ∘ #   #   #
+        |                       |   |     |       *   *
+        # - # - # - #           # * #     # - # - # - # - #
+            |      /            |   |                    /
+            0 - # # #       #   # * #   3   4   5   6   #
+                 /  *       *   |       ∘   ∘   ∘   ∘   |
+                # - # - # - # - #   # - # - # - # - # - #
+                        *          /
+                        #         #                   # - #
+                                  |                   |   +
+                                  # - # - # - # - # - #   2
+                                              ∘       |   |
+                                      # - # - # - #   1   #
+                                      |           |
+                                      # - # - # - #
+
+--- loot
+
+The Dungeon Operator (in 0):
+    <worn on body>       polished brass platemail ARMOR AC -8 dex 2 hit 2 !sl
+    <worn on head>       a polished brass helm ARMOR AC -8 int 2 hit 2 !sl
+    <worn on legs>       polished brass greaves ARMOR AC -10 dex 2 hit 2 !sl
+    <worn on feet>       gator skin boots ARMOR AC -8 dex 2 hit 2 !sl
+    <worn on hands>      brass ringmail gauntlets ARMOR AC -5 str 2 hit 2 !sl
+    <worn on arms>       polished brass vambraces ARMOR AC -10 hit 2 !sl
+    <worn about waist>   a brass scale belt CONTAINER
+    <wielded>            a shimmering brass broadsword WEAPON slash F0 10d3 dam 2 hit 2 mag!mu!cl!th!as!sl!sd!nm
+A brass scale belt:
+    a large brass key KEY (to a maplewood desk, 3, 4, 5, and 6)
+
+A maplewood desk (in 0):
+    daily operating funds (200000 coins)
+
+the dungeon operator's assistant is using:
+    <worn on finger>     a guardsman's ring KEY (to various locked doors around hallway)
+    <worn on body>       polished brass platemail ARMOR AC -8 dex 2 hit 2 !sl
+    <worn on legs>       polished brass greaves ARMOR AC -10 dex 2 hit 2 !sl
+    <worn on feet>       gator skin boots ARMOR AC -8 dex 2 hit 2 !sl
+    <worn on hands>      brass ringmail gauntlets ARMOR AC -5 str 2 hit 2 !sl
+    <worn on arms>       polished brass vambraces ARMOR AC -10 hit 2 !sl
+    <wielded>            a guardsman's axe WEAPON slash F0 2d16 hit 2 dam 2 mag
+
+A groggy human:
+    a dull grey shirt WORN
+    dull grey pants WORN
+
+Lord Ruerphux, Sir Huetlef:
+    a cloak of dishonor WORN str -3 hit -3 dex -3 !n
+
+A rogue bounty hunter:
+    a long curved dagger WEAPON pierce F0 2d19 hit 2 mag
+    stained leather leggings WORN ac -10 dex 2
+    a dirty leather jacket WORN ac -12 dam 1
+
+A courier:
+    a changepurse CONTAINER !tro!gia
+A changepurse:
+    an inprisonment fee (100000 coins)
+
+A dungeon guard (weapon varies):
+    <worn on finger>     a guardsman's ring KEY (to various locked doors around hallway)
+    <worn on body>       polished brass platemail ARMOR AC -8 dex 2 hit 2 !sl
+    <worn on head>       a polished brass helm ARMOR AC -8 int 2 hit 2 !sl
+    <worn on legs>       polished brass greaves ARMOR AC -10 dex 2 hit 2 !sl
+    <worn on feet>       gator skin boots ARMOR AC -8 dex 2 hit 2 !sl
+    <worn on hands>      brass ringmail gauntlets ARMOR AC -5 str 2 hit 2 !sl
+    <worn on arms>       polished brass vambraces ARMOR AC -10 hit 2 !sl
+    <worn as shield>     a polished brass shield ARMOR AC -10 savespell -5 savepara -5 savebreath -5 !sl
+    <worn about waist>   a guardsman's belt CONTAINER 25lbs cursed
+    <wielded>            a guardsman's axe WEAPON slash F0 2d16 hit 2 dam 2 mag
+    <wielded>            a guardsman's sword WEAPON slash F0 5d5 hit 2 dam 2
+A guardsman's belt:
+    a month's wages (48721 coins)
+
+A sentinel guard:
+    <worn on finger>     a guardsman's ring KEY (to various locked doors around hallway)
+    <worn on body>       polished brass platemail ARMOR AC -8 dex 2 hit 2 !sl
+    <worn on head>       a polished brass helm ARMOR AC -8 int 2 hit 2 !sl
+    <worn on legs>       polished brass greaves ARMOR AC -10 dex 2 hit 2 !sl
+    <worn on feet>       gator skin boots ARMOR AC -8 dex 2 hit 2 !sl
+    <worn on hands>      brass ringmail gauntlets ARMOR AC -5 str 2 hit 2 !sl
+    <worn on arms>       polished brass vambraces ARMOR AC -10 hit 2 !sl
+    <worn as shield>     a polished brass shield ARMOR AC -10 savespell -5 savepara -5 savebreath -5 !sl
+    <worn about waist>   a guardsman's belt CONTAINER 25lbs cursed
+    <wielded>            a guardsman's spear WEAPON impale F0 14d2 hit 2 dam 2 mag
+A guardsman's belt:
+    a month's wages (48721 coins)
+
+A dark-haired halfling:
+    a torn tassled cap WORN int -2 cha 1
+
+A wild-eyed elf:
+    blood-stained breeches WORN cha -2 int -2
+
+A scuzzy dwarf:
+    a cloak made of rodent hair WORN cha -2
+
+A sad looking woman:
+    a grey robe WORN cha -1
+
+A monk of Amal:
+    a saffron shawl WORN ac -20 dam 2 !wa!ra!sk!dk
+
+Cabinets (in 1):
+    foul smelling rations FOOD 12hr Edible
+    a hearty meal FOOD 12hr Edible
+
+Kettle (in 1):
+    a tin cup LIQ CONTAINER
+
+Xaux (in 1):
+    a cleaver WEAPON slash F0 2d5
+
+Veneziruion (in 2):
+    <worn on body>       glistening black dragonscale armor ARMOR AC -10 cha 3 dex 2 dam 2 savespell -5 !g!e!sl!min!hlf!ogr!tro!dwa!fae
+
+The Warden of Denegorth (in 2):
+    <worn on finger>     a guardsman's ring
+    <worn on body>       a ringmail vest ARMOR AC -8 dex 2 dam 2 !sl
+    <worn on head>       a polished brass helm ARMOR AC -8 int 2 hit 2 !sl
+    <worn on legs>       polished brass greaves ARMOR AC -10 dex 2 hit 2 !sl
+    <worn on feet>       gator skin boots ARMOR AC -8 dex 2 hit 2 !sl
+    <worn on hands>      brass ringmail gauntlets ARMOR AC -5 str 2 hit 2 !sl
+    <worn on arms>       polished brass vambraces ARMOR AC -10 hit 2 !sl
+    <worn as shield>     a polished brass shield ARMOR AC -10 savespell -5 savepara -5 savebreath -5 !sl
+    <worn about body>    a hooded ringmail cloak ARMOR AC -12 savespell -5 dam 2
+    <worn about waist>   a brass scale belt CONTAINER
+    <wielded>            a shimmering brass battlehammer WEAPON crush F0 10d3 dam 4 hit 4 mag
+A brass scale belt:
+    warden's key KEY (to desk and wallsafe)
+
+A wooden desk (s of 2):
+    the prisoner manifest NOTE
+
+A wallsafe (s of 2):
+    a large bounty (750000 coins)
+    the funds of denegorth (1000000 coins)
+
+Darumaethro (in 3):
+    a jacket of bells WORN dex -3 hit -3 move -50 ac 10
+
+Routhex (in 4):
+    spiked iron collar ARMOR AC 5 str -3 dex -3 hit -3
+
+A dark assassin (in 5):
+    stone shoes ARMOR AC -0 hit -4 dex -4 weight 100 !sl
+
+Netheragi (in 6):
+    a heavy black velvet hood WORN SILENCE

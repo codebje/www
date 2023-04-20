@@ -1,0 +1,123 @@
+--- notes
+
+10e10n2e9nes
+
+--- map
+
+                # - # A
+                    |x
+                    #
+                    |
+                  1 #
+                  | |
+                  B # B - #
+                  | |
+                  # #
+                  | +
+                  # #     #
+                  +x      *
+                  # + # - 0 * #
+                          *
+                          #
+
+              Moria
+                |
+        #   #   #   #   #
+        |   |   |   |   |
+    # - # - # - # - # - A - #
+        |   |       |  x|
+        |   #       #   |
+        |               |
+    # - # - 2       9 - # - #
+        |               |
+        |   #       #   |
+        |   |       |   |
+    3 - # - # - # - # - # + b
+        |   |   |   |   |
+      # #   4   #   #   a               6
+      *         |                      /
+  # * #     # - # ----- #             #
+     /      +   |       |            /
+    5 + # - #   #       # ----- # + #
+                |                   |
+            #   |       #  _- #     #
+            *   |       | /         |
+        # * 7 + #   # - #-  #       #
+            *   |       |   +       |
+            #   #       # + #   # + #
+                |       +           +
+                # ----- #           #
+                |
+                #
+                |
+            # + # + c
+                |
+        d + # - # - # + e
+                |
+                #
+                |
+                f
+               ⩗
+              #
+
+--- loot
+
+The gaoler (in 0):
+    a gaol key KEY
+
+Xyrtog (in 1, oblit, 50mu, tons of hp, tracks):
+
+A cupboard (in 2):
+    a diamond earring WORN savespell -3
+
+A decaying corpse (in 3):
+    a silver hammer STAFF (35: group armor 1/1) !wer
+
+An insane merchant (in 4):
+    a Merchant's Guild Signet Ring ARMOR AC -3 age -10 str 2 !mu!cl!sl!sk!dk!nm
+
+Geoffrey Hiln (in 5):
+    a small key KEY (to stag's head in 5)
+
+A stag's head (in 5):
+    the study key KEY
+
+Geoffrey Hiln (un from 5):
+    the key to the mayor's bedroom KEY (to iron bound chest)
+    a missive TRASH
+
+An iron bound chest (uw from 5):
+    the Shield of Douglas ARMOR AC -10 hp 50 !e!mu!cl!th!ra!as!sl!dk!sd!nm
+
+A goblin shaman (in 6):
+    the evil eye STAFF (40: curse 1/1)
+
+On the ground (in 7):
+    cell keys KEY
+
+A rogue (in 8):
+    an ebony dagger WEAPON pierce F0 6d6 hit 2 dam 2 !mu!cl!wa!ra!sl!sk!dk!nm
+
+A giant frog (in 9):
+    silver greaves ARMOR AC -10 con 2 hp 10 !mu!cl!th!ra!as!sl!dk!sd!nm!wer
+
+A foul nest (in a):
+    a leather wristband WORN ac -7 hp 15 !mu!cl!th!wa!ra!as!sk!dk!nm
+
+The zombie of Badwick (in b):
+    a small bony key KEY
+
+A shadow (in c):
+    a shadow ring ARMOR AC -10 dam 2 !mu!cl!th!wa!ra!as!sl!sk!dk!nm
+
+An avatar of Asteh (in d):
+    Plate of the Air WORN ac -10 dam 2 mag!mu!cl!th!wa!ra!as!sk!dk!sd!nm
+
+The ghost of the bishop (in e):
+    rosary beads ARMOR AC -7 mp 25 savespell -3 !e!mu!th!wa!ra!as!sl!sk!dk!sd!nm (waist)
+
+A minion of Nool (in f):
+    razor whip STAFF (45: doom bolt 3/3)
+
+Unknown:
+    a pile of rubbish TRASH

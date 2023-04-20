@@ -1,0 +1,55 @@
+--- notes
+
+From ToJ: d27w2n
+
+--- map
+
+        # - # - F - # - # #
+        |              / /
+    Haon-Dor          # #                               # - #
+                     /  |                               |   |
+                    # - # - # - # - # - # - # - 0 * # - #   #   # - #   # - #
+                        |      /   ⩗   ⩗   ⩗   ⩗    +       |   |   |   |   |
+                        | #   A   #   #   #   B     # - #   #   #   #   #   # - #
+                        |/                         /   /   /    |/  |   |       ∨
+                        #                         # 3 # D E     E   # - #       F
+                                                  |/  |/
+                                              # + 2   1
+                                             ∘
+                                            #
+
+                                                    3 - D + 4
+                                                   /   /
+
+                        # - # - # - #
+                        |/  |   |   |
+                        A - # - # - B
+                        |   |   |   |
+                        # - # - # - #
+
+--- loot
+
+the Petrified Warden (in 0):
+    a granite key KEY
+    a guisarme WEAPON crush F0 4d6 dex 1 dam 2
+
+the necromancer (in 1):
+    a grave beater WEAPON sting F0 4d6 cha -2
+    You get a grave beater from the corpse of the necromancer.
+    You get a pool of blood from the corpse of the necromancer.
+    a skeleton key (to grating w of 2)
+
+the necromancer (in 2):
+    <wielded>            a grave beater WEAPON sting F0 4d6 cha -2
+    You get the embalmed flesh from the corpse of the necromancer.
+
+the necromancer (in 3):
+    <wielded>            a grave beater WEAPON sting F0 4d6 cha -2
+    You get a chalice from the corpse of the necromancer.
+
+the copper coffer (in 4):
+You get an elixir of Adder's Tongue from the copper coffer.
+You get a tonic of comfrey root from the copper coffer.
+
+the ochre jelly:
+    You get a rusty dagger from the corpse of the ochre jelly.

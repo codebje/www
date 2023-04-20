@@ -1,0 +1,142 @@
+--- notes
+
+Portal water_boy
+
+Demonic questmaster is here.
+
+--- map
+
+                                                  A
+                                                  ^
+                                              B < C             3 ----- 4 ----- 5
+                                                  |             |       v
+                                  1 - @       E   B             E > A   6
+                                  |   |       |   |             |
+                                  @ - @       D - A - B         D
+                                      |           +
+                                      #           #
+                                      |           |
+                      2 - #       # - # - #       #
+                      |   |       |   |   |       |
+                      # - # + # - # - 0 - # - # - #
+                                  |   |   |
+                                  # - # - #
+                                     /
+                                    #
+                                    |
+                            # - # - # - # - #
+                            |   |   |   +   |
+                            #   #   #   #   #
+                            |       |       |
+                            # - # - # - # - # + # - #
+                            |       |       |   |   |
+                            #   # - # - #   #   # - #
+                            |       |       |
+                            # - # - # - # - #
+                            |       |       |
+                            #   #   #   #   #
+                            |   |   |   |   |
+                            # - # - # - # - #
+                                    |
+                                    #
+                                    |
+                                    #
+                                    |
+                                    #
+                                    |
+                                    # #
+                                    |/
+                                    # - #
+                                        |
+                                #       #
+                                +       |
+                                # - # - #
+                                    |
+                                    #
+                                    |
+                                    #
+                                    |
+                                    #
+                                    |
+                                    #
+ The Irredenta                      |
+(at Freehold) - # - # - # - # - # - # - # - 0⊃
+
+--- loot
+
+The Master of the Elite Guard (in 0):
+    gauntlets of fury WORN hit 1 dam 2 ac -5 mag!g!mu!cl!th!wa!ra!as!sk!dk!sd!nm
+    a pair of chrome shin guards WORN hit 2 dam 2 ac -7 mag!th!wa!ra!as!sk!dk!sd
+
+The High Counsellor (in 1):
+    a 'horosafh' scroll SCROLL (teleport !NO SPELL! !NO SPELL!) mag
+    a hollow silver key KEY !wer
+
+The Captain (in 2):
+    a hollow brass key KEY
+
+The Commander (in 6):
+    <worn around neck>   a silver aglet
+    <wielded>            a flail called "Midnight"
+
+A brass banded wooden chest (in 3):
+    A war banner WORN dam 2 hp 10 ac -10 mag!g!mu!cl!th!ra!as!sl!sk!sd!nm
+    30,000 coins.
+
+The silver banded chest (in 4):
+    A smoke topaz gem stone OTHER hp 15 mp 15 mag
+    60,000 coins.
+
+A gold banded steel chest (in 5):
+
+The Lieutenant:
+    the Razorback Sword WEAPON tear F0 9d4 hit 2 dam 2 mag!g!mu!cl!th!sl!sk!sd!nm
+    a moonlight potion. POTION (bless infravision sanctuary) mag
+
+Nelux the thief:
+    a quiver of barbed arrows MISSILE 40d1 x15 dam 2 level 35 mag!g!mu!cl!sl!sk!nm
+
+Baltac:
+    a silver studded mace WEAPON bludgeon F0 4d8 dam 2 mp 15 mag!mu!th!ra!as!sl!sd!nm!wer
+    a cassock ARMOR AC -6 dam 1 mp 20 mag!mu!th!wa!ra!as!sl!sk!sd!nm
+
+Matoc:
+    an iridescent cape WORN dex 2 dam 1 mag!g!e!wa!sk!dk
+    a bastard sword WEAPON slash F0 2d16 dam 2 hp 10 mag!mu!cl!th!as!sl!sd!nm
+
+A lancemen:
+    a black lance WEAPON impale F0 3d10 hit 1 dam 1 mag!g!mu!cl!th!sl!sd!nm
+
+A pikeman soldier:
+    a pike-awl WEAPON impale F0 2d12 !mu!cl!nm
+
+The warcamp guard:
+    a spetum WEAPON slash F0 2d16 dam 1 mag!mu!cl!th!sk!sd!nm
+
+A Draconian scout:
+    a composite bow FIRE WEAPON (range 2 stun 2) hit 2 mag!mu!cl!th!as!sl!sk!dk!sd!nm
+
+The swordsmen:
+    a short sword WEAPON pierce F0 5d4 dam 1 !mu!cl!nm
+
+The half-orc mercenary:
+    a kopesh sword WEAPON slash F0 4d7 hit 1 dam 1 mag!g!cl!sk
+
+A clergyman:
+    a morningstar WEAPON bludgeon F0 4d6 mp 5 dam 1 mag!g!sl!sk
+
+A thief (in 0):
+    a thief's dagger WEAPON pierce F0 12d2 hit 1 dex 2 mag!cl
+    a granite key KEY
+
+The sergeant:
+    an amber potion POTION (briarwood skin refresh !NO SPELL!) mag
+
+The assassin recruit:
+    a curved dagger WEAPON pierce F0 12d2 hit 3 mag!g!cl!sl!sk
+
+The warrior blacksmith:
+    a hammer WEAPON pound F0 7d4 dam 1 success 5 mag!mu!th!sl!sd!nm
+
+The water boy:
+    a bucket LIQ CONTAINER

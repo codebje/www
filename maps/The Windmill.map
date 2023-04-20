@@ -1,0 +1,50 @@
+--- notes
+
+From Samsera: d13w2nwnw2n4w
+To the windmill from stump: 2n3e3s6e5n3e2s2w6s7e <open brambles> se3n6w5s7e
+                            2n3e3s6e5n3e2s2w6s7ese3n6w5s7e
+
+--- map
+
+                                                        # - # - # - #
+                                                        |           |
+                                                        #           #
+                                                        |           |
+                    # - # - # - #                       #   # - # - #
+                    |           |                       |   |
+                    □           #                       #   #       #           #
+                    ∘           |                       |   |       |           |
+                #   0 - Haon    #                       #   #       # - # - # - # - # - # - #
+                |       -Dor    |                       |   |       |           ∨           |
+                # - # - # - # - # - # - # - # - # - # - #   #       #           B           |
+                                                        |   |       |                       |
+                                                        #   #       #                       |
+                                                        |   |       |                       |
+                                                        #   #       I       # - # - #       #
+                                                        |   |               |   |   |       |
+                                                        #   1 - # - # - # - # - # - # > A < E
+                                                        |   ∨               |   |   |   +   |
+                                                        Z   Z       I       # - B - # < C > D
+                                                        |           |                   |   ∨                   *
+                                                        ☠           #           B < A   |   F                   #
+                                                                    |                   |                      /
+                                                                    |                   F > D           #     #
+                                                                    |                                   |    /
+                                                                    # - # - # - # - # - # - # - # - # - # - #
+                                                                                                       /
+                                                                                                      #
+
+--- loot
+
+An old tree stump (in 0):
+    a very sharp key KEY (to brush in 0)
+
+On the ground (in a few rooms):
+    a bundle of sticks OTHER
+    a bundle of sticks WAND (40: fear 3/3) str -2 level 40 mag!g!n!th!wa!ra!as
+
+The spirit of a murdered child:
+    a dull metal object
+
+The Lair Witch:
+    the Ring of Pain ARMOR AC -3 mp 20 success 5 dam 4 level 40 mag!g

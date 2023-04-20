@@ -1,0 +1,77 @@
+--- notes
+⊂ ⊃             loop back west or east
+⋂ ⋃             loop back north or south
+
+--- map
+
+                        #   #   #   #   #   6
+                        ∘   ∘   ∘   ∘   ∘   ∘
+                ☠   # - # - # - # - # - # - #
+               /   ⩗    |                   |
+              2   2     # - #               |
+                            |               |
+                            #               |
+            ⋂   ⋂   ⋂       |               |
+          ⊂ @ - @ - @ ∘ # - #               |
+            |   ⋃   ⋃                       |
+          ⊂ @ - @ - @ ⊃     4       5       #
+            ⋃   ⋃   |       ∘       ∘       *
+        3 - @ - @ - @ ⊃     # - # - # - # - #
+            ⋃   ⋃   ⋃       |   |   |   |   |
+                            # - # - # - # - #
+                            |   |   |   |   |
+        #   #   #   #       # - # - # - # - #       #   #   #   #
+        |   |   |   |               |               |   |   |   |
+    # - # - # - # - # ----- # ----- # ----- # ----- # - # - # - # - #
+        |   |   |   |               |               |   |   |   |
+        #   #   #   #           1   |   1           #   #   #   #
+                                ^   |   ^
+                                # < 1 > #
+                                |   |   |
+                                #   #   #
+                                |   |   |
+                                #   #   #
+                                |   |   |
+                                #   #   #
+                                |   |   |
+                                #   #   #
+                                |   |   |
+                                # < 0 > #
+                                v   |   v
+                                0   |   0
+                                    |
+                         Northern Mountain Range
+
+--- loot
+
+You get shield of ancient harmony from the corpse of the monk.
+
+Hapax tells the group, 'monk is 6ws6es3w' (through fog)
+
+
+Object 'shield of ancient harmony', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !MAGE !CLERIC !THIEF !WARRIOR !RANGER !ASSASSIN !SOLAMN_KN !DEATH_KN !SHAD_DANC !NECRO IDENTIFIED
+Weight: 10, Value: 31000, Rent: 530
+Values not used for this item.
+Can affect you as :
+   Affects: ARMOR By -16
+   Affects: DAMROLL By 2
+
+On a ghostly gladiator:
+    glinting key KEY (to 4, 5, 6)
+
+On the ground in 2:
+    Xanto's ring of harmony KEY
+
+The monk (in 3):
+    shield of ancient harmony WORN ac -16 dam 2 !mu!cl!th!wa!ra!as!sk!dk!sd!nm
+
+The minotaur gladiator (in 4):
+    a black nasty looking sword WEAPON pierce F0 13d2 !mu!cl!nm
+
+The emperor (in 5):
+    imperial sceptre WEAPON hit F0 10d3 dam 2 cha 2
+
+The night worm (in 6):
+    large key KEY (to remaining doors in hallway)

@@ -1,0 +1,149 @@
+--- notes
+
+Death trap in The Rift
+Leads to The Curse of the Necromancer
+
+A: south loops back to itself
+D: the shewolf
+E: the zombie
+G: Evergreen
+H: the hermit
+I: Portal to the Keeper's Domain
+X: death trap
+P: south into Leander, The Keeper's Domain
+Q: fall trap, down into Fairhaven Sewers
+
+Unlinked sections with crabs (M), statues (O), villiager, werebadger. Misport only.
+
+--- map
+
+        M                                                      Mahn-Tor
+        ^                                                       ^   ^
+        # - # - #                                    Mahn-Tor < # - # > Mahn-Tor
+                |                                               |   |
+                #                                           J < # > |
+                |                                               v   |
+            L < #                                           Mahn-Tor|
+                |                                                   |
+                #                                        Mahn-Tor < # > Mahn-Tor
+                |                                                   |
+                #                                        Mahn-Tor < # > Mahn-Tor
+                |                                                   |
+                #           # ----- N ----- # ----- # ----- # ----- # - # - # - # - # - # - B - # - # - X
+                ^           |                                       v                               |
+             Jungle         |     M                 # - # - # - #   K                     - F > B   |
+                            |     |                     |       |                           |       |
+                            |     #             N       |       #                           #       |
+                            |     |            ⩘        |       |                           |       #
+                            |     #           #         |       # - G                       A       |
+                            |     |          /          |       |   |                       ^       |
+                            |     #         #           |       # - #                       #       |
+                            |     |        ⩘            |                                   |       |
+                            |     #       #             #   # -- # ------ # ------ M ------ # - # < # - X
+                            |     |      /              |   |                               ^       |
+    I { The Keeper's Domain |     #     M               #   |                           # - #       #   # - #
+    +                       |     +                     |   |                           |           |   |   |
+# - # - H    Haon-Dor       #     # # - # + # - # - # + #   |   # - E - # - # - # - # - K           #   #   #
+    |           ^           |     | |   |                   |   |               |       |           |   |   |
+    # - # - # - # - # - # - #     # # - #                   |   #   # - # - #   #       |           #   #   # The Curse of the
+                |           |     | |   |                   |   |   |   |   |   |       |           |   |   |/  Necromancer
+           Pax-Norriann     #     # # - #           # ----- #   # - #   #   D   #       |           # - #   #
+                            |     + |               |                   |       |       L
+                      #     #     # #               #           #   #   #       #       |
+                      |     |    /  +               |           |   |   |       |       |       ∘                               ∘
+                      #     #   # > #               #       # - # - # - #       #       |     ∘ # - # - #   P                   #
+                      |     |       |               |           |   |   |               |       ∘       |   ^                   |
+                      #     # - # - F -     #   # - # - #   J   #   #  The Gypsy Fair   #           # - #   #       #           #
+                      +     |               |       |       |                           |           |       +       +           |
+                      #     # -- Jungle --- # - # - # - # - # ------------------------- #           # - # - # - # - # - # - # - #
+                     /      |       |       |       |       |                                                   |           +
+                    # > M   #       |       #   # - # - #   #                                                   #           #
+                            |       |               |                                                           ∘           |
+                            #     Jungle    # - # - #                                                           O           #
+                            |       |       |   |   |                                                           |           v
+                            # - # - # - # - # - # - #                                                           #           Q - ?
+                                                                                                                +          ⩗
+                                                                                                                #  Fairhaven Sewers
+                                                                                                                |
+                                                                                                            # - #
+                                                                                                            ∘
+
+--- items
+
+Object 'some bitter tea', Item type: POTION
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 1, Value: 1000, Rent: 100
+Spell lvl: 30 spell1: heal spell2: refresh spell3: regenerate
+
+Object 'a fur cloak', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !DONATE NO_LOCATE IDENTIFIED
+Weight: 5, Value: 1000, Rent: 245
+Values not used for this item.
+Can affect you as :
+   Affects: ARMOR By -7
+   Affects: SAVING_SPELL By 2
+   Affects: STR By 2
+
+Object 'a crystal ball', Item type: SCROLL
+Item will give you following abilities:  NOBITS
+Item is: !DONATE NO_LOCATE IDENTIFIED
+Weight: 3, Value: 1000, Rent: 100
+Spell lvl: 50 spell1: group sanctuary spell2: !NO SPELL! spell3: !NO SPELL!
+
+Object 'a yellow scroll', Item type: SCROLL
+Item will give you following abilities:  NOBITS
+Item is: NO_LOCATE IDENTIFIED
+Weight: 2, Value: 1000, Rent: 100
+Spell lvl: 25 spell1: remove curse spell2: remove poison spell3: cure blind
+
+Object 'a boot dagger', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: IDENTIFIED
+Weight: 1, Value: 1000, Rent: 125
+Values not used for this item.
+Can affect you as :
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 1
+   Affects: ARMOR By -5
+
+Object 'a flame', Item type: SCROLL
+Item will give you following abilities:  NOBITS
+Item is: !RENT !DONATE !SELL NO_LOCATE IDENTIFIED
+Weight: 2, Value: 10000, Rent: 1000
+Spell lvl: 45 spell1: fireball spell2: !NO SPELL! spell3: !NO SPELL!
+
+Object 'a small chain of silver bells', Item type: WORN
+Item will give you following abilities:  NOBITS
+Item is: !DONATE !THIEF !WARRIOR !RANGER !ASSASSIN !SOLAMN_KN !DEATH_KN NO_LOCATE !WEREWOLF IDENTIFIED
+Weight: 1, Value: 1000, Rent: 180
+Values not used for this item.
+Can affect you as :
+   Affects: MAXMANA By 20
+   Affects: HITROLL By 1
+   Affects: SPELL_DAMAGE By 15
+
+Object 'a tarnished helmet', Item type: ARMOR
+Item will give you following abilities:  NOBITS
+Item is: !INVIS !GOOD !NEUTRAL !MAGE !CLERIC !THIEF !WARRIOR !RANGER !ASSASSIN !SHOU_LIN !SOLAMN_KN !SHAD_DANC IDENTIFIED
+Weight: 2, Value: 1000, Rent: 290
+AC apply: -4
+Can affect you as :
+   Affects: HITROLL By 2
+   Affects: DAMROLL By 2
+
+Object 'a ring of autumn leaves', Item type: LIGHT
+Item will give you following abilities:  NOBITS
+Item is: GLOW NO_LOCATE IDENTIFIED
+Weight: 2, Value: 10000, Rent: 1360
+Duration: Infinite
+Can affect you as :
+   Affects: INT By 2
+   Affects: HITROLL By 2
+   Affects: DAMROLL By 2
+
+The hermit:
+    the Buckler of Faith WORN ac -10 dam 3 mag!e!n!mu!cl!th!wa!ra!as!dk!sd!nm
+    a thin rope WORN str 2 hit 2 mp 20
+    a silver longbow WEAPON blast F0 7d6 dam 1 int 2 mag!mu!cl!th!as!sl!dk!sd!nm!wer

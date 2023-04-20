@@ -1,0 +1,103 @@
+--- notes
+
+From Samsera: 16w6swse14s6e3ne <pick magicwall> 3n
+
+Exit south from A leads to 1e of the room going north to it. Likely an error.
+
+Magic is usable in A, 0, 1, 2, 3, 5.
+
+--- map
+
+                                                        ⋂               ⋂       ⋂
+                                5 - ▧       ▧ - ▧ - ▧ - ▧ - ▧ - ▧ - ▧ - ▧ - ▧ - ▧
+                                    |       |                           ⋃       |
+                                    # - □ - 1                                   ▧
+                                                                            ⋂   |
+                                                            ▧ - ▧ - ▧ - ▧ - ▧ - ▧
+                                                            |       ⋃
+                                                          ⊂ ▧ ⊃
+                                                            |
+                                                          ⊂ ▧
+                                                            |
+                                                        ▧ - ▧
+                                                        |
+                    D   ▧ - ▧ - ▧           6 - # - ▧   D   ▧ - ▧ - ▧           H   ▧ - ▧ - ▧ - ▧ - ▧ - ▧
+                    ∧   |       |               |       |   ∧   |   ∨           ∧   ∨   |               |
+                    ▧ - ▧   ▧ - ▧   ▧ - #   ▧ - ▧       2   ▧ - ▧ - ▧       F   G   G   H          3    ▧
+                    |   |   |       |   |       |       |   |       |       ∧       |   |         x     |
+                    ▧ - ▧   ▧ - ▧ - ▧   ▧ - ▧ - ▧ ----- ▧ - ▧ - ▧ - ▧   F - ▧ - ▧ - ▧   ▧ + 4    ▧      ▧
+                                                |                       |   ∨       |   |      x       x|
+                                                ▧                   E < I ⊃ I       ▧   ▧     ▧ ----- ▧ ▧
+                                                |                       |           |   |               |
+                                      ⊂ ▧ - ▧ - ▧ > C               E < ▧ ⊃         ▧ - ▧ - 2 - ▧ - ▧ - ▧
+                                        |   ⋃                           |
+                                        C                       B - E - ▧ ⊃
+                                        |                       |       ∨
+                ▧       ▧ - ▧ - ▧ - ▧ - ▧ - ▧ - A - ▧ - 0 - ▧ - ▧       B
+                |           |       ∨   ∨       ∧       |   ⋂   |
+                ▧ - # - # - ▧ - ▧ - ▧ - ▧ - ▧ - ▧ - J - ▧ - ▧ - ▧
+                |   |                                       ⋃
+          Thousand  |   Xak Tsaroth             A
+         Mile Road  |       |                   ∨
+                    |       #                   J
+                    |       |
+                    |       #
+                    |       |
+                    # - # - #
+
+--- loot
+
+A Trolloc:
+    a Trolloc's Soul Crusher WEAPON crush F0 6d6 move -20 str -1 dam 3 !g!n!th!hlf
+
+Draghkar:
+    <worn on body>       draghkar Wings of Flight ARMOR AC -12 mp 15 level 30 dam 2 !g!n FLY
+
+Found in corpses of Tracker and Myrddral, might be either or neither:
+    blackened scimitar WEAPON slash F0 5d6 hit 3 !g!n!th!sl!sk
+
+Myrddral (in 2):
+    blackened scimitar WEAPON slash F0 5d6 hit 3 !g!n!th!sl!sk
+
+Trolloc Tracker (in 2):
+    blackened scimitar WEAPON slash F0 5d6 hit 3 !g!n!th!sl!sk
+    <worn around wrist>  ARMOR AC -2 str 2 con 1 dam 2 mag!g!n
+
+Aes Sedai (in 0):
+    <held>               sa'angreal ARMOR AC -7 mp 30 mag!e!wa!ra!as!sl!sk!dk!min
+
+Warder (in 0):
+    <wielded>            sword of the Warder WEAPON slash F0 4d7 wis 1 hp 10 hit 2 !e!dk!orc!ogr!tro!gia
+
+Moiraine (in 1):
+    <worn about body>    shawl of the blue Ajah ARMOR AC -7 mp 20 hit 1 dam 1 !e!th!wa!ra!as!sk!sd
+
+Lan (in 1):
+    <worn on finger>     Ring of Malkier (invisible) ARMOR AC -1 dam 2 hit 4 level 30 !e DET-MAGIC
+
+Yellow Aes Sedai (in 2):
+    <worn about waist>   sash of the Yellow Ajah
+
+Nynaeve al'Meara (in 3):
+    <worn on head>       nynaeve's Braids ARMOR AC -2 int 2 mp 20 !e!sl!min
+
+Egwene al'Vere (in 3):
+    <wielded>            Bone Dagger WEAPON pierce F0 5d8 dam 2 hit 2 !e!wa!ra!sl!sk!dk!min
+
+Loial (in 3):
+    <held>               book of the Stedding SCROLL (30: protection from evil; briarwood skin; !NO SPELL!) mag!e
+
+Mat (in 4):
+    <worn around neck>   Mat's Woolen Scarf ARMOR AC -2 dam 2 hp 10 !e!mu!cl!dk!nm
+
+Perrin (in 4):
+    <held>               three River's Long Bow FIRE WEAPON (range 3 stun 2) con 1 hp 10 !hlf!tro!gia
+
+Ba'alzamon (in 5):
+    <worn about body>    ba'alzamon's Aura of Evil
+
+Rand al'Thor (in 5):
+    <wielded>            heron Marked Blade
+
+Demandred (in 6):
+    <worn on hands>      Gloves of the Desolate

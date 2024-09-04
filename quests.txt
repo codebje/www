@@ -1,0 +1,303 @@
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Crazy Ivan, Samsera                           | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| junket dejeuner                               |  1 | 15 | 30m | a picnic lunch, a shopkeeper in The Hogweeds  |  x |  x |  x |  x |  x |  x |    |
+| leviathan superficies                         |  1 | 15 | 30m | whale skin boots, a shopkeeper in Asgard      |  x |  x |  x |  x |  x |  x |    |
+| aged lactose branches                         |  1 |  5 | 30m | fried cheese sticks, Salvatore in Fairhaven   |  x |  x |  x |  x |  x |  x |    |
+| bubble vaccination aerosphere promenade       |  1 | 15 | 30m | foaming shot of sky walker, Moe in MahnTor    |  x |  x |  x |  x |  x |  x |    |
+| briney minnows                                |  1 | 10 | 30m | a salted herring, Cassandra in New Thalos     |  x |  x |  x |  x |  x |  x |    |
+| bister lichen                                 |  1 | 30 | 30m | a brown mushroom, Jiestis in The Underdark    |  x |  x |  x |  x |  x |  x |    |
+| statuary ligneous brownie                     |  1 | 15 | 30m | a carved wooden elf, Lileki in Abenos         |  x |  x |  x |  x |  x |  x |    |
+| phosphorescence panache                       |  1 | 15 | 30m | a sun jewel, a jeweller in The Bazaar         |  x |  x |  x |  x |  x |  x |    |
+| fuzzy treaded mongrel bewitchment             |  1 | 15 | 30m | a halflings charm, Furfoot in Everwar City    |  x |  x |  x |  x |  x |  x |    |
+| fervor comestibles                            |  5 | 15 | 30m | some warm bread, a pixi cook In The Air       |  x |  x |  x |  x |  x |  x |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Ragneli, Samsera                              | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| a silver candlestick                          |  1 | 15 | 30m | 10e10n2e9ne, bandits (in bag)                 |  x |  x |  x |  x |  x |  x |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Ruby the Armorer, Samsera                     | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| an iridescent dragon scale                    |  0 | 10 | 30m | Blasted Heath                                 |    |  x |  x |  x |  x |  x |    |
+| a block of mithril ore                        |  0 | 15 | 30m | The Underworld, forge area (200k gold reward) |    |  x |  x |  x |  x |  x |    |
+| a White Dragon                                |  1 | 15 | 30m | Knights of Krynn (portal Galoe, kill Wret)    |    |  x |  x |  x |  x |  x |    |
+| The Great Dragon Wyvn                         |  ? | 15 | 30m | The Dreamworld, 2e3n from start of dream      |    |  x |  x |  x |  x |  x |    |
+| The Grand Bronze Dragon                       |  3 | 40 | 40m | The Solamnic Knights                          |    |  x |  x |  x |  x |  x |    |
+| the master black dragon                       |  2 | 20 | 30m | Dragonnia                                     |    |  x |  x |  x |  x |  x |    |
+| The Shadow Dragon                             |  - | 30 | 40m | Soth's Playground                             |    |  x |  x |  x |  x |  x |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Rhyvis, Samsera                               | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| a beautiful orchid                            |  1 | 30 | 30m | Lupisville (day) - portal goodwife            |    |  x |  x |  x |  x |  x |    |
+| a silvered lute                               |  1 | 15 | 30m | The Isle of the Druids - portal Turlough      |    |  x |  x |  x |  x |  x |    |
+| a toddler's ID necklace                       |  1 |  7 |  5m | The Shire - portal toddler                    |    |  x |  x |  x |  x |  x |    |
+| a side of beef                                |  1 |  5 | 30m | The Grasslands - Wildebeest                   |    |  x |  x |  x |  x |  x |    |
+| some seaweed                                  |  2 | 15 | 30m | The Forgotten Forest - giant turtle           |    |  x |  x |  x |  x |  x |    |
+| a barrel of perfume                           |  1 | 15 |  5m | Three of Swords - locked room in bandits      |    |  x |  x |  x |  x |  x |    |
+| a jewel encrusted sword (CURSED)              |  1 | 15 |  5m | Myth-Try - Quiglee                            |    |  x |  x |  x |  x |  x |    |
+| wings of the phoenix                          |  2 | 30 | 30m | The Forgotten Forest - the phoenix            |    |  x |  x |  x |  x |  x |    |
+| a Leaf-Green potion                           |  1 | 15 | 30m | The Elven Forest - an Elven mage              |    |  x |  x |  x |  x |  x |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| The beggar, Samsera                           | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| A stolen eye                                  |  1 | 15 | 30m | An eyeball, in a cauldrin (sic), HighTower    |  x |  x |  x |  x |  x |    |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| The alchemist, Samsera                        | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| a red lizard tongue                           |  1 | 15 | 30m | Freeport                                      |  x |  x |  x |  x |  x |  x |    |
+| a thick white potion                          |  1 | 15 | 30m | Arachnos - a drone spider (spider_drone)      |  x |  x |  x |  x |  x |  x |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| The Mayor, Samsera                            | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| A follower of the mad prophet                 |  - |  4 | 30m | Azar                                          |  x |  x |  x |  x |  x |    |    |
+| Devrel                                        |  - |  4 | 30m | Usurpers of Hochenyana                        |  x |  x |  x |  x |  x |    |    |
+| Quasimodo (summonable)                        |  - |  4 | 30m | The Freehold Cathedral                        |  x |  x |  x |  x |  x |    |    |
+| The Quickling                                 |  - |  4 | 30m | The Dreamworld                                |  x |  x |  x |  x |  x |    |    |
+| A Monkey                                      |  - |  4 | 30m | Jungle                                        |  x |  x |  x |  x |  x |  x |    |
+| Slevak the Chieftain                          |  - |  4 | 30m | The Dwarven Village                           |  x |  x |  x |  x |  x |  x |    |
+| Max the Fence                                 |  - |  4 | 30m | The Freehold Thieves Guild.                   |  x |  x |  x |  x |  x |  x |    |
+| Yentle the dwarf (summonable)                 |  - |  4 | 30m | The Kingdom of Juargan                        |  x |  x |  x |  x |  x |    |    |
+| A barbarian warrior                           |  - |  6 | 30m | The Barbarian Camp                            |  x |  x |  x |  x |  x |    |    |
+| Edgar (summonable)                            |  - |  4 | 30m | HighTower                                     |  x |  x |  x |  x |  x |    |    |
+| The Librarian                                 |  - |  8 | 30m | HighTower                                     |  x |  x |  x |  x |  x |    |    |
+| A stage 2                                     |  - |  8 | 30m | Dragonor Keep                                 |  x |  x |  x |  x |  x |  x |    |
+| A pech youngling                              |  - |  8 | 30m | The Pech Community                            |  x |  x |  x |  x |  x |    |    |
+| The grey goblin priest                        |  - |  8 | 30m | The Valley of the Mad Mage                    |  x |  x |  x |  x |  x |  x |    |
+| The Kobold Chief                              |  - |  8 | 30m | The Valley of the Mad Mage                    |  x |  x |  x |  x |  x |  x |    |
+| The Queen spider                              |  - |  8 | 30m | The Trial of the Initiate                     |  x |  x |  x |  x |  x |  x |    |
+| The Tempest (magic room set)                  |  1 |  4 | 30m | Soth's Playground                             |  x |  x |  x |  x |  x |    |    |
+| The master herbal (summonable)                |  1 |  4 | 30m | Haven                                         |  x |  x |  x |  x |  x |    |    |
+| Maddie the local beauty                       |  1 |  4 | 30m | The Emerald Forest                            |  x |  x |  x |  x |  x |    |    |
+| Kortho                                        |  1 |  4 | 30m | The Emerald Forest                            |  x |  x |  x |  x |  x |    |    |
+| The Ghost Minotaur                            |  1 |  4 | 30m | The River Island of Minos                     |  x |  x |  x |  x |  x |    |    |
+| The phoenix                                   |  1 |  4 | 30m | The Forgotten Forest                          |  x |  x |  x |  x |  x |    |    |
+| A miniature horse (summonable)                |  1 |  4 | 30m | Portals of Time                               |  x |  x |  x |  x |  x |    |    |
+| The drow mage noble                           |  1 |  4 | 30m | The City of Drow                              |  x |  x |  x |  x |  x |  x |    |
+| The kuo-toan high priestess                   |  1 |  8 | 30m | The Underworld                                |  x |  x |  x |  x |  x |  x |    |
+| Hammel                                        |  1 |  8 | 30m | The Black Market                              |  x |  x |  x |  x |  x |  x |    |
+| Jason                                         |  1 |  8 | 30m | Olympus                                       |  x |  x |  x |  x |  x |    |    |
+| An ochre jelly                                |  1 |  8 | 30m | Deep-Moria                                    |  x |  x |  x |  x |  x |    |    |
+| The Shrike                                    |  1 |  8 | 30m | Temple of Time                                |  x |  x |  x |  x |  x |  x |    |
+| The High Immolator                            |  1 |  8 | 30m | The Isle of the Druids                        |  x |  x |  x |  x |  x |    |    |
+| The ghost of Macsen                           |  1 |  8 | 30m | The Isle of the Druids                        |  x |  x |  x |  x |  x |    |    |
+| Kearny                                        |  1 |  8 | 30m | The Irredenta                                 |  x |  x |  x |  x |  x |    |    |
+| Sturm the Knight                              |  1 |  8 | 30m | Xak Tsaroth                                   |  x |  x |  x |  x |  x |    |    |
+| Draghkar                                      |  1 |  8 | 30m | The Blight                                    |  x |  x |  x |  x |  x |  x |    |
+| Rendor                                        |  1 | 12 | 30m | The Blackhand                                 |  x |  x |  x |  x |  x |  x |    |
+| Sartuil                                       |  1 | 12 | 30m | Knights of Krynn                              |  x |  x |  x |  x |  x |    |    |
+| Karda                                         |  1 | 12 | 30m | Knights of Krynn                              |  x |  x |  x |  x |  x |  x |    |
+| The bellringer                                |  1 | 12 | 30m | LupisVille (Day)                              |  x |  x |  x |  x |  x |    |    |
+| Madam Zash                                    |  1 | 12 | 30m | LupisVille (Day)                              |  x |  x |  x |  x |  x |    |    |
+| The slithering tracker                        |  1 | 14 | 30m | The Trial of the Adept                        |  x |  x |  x |  x |  x |    |    |
+| The Monk-Priest of Buddha                     |  1 | 16 | 30m | The Mountain Monastery                        |  x |  x |  x |  x |  x |    |    |
+| Dagda                                         |  1 | 16 | 30m | The City of Freehold                          |  x |  x |  x |  x |  x |    |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| The Midgaard Questmaster                      | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| A scroll of knowing                           |  - |  8 | 10m | Midgaard                                      |    |  x |    |    |    |    |  x |
+| A tin cup                                     |  - |  8 | 10m | Midgaard                                      |    |  x |    |    |    |    |  x |
+| Kill a child                                  |  - |  7 | 10m | Midgaard                                      |    |  x |    |    |    |    |  x |
+| A magic candle                                |  - | 12 | 10m | Ian & Ian Brewery                             |    |  x |    |    |    |    |  x |
+| A drunken worker                              |  - |  9 | 10m | Ian & Ian Brewery                             |    |  x |    |    |    |    |  x |
+| A drunken supervisor                          |  - |  8 | 10m | Ian & Ian Brewery                             |    |  x |    |    |    |    |  x |
+| A worker ant                                  |  - |  9 | 10m | The Giant Ant's Nest                          |    |  x |    |    |    |    |  x |
+| A Street Cleaner                              |  - |  8 | 10m | Nothern Midgaard                              |    |  x |    |    |    |    |  x |
+| Either a white pawn or a black pawn           |  - | 10 | 10m | Chessboard                                    |    |  x |    |  x |  x |    |  x |
+| Sack of flour and bottle of water             |  - | 20 | 10m | Chessboard, Wally                             |    |  x |    |  x |  x |    |  x |
+| The Firedrake                                 |  - | 15 | 10m | Rats Lair                                     |    |  x |    |  x |  x |    |  x |
+| The Pigeon                                    |  - | 12 | 10m | Chessboard                                    |    |  x |    |  x |  x |    |  x |
+| Toy boomerang                                 |  - | 10 | 10m | The Gnomes                                    |    |  x |    |    |    |    |  x |
+| The Queen Ant (repeats)                       |  - | 10 | 15m | The Giant Ant's Neset                         |    |    |    |    |    |    |  x |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Belar, North Midgaard                         | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Trainer mobs *                                |  2 | 20 | 30m | Chessboard is easiest                         |    |  x |  x |  x |  x |    |    |
+| Shavir, Kastir, doves, Shield                 |  2 | 15 | 30m | Crystal Palace; can portal to Shavir          |  x |  x |  x |  x |  x |    |    |
+| Frogs, crawdads, goldfish, ducks, tadpoles    |  1 | 25 | 30m | Two each in Peaceful Pond                     |  x |  x |  x |  x |  x |    |    |
+| Gnome scientist, chief, treasurer, king       |  ? | 25 | 30m | Gnome village                                 |  x |  x |  x |  x |  x |    |    |
+| Ravenclaw, Greize, Terwin, and note           |  2 | 25 | 35m | North Midgaard                                |  x |  x |  x |  x |  x |    |    |
+| The farmer and his family                     |  2 | 20 | 40m | The Farm                                      |  x |  x |  x |  x |  x |    |    |
+| Skyla, Sowkow, Halbleib, Grame, more          |  2 | 30 | 40m | The Knights of Krynn                          |    |  x |  x |  x |  x |    |    |
+| Umber hulk, doom guard, Xorn, huge troll      |  2 | 20 | 30m | The Knights of Krynn                          |    |  x |  x |  x |  x |    |    |
+| A black rose tattoo                           |  2 | 45 | 50m | The Knights of Krynn                          |    |  x |  x |  x |  x |    |    |
+| A Pixie and a Spriggan                        |  1 | 20 | 30m | The Orchard                                   |    |  x |  x |  x |  x |    |    |
+| Luatha and adults                             |  2 | 30 | 30m | The Orchard                                   |    |  x |  x |  x |  x |    |    |
+| Aura, innkeeper, Trailrobber, Gatekey         |  2 | 25 | 35m | The Black Market                              |  x |  x |  x |  x |  x |    |    |
+| Wren and Faligra must pay!                    |  2 | 25 | 35m | The Black Market                              |  x |  x |  x |  x |  x |    |    |
+| Third dagger, Captain, Hye, rugged sailor     |  3 | 25 | 35m | The Black Market                              |    |  x |  x |  x |  x |    |    |
+| Captain Gravic, Captain Kaleff                |  4 | 45 | 60m | The Black Market                              |    |  x |  x |  x |  x |    |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+* Positioner, Feeder, Helper, Combat Teacher, Socialite, Getter, Saver, Score Keeper, Reader
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Estani, Fairhaven - level 18+                 | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Baron of Midgaard + Baronial Signet Ring      |  1 | 25 | 30m | South Midgaard                                |    |  x |    |    |    |    |    |
+| Ian's best                                    |  1 | 20 | 25m | Ian & Ian's                                   |    |  x |    |    |    |    |    |
+| Best sword from kingdom of Garamond           |  1 | 20 | 25m | Garamond wrought sword, weaponsmith, Garamond |    |  x |    |    |    |    |    |
+| Parrot and ferret heads                       |  1 | 20 | 30m | Hamlet of Dusk                                |    |  x |    |    |    |    |    |
+| Queen Dalphreal and a tiny pearl              |  1 | 20 | 30m | In the Air                                    |    |  x |    |    |    |    |    |
+| Two piranha from Garamond                     |  1 | 20 | 25m | Garamond                                      |    |  x |    |    |    |    |    |
+| Bra-less female student                       |  1 | 15 | 20m | Midgaard University                           |    |  x |    |    |    |    |    |
+| The Queen Ant and antenna                     |  1 | 25 | 30m | Giant Ant Hill                                |    |  x |    |    |    |    |    |
+| The farmer and his pitchfork                  |  1 | 15 | 20m | The Farm                                      |    |  x |    |    |    |    |    |
+| A Gremlin                                     |  1 | 15 | 20m | The Orchard                                   |    |  x |    |    |    |    |    |
+| King Trent and The Robes of Valar             |  2 | 25 | 35m | Xanth                                         |    |  x |    |    |    |    |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Suleiman, New Thalos                          | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Children of the barbarians                    |  2 | 20 | 30m | Barbarian Camp (Suleimon will attack!)        |    |  x |  x |  x |    |    |    |
+| Slay any one of the trolls                    |  1 | 15 | 30m | Land of the Trolls                            |    |  x |  x |  x |    |    |    |
+| Exterminate the mimics                        |  1 | 25 | 30m | Mimics, The City of Thalos                    |    |  x |  x |  x |    |    |    |
+| Slay four of the sultan's guard               |  2 | 20 | 25m | New Thalos                                    |    |  x |  x |  x |    |    |    |
+| Stop the construction crew and the mercenary. |  2 | 20 | 25m | New Thalos. Two barrels of beer.              |    |  x |  x |  x |    |    |    |
+| Hakeem, Habib, Cassandra's wares              |  2 | 20 | 25m | New Thalos                                    |    |  x |  x |  x |    |    |    |
+| the statues of the warrior and cleric         |  2 | 20 | 30m | New Thalos (plus grey-silver wand)            |    |  x |  x |  x |    |    |    |
+| Six royal guards                              |  2 | 25 | 30m | New Thalos                                    |    |  x |  x |  x |    |    |    |
+| Giant insects beneath the city                |  2 | 20 | 30m | The Lair of the Aspis                         |    |  x |  x |  x |    |    |    |
+| Stop the nomads before they become powerful!  |  2 | 20 | 30m | The Great Eastern Desert                      |    |  x |  x |  x |    |    |    |
+| Aziz and his knights                          |  3 | 25 | 30m | Aziz, 2x Knight, 2x scimitar, New Thalos      |    |  x |  x |  x |    |    |    |
+| Ragnun, two undead woodsman and two gremlins  |  3 | 25 | 30m | Drekken Noir and Emerald Forest               |    |  x |  x |  x |    |    |    |
+| Forest guardian, rangers, and their wares     |  3 | 30 | 35m | Drekken Noir and Emerald Forest               |    |  x |  x |  x |    |    |    |
+| The Sultan and his turban                     |  3 | 30 | 40m | New Thalos                                    |    |  x |  x |  x |    |    |    |
+| A way to always return to New Thalos          |  3 |  3 | 10m | A New Thalian scroll of recall, New Thalos    |    |  x |  x |  x |    |    |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Yuber, Chisa Village                          | qp | t# | c#  | target                                        | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Hugo's winged friend                          |  1 | 15 | 20m | Fubar, southern end of main road              |    |  x |  x |    |    |    |    |
+| Dirty tactician and his little helper         |    | 15 | 20m | Caesar and Apple, 3nw                         |    |  x |    |    |    |    |    |
+| Key holder, best friend, spirit whisperer     |  3 | 20 | 20m | Ace, Queen, Aila                              |    |  x |    |    |    |    |    |
+| Obsessed noble, barbarian, Maximillian knight |  - | 20 | 20m | Fred, Augustine, Hallec                       |    |  x |    |    |    |    |    |
+| Duck, mother of Hugo, martial arts princess   |  3 | 20 | 20m | Sanae (ne), Jordi, Lucia (sw)                 |    |  x |    |    |    |    |    |
+| Liar, magician, entertainer                   |  - | 20 | 20m | Nadir, Viki, Estella                          |    |  x |    |    |    |    |    |
+| Lizard chief, painter, daughter               |  3 | 20 | 20m | Zapon (4ne), Emily (5nw), Ikanov (6ne)        |    |  x |    |    |    |    |    |
+| Supply shop, proprietor, military chief       |  3 | 20 | 20m | Salome Harris, Dominic, Gordon (eastern side) |    |  x |    |    |    |    |    |
+| Wife of the chief                             |  1 | 20 | 20m | Sana (west of Ace)                            |    |  x |    |    |    |    |    |
+| The Silver Maiden                             |  2 | 20 | 20m | Chris Lightfellow                             |    |  x |    |    |    |    |    |
+| The Chieftain                                 |  5 | 20 | 20m | Geddoe                                        |    |  x |    |    |    |    |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Hugo, Chisa Village                           | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Yeast, malt, cask, fungus, barley             |  5 | 60 | 20m | Emily, Salome, Dominic, Zapon, fields         |    |  x |    |    |    |    |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Ichiga, The Anchient City                     | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Armor from plants and head of wearer          |    | 25 |     | Earth elemental, northeast corner             |    |  x |    |    |    |    |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Mae, The City of Freehold                     | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Meg, three Torturers                          |  3 | 30 | 40m | The Blackhand                                 |  x |  x |  x |    |    |    |    |
+| Two grey enfans, two swordsmen                |  2 | 25 | 35m | The Enfans, The War Camp                      |    |  x |  x |    |    |    |    |
+| Soldier of Skul, spearman, orc chief          |  3 | 20 | 30m | Irredenta, Blackheart Keep, The War Camp      |    |  x |  x |    |    |    |    |
+| Two warcamp guards, two green enfans          |  3 | 30 | 35m | The War Camp The Enfans                       |    |  x |  x |    |    |    |    |
+| Baron von Mimbre                              |  3 | 30 | 40m | Duke Arilan's Castle                          |    |  x |  x |    |    |    |    |
+| Ducal, gate, caravan, and red church guards   |  2 | 20 | 30m | The City of Freehold                          |    |  x |  x |    |    |    |    |
+| Urchins and thieves                           |  3 | 25 | 30m | 4x urchin, 4x thief                           |  x |  x |  x |    |    |    |    |
+| Fire elemental, Flower, Beetle, Golem         |  3 | 25 | 30m | Dragonor Keep                                 |    |  x |  x |    |    |    |    |
+| Devrel                                        |  2 | 20 | 30m | Usurpers of Hochenyana                        |    |  x |  x |    |    |    |    |
+| A yellow enfan                                |  2 | 25 | 30m | The Enfans                                    |    |  x |  x |    |    |    |    |
+| Secretary and fire elemental                  |  2 | 25 | 35m | Usurpers of Hochenyana                        |    |  x |  x |    |    |    |    |
+| Council members and dining thieves            |  3 | 15 | 30m | The Freehold Thieves Guild                    |    |  x |  x |    |    |    |    |
+| Silence the choir                             |  2 | 25 | 30m | Choir Member x4, The Freehold Cathedral       |    |  x |  x |    |    |    |    |
+| Mongo's dagger, Bertram's lantern, Pegasi     |  3 | 30 | 35m | Freehold shops, Duke Arilan's Castle          |    |  x |  x |    |    |    |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Muerta, The City of Everwar                   | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Soldier, defender, field workers              |  2 | 35 | 45m | Forest & Village of Turra                     |    |  x |  x |    |    |    |    |
+| Turrian Cross, two guards, two noble ladies   |  2 | 30 | 40m | City of Everwar                               |    |  x |  x |    |    |    |    |
+| Six washed up old men                         |  2 | 25 | 40m | City of Everwar                               |    |  x |  x |    |    |    |    |
+| Elven chief and his tools of war              |  3 | 35 | 45m | Forest of Turra                               |    |  x |  x |    |    |    |    |
+| Dwarven soldier, engineer, elite fighter      |    | 30 | 40m | Everwar Mountain                              |    |  x |  x |    |    |    |    |
+| Two ogre soldiers, two ogre veterans          |  2 | 30 | 40m | Everwar Mountain                              |    |  x |  x |    |    |    |    |
+| Troll soldiers, gnome faithfuls               |  2 | 30 | 40m | Everwar Mountain                              |    |  x |  x |    |    |    |    |
+| Human soldiers, knights, scouts               |  2 | 30 | 40m | Everwar Mountain                              |    |  x |  x |    |    |    |    |
+| Gnome leader, soldiers, and does              |  3 | 30 | 40m | Forest & Village of Turra                     |    |  x |  x |    |    |    |    |
+| Troll warriors, gnomish spies                 |  2 | 30 | 40m | Everwar Mountain                              |    |  x |  x |    |    |    |    |
+| Villagers, two bucks                          |  1 |  5 | 25m | Forest & Village of Turra                     |    |  x |  x |    |    |    |    |
+| Two veteral trolls, two gnome elders          |  2 | 30 | 40m | Everwar Mountain                              |    |  x |  x |    |    |    |    |
+| Recall, detect align, earthquake              |  2 | 10 | 30m | City of Everwar - red scroll, sour potion     |    |  x |  x |    |    |    |    |
+| The four kings of Everwar Mountain            |  3 | 45 | 60m | Everwar Mountain                              |    |  x |    |    |    |    |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Elzix, The Under Dark (misport only)          | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Gold teeth                                    |  - |  2 |  1m | The pimp, The Under Dark (pulse heal reward)  |    |  x |    |    |    |    |    |
+| ============================================= | -- | -- | --- | ============================================= | -- | -- | -- | -- | -- | -- | -- |
+| Balin, Deep-Moria                             | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| The Orog Chieftain and his map                |  1 | 15 | 30m | Deep-Moria                                    |  x |  x |    |  x |    |    |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Book of Faerie                                | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Primrose - a yellow cloth dress               |  2 | 15 |  2m | A dwarven woman, The Dwarven Village          |  x |  x |  x |  x |  x |    |    |
+| A helpful hob - some grain                    |  1 | 15 |  5m | A gnome scientist, The Gnomes                 |  x |  x |  x |  x |  x |    |    |
+| Iris, the Rainbow Queen - sun                 |  1 | 15 |  5m | "O", Frog Queen (' what do I need frog queen) |  x |  x |  x |  x |  x |    |    |
+| Lucina - a tarnished mirror                   |  1 | 15 |  2m | The Soul Shrinker, The Book of Faerie         |  x |  x |  x |  x |  x |    |    |
+| Gwenhwyfar - purple petals                    |    | 15 |  5m | A vervain faerie, The Book of Faerie          |  x |  x |  x |  x |  x |    |    |
+| The White Lady - a sweet bun                  |  1 | 15 |  5m | A helpful hob (quest), The Book of Faerie     |  x |  x |  x |  x |  x |    |    |
+| The Melancholic Faerie - feathered earrings   |  1 | 15 |  2m | The Ogre Shaman, MahnTor                      |  x |  x |  x |  x |  x |    |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| A wizen old man, various locations            | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Emerald Vambraces                             |  1 |  5 | 20m | Emerald Guardian, The Mystic Sea (mid-tier)   |  x |  x |  x |  x |  x |    |    |
+| The peryton                                   |  1 | 15 | 30m | The peryron, Northern Mountain Range          |  x |  x |    |  x |  x |    |    |
+| Local ruffian and his ring                    |  1 | 10 | 20m | Local ruffian, The Farm                       |  x |  x |    |  x |  x |    |    |
+| The blood elemental                           |  1 | 10 | 30m | The blood elemental, LupisVille (Night)       |  x |  x |  x |  x |  x |    |    |
+| A camouflaged trench coat                     |  1 | 15 | 20m | Captain Brennan, The Valley of the Mad Mage   |  x |  x |  x |  x |  x |    |    |
+| The skin of a taipan                          |  1 | 15 | 30m | A taipan, Pyramid of the Serpents             |  x |  x |    |  x |  x |    |    |
+| The pyromancer and his wand                   |  1 | 20 | 40m | The pyromancer, Volcano                       |  x |  x |    |  x |  x |    |    |
+| A Mask of Darkness                            |  1 | 25 | 50m | Sir Briene's room, Blackheart Keep            |  x |  x |    |  x |  x |    |    |
+| A key to the sanctum                          |  2 | 25 |  5m | The archbishop, Dragonnia                     |  x |  x |    |  x |  x |    |    |
+| The Adder of Death and his Gem                |  2 | 15 | 30m | The Adder of Death, Swamps of Thanos          |  x |  x |    |  x |  x |    |    |
+| A Cloak of Invisibility                       |  2 | 15 | 30m | Zephirus, The Isle of the Druids              |  x |  x |  x |  x |  x |    |    |
+| Proof there is a minotaur god                 |  2 | 15 | 30m | A minotaur god, The Tombs of Tarin            |  x |  x |    |  x |  x |    |    |
+| Flidais and her armor                         |  2 | 15 | 30m | Flidais, The Isle of Tuatha de Danaan         |  x |  x |    |  x |  x |    |    |
+| A pair of winged sandals                      |  2 | 15 | 30m | Hermes, New Olympus                           |  x |  x |    |  x |  x |    |    |
+| King Neptune and his trident                  |  2 | 15 | 30m | Atlantis                                      |  x |  x |  x |  x |  x |    |    |
+| The shield of ancient harmony                 |  2 | 20 | 30m | The monk, Valley of Dawn                      |  x |  x |    |  x |  x |    |    |
+| Andromeda and her chains                      |  2 | 20 | 40m | Andromeda, The Outer Galaxy                   |  x |  x |  x |  x |  x |    |    |
+| A rod of command                              |  2 | 20 | 40m | Pict leader, New Camelot                      |  x |  x |  x |  x |  x |    |    |
+| Evergreen                                     |  2 | 20 | 40m | The Isle of Myst I                            |  x |  x |    |  x |  x |    |    |
+| Sifrim                                        |  2 | 20 | 40m | Sifrim, Under Dark, 3s8w5s2w4s6en             |  x |  x |  x |  x |  x |    |    |
+| The master werewolf and his talisman          |  2 |    | 40m | The master werewolf, Lord Vrolock's           |  x |  x |  x |  x |  x |    |    |
+| A shady character and his ranseur dagger      |  2 | 25 | 50m | A shady character, The Dark Friends Guild     |  x |  x |    |  x |  x |    |    |
+| The Dragon Lance and owner's head             |  2 |    | 50m | Dragonrider and glass case, Solamnic Knights  |  x |  x |    |  x |  x |    |    |
+| A medusa and its brooch                       |  2 | 25 | 50m | DeathTrap Dungeon                             | 2x | 2x |  x | 2x |  x |    |    |
+| Caris and his bracelet                        |  2 | 30 | 60m | Caris, The Under Dark, 6nwn from center       |  x |  x |  x |  x |  x |    |    |
+| The remains of a powerful red demon           |  3 | 15 | 30m | A powerful red demon, The Fields of Chaos     |  x |  x |    |  x |  x |    |    |
+| The mother phoenix and her egg                |  3 | 25 | 50m | The mother phoenix, Astral Extensions         |  x |  x |  x |  x |  x |    |    |
+| Great undead and his glowing black orb        |  3 | 30 | 50m | Nosferatu, SilverDale (portal)                |  x |  x |    |  x |  x |    |    |
+| A tome of learning                            |  3 | 30 | 60m | Lady Ssirak, The Siege on Malfor's Camp       |  x |  x |    |  x |  x |    |    |
+| The tyrannosaurus                             |  3 | 35 | 45m | Tyrannosaurus, The Portals of Time            |  x |  x |  x |  x |  x |    |    |
+| A horrifying monstrosity                      |  3 | 45 | 60m | A horrifying ghoul, The Ebony Queen           |  x |  x |    |  x |  x |    |    |
+| The living storm in the Nothingness           |  3 | 30 | 50m | The Tempest (x2), Soth's Playground           |  x |  x |    |  x |  x |    |    |
+| The blood of the fountain                     |  3 | 20 | 40m | The blood fountain, Silver Duchess Mines II   |  x |  x |    |  x |  x |    |    |
+| Perseus,Bellerophon,Achilles,Jason,Odysseus   |  4 | 20 | 60m | Olympus "mobile forces"                       |  x |  x |    |  x |  x |    |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Jarl, the Smithy, Myth-Try                    | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| Jarl's greatsword                             |  1 | 15 | 30m | Lord Korel in Garamond - summonable           |    |  x |  x |  x |  x |    |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| The Elite Royal Guard, Samsera                | qp | t# | c#  | location                                      | Dh | Do | Ek | Ko | Zi | Us | Db |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+| the green dragon                              |  1 | 10 | 10m | Haon-Dor (Dark)                               |  x |  x |  x |  x |  x |  x |    |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- | -- | -- | -- | -- | -- | -- | -- |
+
+| The moody faerie maker, The Book of Faerie, Faerie remort quest                                               |
+| ------------------------------------------------------------------------------------------------------------- |
+| goddess of fortune, enchantress, minion of nool, peter in arilin's castle                                     |
+| ------------------------------------------------------------------------------------------------------------- |
+| Giant | Stone giant chief in forgotten forest, fire giant in Silver Duchess Mines, forest giant in Tarin,     |
+|       | cloud giant in The Steading                                                                           |
+
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- |
+| Kaij the Meek, shou-lin guild                 | qp | t# | c#  | location                                      |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- |
+| handwear of a ghostly origin                  |  - |  5 | 10m | Spectral gauntlets (Ordog, Lord Vrolock's)    |
+| handwear of ancient creature in mountain      |  - |  5 |  5m | Fists of the Dragon (Soong, Monastery)        |
+| mightiest handwear known to mortals           |  - |  5 |  5m | Gauntlets of might (Xerxes level 4)           |
+| the cube of power                             |  - |  5 |  5m | a glowing cube (guardian, various spawns)     |
+
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- |
+| Grandmaster Jhaethin, ranger guild            | qp | t# | c#  | location                                      |
+| --------------------------------------------- | -- | -- | --- | --------------------------------------------- |
+| boots with toes curled down into claws        |    |  5 |  5m | a pair of Clawed Boots (Zeboim, The Abyss     |
+| bladed boots                                  |    |    |     | Lord Mourning, beneath Freeport               |
